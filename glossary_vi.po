@@ -1,0 +1,622 @@
+#
+msgid ""
+msgstr ""
+"Language: vi\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Tear
+msgid "ティア"
+msgstr "Tear"
+
+#. Septian Church
+msgid "七耀教会"
+msgstr "Giáo Hội Thất Diệu"
+
+#. Eight Leaves One Blade
+msgid "八葉一刀流"
+msgstr "Bát Diệp Nhất Đao Phái"
+
+#. EP
+msgid "EP"
+msgstr "EP"
+
+#. Orbal Energy
+msgid "導力"
+msgstr "Dẫn Lực"
+
+#. K.O
+msgid "戦闘不能"
+msgstr "Gục Ngã"
+
+#. Zeram
+msgid "ゼラム"
+msgstr "Zeram"
+
+#. Restore all
+msgid "完全回復"
+msgstr "Hồi Phục Hoàn Toàn"
+
+msgid "弛緩"
+msgstr "Giãn cơ"
+
+#. Curse
+msgid "解除"
+msgstr "Giải trừ"
+
+#. Seal
+msgid "封技"
+msgstr "Phong Kỹ"
+
+#. Mute
+msgid "封魔"
+msgstr "Phong Pháp"
+
+#. Blind
+msgid "暗闇"
+msgstr "Mù Lòa"
+
+#. Nightmare
+msgid "悪夢"
+msgstr "Ác Mộng"
+
+#. Burn
+msgid "炎傷"
+msgstr "Viêm Thiêu Đốt"
+
+#. Freeze
+msgid "凍結"
+msgstr "Đóng Băng"
+
+#. Petrify
+msgid "石化"
+msgstr "Hóa Đá"
+
+#. Faint
+msgid "気絶"
+msgstr "Ngất"
+
+#. Confuse
+msgid "混乱"
+msgstr "Loạn Trí"
+
+#. Stat Down
+msgid "能力低下"
+msgstr "Suy Giảm"
+
+#. Abnormal Status
+msgid "状態異常"
+msgstr "Trạng Thái Dị Thường"
+
+#. Feeling
+msgid "退却"
+msgstr "Thoái Lui"
+
+#. Analysis
+msgid "情報解析"
+msgstr "Phân Tích"
+
+#. Enemy
+msgid "敵"
+msgstr "Địch"
+
+#. Sleep
+msgid "睡眠"
+msgstr "Ngủ Mê"
+
+msgid "先輩"
+msgstr "Tiền bối"
+
+#. Old Schoolhouse
+msgid "旧校舎"
+msgstr "Học Xá Cũ"
+
+#. Nord Highlands
+msgid "ノルド高原"
+msgstr "Cao Nguyên Nord"
+
+#. Lieutenant General
+msgid "中将"
+msgstr "Trung Tướng"
+
+#. Military Academy
+msgid "士官学院"
+msgstr "Học Viện Sĩ Quan"
+
+#. Recipe Book
+msgid "料理手帳"
+msgstr "Sổ Tay Nấu Ăn"
+
+#. NOTE Menu
+msgid "ノート画面"
+msgstr "Note MENU/Giao Diện Sổ Tay"
+
+#. Quartz
+msgid "結晶"
+msgstr "Quartz"
+
+msgid "会長"
+msgstr "Hội Trưởng"
+
+#. Governor
+msgid "知事"
+msgstr "Thống Đốc"
+
+#. Heimdallr
+msgid "帝都"
+msgstr "Đế Đô"
+
+msgid "支配人"
+msgstr "Quản Lý"
+
+#. Port Chief
+msgid "親方"
+msgstr "Quản Đốc"
+
+#. Abend Time
+msgid "アーベントタイム"
+msgstr "Abend Time"
+
+#. Orb
+msgid "宝珠"
+msgstr "Bảo Châu"
+
+#. Lohengrin Castle.
+msgid "ローエングリン城"
+msgstr "Lâu Đài Lohengrin"
+
+#. Mine Shaft
+msgid "坑道"
+msgstr "Hầm Mỏ"
+
+#. Iron Mine
+msgid "鉄鉱山"
+msgstr "Mỏ Sắt"
+
+#. Roer City
+msgid "ルーレ市上"
+msgstr "Thành Phố Roer"
+
+#. Student Council Tasks
+msgid "課外活動の封筒"
+msgstr "Phong Bì Nhiệm Vụ Ngoại Khóa"
+
+#. Field Study
+msgid "特別実習"
+msgstr "Thực Địa Đặc Biệt"
+
+#. Bracer Guild
+msgid "遊撃士協会"
+msgstr "Hiệp Hội Du Kích Sĩ"
+
+#. Eastern
+msgid "東方"
+msgstr "phương Đông"
+
+#. EVA
+msgid "回避率"
+msgstr "Né Tránh"
+
+#. Ore
+msgid "鉱石"
+msgstr "Quặng/Khoáng thạch"
+
+#. Grand Rose
+msgid "グランローズ"
+msgstr "Đại Tường Vi"
+
+#. Passion Leaf
+msgid "パッションリーフ"
+msgstr "Lá Nhiệt Tình"
+
+#. Snow Lily
+msgid "スノーリリー"
+msgstr "Huệ Tuyết"
+
+msgid "貫通力"
+msgstr "Sức xuyên phá"
+
+msgid "魔導"
+msgstr "Dẫn pháp"
+
+msgid "聖職者"
+msgstr "Giáo Sĩ"
+
+msgid "初期武器"
+msgstr "Vũ khí mặc định"
+
+msgid "両手剣"
+msgstr "Đại Kiếm"
+
+#. RF Company
+msgid "ＲＦ社"
+msgstr "Tập Đoàn RF"
+
+#. Middle Age
+msgid "中世"
+msgstr "Trung Cổ"
+
+#. gunswords
+msgid "双銃剣"
+msgstr "Song Kiếm Súng"
+
+#. death
+msgid "即死"
+msgstr "Tức Tử"
+
+msgid "預かる"
+msgstr "Giao phó"
+
+#. Imperial Army
+msgid "帝国正規軍"
+msgstr "Quân Đội Đế Quốc"
+
+msgid "体勢崩し"
+msgstr "Phá Thế"
+
+#. Sepith
+msgid "セピス"
+msgstr "Sepith"
+
+msgid "釣師"
+msgstr "Cần Thủ"
+
+#. Quest
+msgid "クエスト"
+msgstr "Ủy Thác"
+
+#. Septium.
+msgid "七耀石"
+msgstr "Thất Diệu Thạch"
+
+msgid "ストレガー社"
+msgstr "Công Ty Strega"
+
+#. Eisenritter.
+msgid "鉄騎隊"
+msgstr "Thiết Kỵ Binh"
+
+#. Boots
+msgid "ブーツ"
+msgstr "Ủng"
+
+#. Prevents
+msgid "無効化"
+msgstr "Kháng"
+
+#. Goddess Aidios
+msgid "女神エイドス"
+msgstr "Nữ Thần Eidos"
+
+#. Artifact
+msgid "アーティファクト"
+msgstr "Cổ Vật"
+
+#. amberl
+msgid "琥耀石"
+msgstr "Hổ Diệu Thạch"
+
+#. Delay
+msgid "遅延"
+msgstr "Làm Chậm"
+
+#. Vanish
+msgid "消滅"
+msgstr "Tan Biến"
+
+#. Prevents K.O.
+msgid "起死回生"
+msgstr "Cải Tử Hoàn Sinh"
+
+#. CP Up
+msgid "CP増加率アップ"
+msgstr "Hồi CP"
+
+#. Swordtail
+msgid "ソーディ"
+msgstr "Cá Kiếm"
+
+#. Carp
+msgid "カルプ"
+msgstr "Cá Chép"
+
+#. Salmon
+msgid "サモー"
+msgstr "Cá Hồi"
+
+#. Zeiss
+msgid "ツァイス"
+msgstr "Zeiss"
+
+#. Factory
+msgid "工房"
+msgstr "Xưởng công nghệ"
+
+#. Pikkard
+msgid "ピッカー"
+msgstr "Pikkard"
+
+#. Kopold
+msgid "こぼる"
+msgstr "Kopold"
+
+#. Student
+msgid "学生"
+msgstr "Học Viên"
+
+#. Instructor
+msgid "教官"
+msgstr "Giáo Quan"
+
+#. Brave Point
+msgid "Brave Point"
+msgstr "Điểm Anh Dũng"
+
+#. Craft
+msgid "クラフト"
+msgstr "Craft"
+
+#. Art
+msgid "アーツ"
+msgstr "Art"
+
+msgid "Zero-Arts"
+msgstr "Art Thức Tời"
+
+#. Student Council
+msgid "生徒会"
+msgstr "Hội Học Sinh"
+
+#. Master Quartz
+msgid "マスタークオーツ"
+msgstr "Quartz Lõi"
+
+#. Insight
+msgid "心眼"
+msgstr "Tâm Nhãn"
+
+#. Mirage
+msgid "幻属性"
+msgstr "Hệ Ảo Ảnh"
+
+#. Delay
+msgid "硬直時間"
+msgstr "Thời Gian Chờ"
+
+msgid "完全防御"
+msgstr "Phòng Thủ Toàn Diện"
+
+msgid "幻魔獣"
+msgstr "Huyễn Ma Thú"
+
+#. Assit
+msgid "追撃"
+msgstr "Truy Kích"
+
+#. Rush
+msgid "ラッシュ"
+msgstr "Liên Kích"
+
+#. Burst
+msgid "バースト"
+msgstr "Tổng Kích"
+
+#. Earth Element
+msgid "地属性"
+msgstr "Hệ Thổ"
+
+#. Water Element
+msgid "水属性"
+msgstr "Hệ Thủy"
+
+#. Fire Element
+msgid "火属性"
+msgstr "Hệ Hỏa"
+
+#. Wind Element
+msgid "風属性"
+msgstr "Hệ Phong"
+
+#. Time Element
+msgid "時属性"
+msgstr "Hệ Thời Gian"
+
+#. Space Element
+msgid "空属性"
+msgstr "Hệ Không"
+
+#. Single / Target
+msgid "単体"
+msgstr "Đơn"
+
+#. All / Screen-wide
+msgid "全体"
+msgstr "Toàn Thể"
+
+#. Self
+msgid "自己"
+msgstr "Bản Thân"
+
+#. Circle
+msgid "円"
+msgstr "Tròn"
+
+#. Line
+msgid "直線Ｓ"
+msgstr "Thẳng"
+
+#. S
+msgid "S"
+msgstr "Tiểu"
+
+#. M
+msgid "M"
+msgstr "Trung"
+
+#. L
+msgid "L"
+msgstr "Đại"
+
+#. XL
+msgid "LL"
+msgstr "Cực Đại"
+
+#. Shield
+msgid "魔防"
+msgstr "Chống Phép"
+
+msgid "絶品料理"
+msgstr "Món ăn tuyệt hảo"
+
+#. Counter
+msgid "カウンター"
+msgstr "Phản Đòn"
+
+#. peculiar dish
+msgid "珍妙料理"
+msgstr "Món ăn kỳ lạ"
+
+#. Attack Rank
+msgid "Attack Rank"
+msgstr "Bậc Công Kích"
+
+#. Magic Reflect
+msgid "魔法反射"
+msgstr "Phản Phép"
+
+#. Chancellor
+msgid "宰相"
+msgstr "Thủ Tướng"
+
+#. Imperial Chronicle
+msgid "帝国時報"
+msgstr "Thời Báo Đế Quốc"
+
+#. Imperial Provincial Council
+msgid "帝国領邦"
+msgstr "Lãnh Bang Đế Quốc"
+
+#. The Four Great Houses
+msgid "四大名門"
+msgstr "Tứ Đại Danh Môn"
+
+#. Chairman Irina
+msgid "イリーナ会長"
+msgstr "Chủ Tịch Irina"
+
+#. The Imperial Liberation Front
+msgid "帝国解放戦線"
+msgstr "Mặt Trận Giải Phóng Đế Quốc"
+
+msgid "鉄道憲兵隊"
+msgstr "Đội Hiến Binh Đường Sắt"
+
+#. Orchis Tower
+msgid "オルキスタワー"
+msgstr "Tháp Orchis"
+
+msgid "巡洋艦"
+msgstr "Tàu Tuần Dương"
+
+msgid "殿下"
+msgstr "Điện Hạ"
+
+#. Garrelia Fortress
+msgid "ガレリア要塞"
+msgstr "Thành Lũy"
+
+msgid "リベール王国"
+msgstr "Vương Quốc Liberl"
+
+#. Red Moon Rose
+msgid "赤い月のロゼ"
+msgstr "Hoa Hồng Dưới Trăng Đỏ"
+
+#. Laccrose
+msgid "ラクロス"
+msgstr "Bóng vợt"
+
+msgid "宮廷剣術"
+msgstr "Kiếm Thuật Cung Đình"
+
+#. Near-Death
+msgid "瀕死"
+msgstr "Lâm Nguy"
+
+msgid "通常料理"
+msgstr "Món Ăn Thường"
+
+msgid "独自料理"
+msgstr "Món Ăn Độc Bản"
+
+#. Advantage
+msgid "優勢攻撃"
+msgstr "Tấn Công Lợi Thế"
+
+#. Radio Station
+msgid "ラジオ局"
+msgstr "Đài Phát Thanh"
+
+#. Radio Station Producer
+msgid "ラジオ局プロデューサー"
+msgstr "NSX Chương Trình Phát Thanh"
+
+#. HP
+msgid "HP"
+msgstr "HP"
+
+#. STR
+msgid "STR"
+msgstr "SM / Sức Mạnh"
+
+#. DEF
+msgid "DEF"
+msgstr "PT / Phòng Thủ"
+
+#. ATS
+msgid "ATS"
+msgstr "PL / Pháp Lực"
+
+#. ADF
+msgid "ADF"
+msgstr "PA / Phòng Art"
+
+#. SPD
+msgid "SPD"
+msgstr "TĐ / Tốc Độ"
+
+#. ACC
+msgid "命中率"
+msgstr "CX / Chính Xác"
+
+#. CRT
+msgid "クリティカル"
+msgstr "TM / Trí Mạng"
+
+#. RNG
+msgid "射程"
+msgstr "PV / Phạm Vi"
+
+#. MOV
+msgid "移動力"
+msgstr "DC / Di Chuyển"
+
+#. Poison
+msgid "毒"
+msgstr "Độc"
+
+#. Suction
+msgid "吸引"
+msgstr "Hút"
+
+#. Attack
+msgid "通常攻撃"
+msgstr "Tấn Công"
+
+#. Advantage
+msgid "先制攻撃"
+msgstr "Đột Kích"
+
+#. Triple Advantage
+msgid "奇数攻撃"
+msgstr "Tam Đột Kích"
