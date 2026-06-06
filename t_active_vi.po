@@ -1,0 +1,3203 @@
+#
+msgid ""
+msgstr ""
+"Language: vi\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. あ、あれって魔獣…！？
+#: [Elliot]:0
+msgctxt "[Elliot] #0"
+msgid "Yikes! A monster?!"
+msgstr ""
+
+#. ふむ、見たことのない種類だが。
+#: [Jusis]:1
+msgctxt "[Jusis] #1"
+msgid "Huh... Never seen this kind before."
+msgstr ""
+
+#. トビネコだな…
+#.  気を引き締めていこう。
+#: [Rean]:2
+msgctxt "[Rean] #2"
+msgid ""
+"It looks like a Flying Feline.\n"
+" Careful, everyone."
+msgstr ""
+
+#. うう…今みたいなのが
+#.  何匹もうろついてるのかな…
+#: [Elliot]:3
+msgctxt "[Elliot] #3"
+msgid ""
+"Please tell me there aren't more of\n"
+" those things lurking around here..."
+msgstr ""
+
+#. 気配を感じる…
+#.  間違いなさそうだ。
+#: [Jusis]:4
+msgctxt "[Jusis] #4"
+msgid ""
+"I hate to tell you, but I can sense\n"
+" more further in."
+msgstr ""
+
+#. とにかく、焦らず先に進もう。
+#: [Rean]:5
+msgctxt "[Rean] #5"
+msgid "Anyway, let's just stay alert."
+msgstr ""
+
+#. 本当に地下道って感じだよね…
+#.  方向感覚がなくなってきたかも…
+#: [Elliot]:6
+msgctxt "[Elliot] #6"
+msgid ""
+"I'm starting to lose my sense\n"
+" of direction down here..."
+msgstr ""
+
+#. ああ、気をつけて進まないとな。
+#: [Rean]:7
+msgctxt "[Rean] #7"
+msgid ""
+"Yeah. Gotta make sure we're\n"
+" not going in circles."
+msgstr ""
+
+#. しかし、どうして学院の敷地に
+#.  こんな場所があるんだ？
+#: [Machias]:8
+msgctxt "[Machias] #8"
+msgid ""
+"What's a place like this even\n"
+" doing on the school grounds?"
+msgstr ""
+
+#. そうだよねぇ…
+#.  落とし穴まで用意してるし。
+#: [Elliot]:9
+msgctxt "[Elliot] #9"
+msgid ""
+"Yeah... Who puts a giant trap\n"
+" door in a campus building?"
+msgstr ""
+
+#. 分かれ道か…
+#.  どちらに行ったものかな。
+#: [Rean]:10
+msgctxt "[Rean] #10"
+msgid ""
+"Looks like the path splits. Which\n"
+" way do you think we should go?"
+msgstr ""
+
+#. 風を感じる…出口は東側のようだ。
+#: [Jusis]:11
+msgctxt "[Jusis] #11"
+msgid ""
+"I feel a little wind blowing from the\n"
+" east. I'd bet the exit's that way."
+msgstr ""
+
+#. …………………………
+#: [Machias]:12
+msgctxt "[Machias] #12"
+msgid "..."
+msgstr ""
+
+#. （う、うーん…話しかけづらいかも…）
+#: [Elliot]:13
+msgctxt "[Elliot] #13"
+msgid ""
+"(He seems kinda...imposing. I don't\n"
+" know how to break the ice...)"
+msgstr ""
+
+#. …………………………
+#: [Gaius]:14
+msgctxt "[Gaius] #14"
+msgid "..."
+msgstr ""
+
+#. （う、うーん…話しかけづらいかも…）
+#: [Elliot]:15
+msgctxt "[Elliot] #15"
+msgid ""
+"(He seems kinda...imposing. I don't\n"
+" know how to break the ice...)"
+msgstr ""
+
+#. くっ…さっきから同じ場所を
+#.  歩き続けている気がするぞ…
+#: [Machias]:16
+msgctxt "[Machias] #16"
+msgid ""
+"Bah... I feel like we've just\n"
+" been going in circles."
+msgstr ""
+
+#. ああ…いったん地図で
+#.  位置を確認した方がよさそうだ。
+#: [Rean]:17
+msgctxt "[Rean] #17"
+msgid ""
+"You might be right. Maybe we should\n"
+" check where we are on the map."
+msgstr ""
+
+#. チッ…さっきから同じ場所を
+#.  歩き続けているようだな。
+#: [Gaius]:18
+msgctxt "[Gaius] #18"
+msgid ""
+"I feel like we've simply\n"
+" been running in circles."
+msgstr ""
+
+#. ああ…いったん地図で
+#.  位置を確認した方がよさそうだ。
+#: [Rean]:19
+msgctxt "[Rean] #19"
+msgid ""
+"You might be right. Maybe we should\n"
+" check where we are on the map."
+msgstr ""
+
+#. あはは、色んな屋台があって
+#.  目移りしちゃうね。
+#: [Elliot]:20
+msgctxt "[Elliot] #20"
+msgid "Wow, check out all these stalls!"
+msgstr ""
+
+#. うーん、今のレース、
+#.  すごく良い柄だったわね。
+#: [Alisa]:21
+msgctxt "[Alisa] #21"
+msgid ""
+"Oooh. The lace at that stall\n"
+" has a really pretty design."
+msgstr ""
+
+#. みっしぃ…？
+#.  妙に心惹かれる造形だな。
+#: [Laura]:22
+msgctxt "[Laura] #22"
+msgid "Mishy...? I admit, it has a certain charm."
+msgstr ""
+
+#. 風車がたくさん…
+#.  ふふっ、のどかでいいわね。
+#: [Alisa]:23
+msgctxt "[Alisa] #23"
+msgid ""
+"All these windmills sure make\n"
+" the town feel pretty laid back."
+msgstr ""
+
+#. うん、癒される光景だな。
+#: [Laura]:24
+msgctxt "[Laura] #24"
+msgid ""
+"True. The scenery is surprisingly\n"
+" relaxing."
+msgstr ""
+
+#. こっちものどかだね…
+#.  やっぱり魔獣はいるみたいだけど。
+#: [Elliot]:25
+msgctxt "[Elliot] #25"
+msgid ""
+"This would be a really tranquil\n"
+" area...if not for the monsters."
+msgstr ""
+
+#. まあ、気をつけて行こう。
+#: [Rean]:26
+msgctxt "[Rean] #26"
+msgid "Yeah. Let's be careful."
+msgstr ""
+
+#. ここは…農家のようだな。
+#: [Laura]:27
+msgctxt "[Laura] #27"
+msgid "Is this a farmhouse?"
+msgstr ""
+
+#. あれ、なんだろう、ここ…
+#: [Elliot]:28
+msgctxt "[Elliot] #28"
+msgid "Huh. I wonder where we are..."
+msgstr ""
+
+#. ふむ、『ルナリア自然公園』
+#.  と書かれているようだが。
+#: [Laura]:29
+msgctxt "[Laura] #29"
+msgid ""
+"Hmm... It says,\n"
+" 'Lunaria Nature Park.'"
+msgstr ""
+
+#. へえ…大きな農家ね。
+#: [Alisa]:30
+msgctxt "[Alisa] #30"
+msgid "Wow. This farmhouse is huge."
+msgstr ""
+
+#. あはは、牛がいるよ♪
+#: [Elliot]:31
+msgctxt "[Elliot] #31"
+msgid "Haha. Look at the cows! ♪"
+msgstr ""
+
+#. 大陸横断鉄道…
+#.  外国に通じているんだったな。
+#: [Rean]:32
+msgctxt "[Rean] #32"
+msgid ""
+"The Transcontinental Railroad, huh?\n"
+" Guess that'll take you out of the country."
+msgstr ""
+
+#. ええ…このずっと先に
+#.  東の国境、ガレリア要塞があるわ。
+#: [Alisa]:33
+msgctxt "[Alisa] #33"
+msgid ""
+"Yeah. If you keep on heading east, you'd\n"
+" eventually reach Garrelia Fortress."
+msgstr ""
+
+#. 自然公園は、ここを右手だな。
+#: [Laura]:34
+msgctxt "[Laura] #34"
+msgid ""
+"We should take a right here\n"
+" to reach the nature park."
+msgstr ""
+
+#. ええ、行ってみましょう…！
+#: [Alisa]:35
+msgctxt "[Alisa] #35"
+msgid "Right. Let's go!"
+msgstr ""
+
+#. なんか、小さな石碑が
+#.  あちこちにあるけど…
+#: [Elliot]:36
+msgctxt "[Elliot] #36"
+msgid ""
+"There's tons of little stone\n"
+" monuments in here..."
+msgstr ""
+
+#. ええ…何なのかしら？
+#: [Alisa]:37
+msgctxt "[Alisa] #37"
+msgid ""
+"Yeah. What do you think\n"
+" they're supposed to be?"
+msgstr ""
+
+#. 多分、この地方にあった
+#.  精霊信仰の名残だろう。
+#: [Laura]:38
+msgctxt "[Laura] #38"
+msgid ""
+"I imagine they were made by\n"
+" the animists in this province."
+msgstr ""
+
+#. こちらは行き止まりか。
+#: [Laura]:39
+msgctxt "[Laura] #39"
+msgid "This way's a dead end."
+msgstr ""
+
+#. ああ…思った以上に
+#.  奥深いみたいだな。
+#: [Rean]:40
+msgctxt "[Rean] #40"
+msgid ""
+"Yeah... This park covers a lot\n"
+" more area than I was expecting."
+msgstr ""
+
+#. 小川か…少しほっとするわね。
+#: [Alisa]:41
+msgctxt "[Alisa] #41"
+msgid ""
+"Oh, there's a stream here.\n"
+" This seems like a nice spot."
+msgstr ""
+
+#. この辺りに
+#.  人の気配はないようだ。
+#: [Laura]:42
+msgctxt "[Laura] #42"
+msgid "I can't sense anyone in this area."
+msgstr ""
+
+#. こ、この森、
+#.  どこまで続いてるのかな…
+#: [Elliot]:43
+msgctxt "[Elliot] #43"
+msgid "Just how deep does this forest go?"
+msgstr ""
+
+#. かなり進んだはずだ。
+#.  あと一息だろう。
+#: [Laura]:44
+msgctxt "[Laura] #44"
+msgid ""
+"We must be pretty far in now.\n"
+" I'd imagine we're almost there."
+msgstr ""
+
+#. あっ…！
+#.  回復装置があるわ…！
+#: [Alisa]:45
+msgctxt "[Alisa] #45"
+msgid ""
+"Oh, hey! There's an orbment\n"
+" charging station!"
+msgstr ""
+
+#. ああ…どうやら終点みたいだ。
+#: [Rean]:46
+msgctxt "[Rean] #46"
+msgid ""
+"We must be in the most remote\n"
+" reaches of the park."
+msgstr ""
+
+#. この像、ナニ？
+#: [Fie]:47
+msgctxt "[Fie] #47"
+msgid "Who's this a statue of?"
+msgstr ""
+
+#. 聖女ヴェロニカの像、
+#.  みたいですね。
+#: [Emma]:48
+msgctxt "[Emma] #48"
+msgid ""
+"It seems to be a statue\n"
+" of St. Veronica."
+msgstr ""
+
+#. ほう、詳しいな。
+#: [Gaius]:49
+msgctxt "[Gaius] #49"
+msgid "Oh? You know of her?"
+msgstr ""
+
+#. はぁ…
+#.  本当に綺麗な街並みですね。
+#: [Emma]:50
+msgctxt "[Emma] #50"
+msgid ""
+"*sigh* I love the look of this\n"
+" city. It's so beautiful..."
+msgstr ""
+
+#. フン…規模は帝都の方が
+#.  はるかに上だがな。
+#: [Machias]:51
+msgctxt "[Machias] #51"
+msgid ""
+"Maybe so, but it's got nothing on\n"
+" Heimdallr in terms of sheer scale."
+msgstr ""
+
+#. この先は…
+#.  飛行船の発着場みたいだな。
+#: [Rean]:52
+msgctxt "[Rean] #52"
+msgid ""
+"Is this the way to\n"
+" the city's airport?"
+msgstr ""
+
+#. ああ、今回は用はあるまい。
+#: [Gaius]:53
+msgctxt "[Gaius] #53"
+msgid ""
+"It is, though I doubt we'll have\n"
+" any reason to go there."
+msgstr ""
+
+#. この辺りは…貴族の方々が
+#.  住んでいるみたいですね。
+#: [Emma]:54
+msgctxt "[Emma] #54"
+msgid "This seems to be the city's noble quarter."
+msgstr ""
+
+#. フン、どうりでお高く止まった
+#.  屋敷が多いわけだ。
+#: [Machias]:55
+msgctxt "[Machias] #55"
+msgid ""
+"No wonder most of these houses\n"
+" look so overblown and excessive."
+msgstr ""
+
+#. …………………………
+#: [Gaius]:56
+msgctxt "[Gaius] #56"
+msgid "..."
+msgstr ""
+
+#. おい、そちらは…
+#: [Gaius]:57
+msgctxt "[Gaius] #57"
+msgid "Wait, this leads to..."
+msgstr ""
+
+#. ？ どうしたんだ？
+#: [Rean]:58
+msgctxt "[Rean] #58"
+msgid "Huh? What's wrong?"
+msgstr ""
+
+#. …いや、何でもない。
+#: [Gaius]:59
+msgctxt "[Gaius] #59"
+msgid "...Never mind."
+msgstr ""
+
+#. ここ、ちょっと雰囲気違うね。
+#: [Fie]:60
+msgctxt "[Fie] #60"
+msgid ""
+"This street seems kinda\n"
+" different from the others."
+msgstr ""
+
+#. 職人通り…
+#.  様々な店が軒を連ねているな。
+#: [Gaius]:61
+msgctxt "[Gaius] #61"
+msgid ""
+"This is Artisans' Street, where craftsmen\n"
+" and merchants ply their trades."
+msgstr ""
+
+#. あ、池がある。
+#: [Fie]:62
+msgctxt "[Fie] #62"
+msgid "Oh, a lake."
+msgstr ""
+
+#. ふふっ、綺麗ですね。
+#: [Emma]:63
+msgctxt "[Emma] #63"
+msgid "Heehee. It looks so pretty."
+msgstr ""
+
+#. この橋は…
+#: [Machias]:64
+msgctxt "[Machias] #64"
+msgid "A bridge, huh?"
+msgstr ""
+
+#. ザール橋…
+#.  実習範囲はここまでだ。
+#: [Gaius]:65
+msgctxt "[Gaius] #65"
+msgid ""
+"Saar Bridge. Beyond here is out\n"
+" of bounds for our field study."
+msgstr ""
+
+#. 上にあるのは…
+#.  中世の橋梁みたいだな。
+#: [Rean]:66
+msgctxt "[Rean] #66"
+msgid ""
+"That bridge above us looks like it\n"
+" dates back to the Middle Ages."
+msgstr ""
+
+#. ああ、数百年前のものだ。
+#: [Gaius]:67
+msgctxt "[Gaius] #67"
+msgid ""
+"It is. It's been there for\n"
+" several hundred years."
+msgstr ""
+
+#. 古い道みたいですけど…
+#.  かなり補強がされていますね。
+#: [Emma]:68
+msgctxt "[Emma] #68"
+msgid ""
+"This looks like quite an old road,\n"
+" though it does seem well reinforced."
+msgstr ""
+
+#. ん…車両も結構通ってるみたい。
+#: [Fie]:69
+msgctxt "[Fie] #69"
+msgid ""
+"Yup... Looks like a lot of\n"
+" armored vehicles come this way."
+msgstr ""
+
+#. …………………………
+#: [Gaius]:70
+msgctxt "[Gaius] #70"
+msgid "..."
+msgstr ""
+
+#. こんな所に道が…
+#: [Machias]:71
+msgctxt "[Machias] #71"
+msgid "I didn't notice there was a path here..."
+msgstr ""
+
+#. 手配された魔獣は
+#.  この先みたいだな。
+#: [Rean]:72
+msgctxt "[Rean] #72"
+msgid ""
+"The monster we're looking\n"
+" for should be just ahead."
+msgstr ""
+
+#. やっと戻って来た。
+#: [Fie]:73
+msgctxt "[Fie] #73"
+msgid "We're finally back."
+msgstr ""
+
+#. ふぅ…
+#.  さすがに歩き疲れましたね。
+#: [Emma]:74
+msgctxt "[Emma] #74"
+msgid "Whew... My feet are killing me."
+msgstr ""
+
+#. いかにも中世の遺跡っぽい
+#.  ギミックだね。
+#: [Fie]:75
+msgctxt "[Fie] #75"
+msgid ""
+"Just the kind of thing you'd\n"
+" expect in an old ruin like this."
+msgstr ""
+
+#. ええ、水の力を
+#.  使ってるんでしょうか。
+#: [Emma]:76
+msgctxt "[Emma] #76"
+msgid ""
+"Do you think it's powered by\n"
+" the water flowing through here?"
+msgstr ""
+
+#. 領邦軍の詰所は西だ。
+#.  …とにかく急ぐぞ。
+#: [Gaius]:77
+msgctxt "[Gaius] #77"
+msgid ""
+"The entrance to the guardhouse is\n"
+" to the west. We should hurry."
+msgstr ""
+
+#. ふぅふぅ…
+#.  ずいぶん長い梯子ですね。
+#: [Emma]:78
+msgctxt "[Emma] #78"
+msgid "*pant* Why is this ladder so long?"
+msgstr ""
+
+#. やっぱり胸が大きいと
+#.  登りにくい？
+#: [Fie]:79
+msgctxt "[Fie] #79"
+msgid ""
+"Is it harder to climb ladders\n"
+" when you've got a big chest?"
+msgstr ""
+
+#. フィ、フィーちゃん…///
+#: [Emma]:80
+msgctxt "[Emma] #80"
+msgid "F-Fie...!"
+msgstr ""
+
+#. …………………………
+#: [???]:81
+msgctxt "[???] #81"
+msgid "..."
+msgstr ""
+
+#. また格子扉か…
+#: [Rean]:82
+msgctxt "[Rean] #82"
+msgid "There's another lattice door..."
+msgstr ""
+
+#. 近くの仕掛けで開くはずだ。
+#.  探してみるぞ。
+#: [Gaius]:83
+msgctxt "[Gaius] #83"
+msgid ""
+"There should be a mechanism\n"
+" to open it somewhere nearby."
+msgstr ""
+
+#. はぁ…ちょっと疲れました。
+#: [Emma]:84
+msgctxt "[Emma] #84"
+msgid "Whew... I'm exhausted..."
+msgstr ""
+
+#. やっぱり胸が…
+#: [Fie]:85
+msgctxt "[Fie] #85"
+msgid "It's gotta be the chest..."
+msgstr ""
+
+#. フィー。
+#.  そのくらいにしなさい。
+#: [Rean]:86
+msgctxt "[Rean] #86"
+msgid "Fie, that's enough."
+msgstr ""
+
+#. …まったく。
+#: [Gaius]:87
+msgctxt "[Gaius] #87"
+msgid "...Honestly."
+msgstr ""
+
+#. クッ、しかし油断しなければ
+#.  こんな事態には…
+#: [Machias]:88
+msgctxt "[Machias] #88"
+msgid ""
+"Ugh. If I hadn't been so careless,\n"
+" this would never have happened..."
+msgstr ""
+
+#. あの場合は仕方ないさ。
+#: [Rean]:89
+msgctxt "[Rean] #89"
+msgid "There wasn't much you could've done."
+msgstr ""
+
+#. ふふっ…
+#.  とにかく無事で良かったです。
+#: [Emma]:90
+msgctxt "[Emma] #90"
+msgid "Heehee. I'm just glad you're all right."
+msgstr ""
+
+#. そっちは違う…！
+#: [Fie]:91
+msgctxt "[Fie] #91"
+msgid "That's the wrong way...!"
+msgstr ""
+
+#. 東へまっすぐだ、急ぐぞ！
+#: [Gaius]:92
+msgctxt "[Gaius] #92"
+msgid "We need to head east! Hurry!"
+msgstr ""
+
+#. やっほ──…っ！
+#: [Alisa]:93
+msgctxt "[Alisa] #93"
+msgid "Yoohoo!"
+msgstr ""
+
+#. ふふっ、アリサさん、
+#.  子供みたい。
+#: [Emma]:94
+msgctxt "[Emma] #94"
+msgid "Heehee. You're as excited as a child."
+msgstr ""
+
+#. あはは、ちょっと
+#.  ハイになってるみたい。
+#: [Alisa]:95
+msgctxt "[Alisa] #95"
+msgid ""
+"Ahaha. I think I'm just\n"
+" caught up in the moment."
+msgstr ""
+
+#. 日が落ちてきたな…
+#: [Gaius]:96
+msgctxt "[Gaius] #96"
+msgid "The sun's almost down..."
+msgstr ""
+
+#. 集落までもう少しだ。
+#.  このまま飛ばすとしよう。
+#: [Jusis]:97
+msgctxt "[Jusis] #97"
+msgid ""
+"We're almost at the settlement.\n"
+" Let's keep up the pace, guys."
+msgstr ""
+
+#. ふふっ…
+#.  羊がたくさんですね。
+#: [Emma]:98
+msgctxt "[Emma] #98"
+msgid "Heehee. Look at all the sheep here."
+msgstr ""
+
+#. うーん、癒されるわね。
+#: [Alisa]:99
+msgctxt "[Alisa] #99"
+msgid "Watching them makes me feel so...content."
+msgstr ""
+
+#. へえ、導力車も
+#.  使っているんだな？
+#: [Rean]:100
+msgctxt "[Rean] #100"
+msgid "You have an orbal truck here?"
+msgstr ""
+
+#. ラインフォルト製の
+#.  古い運搬車みたいだけど…
+#: [Alisa]:101
+msgctxt "[Alisa] #101"
+msgid "Looks like an old-model Reinford truck."
+msgstr ""
+
+#. 数年前、とある人が
+#.  寄贈してくれたものでな。
+#: [Jusis]:102
+msgctxt "[Jusis] #102"
+msgid ""
+"Yup. It was donated to the\n"
+" settlement a few years ago."
+msgstr ""
+
+#. ほう…こんな高地にも
+#.  川が流れているのか。
+#: [Gaius]:103
+msgctxt "[Gaius] #103"
+msgid ""
+"I'm surprised to see a river\n"
+" running at this elevation."
+msgstr ""
+
+#. ああ、北にある湖から
+#.  流れてきたものだ。
+#: [Jusis]:104
+msgctxt "[Jusis] #104"
+msgid "It's fed from the lake to the north."
+msgstr ""
+
+#. やはり魔獣が出ている…
+#.  気をつけて行くとしよう。
+#: [Jusis]:105
+msgctxt "[Jusis] #105"
+msgid ""
+"I figured there'd be monsters\n"
+" around. Be careful, everyone."
+msgstr ""
+
+#. ああ、了解だ…！
+#: [Rean]:106
+msgctxt "[Rean] #106"
+msgid "Got it."
+msgstr ""
+
+#. えっと、こちらの方って…
+#: [Emma]:107
+msgctxt "[Emma] #107"
+msgid "Umm... Isn't this the way to...?"
+msgstr ""
+
+#. このまま道沿いに回ると
+#.  昨日の石柱群にたどり着くな。
+#: [Jusis]:108
+msgctxt "[Jusis] #108"
+msgid ""
+"This path leads to the stone\n"
+" circle you saw yesterday."
+msgstr ""
+
+#. 監視塔とやらはこの先か。
+#: [Gaius]:109
+msgctxt "[Gaius] #109"
+msgid "Is this the way to the watchtower?"
+msgstr ""
+
+#. ああ、このまま
+#.  道沿いに行けばいい。
+#: [Jusis]:110
+msgctxt "[Jusis] #110"
+msgid "Yeah. Just keep heading along this path."
+msgstr ""
+
+#. や、やっと門に着いたわね…
+#: [Alisa]:111
+msgctxt "[Alisa] #111"
+msgid "Well...here we are..."
+msgstr ""
+
+#. ああ…
+#.  中将から話を聞いてみよう。
+#: [Rean]:112
+msgctxt "[Rean] #112"
+msgid ""
+"Let's go meet with the\n"
+" lieutenant general."
+msgstr ""
+
+#. あれが…
+#: [Alisa]:113
+msgctxt "[Alisa] #113"
+msgid "That's..."
+msgstr ""
+
+#. 共和国軍の基地みたいですね…
+#: [Emma]:114
+msgctxt "[Emma] #114"
+msgid "It looks like a Calvard military base."
+msgstr ""
+
+#. ああ…ちょうどこの辺りが
+#.  緩衝地帯になっているらしい。
+#: [Jusis]:115
+msgctxt "[Jusis] #115"
+msgid ""
+"It is. This area kind of acts as a\n"
+" buffer zone between the two countries."
+msgstr ""
+
+#. モヤが立っているな…
+#: [Gaius]:116
+msgctxt "[Gaius] #116"
+msgid "There's mist in the distance..."
+msgstr ""
+
+#. ああ、南よりも
+#.  さらに高地なんだろう。
+#: [Rean]:117
+msgctxt "[Rean] #117"
+msgid ""
+"Yeah. It's even higher here\n"
+" than the southern highlands."
+msgstr ""
+
+#. わぁ…あの滝、
+#.  凄い高さから落ちてるわね。
+#: [Alisa]:118
+msgctxt "[Alisa] #118"
+msgid "Wow... That's one towering waterfall."
+msgstr ""
+
+#. ええ、５００アージュくらい
+#.  落差がありそうですね…
+#: [Emma]:119
+msgctxt "[Emma] #119"
+msgid ""
+"I'll say. It must be at\n"
+" least a 500 arge drop."
+msgstr ""
+
+#. 高台か…
+#.  こちらは行き止まりだな。
+#: [Rean]:120
+msgctxt "[Rean] #120"
+msgid ""
+"Oh, it's a plateau. I guess\n"
+" this way's a dead end."
+msgstr ""
+
+#. ふふっ、風が気持ちいいですね。
+#: [Emma]:121
+msgctxt "[Emma] #121"
+msgid ""
+"Ahhh... I love how refreshing\n"
+" the wind feels here."
+msgstr ""
+
+#. あ…像の正面に来たわね。
+#: [Alisa]:122
+msgctxt "[Alisa] #122"
+msgid ""
+"Oh... We made it all the way\n"
+" to where the giant statue is."
+msgstr ""
+
+#. ああ、それにしても大きいな…
+#: [Rean]:123
+msgctxt "[Rean] #123"
+msgid ""
+"It looks even more massive\n"
+" the closer we get."
+msgstr ""
+
+#. 像の前に行くには
+#.  左右から回り込む必要があるな。
+#: [Jusis]:124
+msgctxt "[Jusis] #124"
+msgid ""
+"To get right in front of it, we'll\n"
+" need to go around the cliff."
+msgstr ""
+
+#. ふぅ…ホッとしますね。
+#: [Emma]:125
+msgctxt "[Emma] #125"
+msgid "I'm glad to be back here again."
+msgstr ""
+
+#. フン…
+#.  辛気臭い場所だったな。
+#: [Gaius]:126
+msgctxt "[Gaius] #126"
+msgid ""
+"Agreed. I'm certainly\n"
+" in no hurry to return."
+msgstr ""
+
+#. ……綺麗………
+#: [Alisa]:127
+msgctxt "[Alisa] #127"
+msgid "How beautiful..."
+msgstr ""
+
+#. 素敵な場所ですね…
+#: [Emma]:128
+msgctxt "[Emma] #128"
+msgid "Yeah... Breathtaking."
+msgstr ""
+
+#. うーん…
+#.  釣りがしたくなるな。
+#: [Rean]:129
+msgctxt "[Rean] #129"
+msgid ""
+"Man, I'd love to get in\n"
+" a little fishing here."
+msgstr ""
+
+#. 別に止めはしないぞ。
+#: [Gaius]:130
+msgctxt "[Gaius] #130"
+msgid "Well, no one's stopping you."
+msgstr ""
+
+#. ここは…
+#: [Emma]:131
+msgctxt "[Emma] #131"
+msgid "This is..."
+msgstr ""
+
+#. な、なんか薄暗いわね…
+#: [Alisa]:132
+msgctxt "[Alisa] #132"
+msgid "It's so gloomy in here..."
+msgstr ""
+
+#. …………………………
+#: [Jusis]:133
+msgctxt "[Jusis] #133"
+msgid "..."
+msgstr ""
+
+#. 帝国軍が運用している
+#.  軍用飛行艇だわ…
+#: [Alisa]:134
+msgctxt "[Alisa] #134"
+msgid ""
+"That's one of the Imperial\n"
+" Army's airships..."
+msgstr ""
+
+#. フン、思った以上に
+#.  キナ臭くなっているな。
+#: [Gaius]:135
+msgctxt "[Gaius] #135"
+msgid ""
+"This situation is looking\n"
+" worse by the minute."
+msgstr ""
+
+#. …とにかく急ぐぞ。
+#: [Jusis]:136
+msgctxt "[Jusis] #136"
+msgid "...We need to hurry."
+msgstr ""
+
+#. 帝国軍の導力装甲車…！
+#: [Emma]:137
+msgctxt "[Emma] #137"
+msgid ""
+"Those are armored cars\n"
+" from the Imperial Army...!"
+msgstr ""
+
+#. クッ、このままじゃ…
+#: [Rean]:138
+msgctxt "[Rean] #138"
+msgid "Damn... This isn't looking good..."
+msgstr ""
+
+#. ………………………
+#: [Jusis]:139
+msgctxt "[Jusis] #139"
+msgid "..."
+msgstr ""
+
+#. このまま行かせるものか…！
+#: [Jusis]:140
+msgctxt "[Jusis] #140"
+msgid "We can't let them get away!"
+msgstr ""
+
+#. ああ！
+#.  何としても追いつこう！
+#: [Rean]:141
+msgctxt "[Rean] #141"
+msgid "Right! We need to overtake them!"
+msgstr ""
+
+#. くっ、速い…！
+#: [Rean]:142
+msgctxt "[Rean] #142"
+msgid "Crap... They're fast!"
+msgstr ""
+
+#. ともかく見失うな…！
+#: [Gaius]:143
+msgctxt "[Gaius] #143"
+msgid "Just don't lose sight of them!"
+msgstr ""
+
+#. せ、石柱群のあたりに
+#.  降りたんでしょうか…！？
+#: [Emma]:144
+msgctxt "[Emma] #144"
+msgid ""
+"Did they touch down near\n"
+" the stone circle...?"
+msgstr ""
+
+#. くうう～…
+#.  絶対に追いつくわよっ！
+#: [Alisa]:145
+msgctxt "[Alisa] #145"
+msgid "Grrr... There's no escape for them now!"
+msgstr ""
+
+#. ひゃっほう！
+#.  あはは、気持ちいーね！
+#: [Altina]:146
+msgctxt "[Altina] #146"
+msgid "Woohoooooo! This is amaaaziiiiiing!"
+msgstr ""
+
+#. はあ…あんまりはしゃいで
+#.  落ちないようにな？
+#: [Rean]:147
+msgctxt "[Rean] #147"
+msgid ""
+"*sigh* If you keep squirming around\n"
+" back there, you're going to fall off."
+msgstr ""
+
+#. うーん、この速度なら
+#.  何とか間に合いそうかな？
+#: [Altina]:148
+msgctxt "[Altina] #148"
+msgid ""
+"Mmm... If we keep up this pace,\n"
+" we might make it in time after all."
+msgstr ""
+
+#. ああ…
+#.  必ず間に合わせてみせる！
+#: [Jusis]:149
+msgctxt "[Jusis] #149"
+msgid "Not might. We WILL make it in time."
+msgstr ""
+
+#. 石切り場…この先ね。
+#: [Alisa]:150
+msgctxt "[Alisa] #150"
+msgid "The ancient quarry is this way, right?"
+msgstr ""
+
+#. うん、この像の裏手だよ～！
+#: [Altina]:151
+msgctxt "[Altina] #151"
+msgid "Yup. Just 'round the back of this statue!"
+msgstr ""
+
+#. それにしても…
+#.  なに、あの光ってるの…？
+#: [Alisa]:152
+msgctxt "[Alisa] #152"
+msgid "What are those glowing things, anyway?"
+msgstr ""
+
+#. ええ…
+#.  ちょっと気になりますね。
+#: [Emma]:153
+msgctxt "[Emma] #153"
+msgid "I'm actually rather curious, myself."
+msgstr ""
+
+#. ──えっへん！
+#: [Altina]:154
+msgctxt "[Altina] #154"
+msgid "A-hem!"
+msgstr ""
+
+#. まったく…
+#.  どういうカラクリだ。
+#: [Gaius]:155
+msgctxt "[Gaius] #155"
+msgid "How does that thing even WORK?"
+msgstr ""
+
+#. 大きいな…本当に何なんだ？
+#: [Rean]:156
+msgctxt "[Rean] #156"
+msgid ""
+"That one's huge... What do you\n"
+" think they could be?"
+msgstr ""
+
+#. 判らん──だが、
+#.  気を付けた方がよさそうだ。
+#: [Jusis]:157
+msgctxt "[Jusis] #157"
+msgid ""
+"I don't know, but we'd better\n"
+" exercise a little caution."
+msgstr ""
+
+#. あ、外に出たね。
+#: [Altina]:158
+msgctxt "[Altina] #158"
+msgid "Oh, we're back outside."
+msgstr ""
+
+#. ふう…
+#.  少しホッとするわね。
+#: [Alisa]:159
+msgctxt "[Alisa] #159"
+msgid ""
+"Ahhh... It's nice to be back\n"
+" in the great outdoors again."
+msgstr ""
+
+#. おや、この建物は…
+#: [Laura]:160
+msgctxt "[Laura] #160"
+msgid "Ah, isn't this...?"
+msgstr ""
+
+#. 《帝国時報》──
+#.  おなじみの新聞社だね。
+#: [Elliot]:161
+msgctxt "[Elliot] #161"
+msgid ""
+"Oh, this is where they publish the\n"
+" Imperial Chronicle newspaper."
+msgstr ""
+
+#. オペラハウスか…
+#.  ちょっと興味あるな。
+#: [Rean]:162
+msgctxt "[Rean] #162"
+msgid ""
+"So this is the opera house, huh?\n"
+" Might be nice to see a show sometime."
+msgstr ""
+
+#. 入りたいのなら２ヶ月前から
+#.  予約する必要があるぞ。
+#: [Machias]:163
+msgctxt "[Machias] #163"
+msgid ""
+"You need to reserve your seats\n"
+" two months in advance, though."
+msgstr ""
+
+#. それでもＢ席だもんねぇ。
+#: [Elliot]:164
+msgctxt "[Elliot] #164"
+msgid "...And that's just for the cheap seats!"
+msgstr ""
+
+#. 紅耀石のティアラか…
+#.  かなりの品みたいだな。
+#: [Rean]:165
+msgctxt "[Rean] #165"
+msgid ""
+"Wow. A tiara encrusted with carnelians?\n"
+" This is about as ritzy as you can get."
+msgstr ""
+
+#. ん…キラキラしてる。
+#: [Fie]:166
+msgctxt "[Fie] #166"
+msgid "It's so shiny..."
+msgstr ""
+
+#. 獅子心皇帝…
+#.  威風堂々としたお姿だな。
+#: [Laura]:167
+msgctxt "[Laura] #167"
+msgid ""
+"Here's the statue of Emperor Dreichels.\n"
+" He strikes quite a stately pose."
+msgstr ""
+
+#. ああ、俺たちにとっても
+#.  縁のある人なんだよな。
+#: [Rean]:168
+msgctxt "[Rean] #168"
+msgid ""
+"Weird to think he's the one\n"
+" who founded our academy."
+msgstr ""
+
+#. ふむ…こちらは行き止まりか。
+#: [Laura]:169
+msgctxt "[Laura] #169"
+msgid "Hmm... Looks like we've hit a dead end."
+msgstr ""
+
+#. うーん、土地勘がないと
+#.  迷いそうだな。
+#: [Rean]:170
+msgctxt "[Rean] #170"
+msgid "This area seems easy to get lost in."
+msgstr ""
+
+#. ネコ、これで３匹目。
+#: [Fie]:171
+msgctxt "[Fie] #171"
+msgid "That's three cats now."
+msgstr ""
+
+#. あはは、可愛かったね。
+#: [Elliot]:172
+msgctxt "[Elliot] #172"
+msgid "Ahaha. What a little cutie."
+msgstr ""
+
+#. …この辺りは
+#.  なぜか猫が多いんだ。
+#: [Machias]:173
+msgctxt "[Machias] #173"
+msgid ""
+"There have always been a lot of cats\n"
+" around here. Not sure why, though."
+msgstr ""
+
+#. ふむ、中々良い修行場所だ。
+#.  帝都民がうらやましいぞ。
+#: [Laura]:174
+msgctxt "[Laura] #174"
+msgid ""
+"This would make a great training area.\n"
+" I envy the people who live around here."
+msgstr ""
+
+#. そんな感想を抱くのは
+#.  間違いなく君くらいだぞ…
+#: [Machias]:175
+msgctxt "[Machias] #175"
+msgid ""
+"...Only YOU would see an underground\n"
+" passage and think about training."
+msgstr ""
+
+#. 明かりが見えた。
+#: [Fie]:176
+msgctxt "[Fie] #176"
+msgid "There's a light..."
+msgstr ""
+
+#. 音も大きくなってる…
+#: [Elliot]:177
+msgctxt "[Elliot] #177"
+msgid "The sound's getting louder, too."
+msgstr ""
+
+#. 出口が近いみたいだな。
+#: [Rean]:178
+msgctxt "[Rean] #178"
+msgid ""
+"We must be getting\n"
+" close to the exit now."
+msgstr ""
+
+#. ふふ、良い夜だな。
+#: [Laura]:179
+msgctxt "[Laura] #179"
+msgid "Ahhh... What a pleasant evening."
+msgstr ""
+
+#. ん…落ち着く。
+#: [Fie]:180
+msgctxt "[Fie] #180"
+msgid "It's pretty relaxing."
+msgstr ""
+
+#. （やっぱりこの２人、
+#.   元々気が合うんだな…）
+#: [Rean]:181
+msgctxt "[Rean] #181"
+msgid ""
+"(No denying those two have\n"
+" some surprising similarities...)"
+msgstr ""
+
+#. フフ…
+#.  やはり水辺は落ち着くな。
+#: [Laura]:182
+msgctxt "[Laura] #182"
+msgid "Being near water always helps me relax."
+msgstr ""
+
+#. そういえば、ラウラの故郷は
+#.  湖に面してるんだったか。
+#: [Rean]:183
+msgctxt "[Rean] #183"
+msgid ""
+"Oh, yeah. Your hometown is right\n"
+" on a lake, isn't it?"
+msgstr ""
+
+#. “えすぺらんさ”…？
+#: [Fie]:184
+msgctxt "[Fie] #184"
+msgid "Esperanza?"
+msgstr ""
+
+#. たしか“希望”という意味だな。
+#: [Machias]:185
+msgctxt "[Machias] #185"
+msgid "I believe it means 'hope.'"
+msgstr ""
+
+#. のどかだな…
+#.  帝都にあるとは思えぬくらいだ。
+#: [Laura]:186
+msgctxt "[Laura] #186"
+msgid ""
+"This park is so peaceful, it's easy\n"
+" to forget we're in the capital."
+msgstr ""
+
+#. 昼寝したいかも。
+#: [Fie]:187
+msgctxt "[Fie] #187"
+msgid "I could take a nap here."
+msgstr ""
+
+#. あはは、一応、
+#.  帝都市民の憩いの場所だからね。
+#: [Elliot]:188
+msgctxt "[Elliot] #188"
+msgid ""
+"Ahaha. Yeah. People love to\n"
+" come here to relax."
+msgstr ""
+
+#. はあ…昨夜は散々だった。
+#: [Machias]:189
+msgctxt "[Machias] #189"
+msgid ""
+"*sigh* Just coming here reminds\n"
+" me of last night's ordeal."
+msgstr ""
+
+#. あはは…ご愁傷さま。
+#: [Elliot]:190
+msgctxt "[Elliot] #190"
+msgid "Sounds like you had a rough night."
+msgstr ""
+
+#. 蝶、結構いるね。
+#: [Fie]:191
+msgctxt "[Fie] #191"
+msgid "There are so many butterflies."
+msgstr ""
+
+#. ああ、ちょっと
+#.  異国情緒があるな。
+#: [Rean]:192
+msgctxt "[Rean] #192"
+msgid ""
+"It really gives the place an\n"
+" exotic touch, huh?"
+msgstr ""
+
+#. こういう仕掛けって、
+#.  何時ごろ造られたのかな？
+#: [Elliot]:193
+msgctxt "[Elliot] #193"
+msgid "I wonder when that mechanism was made..."
+msgstr ""
+
+#. たぶん数百年前…
+#.  中世の暗黒時代じゃないか？
+#: [Machias]:194
+msgctxt "[Machias] #194"
+msgid ""
+"I'm guessing a few hundred years ago\n"
+" at least. Probably during the Dark Ages."
+msgstr ""
+
+#. ふむ、戦乱の時代だな。
+#: [Laura]:195
+msgctxt "[Laura] #195"
+msgid "Those were difficult times back then."
+msgstr ""
+
+#. 水が溜まってるね…
+#: [Elliot]:196
+msgctxt "[Elliot] #196"
+msgid "This area's full of water..."
+msgstr ""
+
+#. ああ、どうしたもんかな。
+#: [Rean]:197
+msgctxt "[Rean] #197"
+msgid ""
+"I'll bet there's some way\n"
+" to drain it."
+msgstr ""
+
+#. 周りを調べてみるしか。
+#: [Fie]:198
+msgctxt "[Fie] #198"
+msgid "Let's have a look around, then."
+msgstr ""
+
+#. そ、それにしても
+#.  とんでもなく広いよね…
+#: [Elliot]:199
+msgctxt "[Elliot] #199"
+msgid ""
+"This place seems like it goes\n"
+" on forever..."
+msgstr ""
+
+#. ああ…父さんめ、
+#.  厄介ごとを押し付けたな。
+#: [Machias]:200
+msgctxt "[Machias] #200"
+msgid ""
+"My father sure gave us a real\n"
+" humdinger of a job to deal with."
+msgstr ""
+
+#. はは…
+#.  まあ、あと少しだろう。
+#: [Rean]:201
+msgctxt "[Rean] #201"
+msgid ""
+"Well, I'm sure we must be\n"
+" getting close now."
+msgstr ""
+
+#. あ、出口だ。
+#: [Fie]:202
+msgctxt "[Fie] #202"
+msgid "Oh, there's the exit."
+msgstr ""
+
+#. フフ、やれやれだな。
+#: [Laura]:203
+msgctxt "[Laura] #203"
+msgid "Haha. We're finally there."
+msgstr ""
+
+#. しかし昨日よりも
+#.  ずいぶん人出が多いな…
+#: [Rean]:204
+msgctxt "[Rean] #204"
+msgid ""
+"Sure are more people out than\n"
+" there were yesterday."
+msgstr ""
+
+#. あはは、皇族の方々の
+#.  パレード目当てだろうね。
+#: [Elliot]:205
+msgctxt "[Elliot] #205"
+msgid ""
+"They must've all come to see\n"
+" the Imperial family's parade."
+msgstr ""
+
+#. くっ、テロリストめ…
+#: [Machias]:206
+msgctxt "[Machias] #206"
+msgid "Grr... Those damn terrorists..."
+msgstr ""
+
+#. （エリゼ、皇女殿下も…
+#.   無事でいてくれ…！）
+#: [Rean]:207
+msgctxt "[Rean] #207"
+msgid ""
+"(Elise... Princess Alfin...\n"
+" Please be safe!)"
+msgstr ""
+
+#. 魔獣がいる…！
+#: [Elliot]:208
+msgctxt "[Elliot] #208"
+msgid "Monsters!"
+msgstr ""
+
+#. 問題ない…！
+#.  このまま蹴散らすぞ！
+#: [Laura]:209
+msgctxt "[Laura] #209"
+msgid ""
+"No problem. We'll just\n"
+" cut our way through!"
+msgstr ""
+
+#. Ｊａ（ヤー）。
+#: [Fie]:210
+msgctxt "[Fie] #210"
+msgid "Ja."
+msgstr ""
+
+#. エベル湖だっけー。
+#.  けっこう広そうな湖だよね。
+#: [Millium]:211
+msgctxt "[Millium] #211"
+msgid ""
+"This is Lake Ebel, right? It's even\n"
+" bigger than I thought it'd be!"
+msgstr ""
+
+#. うむ、今日はあいにく
+#.  霧が出てよく見えぬが。
+#: [Laura]:212
+msgctxt "[Laura] #212"
+msgid ""
+"It's quite large. If the mist would\n"
+" clear, you could get a better view."
+msgstr ""
+
+#. 円に十字か…
+#.  どんな意味があるんだ？
+#: [Gaius]:213
+msgctxt "[Gaius] #213"
+msgid ""
+"A cross inside a circle...\n"
+" Any idea what it means?"
+msgstr ""
+
+#. さて…諸説はあるが
+#.  どれも定かでないらしい。
+#: [Laura]:214
+msgctxt "[Laura] #214"
+msgid ""
+"No one really knows for sure. There\n"
+" are a number of theories, though."
+msgstr ""
+
+#. 精霊信仰におけるシンボルの意味は
+#.  殆ど喪われているそうですから…
+#: [Emma]:215
+msgctxt "[Emma] #215"
+msgid ""
+"Unfortunately, the meanings of most\n"
+" animist symbols have been lost over time."
+msgstr ""
+
+#. このあたりは、船着場か？
+#: [Jusis]:216
+msgctxt "[Jusis] #216"
+msgid "You've got a wharf here?"
+msgstr ""
+
+#. うむ、対岸にある波止場と
+#.  定期船が行き来しているな。
+#: [Laura]:217
+msgctxt "[Laura] #217"
+msgid ""
+"We do. A ferry makes trips between\n"
+" here and the opposite shore."
+msgstr ""
+
+#. 対岸というと…
+#.  サザーラント州になるのか。
+#: [Rean]:218
+msgctxt "[Rean] #218"
+msgid ""
+"If you crossed the lake, you'd be\n"
+" in the Sutherland province, right?"
+msgstr ""
+
+#. この建物が、遊撃士協会、
+#.  レグラム支部になる。
+#: [Laura]:219
+msgctxt "[Laura] #219"
+msgid ""
+"This building is the Legram\n"
+" branch of the Bracer Guild."
+msgstr ""
+
+#. へー、こんな所に出られるんだー。
+#: [Millium]:220
+msgctxt "[Millium] #220"
+msgid ""
+"Wow. I didn't think that door\n"
+" led out here."
+msgstr ""
+
+#. はは、穴場かもしれないな。
+#: [Rean]:221
+msgctxt "[Rean] #221"
+msgid "Haha. Nice find."
+msgstr ""
+
+#. しかし…幻想的な光景だな。
+#: [Jusis]:222
+msgctxt "[Jusis] #222"
+msgid "It feels almost...magical."
+msgstr ""
+
+#. そうですね…
+#.  本当に妖精とか現れそうです。
+#: [Emma]:223
+msgctxt "[Emma] #223"
+msgid ""
+"I know. Like if you just wait long enough,\n"
+" you might see a fairy or something."
+msgstr ""
+
+#. あ、線路があるよ！
+#: [Millium]:224
+msgctxt "[Millium] #224"
+msgid "Oh, the train comes through here!"
+msgstr ""
+
+#. エベル支線…
+#.  俺たちが通ってきた路線か。
+#: [Gaius]:225
+msgctxt "[Gaius] #225"
+msgid ""
+"That's the Ebel Branch Line--the\n"
+" same line we traveled here on."
+msgstr ""
+
+#. へえ、川が流れているのか。
+#: [Rean]:226
+msgctxt "[Rean] #226"
+msgid "Oh, wow. There's a river out here."
+msgstr ""
+
+#. フフ、幼い頃はあそこで
+#.  よく水遊びをしたものだ。
+#: [Laura]:227
+msgctxt "[Laura] #227"
+msgid ""
+"Haha. I remember playing in\n"
+" this river when I was young."
+msgstr ""
+
+#. あー、船が来てるよ！
+#: [Millium]:228
+msgctxt "[Millium] #228"
+msgid "Oooh, there's a boat on the wharf!"
+msgstr ""
+
+#. 水上定期船だ。
+#.  夕方にはこちらに戻ってくる。
+#: [Laura]:229
+msgctxt "[Laura] #229"
+msgid ""
+"That's the ferry liner. It returns\n"
+" to the wharf every evening."
+msgstr ""
+
+#. はー、夏なのに涼しいね～。
+#: [Millium]:230
+msgctxt "[Millium] #230"
+msgid ""
+"Ahhh. It's so cool here, you'd\n"
+" hardly believe it's summer."
+msgstr ""
+
+#. 天気もいいし、
+#.  良い風が吹いているな。
+#: [Jusis]:231
+msgctxt "[Jusis] #231"
+msgid ""
+"The weather's pleasant today.\n"
+" A fine wind blowing, too."
+msgstr ""
+
+#. 気に喰わんな…
+#.  よその領地で我が物顔とは。
+#: [Gaius]:232
+msgctxt "[Gaius] #232"
+msgid ""
+"Strutting around another lord's\n"
+" territory... How pompous can you get?"
+msgstr ""
+
+#. かなりの地位の方が
+#.  いらしているようですが…
+#: [Emma]:233
+msgctxt "[Emma] #233"
+msgid "It sounds like there's a real VIP here..."
+msgstr ""
+
+#. …まあ、ともかく戻るとしよう。
+#: [Laura]:234
+msgctxt "[Laura] #234"
+msgid ""
+"...Well, let's return to the manor\n"
+" for now."
+msgstr ""
+
+#. ローエングリン城…
+#.  救国の聖女の古城か。
+#: [Rean]:235
+msgctxt "[Rean] #235"
+msgid ""
+"So this is St. Sandlot's old\n"
+" stronghold, Lohengrin Castle..."
+msgstr ""
+
+#. 私も夜に来るのは初めてだ。
+#.  足元に気をつけるがいい。
+#: [Laura]:236
+msgctxt "[Laura] #236"
+msgid ""
+"This is the first time I've come here\n"
+" at night. Be careful of your footing."
+msgstr ""
+
+#. ほえ、あれって…
+#: [Millium]:237
+msgctxt "[Millium] #237"
+msgid "Whoa! What's that?"
+msgstr ""
+
+#. 城の外壁のようだが…
+#: [Gaius]:238
+msgctxt "[Gaius] #238"
+msgid "Something's strange about the castle..."
+msgstr ""
+
+#. 月明かりで
+#.  光っているのか…？
+#: [Jusis]:239
+msgctxt "[Jusis] #239"
+msgid "Is that glow just the moonlight?"
+msgstr ""
+
+#. 妙な連中ばかりだな。
+#.  フン、やはり幽──
+#: [Gaius]:240
+msgctxt "[Gaius] #240"
+msgid ""
+"This castle has no shortage of strange\n"
+" foes. Perhaps they really ARE gho--"
+msgstr ""
+
+#. い、言っちゃだめーっ！！
+#: [Millium]:241
+msgctxt "[Millium] #241"
+msgid "D-Don't say it!"
+msgstr ""
+
+#. この種の結界には“鍵”があるはず。
+#.  …それらしい物を探してみましょう。
+#: [Emma]:242
+msgctxt "[Emma] #242"
+msgid ""
+"You need a 'key' to dispel a barrier\n"
+" like this. We should start looking."
+msgstr ""
+
+#. 外回廊…
+#.  城の北側になるみたいだな。
+#: [Jusis]:243
+msgctxt "[Jusis] #243"
+msgid ""
+"An external corridor. We must be\n"
+" on the north side of the castle."
+msgstr ""
+
+#. かなり奥まで来たはずだ。
+#.  子供たちが無事だといいが…
+#: [Laura]:244
+msgctxt "[Laura] #244"
+msgid ""
+"We've gone pretty far inside now.\n"
+" I hope the children are safe..."
+msgstr ""
+
+#. あ…また結界ですね。
+#.  対応する宝珠を探しましょう。
+#: [Emma]:245
+msgctxt "[Emma] #245"
+msgid ""
+"Oh, another barrier. Let's see if we\n"
+" can find the orb that dispels it."
+msgstr ""
+
+#. （委員長、妙に手際がいいな…）
+#: [Rean]:246
+msgctxt "[Rean] #246"
+msgid ""
+"(This all seems strangely\n"
+" ...normal to her.)"
+msgstr ""
+
+#. うんしょ、うんしょ…
+#: [Millium]:247
+msgctxt "[Millium] #247"
+msgid ""
+"Left hand, right hand,\n"
+" left hand, right hand..."
+msgstr ""
+
+#. フン、面倒だな。
+#: [Gaius]:248
+msgctxt "[Gaius] #248"
+msgid "Tch... Nothing but trouble."
+msgstr ""
+
+#. ここが…
+#: [Rean]:249
+msgctxt "[Rean] #249"
+msgid "This looks like..."
+msgstr ""
+
+#. 城の最上階…
+#.  この先に鐘楼がある。
+#: [Laura]:250
+msgctxt "[Laura] #250"
+msgid ""
+"We've reached the uppermost floor.\n"
+" The bell tower is ahead."
+msgstr ""
+
+#. 気配が近い…
+#.  行ってみましょう！
+#: [Emma]:251
+msgctxt "[Emma] #251"
+msgid ""
+"The energy's source is\n"
+" nearby... Almost there!"
+msgstr ""
+
+#. これは…！
+#: [Rean]:252
+msgctxt "[Rean] #252"
+msgid "What the...?!"
+msgstr ""
+
+#. 爆発物で破壊したみたいね。
+#.  …他のルートを探すわよ！
+#: [Sara]:253
+msgctxt "[Sara] #253"
+msgid ""
+"Looks like they were packing explosive\n"
+" charges. We'll need to find another route!"
+msgstr ""
+
+#. ここは倉庫区画か…
+#: [Gaius]:254
+msgctxt "[Gaius] #254"
+msgid "It seems this is a storage area."
+msgstr ""
+
+#. やっぱり人形兵器が
+#.  徘徊しているみたいだねー。
+#: [Millium]:255
+msgctxt "[Millium] #255"
+msgid ""
+"Plenty of archaisms wandering\n"
+" around here, too."
+msgstr ""
+
+#. 破壊されたゲートの向こうに
+#.  来たようだな。
+#: [Jusis]:256
+msgctxt "[Jusis] #256"
+msgid "We finally got around to the other side."
+msgstr ""
+
+#. 要塞の奥は右手か…
+#.  このまま進むとしよう。
+#: [Laura]:257
+msgctxt "[Laura] #257"
+msgid ""
+"The path to the right leads deeper\n"
+" into the fort. Let's keep moving."
+msgstr ""
+
+#. あ、回復装置だ♪
+#: [Millium]:258
+msgctxt "[Millium] #258"
+msgid "Oooh, an orbment charging station!"
+msgstr ""
+
+#. 外への出口も
+#.  あるみたいですけど…
+#: [Emma]:259
+msgctxt "[Emma] #259"
+msgid ""
+"That door near it looks\n"
+" like it leads outside..."
+msgstr ""
+
+#. たぶん外回廊ね…
+#.  みんな、付いてきなさい！
+#: [Sara]:260
+msgctxt "[Sara] #260"
+msgid ""
+"Probably an external corridor.\n"
+" Everyone, follow me!"
+msgstr ""
+
+#. フン、また別の倉庫区画か。
+#: [Gaius]:261
+msgctxt "[Gaius] #261"
+msgid "Hmph. Another storage area."
+msgstr ""
+
+#. えーと、左手に向かえば
+#.  エリアを抜けられるみたい。
+#: [Millium]:262
+msgctxt "[Millium] #262"
+msgid ""
+"Hmm... Looks like we hang a\n"
+" left if we wanna go through."
+msgstr ""
+
+#. 貨物用のホーム…
+#.  反対側にたどり着きましたね。
+#: [Emma]:263
+msgctxt "[Emma] #263"
+msgid ""
+"This is the freight platform... We\n"
+" finally made it to the other side."
+msgstr ""
+
+#. ゴールは近いわね。
+#.  …そこの階段を登るわよ！
+#: [Sara]:264
+msgctxt "[Sara] #264"
+msgid ""
+"We've gotta be close. Just need to\n"
+" head up that staircase over there!"
+msgstr ""
+
+#. （プルルル…プルルル…）
+#: [(Phone)]:265
+msgctxt "[(Phone)] #265"
+msgid "(ARCUS ringing)"
+msgstr ""
+
+#. こちらサラ──ええ、もう少しで
+#.  列車砲の格納庫に到達します。
+#: [Sara]:266
+msgctxt "[Sara] #266"
+msgid ""
+"Sara here... Yeah. We're almost to\n"
+" the railway gun."
+msgstr ""
+
+#. お互い女神の加護を…！
+#: [Sara]:267
+msgctxt "[Sara] #267"
+msgid "Yeah. May Aidios be with us both."
+msgstr ""
+
+#. あちらも大詰めですか…
+#: [Rean]:268
+msgctxt "[Rean] #268"
+msgid "Is Group B almost there?"
+msgstr ""
+
+#. ええ…
+#.  こっちも気合を入れるわよ！
+#: [Sara]:269
+msgctxt "[Sara] #269"
+msgid "This is it, so get ready!"
+msgstr ""
+
+#. はいっ…！
+#: [???]:270
+msgctxt "[???] #270"
+msgid "Right!"
+msgstr ""
+
+#. ふう…リィン様。
+#.  あまり困らせないで下さいませ。
+#: [Mint]:271
+msgctxt "[Mint] #271"
+msgid ""
+"*sigh* Master Rean, please\n"
+" don't cause too much trouble."
+msgstr ""
+
+#. ＲＦ本社ビルに参りましょう。
+#: [Mint]:272
+msgctxt "[Mint] #272"
+msgid ""
+"Let's make our way to the\n"
+" Reinford headquarters."
+msgstr ""
+
+#. りょ、了解です。
+#.  （って、俺だけのせいなのか？）
+#: [Rean]:273
+msgctxt "[Rean] #273"
+msgid ""
+"Uh... Right. Of course.\n"
+" (...Why is she singling ME out?)"
+msgstr ""
+
+#. リ・ィ・ン・様…？
+#: [Mint]:274
+msgctxt "[Mint] #274"
+msgid "M a s t e r R e a n?"
+msgstr ""
+
+#. す、すみません。
+#.  （…笑顔が怖い…）
+#: [Rean]:275
+msgctxt "[Rean] #275"
+msgid ""
+"I-I'm sorry. (That'll give me\n"
+" nightmares...)"
+msgstr ""
+
+#. （バッカ、むしろご褒美じゃねぇか。）
+#: [Crow]:276
+msgctxt "[Crow] #276"
+msgid "(Sweet dreams.)"
+msgstr ""
+
+#. その先は…
+#.  ログナー侯爵家の敷地ね。
+#: [Alisa]:277
+msgctxt "[Alisa] #277"
+msgid ""
+"This way leads to Marquis\n"
+" Rogner's mansion."
+msgstr ""
+
+#. ゼリカの堅物オヤジか。
+#.  会いたくねーなぁ。
+#: [Crow]:278
+msgctxt "[Crow] #278"
+msgid ""
+"So that's where Gelica's stubborn\n"
+" old man lives, huh? Better stay away."
+msgstr ""
+
+#. うーん…結構便利かも。
+#: [Elliot]:279
+msgctxt "[Elliot] #279"
+msgid "These things sure are convenient."
+msgstr ""
+
+#. ああ、帝都でも
+#.  いずれ導入されそうだ。
+#: [Machias]:280
+msgctxt "[Machias] #280"
+msgid ""
+"I know, right? I can see them building\n"
+" some in Heimdallr eventually."
+msgstr ""
+
+#. な、なんでわざわざ
+#.  逆走するのよ？
+#: [Alisa]:281
+msgctxt "[Alisa] #281"
+msgid ""
+"Wh-Why are you going the wrong\n"
+" way? Just because you can?"
+msgstr ""
+
+#. ちょっと楽しいかも。
+#: [Fie]:282
+msgctxt "[Fie] #282"
+msgid "It's kinda fun."
+msgstr ""
+
+#. 街中にこんなものまで…
+#.  つくづく機械の街という感じだな。
+#: [Machias]:283
+msgctxt "[Machias] #283"
+msgid ""
+"Plain old stairs just wouldn't cut it,\n"
+" for the famed industrial metropolis, huh?"
+msgstr ""
+
+#. そうね…
+#.  良きにつけ、悪しきにつけだけど。
+#: [Alisa]:284
+msgctxt "[Alisa] #284"
+msgid ""
+"Yeah... For better or worse,\n"
+" this is a town full of tech."
+msgstr ""
+
+#. ん、行き止まりみたい。
+#: [Fie]:285
+msgctxt "[Fie] #285"
+msgid "Looks like a dead end."
+msgstr ""
+
+#. ここは…メンテナンス用の
+#.  整備室だったかしら。
+#: [Alisa]:286
+msgctxt "[Alisa] #286"
+msgid ""
+"This was...some kind of\n"
+" maintenance room, I think?"
+msgstr ""
+
+#. うわ～、ここからだと
+#.  ＲＦビルがよく見えるね。
+#: [Elliot]:287
+msgctxt "[Elliot] #287"
+msgid ""
+"Wow. You can get a great view of\n"
+" the Reinford building from here."
+msgstr ""
+
+#. …見てたら首が凝りそう。
+#: [Fie]:288
+msgctxt "[Fie] #288"
+msgid "...And a really sore neck."
+msgstr ""
+
+#. そういえば、この道って
+#.  リィンの故郷に通じてるんだよね？
+#: [Elliot]:289
+msgctxt "[Elliot] #289"
+msgid ""
+"Oh, yeah. This road leads all the way\n"
+" to your hometown, doesn't it, Rean?"
+msgstr ""
+
+#. ああ、と言っても
+#.  徒歩だと数日はかかると思うぞ。
+#: [Rean]:290
+msgctxt "[Rean] #290"
+msgid ""
+"Yeah. It'd take you days to get there\n"
+" if you tried to walk it, though."
+msgstr ""
+
+#. へえ、いい場所だな。
+#: [Rean]:291
+msgctxt "[Rean] #291"
+msgid "Huh. This is a pretty nice area."
+msgstr ""
+
+#. そういえば、お祖父様が
+#.  よくここに釣りに来てたわね。
+#: [Alisa]:292
+msgctxt "[Alisa] #292"
+msgid ""
+"Grandfather used to love coming here\n"
+" to fish, now that I think about it."
+msgstr ""
+
+#. 領邦軍…
+#.  相変わらず横柄な連中だな。
+#: [Machias]:293
+msgctxt "[Machias] #293"
+msgid ""
+"You can always count on provincial\n"
+" army soldiers to be arrogant as hell."
+msgstr ""
+
+#. んー…何かあんのかねぇ？
+#: [Crow]:294
+msgctxt "[Crow] #294"
+msgid ""
+"Hmm... Wonder what they're\n"
+" doing out here."
+msgstr ""
+
+#. へえ、ここからだと
+#.  ルーレ市が一望できるな。
+#: [Rean]:295
+msgctxt "[Rean] #295"
+msgid ""
+"Wow! You can see all of Roer\n"
+" spread out from here."
+msgstr ""
+
+#. ええ、街の裏手だから
+#.  見栄えはあまりよくないけど。
+#: [Alisa]:296
+msgctxt "[Alisa] #296"
+msgid ""
+"You can...though the view isn't as\n"
+" nice as it'd be from the front."
+msgstr ""
+
+#. …ちょっと良い眺めかも。
+#: [Fie]:297
+msgctxt "[Fie] #297"
+msgid "...This is a pretty nice view."
+msgstr ""
+
+#. へえ…
+#.  こんな場所があったのね。
+#: [Alisa]:298
+msgctxt "[Alisa] #298"
+msgid ""
+"Oooh... Actually, I didn't even\n"
+" know about this place."
+msgstr ""
+
+#. あ、線路がある。
+#: [Fie]:299
+msgctxt "[Fie] #299"
+msgid "Oh, a train track."
+msgstr ""
+
+#. 鉄鉱山に通じる貨物路線ね。
+#: [Alisa]:300
+msgctxt "[Alisa] #300"
+msgid ""
+"That's the freight line that\n"
+" runs into the mine."
+msgstr ""
+
+#. はあはあ…
+#.  ちょっと疲れてきたかも。
+#: [Elliot]:301
+msgctxt "[Elliot] #301"
+msgid ""
+"*pant* I'm gonna need a rest\n"
+" before we even get there."
+msgstr ""
+
+#. あ、ああ…
+#.  意外と険しい道だな。
+#: [Machias]:302
+msgctxt "[Machias] #302"
+msgid ""
+"Yeah... I wasn't expecting\n"
+" this path to be so steep."
+msgstr ""
+
+#. 都会っ子はだらしねえなぁ。
+#.  ほれ、おいっちに、おいっちに！
+#: [Crow]:303
+msgctxt "[Crow] #303"
+msgid ""
+"Man, you city slickers need to\n"
+" toughen up! Left, right, left, right!"
+msgstr ""
+
+#. なんだ……？
+#: [Rean]:304
+msgctxt "[Rean] #304"
+msgid "What was that...?"
+msgstr ""
+
+#. そういや、出る時に
+#.  シャロンさんに見つからなかったか？
+#: [Rean]:305
+msgctxt "[Rean] #305"
+msgid ""
+"By the way, did you happen to\n"
+" run into Sharon on your way out?"
+msgstr ""
+
+#. ん、気付かれたけど
+#.  見逃してくれたっぽい。
+#: [Fie]:306
+msgctxt "[Fie] #306"
+msgid ""
+"She saw me leaving, but she just\n"
+" let me go."
+msgstr ""
+
+#. そ、そうか……
+#.  （本当、何者なんだろう。）
+#: [Rean]:307
+msgctxt "[Rean] #307"
+msgid ""
+"Hmm... (Even the best maids\n"
+" aren't THAT all-knowing...)"
+msgstr ""
+
+#. 大尉さんの指定、ここだっけ。
+#: [Fie]:308
+msgctxt "[Fie] #308"
+msgid ""
+"This is where Claire said\n"
+" to meet her, right?"
+msgstr ""
+
+#. ああ、そのはずだ。
+#: [Rean]:309
+msgctxt "[Rean] #309"
+msgid "Yeah. This looks like the place."
+msgstr ""
+
+#. （…妙に警戒してるね。）
+#: [Fie]:310
+msgctxt "[Fie] #310"
+msgid "(...They seem oddly cautious.)"
+msgstr ""
+
+#. （ああ…鉄道憲兵隊絡みか？）
+#: [Rean]:311
+msgctxt "[Rean] #311"
+msgid ""
+"(Yeah... I wonder if it has\n"
+" something to do with the RMP.)"
+msgstr ""
+
+#. ここは…
+#.  たしか飲み屋だったか。
+#: [Rean]:312
+msgctxt "[Rean] #312"
+msgid ""
+"This was some kind of\n"
+" classy bar, I think?"
+msgstr ""
+
+#. 賑わってるみたい。
+#: [Fie]:313
+msgctxt "[Fie] #313"
+msgid "Seems pretty lively in there."
+msgstr ""
+
+#. へえ…
+#.  夜だと雰囲気あるな。
+#: [Rean]:314
+msgctxt "[Rean] #314"
+msgid ""
+"Wow. This city's got a nice\n"
+" feel at night."
+msgstr ""
+
+#. ん…すごく綺麗かも。
+#: [Fie]:315
+msgctxt "[Fie] #315"
+msgid "Yeah... It's really pretty."
+msgstr ""
+
+#. くっ、こうしている間にも
+#.  鉄鉱山の人たちが…
+#: [Alisa]:316
+msgctxt "[Alisa] #316"
+msgid ""
+"Argh. Every minute we spend here, things\n"
+" are getting worse for the miners."
+msgstr ""
+
+#. アリサ、焦りは禁物。
+#: [Fie]:317
+msgctxt "[Fie] #317"
+msgid "Stay calm, Alisa."
+msgstr ""
+
+#. そうだね…
+#.  鉄道憲兵隊も急行してるし。
+#: [Elliot]:318
+msgctxt "[Elliot] #318"
+msgid ""
+"Yeah. The Railway Military Police\n"
+" are on their way, after all."
+msgstr ""
+
+#. とにかく、様子だけでも
+#.  確かめに行ってみよう。
+#: [Rean]:319
+msgctxt "[Rean] #319"
+msgid ""
+"Let's at least try and get\n"
+" a look at what's going on."
+msgstr ""
+
+#. しっかし、テロリストがこのまま
+#.  鉄鉱山を爆破でもしやがったら…
+#: [Crow]:320
+msgctxt "[Crow] #320"
+msgid ""
+"But man, if terrorists really were\n"
+" planning to blow up the mine..."
+msgstr ""
+
+#. …帝国そのものの屋台骨が
+#.  揺らぎかねませんね。
+#: [Machias]:321
+msgctxt "[Machias] #321"
+msgid ""
+"It would shake the very\n"
+" foundations of the Empire."
+msgstr ""
+
+#. ……………………………
+#: [Alisa]:322
+msgctxt "[Alisa] #322"
+msgid "..."
+msgstr ""
+
+#. ふむ、どうやらここは
+#.  基本的に一本道のようだね。
+#: [Neithardt]:323
+msgctxt "[Neithardt] #323"
+msgid ""
+"Hmm... Looks like this is just\n"
+" a one-way path."
+msgstr ""
+
+#. 迷う心配はねぇな。
+#.  一気に突っ切るとすっか。
+#: [Crow]:324
+msgctxt "[Crow] #324"
+msgid ""
+"Well, no chance of us getting lost in\n"
+" here, at least. Let's run on through."
+msgstr ""
+
+#. そういえば、トワが君たちの事を
+#.  ずいぶん心配していたよ。
+#: [Neithardt]:325
+msgctxt "[Neithardt] #325"
+msgid ""
+"Oh, yeah... Towa's been pretty\n"
+" worried about all of you, you know?"
+msgstr ""
+
+#. そうですか…有り難いな。
+#: [Rean]:326
+msgctxt "[Rean] #326"
+msgid ""
+"Well, I'm glad to know she's looking\n"
+" out for us."
+msgstr ""
+
+#. いつもお世話になっていますし、
+#.  本当に頭が上がりませんね。
+#: [Alisa]:327
+msgctxt "[Alisa] #327"
+msgid ""
+"Yeah. Though I feel a little bad,\n"
+" since we're making more work for her."
+msgstr ""
+
+#. け、けっこう歩いたけど…
+#.  どこまで来たんだろう。
+#: [Elliot]:328
+msgctxt "[Elliot] #328"
+msgid ""
+"We've been walking for ages.\n"
+" How far ARE we at this point?"
+msgstr ""
+
+#. ん…歩数からすると
+#.  山道の半分くらいかな。
+#: [Fie]:329
+msgctxt "[Fie] #329"
+msgid ""
+"Judging by the distance we've traveled,\n"
+" I'd say we're about halfway."
+msgstr ""
+
+#. す、凄いな。
+#.  そんなことが分かるのか。
+#: [Machias]:330
+msgctxt "[Machias] #330"
+msgid "H-How can you tell that...?"
+msgstr ""
+
+#. さっきから随分と
+#.  曲りくねってやがるな。
+#: [Crow]:331
+msgctxt "[Crow] #331"
+msgid ""
+"This path's gotten real\n"
+" twisty all of a sudden."
+msgstr ""
+
+#. ふむ、ひょっとしたら坑道を
+#.  避けて通っているのかもしれない。
+#: [Neithardt]:332
+msgctxt "[Neithardt] #332"
+msgid ""
+"Hmm... I wonder if they built it like\n"
+" that to avoid the mine shafts..."
+msgstr ""
+
+#. そうなると、そろそろ
+#.  到着しそうですね…！
+#: [Alisa]:333
+msgctxt "[Alisa] #333"
+msgid ""
+"If that's true, that must\n"
+" mean we're almost there!"
+msgstr ""
+
+#. あ…！
+#: [Rean]:334
+msgctxt "[Rean] #334"
+msgid "Over there!"
+msgstr ""
+
+#. よし、ゴールだな。
+#: [Neithardt]:335
+msgctxt "[Neithardt] #335"
+msgid "Looks like we made it."
+msgstr ""
+
+#. うーん、眼福、眼福㈱
+#: [Neithardt]:336
+msgctxt "[Neithardt] #336"
+msgid "Ahhhhhh... This is pure bliss. ㈱"
+msgstr ""
+
+#. ア、アンゼリカさんっ…！
+#: [Alisa]:337
+msgctxt "[Alisa] #337"
+msgid "Stop that, Angelica!"
+msgstr ""
+
+#. 冗談だよ。
+#.  怒った顔も可愛いね。
+#: [Neithardt]:338
+msgctxt "[Neithardt] #338"
+msgid ""
+"Just kiddin' around. I love it\n"
+" when you're angry."
+msgstr ""
+
+#. ったく、この女だけは…
+#: [Crow]:339
+msgctxt "[Crow] #339"
+msgid "I swear, this girl..."
+msgstr ""
+
+#. やはりガレリア要塞と同じように
+#.  人形兵器が放たれているようだな…
+#: [Machias]:340
+msgctxt "[Machias] #340"
+msgid ""
+"Looks like this place is crawling\n"
+" with archaisms, just like Garrelia."
+msgstr ""
+
+#. 昨日は見かけなかった
+#.  魔獣もいるみたいだけど…
+#: [Elliot]:341
+msgctxt "[Elliot] #341"
+msgid ""
+"There's some monsters I didn't see\n"
+" when we were here yesterday, too."
+msgstr ""
+
+#. 外から引き込んだのかもしれない。
+#.  …気を引き締めて行こう！
+#: [Rean]:342
+msgctxt "[Rean] #342"
+msgid ""
+"They must have brought them in\n"
+" from outside. Be careful!"
+msgstr ""
+
+#. 鉱山の出口…
+#.  ゲートが閉じてるね。
+#: [Fie]:343
+msgctxt "[Fie] #343"
+msgid ""
+"There's the exit. Looks like the\n"
+" gate's been shut."
+msgstr ""
+
+#. この向こうで、領邦軍と
+#.  鉄道憲兵隊が睨み合ってるのか…
+#: [Machias]:344
+msgctxt "[Machias] #344"
+msgid ""
+"So the provincial army and the RMP are\n"
+" having their shouting match out there..."
+msgstr ""
+
+#. こちらはいい。
+#.  奥に進むとしよう。
+#: [Neithardt]:345
+msgctxt "[Neithardt] #345"
+msgid ""
+"Let's just leave them to it.\n"
+" We need to head further in."
+msgstr ""
+
+#. あれっ、行き止まり？
+#: [Elliot]:346
+msgctxt "[Elliot] #346"
+msgid "Huh? A dead end?"
+msgstr ""
+
+#. いや、少し手前に
+#.  上に登る梯子があったはずだ。
+#: [Neithardt]:347
+msgctxt "[Neithardt] #347"
+msgid ""
+"Maybe not. We walked past\n"
+" a ladder not too long ago."
+msgstr ""
+
+#. 探してみましょう。
+#: [Rean]:348
+msgctxt "[Rean] #348"
+msgid "Let's go back and find it."
+msgstr ""
+
+#. うん、ここを登れば
+#.  さらに奥まで行けるはずだ。
+#: [Neithardt]:349
+msgctxt "[Neithardt] #349"
+msgid ""
+"Yep, this is the one. Climbing\n"
+" this should take us further in."
+msgstr ""
+
+#. ん…これでヨシ。
+#: [Fie]:350
+msgctxt "[Fie] #350"
+msgid "...There we go."
+msgstr ""
+
+#. 終点は近いわ…行きましょう！
+#: [Alisa]:351
+msgctxt "[Alisa] #351"
+msgid "Almost there... Just a little further now!"
+msgstr ""
+
+#. その…リィンさん。
+#: [Emma]:352
+msgctxt "[Emma] #352"
+msgid "Umm... Rean...?"
+msgstr ""
+
+#. 今はいいさ。
+#.  とにかく先に進もう。
+#: [Rean]:353
+msgctxt "[Rean] #353"
+msgid ""
+"Hold onto that thought for now.\n"
+" Let's just keep moving."
+msgstr ""
+
+#. …はい！
+#: [Emma]:354
+msgctxt "[Emma] #354"
+msgid "...Right!"
+msgstr ""
+
+#. ニャア。
+#: [Celine]:355
+msgctxt "[Celine] #355"
+msgid "Meow."
+msgstr ""
+
+#. にゃああ…にゃおん。
+#: [Celine]:356
+msgctxt "[Celine] #356"
+msgid "Meeeow... Mrrowr."
+msgstr ""
+
+#. …分かってる。
+#.  くれぐれも気をつけるから。
+#: [Emma]:357
+msgctxt "[Emma] #357"
+msgid "...I know. I'll be careful, I promise."
+msgstr ""
+
+#. （薄々気付いていたけど…
+#.   委員長、セリーヌと喋れるのか？）
+#: [Rean]:358
+msgctxt "[Rean] #358"
+msgid ""
+"(I always get this feeling like Emma\n"
+" can actually understand Celine...)"
+msgstr ""
+
+#. ふしゃああ…
+#: [Celine]:359
+msgctxt "[Celine] #359"
+msgid "*hiss*"
+msgstr ""
+
+#. ここは…
+#: [Rean]:360
+msgctxt "[Rean] #360"
+msgid "This looks like..."
+msgstr ""
+
+#. 気配を感じる…
+#.  何かがあるみたいですね。
+#: [Emma]:361
+msgctxt "[Emma] #361"
+msgid "I can sense something inside."
+msgstr ""
+
+#. うん、ここなら釣れそうだな。
+#: [Rean]:362
+msgctxt "[Rean] #362"
+msgid "This looks like a nice spot."
+msgstr ""
+
+#. おっ、いいポイントみたいだな。
+#: [Rean]:363
+msgctxt "[Rean] #363"
+msgid "Oooh, this looks like a good spot."
+msgstr ""
+
+#. さあ、行きましょう。
+#: [Alisa]:364
+msgctxt "[Alisa] #364"
+msgid "All right, let's get started."
+msgstr ""
+
+#. まだ先があるみたいね。
+#: [Alisa]:365
+msgctxt "[Alisa] #365"
+msgid "Looks like we've still got a ways to go."
+msgstr ""
+
+#. ふう、ここが終点ね。
+#: [Alisa]:366
+msgctxt "[Alisa] #366"
+msgid "Whew... This is the end."
+msgstr ""
+
+#. あ、宝箱発見♪
+#: [Alisa]:367
+msgctxt "[Alisa] #367"
+msgid "Ah! It's a treasure chest! ♪"
+msgstr ""
+
+#. 強そうね…注意しないと。
+#: [Alisa]:368
+msgctxt "[Alisa] #368"
+msgid ""
+"That looks like a strong one...\n"
+" Be careful."
+msgstr ""
+
+#. 何かしら…あの光ってるの…
+#: [Alisa]:369
+msgctxt "[Alisa] #369"
+msgid "What's that? It's so shiny..."
+msgstr ""
+
+#. さあ、行くとしようか。
+#: [Laura]:370
+msgctxt "[Laura] #370"
+msgid "Onward!"
+msgstr ""
+
+#. うむ、この調子で進むとしよう。
+#: [Laura]:371
+msgctxt "[Laura] #371"
+msgid "Let's keep up the pace."
+msgstr ""
+
+#. フフ、どうやら終点のようだな。
+#: [Laura]:372
+msgctxt "[Laura] #372"
+msgid "We appear to have reached the exit."
+msgstr ""
+
+#. ふむ、宝箱か。
+#: [Laura]:373
+msgctxt "[Laura] #373"
+msgid "Is that a treasure chest?"
+msgstr ""
+
+#. 難敵だな…心してかかるとしよう。
+#: [Laura]:374
+msgctxt "[Laura] #374"
+msgid ""
+"A challenging foe. We should engage\n"
+" it with care."
+msgstr ""
+
+#. むむっ…あの輝くモノは…
+#: [Laura]:375
+msgctxt "[Laura] #375"
+msgid "What's that strange shining creature?"
+msgstr ""
+
+#. 皆さん、気をつけて行きましょう。
+#: [Emma]:376
+msgctxt "[Emma] #376"
+msgid "Please be careful, everyone."
+msgstr ""
+
+#. ようやく中間地点でしょうか…
+#: [Emma]:377
+msgctxt "[Emma] #377"
+msgid ""
+"I wonder if we're around halfway\n"
+" through now."
+msgstr ""
+
+#. はぁ、やっと終点みたいですね。
+#: [Emma]:378
+msgctxt "[Emma] #378"
+msgid ""
+"*sigh* It looks like we've\n"
+" finally made it to the end."
+msgstr ""
+
+#. あ、立派な宝箱です。
+#: [Emma]:379
+msgctxt "[Emma] #379"
+msgid ""
+"Oh, that's a beautiful-looking\n"
+" treasure chest."
+msgstr ""
+
+#. 危険度大…どうか気をつけて！
+#: [Emma]:380
+msgctxt "[Emma] #380"
+msgid "This monster seems dangerous. Be careful!"
+msgstr ""
+
+#. あら、あの光っているのって…？
+#: [Emma]:381
+msgctxt "[Emma] #381"
+msgid ""
+"Oh? I wonder what that strange\n"
+" glow is..."
+msgstr ""
+
+#. それじゃ、行こっか。
+#: [Fie]:382
+msgctxt "[Fie] #382"
+msgid "Let's go."
+msgstr ""
+
+#. まだあるのか…めんどいな。
+#: [Fie]:383
+msgctxt "[Fie] #383"
+msgid ""
+"We're still not done?\n"
+" *sigh* What a pain."
+msgstr ""
+
+#. ん、終点みたいだね。
+#: [Fie]:384
+msgctxt "[Fie] #384"
+msgid "Oh, there's the end."
+msgstr ""
+
+#. お宝見っけ。
+#: [Fie]:385
+msgctxt "[Fie] #385"
+msgid "I spy treasure."
+msgstr ""
+
+#. 厄介そう…気をつけた方がいいかも。
+#: [Fie]:386
+msgctxt "[Fie] #386"
+msgid ""
+"That one looks annoying.\n"
+" Watch out."
+msgstr ""
+
+#. キラキラしてる…なんだろ？
+#: [Fie]:387
+msgctxt "[Fie] #387"
+msgid "So shiny... What is it?"
+msgstr ""
+
+#. さー、どんどん進んでいこう！
+#: [Millium]:388
+msgctxt "[Millium] #388"
+msgid "Let's go go gooo!"
+msgstr ""
+
+#. んー、まだまだ続くみたいだねー。
+#: [Millium]:389
+msgctxt "[Millium] #389"
+msgid "Huh? There's more to go?"
+msgstr ""
+
+#. あ、ここが終点じゃない？
+#: [Millium]:390
+msgctxt "[Millium] #390"
+msgid "Oooh, this looks like the end!"
+msgstr ""
+
+#. お宝はっけーん！
+#: [Millium]:391
+msgctxt "[Millium] #391"
+msgid "Yaaay, treasure!"
+msgstr ""
+
+#. お、なかなか強そーだね。
+#: [Millium]:392
+msgctxt "[Millium] #392"
+msgid "Oooh, that one looks tough."
+msgstr ""
+
+#. わわっ、キラキラしてるのがいる！
+#: [Millium]:393
+msgctxt "[Millium] #393"
+msgid "Whoa! Look at that shiny thing!"
+msgstr ""
+
+#. さー、どんどん進んでいこう！
+#: [Altina]:394
+msgctxt "[Altina] #394"
+msgid "Let's go go gooo!"
+msgstr ""
+
+#. んー、まだまだ続くみたいだねー。
+#: [Altina]:395
+msgctxt "[Altina] #395"
+msgid "Huh? There's more to go?"
+msgstr ""
+
+#. あ、ここが終点じゃない？
+#: [Altina]:396
+msgctxt "[Altina] #396"
+msgid "Oooh, this looks like the end!"
+msgstr ""
+
+#. お宝はっけーん！
+#: [Altina]:397
+msgctxt "[Altina] #397"
+msgid "Yaaay, treasure!"
+msgstr ""
+
+#. お、なかなか強そーだね。
+#: [Altina]:398
+msgctxt "[Altina] #398"
+msgid "Oooh, that one looks tough."
+msgstr ""
+
+#. わわっ、キラキラしてるのがいる！
+#: [Altina]:399
+msgctxt "[Altina] #399"
+msgid "Whoa! Look at that shiny thing!"
+msgstr ""
+
+#. よ、よーし、気をつけて行こう。
+#: [Elliot]:400
+msgctxt "[Elliot] #400"
+msgid "Let's be careful, everyone."
+msgstr ""
+
+#. うう、まだ続いてるみたいだね…
+#: [Elliot]:401
+msgctxt "[Elliot] #401"
+msgid "Oh, boy... There's more?"
+msgstr ""
+
+#. よかった～、終点みたいだ！
+#: [Elliot]:402
+msgctxt "[Elliot] #402"
+msgid "Yaaay! We're at the end!"
+msgstr ""
+
+#. あ、宝箱だよ！
+#: [Elliot]:403
+msgctxt "[Elliot] #403"
+msgid "Oh, a treasure chest!"
+msgstr ""
+
+#. 強そうなのがいる…気をつけないと。
+#: [Elliot]:404
+msgctxt "[Elliot] #404"
+msgid ""
+"That looks like a tough one.\n"
+" Be careful!"
+msgstr ""
+
+#. わわっ、あのキラキラしたのって…？
+#: [Elliot]:405
+msgctxt "[Elliot] #405"
+msgid "Whoa! What's that shiny thing?"
+msgstr ""
+
+#. さあ、探索を始めよう。
+#: [Machias]:406
+msgctxt "[Machias] #406"
+msgid ""
+"All right, time to commence our\n"
+" investigation."
+msgstr ""
+
+#. まだ続くのか…慎重に行こう。
+#: [Machias]:407
+msgctxt "[Machias] #407"
+msgid "We're not through yet. Stay alert."
+msgstr ""
+
+#. よーし、終点みたいだな。
+#: [Machias]:408
+msgctxt "[Machias] #408"
+msgid "All right! We're finally through."
+msgstr ""
+
+#. おっ、良さそうな宝箱だ。
+#: [Machias]:409
+msgctxt "[Machias] #409"
+msgid "Oh, what a nice-looking treasure chest."
+msgstr ""
+
+#. 強敵を発見…警戒を怠るな！
+#: [Machias]:410
+msgctxt "[Machias] #410"
+msgid "A dangerous foe. Stay on guard!"
+msgstr ""
+
+#. な、なんだあの光っているのは…？
+#: [Machias]:411
+msgctxt "[Machias] #411"
+msgid "What is that glowing creature...?"
+msgstr ""
+
+#. さて、とっとと行くとするか。
+#: [Gaius]:412
+msgctxt "[Gaius] #412"
+msgid "We should proceed onward."
+msgstr ""
+
+#. まだ続くか…気を抜くな。
+#: [Gaius]:413
+msgctxt "[Gaius] #413"
+msgid "There's more. Stay alert."
+msgstr ""
+
+#. フッ、ここが終点のようだな。
+#: [Gaius]:414
+msgctxt "[Gaius] #414"
+msgid "Hmph. We're finally done."
+msgstr ""
+
+#. ほう、宝箱か。
+#: [Gaius]:415
+msgctxt "[Gaius] #415"
+msgid "Oh, a treasure chest."
+msgstr ""
+
+#. でかいな…心してかかるぞ。
+#: [Gaius]:416
+msgctxt "[Gaius] #416"
+msgid "It's enormous... Stay on guard!"
+msgstr ""
+
+#. なんだ、あの奇妙なモノは…？
+#: [Gaius]:417
+msgctxt "[Gaius] #417"
+msgid "What is that bizarre creature?"
+msgstr ""
+
+#. さて、探索を始めるとしよう。
+#: [Jusis]:418
+msgctxt "[Jusis] #418"
+msgid "It's time to begin our investigation."
+msgstr ""
+
+#. む…まだ続いているようだな。
+#: [Jusis]:419
+msgctxt "[Jusis] #419"
+msgid ""
+"Hmm... We still seem to have a\n"
+" ways to go."
+msgstr ""
+
+#. フフ、どうやら終点のようだな。
+#: [Jusis]:420
+msgctxt "[Jusis] #420"
+msgid "Haha. We made it through."
+msgstr ""
+
+#. おや…宝箱があるな。
+#: [Jusis]:421
+msgctxt "[Jusis] #421"
+msgid ""
+"Huh. There seems to be\n"
+" a treasure chest here."
+msgstr ""
+
+#. 大きいな…気をつけて当たろう。
+#: [Jusis]:422
+msgctxt "[Jusis] #422"
+msgid ""
+"What a large monster...\n"
+" We'll need to be careful."
+msgstr ""
+
+#. なんだ、あの輝きは…？
+#: [Jusis]:423
+msgctxt "[Jusis] #423"
+msgid "What is that strange glow?"
+msgstr ""
+
+#. おーし、どんどん進むとしようぜ。
+#: [Crow]:424
+msgctxt "[Crow] #424"
+msgid "All right, let's get exploring!"
+msgstr ""
+
+#. なんだ、まだ続いてんのか？
+#: [Crow]:425
+msgctxt "[Crow] #425"
+msgid "Aww, man. We're still not through?"
+msgstr ""
+
+#. やれやれ、終点みてぇだな。
+#: [Crow]:426
+msgctxt "[Crow] #426"
+msgid "Whew... We're finally done."
+msgstr ""
+
+#. ヒュウ、お宝発見♪
+#: [Crow]:427
+msgctxt "[Crow] #427"
+msgid ""
+"*whistle* Now THAT'S what I call\n"
+" a chest!"
+msgstr ""
+
+#. ヤバイのがいるな…気をつけろ！
+#: [Crow]:428
+msgctxt "[Crow] #428"
+msgid "Looks like a tough one. Watch out!"
+msgstr ""
+
+#. なんだぁ、あの光ってやがるのは…！？
+#: [Crow]:429
+msgctxt "[Crow] #429"
+msgid "Whoa! What's that shiny thing?"
+msgstr ""
