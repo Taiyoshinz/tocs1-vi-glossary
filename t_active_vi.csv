@@ -1,0 +1,431 @@
+﻿source	target	context	comment
+#0 Yikes! A monster?!		[Elliot] #0	あ、あれって魔獣…！？
+#1 Huh... Never seen this kind before.		[Jusis] #1	ふむ、見たことのない種類だが。
+#2 It looks like a Flying Feline.\n Careful, everyone.		[Rean] #2	トビネコだな…\n 気を引き締めていこう。
+#3 Please tell me there aren't more of\n those things lurking around here...		[Elliot] #3	うう…今みたいなのが\n 何匹もうろついてるのかな…
+#4 I hate to tell you, but I can sense\n more further in.		[Jusis] #4	気配を感じる…\n 間違いなさそうだ。
+#5 Anyway, let's just stay alert.		[Rean] #5	とにかく、焦らず先に進もう。
+#6 I'm starting to lose my sense\n of direction down here...		[Elliot] #6	本当に地下道って感じだよね…\n 方向感覚がなくなってきたかも…
+#7 Yeah. Gotta make sure we're\n not going in circles.		[Rean] #7	ああ、気をつけて進まないとな。
+#8 What's a place like this even\n doing on the school grounds?		[Machias] #8	しかし、どうして学院の敷地に\n こんな場所があるんだ？
+#9 Yeah... Who puts a giant trap\n door in a campus building?		[Elliot] #9	そうだよねぇ…\n 落とし穴まで用意してるし。
+#10 Looks like the path splits. Which\n way do you think we should go?		[Rean] #10	分かれ道か…\n どちらに行ったものかな。
+#11 I feel a little wind blowing from the\n east. I'd bet the exit's that way.		[Jusis] #11	風を感じる…出口は東側のようだ。
+#12 ...		[Machias] #12	…………………………
+#13 (He seems kinda...imposing. I don't\n know how to break the ice...)		[Elliot] #13	（う、うーん…話しかけづらいかも…）
+#14 ...		[Gaius] #14	…………………………
+#15 (He seems kinda...imposing. I don't\n know how to break the ice...)		[Elliot] #15	（う、うーん…話しかけづらいかも…）
+#16 Bah... I feel like we've just\n been going in circles.		[Machias] #16	くっ…さっきから同じ場所を\n 歩き続けている気がするぞ…
+#17 You might be right. Maybe we should\n check where we are on the map.		[Rean] #17	ああ…いったん地図で\n 位置を確認した方がよさそうだ。
+#18 I feel like we've simply\n been running in circles.		[Gaius] #18	チッ…さっきから同じ場所を\n 歩き続けているようだな。
+#19 You might be right. Maybe we should\n check where we are on the map.		[Rean] #19	ああ…いったん地図で\n 位置を確認した方がよさそうだ。
+#20 Wow, check out all these stalls!		[Elliot] #20	あはは、色んな屋台があって\n 目移りしちゃうね。
+#21 Oooh. The lace at that stall\n has a really pretty design.		[Alisa] #21	うーん、今のレース、\n すごく良い柄だったわね。
+#22 Mishy...? I admit, it has a certain charm.		[Laura] #22	みっしぃ…？\n 妙に心惹かれる造形だな。
+#23 All these windmills sure make\n the town feel pretty laid back.		[Alisa] #23	風車がたくさん…\n ふふっ、のどかでいいわね。
+#24 True. The scenery is surprisingly\n relaxing.		[Laura] #24	うん、癒される光景だな。
+#25 This would be a really tranquil\n area...if not for the monsters.		[Elliot] #25	こっちものどかだね…\n やっぱり魔獣はいるみたいだけど。
+#26 Yeah. Let's be careful.		[Rean] #26	まあ、気をつけて行こう。
+#27 Is this a farmhouse?		[Laura] #27	ここは…農家のようだな。
+#28 Huh. I wonder where we are...		[Elliot] #28	あれ、なんだろう、ここ…
+#29 Hmm... It says,\n 'Lunaria Nature Park.'		[Laura] #29	ふむ、『ルナリア自然公園』\n と書かれているようだが。
+#30 Wow. This farmhouse is huge.		[Alisa] #30	へえ…大きな農家ね。
+#31 Haha. Look at the cows! ♪		[Elliot] #31	あはは、牛がいるよ♪
+#32 The Transcontinental Railroad, huh?\n Guess that'll take you out of the country.		[Rean] #32	大陸横断鉄道…\n 外国に通じているんだったな。
+#33 Yeah. If you keep on heading east, you'd\n eventually reach Garrelia Fortress.		[Alisa] #33	ええ…このずっと先に\n 東の国境、ガレリア要塞があるわ。
+#34 We should take a right here\n to reach the nature park.		[Laura] #34	自然公園は、ここを右手だな。
+#35 Right. Let's go!		[Alisa] #35	ええ、行ってみましょう…！
+#36 There's tons of little stone\n monuments in here...		[Elliot] #36	なんか、小さな石碑が\n あちこちにあるけど…
+#37 Yeah. What do you think\n they're supposed to be?		[Alisa] #37	ええ…何なのかしら？
+#38 I imagine they were made by\n the animists in this province.		[Laura] #38	多分、この地方にあった\n 精霊信仰の名残だろう。
+#39 This way's a dead end.		[Laura] #39	こちらは行き止まりか。
+#40 Yeah... This park covers a lot\n more area than I was expecting.		[Rean] #40	ああ…思った以上に\n 奥深いみたいだな。
+#41 Oh, there's a stream here.\n This seems like a nice spot.		[Alisa] #41	小川か…少しほっとするわね。
+#42 I can't sense anyone in this area.		[Laura] #42	この辺りに\n 人の気配はないようだ。
+#43 Just how deep does this forest go?		[Elliot] #43	こ、この森、\n どこまで続いてるのかな…
+#44 We must be pretty far in now.\n I'd imagine we're almost there.		[Laura] #44	かなり進んだはずだ。\n あと一息だろう。
+#45 Oh, hey! There's an orbment\n charging station!		[Alisa] #45	あっ…！\n 回復装置があるわ…！
+#46 We must be in the most remote\n reaches of the park.		[Rean] #46	ああ…どうやら終点みたいだ。
+#47 Who's this a statue of?		[Fie] #47	この像、ナニ？
+#48 It seems to be a statue\n of St. Veronica.		[Emma] #48	聖女ヴェロニカの像、\n みたいですね。
+#49 Oh? You know of her?		[Gaius] #49	ほう、詳しいな。
+#50 *sigh* I love the look of this\n city. It's so beautiful...		[Emma] #50	はぁ…\n 本当に綺麗な街並みですね。
+#51 Maybe so, but it's got nothing on\n Heimdallr in terms of sheer scale.		[Machias] #51	フン…規模は帝都の方が\n はるかに上だがな。
+#52 Is this the way to\n the city's airport?		[Rean] #52	この先は…\n 飛行船の発着場みたいだな。
+#53 It is, though I doubt we'll have\n any reason to go there.		[Gaius] #53	ああ、今回は用はあるまい。
+#54 This seems to be the city's noble quarter.		[Emma] #54	この辺りは…貴族の方々が\n 住んでいるみたいですね。
+#55 No wonder most of these houses\n look so overblown and excessive.		[Machias] #55	フン、どうりでお高く止まった\n 屋敷が多いわけだ。
+#56 ...		[Gaius] #56	…………………………
+#57 Wait, this leads to...		[Gaius] #57	おい、そちらは…
+#58 Huh? What's wrong?		[Rean] #58	？ どうしたんだ？
+#59 ...Never mind.		[Gaius] #59	…いや、何でもない。
+#60 This street seems kinda\n different from the others.		[Fie] #60	ここ、ちょっと雰囲気違うね。
+#61 This is Artisans' Street, where craftsmen\n and merchants ply their trades.		[Gaius] #61	職人通り…\n 様々な店が軒を連ねているな。
+#62 Oh, a lake.		[Fie] #62	あ、池がある。
+#63 Heehee. It looks so pretty.		[Emma] #63	ふふっ、綺麗ですね。
+#64 A bridge, huh?		[Machias] #64	この橋は…
+#65 Saar Bridge. Beyond here is out\n of bounds for our field study.		[Gaius] #65	ザール橋…\n 実習範囲はここまでだ。
+#66 That bridge above us looks like it\n dates back to the Middle Ages.		[Rean] #66	上にあるのは…\n 中世の橋梁みたいだな。
+#67 It is. It's been there for\n several hundred years.		[Gaius] #67	ああ、数百年前のものだ。
+#68 This looks like quite an old road,\n though it does seem well reinforced.		[Emma] #68	古い道みたいですけど…\n かなり補強がされていますね。
+#69 Yup... Looks like a lot of\n armored vehicles come this way.		[Fie] #69	ん…車両も結構通ってるみたい。
+#70 ...		[Gaius] #70	…………………………
+#71 I didn't notice there was a path here...		[Machias] #71	こんな所に道が…
+#72 The monster we're looking\n for should be just ahead.		[Rean] #72	手配された魔獣は\n この先みたいだな。
+#73 We're finally back.		[Fie] #73	やっと戻って来た。
+#74 Whew... My feet are killing me.		[Emma] #74	ふぅ…\n さすがに歩き疲れましたね。
+#75 Just the kind of thing you'd\n expect in an old ruin like this.		[Fie] #75	いかにも中世の遺跡っぽい\n ギミックだね。
+#76 Do you think it's powered by\n the water flowing through here?		[Emma] #76	ええ、水の力を\n 使ってるんでしょうか。
+#77 The entrance to the guardhouse is\n to the west. We should hurry.		[Gaius] #77	領邦軍の詰所は西だ。\n …とにかく急ぐぞ。
+#78 *pant* Why is this ladder so long?		[Emma] #78	ふぅふぅ…\n ずいぶん長い梯子ですね。
+#79 Is it harder to climb ladders\n when you've got a big chest?		[Fie] #79	やっぱり胸が大きいと\n 登りにくい？
+#80 F-Fie...!		[Emma] #80	フィ、フィーちゃん…///
+#81 ...		[???] #81	…………………………
+#82 There's another lattice door...		[Rean] #82	また格子扉か…
+#83 There should be a mechanism\n to open it somewhere nearby.		[Gaius] #83	近くの仕掛けで開くはずだ。\n 探してみるぞ。
+#84 Whew... I'm exhausted...		[Emma] #84	はぁ…ちょっと疲れました。
+#85 It's gotta be the chest...		[Fie] #85	やっぱり胸が…
+#86 Fie, that's enough.		[Rean] #86	フィー。\n そのくらいにしなさい。
+#87 ...Honestly.		[Gaius] #87	…まったく。
+#88 Ugh. If I hadn't been so careless,\n this would never have happened...		[Machias] #88	クッ、しかし油断しなければ\n こんな事態には…
+#89 There wasn't much you could've done.		[Rean] #89	あの場合は仕方ないさ。
+#90 Heehee. I'm just glad you're all right.		[Emma] #90	ふふっ…\n とにかく無事で良かったです。
+#91 That's the wrong way...!		[Fie] #91	そっちは違う…！
+#92 We need to head east! Hurry!		[Gaius] #92	東へまっすぐだ、急ぐぞ！
+#93 Yoohoo!		[Alisa] #93	やっほ──…っ！
+#94 Heehee. You're as excited as a child.		[Emma] #94	ふふっ、アリサさん、\n 子供みたい。
+#95 Ahaha. I think I'm just\n caught up in the moment.		[Alisa] #95	あはは、ちょっと\n ハイになってるみたい。
+#96 The sun's almost down...		[Gaius] #96	日が落ちてきたな…
+#97 We're almost at the settlement.\n Let's keep up the pace, guys.		[Jusis] #97	集落までもう少しだ。\n このまま飛ばすとしよう。
+#98 Heehee. Look at all the sheep here.		[Emma] #98	ふふっ…\n 羊がたくさんですね。
+#99 Watching them makes me feel so...content.		[Alisa] #99	うーん、癒されるわね。
+#100 You have an orbal truck here?		[Rean] #100	へえ、導力車も\n 使っているんだな？
+#101 Looks like an old-model Reinford truck.		[Alisa] #101	ラインフォルト製の\n 古い運搬車みたいだけど…
+#102 Yup. It was donated to the\n settlement a few years ago.		[Jusis] #102	数年前、とある人が\n 寄贈してくれたものでな。
+#103 I'm surprised to see a river\n running at this elevation.		[Gaius] #103	ほう…こんな高地にも\n 川が流れているのか。
+#104 It's fed from the lake to the north.		[Jusis] #104	ああ、北にある湖から\n 流れてきたものだ。
+#105 I figured there'd be monsters\n around. Be careful, everyone.		[Jusis] #105	やはり魔獣が出ている…\n 気をつけて行くとしよう。
+#106 Got it.		[Rean] #106	ああ、了解だ…！
+#107 Umm... Isn't this the way to...?		[Emma] #107	えっと、こちらの方って…
+#108 This path leads to the stone\n circle you saw yesterday.		[Jusis] #108	このまま道沿いに回ると\n 昨日の石柱群にたどり着くな。
+#109 Is this the way to the watchtower?		[Gaius] #109	監視塔とやらはこの先か。
+#110 Yeah. Just keep heading along this path.		[Jusis] #110	ああ、このまま\n 道沿いに行けばいい。
+#111 Well...here we are...		[Alisa] #111	や、やっと門に着いたわね…
+#112 Let's go meet with the\n lieutenant general.		[Rean] #112	ああ…\n 中将から話を聞いてみよう。
+#113 That's...		[Alisa] #113	あれが…
+#114 It looks like a Calvard military base.		[Emma] #114	共和国軍の基地みたいですね…
+#115 It is. This area kind of acts as a\n buffer zone between the two countries.		[Jusis] #115	ああ…ちょうどこの辺りが\n 緩衝地帯になっているらしい。
+#116 There's mist in the distance...		[Gaius] #116	モヤが立っているな…
+#117 Yeah. It's even higher here\n than the southern highlands.		[Rean] #117	ああ、南よりも\n さらに高地なんだろう。
+#118 Wow... That's one towering waterfall.		[Alisa] #118	わぁ…あの滝、\n 凄い高さから落ちてるわね。
+#119 I'll say. It must be at\n least a 500 arge drop.		[Emma] #119	ええ、５００アージュくらい\n 落差がありそうですね…
+#120 Oh, it's a plateau. I guess\n this way's a dead end.		[Rean] #120	高台か…\n こちらは行き止まりだな。
+#121 Ahhh... I love how refreshing\n the wind feels here.		[Emma] #121	ふふっ、風が気持ちいいですね。
+#122 Oh... We made it all the way\n to where the giant statue is.		[Alisa] #122	あ…像の正面に来たわね。
+#123 It looks even more massive\n the closer we get.		[Rean] #123	ああ、それにしても大きいな…
+#124 To get right in front of it, we'll\n need to go around the cliff.		[Jusis] #124	像の前に行くには\n 左右から回り込む必要があるな。
+#125 I'm glad to be back here again.		[Emma] #125	ふぅ…ホッとしますね。
+#126 Agreed. I'm certainly\n in no hurry to return.		[Gaius] #126	フン…\n 辛気臭い場所だったな。
+#127 How beautiful...		[Alisa] #127	……綺麗………
+#128 Yeah... Breathtaking.		[Emma] #128	素敵な場所ですね…
+#129 Man, I'd love to get in\n a little fishing here.		[Rean] #129	うーん…\n 釣りがしたくなるな。
+#130 Well, no one's stopping you.		[Gaius] #130	別に止めはしないぞ。
+#131 This is...		[Emma] #131	ここは…
+#132 It's so gloomy in here...		[Alisa] #132	な、なんか薄暗いわね…
+#133 ...		[Jusis] #133	…………………………
+#134 That's one of the Imperial\n Army's airships...		[Alisa] #134	帝国軍が運用している\n 軍用飛行艇だわ…
+#135 This situation is looking\n worse by the minute.		[Gaius] #135	フン、思った以上に\n キナ臭くなっているな。
+#136 ...We need to hurry.		[Jusis] #136	…とにかく急ぐぞ。
+#137 Those are armored cars\n from the Imperial Army...!		[Emma] #137	帝国軍の導力装甲車…！
+#138 Damn... This isn't looking good...		[Rean] #138	クッ、このままじゃ…
+#139 ...		[Jusis] #139	………………………
+#140 We can't let them get away!		[Jusis] #140	このまま行かせるものか…！
+#141 Right! We need to overtake them!		[Rean] #141	ああ！\n 何としても追いつこう！
+#142 Crap... They're fast!		[Rean] #142	くっ、速い…！
+#143 Just don't lose sight of them!		[Gaius] #143	ともかく見失うな…！
+#144 Did they touch down near\n the stone circle...?		[Emma] #144	せ、石柱群のあたりに\n 降りたんでしょうか…！？
+#145 Grrr... There's no escape for them now!		[Alisa] #145	くうう～…\n 絶対に追いつくわよっ！
+#146 Woohoooooo! This is amaaaziiiiiing!		[Altina] #146	ひゃっほう！\n あはは、気持ちいーね！
+#147 *sigh* If you keep squirming around\n back there, you're going to fall off.		[Rean] #147	はあ…あんまりはしゃいで\n 落ちないようにな？
+#148 Mmm... If we keep up this pace,\n we might make it in time after all.		[Altina] #148	うーん、この速度なら\n 何とか間に合いそうかな？
+#149 Not might. We WILL make it in time.		[Jusis] #149	ああ…\n 必ず間に合わせてみせる！
+#150 The ancient quarry is this way, right?		[Alisa] #150	石切り場…この先ね。
+#151 Yup. Just 'round the back of this statue!		[Altina] #151	うん、この像の裏手だよ～！
+#152 What are those glowing things, anyway?		[Alisa] #152	それにしても…\n なに、あの光ってるの…？
+#153 I'm actually rather curious, myself.		[Emma] #153	ええ…\n ちょっと気になりますね。
+#154 A-hem!		[Altina] #154	──えっへん！
+#155 How does that thing even WORK?		[Gaius] #155	まったく…\n どういうカラクリだ。
+#156 That one's huge... What do you\n think they could be?		[Rean] #156	大きいな…本当に何なんだ？
+#157 I don't know, but we'd better\n exercise a little caution.		[Jusis] #157	判らん──だが、\n 気を付けた方がよさそうだ。
+#158 Oh, we're back outside.		[Altina] #158	あ、外に出たね。
+#159 Ahhh... It's nice to be back\n in the great outdoors again.		[Alisa] #159	ふう…\n 少しホッとするわね。
+#160 Ah, isn't this...?		[Laura] #160	おや、この建物は…
+#161 Oh, this is where they publish the\n Imperial Chronicle newspaper.		[Elliot] #161	《帝国時報》──\n おなじみの新聞社だね。
+#162 So this is the opera house, huh?\n Might be nice to see a show sometime.		[Rean] #162	オペラハウスか…\n ちょっと興味あるな。
+#163 You need to reserve your seats\n two months in advance, though.		[Machias] #163	入りたいのなら２ヶ月前から\n 予約する必要があるぞ。
+#164 ...And that's just for the cheap seats!		[Elliot] #164	それでもＢ席だもんねぇ。
+#165 Wow. A tiara encrusted with carnelians?\n This is about as ritzy as you can get.		[Rean] #165	紅耀石のティアラか…\n かなりの品みたいだな。
+#166 It's so shiny...		[Fie] #166	ん…キラキラしてる。
+#167 Here's the statue of Emperor Dreichels.\n He strikes quite a stately pose.		[Laura] #167	獅子心皇帝…\n 威風堂々としたお姿だな。
+#168 Weird to think he's the one\n who founded our academy.		[Rean] #168	ああ、俺たちにとっても\n 縁のある人なんだよな。
+#169 Hmm... Looks like we've hit a dead end.		[Laura] #169	ふむ…こちらは行き止まりか。
+#170 This area seems easy to get lost in.		[Rean] #170	うーん、土地勘がないと\n 迷いそうだな。
+#171 That's three cats now.		[Fie] #171	ネコ、これで３匹目。
+#172 Ahaha. What a little cutie.		[Elliot] #172	あはは、可愛かったね。
+#173 There have always been a lot of cats\n around here. Not sure why, though.		[Machias] #173	…この辺りは\n なぜか猫が多いんだ。
+#174 This would make a great training area.\n I envy the people who live around here.		[Laura] #174	ふむ、中々良い修行場所だ。\n 帝都民がうらやましいぞ。
+#175 ...Only YOU would see an underground\n passage and think about training.		[Machias] #175	そんな感想を抱くのは\n 間違いなく君くらいだぞ…
+#176 There's a light...		[Fie] #176	明かりが見えた。
+#177 The sound's getting louder, too.		[Elliot] #177	音も大きくなってる…
+#178 We must be getting\n close to the exit now.		[Rean] #178	出口が近いみたいだな。
+#179 Ahhh... What a pleasant evening.		[Laura] #179	ふふ、良い夜だな。
+#180 It's pretty relaxing.		[Fie] #180	ん…落ち着く。
+#181 (No denying those two have\n some surprising similarities...)		[Rean] #181	（やっぱりこの２人、\n  元々気が合うんだな…）
+#182 Being near water always helps me relax.		[Laura] #182	フフ…\n やはり水辺は落ち着くな。
+#183 Oh, yeah. Your hometown is right\n on a lake, isn't it?		[Rean] #183	そういえば、ラウラの故郷は\n 湖に面してるんだったか。
+#184 Esperanza?		[Fie] #184	“えすぺらんさ”…？
+#185 I believe it means 'hope.'		[Machias] #185	たしか“希望”という意味だな。
+#186 This park is so peaceful, it's easy\n to forget we're in the capital.		[Laura] #186	のどかだな…\n 帝都にあるとは思えぬくらいだ。
+#187 I could take a nap here.		[Fie] #187	昼寝したいかも。
+#188 Ahaha. Yeah. People love to\n come here to relax.		[Elliot] #188	あはは、一応、\n 帝都市民の憩いの場所だからね。
+#189 *sigh* Just coming here reminds\n me of last night's ordeal.		[Machias] #189	はあ…昨夜は散々だった。
+#190 Sounds like you had a rough night.		[Elliot] #190	あはは…ご愁傷さま。
+#191 There are so many butterflies.		[Fie] #191	蝶、結構いるね。
+#192 It really gives the place an\n exotic touch, huh?		[Rean] #192	ああ、ちょっと\n 異国情緒があるな。
+#193 I wonder when that mechanism was made...		[Elliot] #193	こういう仕掛けって、\n 何時ごろ造られたのかな？
+#194 I'm guessing a few hundred years ago\n at least. Probably during the Dark Ages.		[Machias] #194	たぶん数百年前…\n 中世の暗黒時代じゃないか？
+#195 Those were difficult times back then.		[Laura] #195	ふむ、戦乱の時代だな。
+#196 This area's full of water...		[Elliot] #196	水が溜まってるね…
+#197 I'll bet there's some way\n to drain it.		[Rean] #197	ああ、どうしたもんかな。
+#198 Let's have a look around, then.		[Fie] #198	周りを調べてみるしか。
+#199 This place seems like it goes\n on forever...		[Elliot] #199	そ、それにしても\n とんでもなく広いよね…
+#200 My father sure gave us a real\n humdinger of a job to deal with.		[Machias] #200	ああ…父さんめ、\n 厄介ごとを押し付けたな。
+#201 Well, I'm sure we must be\n getting close now.		[Rean] #201	はは…\n まあ、あと少しだろう。
+#202 Oh, there's the exit.		[Fie] #202	あ、出口だ。
+#203 Haha. We're finally there.		[Laura] #203	フフ、やれやれだな。
+#204 Sure are more people out than\n there were yesterday.		[Rean] #204	しかし昨日よりも\n ずいぶん人出が多いな…
+#205 They must've all come to see\n the Imperial family's parade.		[Elliot] #205	あはは、皇族の方々の\n パレード目当てだろうね。
+#206 Grr... Those damn terrorists...		[Machias] #206	くっ、テロリストめ…
+#207 (Elise... Princess Alfin...\n Please be safe!)		[Rean] #207	（エリゼ、皇女殿下も…\n  無事でいてくれ…！）
+#208 Monsters!		[Elliot] #208	魔獣がいる…！
+#209 No problem. We'll just\n cut our way through!		[Laura] #209	問題ない…！\n このまま蹴散らすぞ！
+#210 Ja.		[Fie] #210	Ｊａ（ヤー）。
+#211 This is Lake Ebel, right? It's even\n bigger than I thought it'd be!		[Millium] #211	エベル湖だっけー。\n けっこう広そうな湖だよね。
+#212 It's quite large. If the mist would\n clear, you could get a better view.		[Laura] #212	うむ、今日はあいにく\n 霧が出てよく見えぬが。
+#213 A cross inside a circle...\n Any idea what it means?		[Gaius] #213	円に十字か…\n どんな意味があるんだ？
+#214 No one really knows for sure. There\n are a number of theories, though.		[Laura] #214	さて…諸説はあるが\n どれも定かでないらしい。
+#215 Unfortunately, the meanings of most\n animist symbols have been lost over time.		[Emma] #215	精霊信仰におけるシンボルの意味は\n 殆ど喪われているそうですから…
+#216 You've got a wharf here?		[Jusis] #216	このあたりは、船着場か？
+#217 We do. A ferry makes trips between\n here and the opposite shore.		[Laura] #217	うむ、対岸にある波止場と\n 定期船が行き来しているな。
+#218 If you crossed the lake, you'd be\n in the Sutherland province, right?		[Rean] #218	対岸というと…\n サザーラント州になるのか。
+#219 This building is the Legram\n branch of the Bracer Guild.		[Laura] #219	この建物が、遊撃士協会、\n レグラム支部になる。
+#220 Wow. I didn't think that door\n led out here.		[Millium] #220	へー、こんな所に出られるんだー。
+#221 Haha. Nice find.		[Rean] #221	はは、穴場かもしれないな。
+#222 It feels almost...magical.		[Jusis] #222	しかし…幻想的な光景だな。
+#223 I know. Like if you just wait long enough,\n you might see a fairy or something.		[Emma] #223	そうですね…\n 本当に妖精とか現れそうです。
+#224 Oh, the train comes through here!		[Millium] #224	あ、線路があるよ！
+#225 That's the Ebel Branch Line--the\n same line we traveled here on.		[Gaius] #225	エベル支線…\n 俺たちが通ってきた路線か。
+#226 Oh, wow. There's a river out here.		[Rean] #226	へえ、川が流れているのか。
+#227 Haha. I remember playing in\n this river when I was young.		[Laura] #227	フフ、幼い頃はあそこで\n よく水遊びをしたものだ。
+#228 Oooh, there's a boat on the wharf!		[Millium] #228	あー、船が来てるよ！
+#229 That's the ferry liner. It returns\n to the wharf every evening.		[Laura] #229	水上定期船だ。\n 夕方にはこちらに戻ってくる。
+#230 Ahhh. It's so cool here, you'd\n hardly believe it's summer.		[Millium] #230	はー、夏なのに涼しいね～。
+#231 The weather's pleasant today.\n A fine wind blowing, too.		[Jusis] #231	天気もいいし、\n 良い風が吹いているな。
+#232 Strutting around another lord's\n territory... How pompous can you get?		[Gaius] #232	気に喰わんな…\n よその領地で我が物顔とは。
+#233 It sounds like there's a real VIP here...		[Emma] #233	かなりの地位の方が\n いらしているようですが…
+#234 ...Well, let's return to the manor\n for now.		[Laura] #234	…まあ、ともかく戻るとしよう。
+#235 So this is St. Sandlot's old\n stronghold, Lohengrin Castle...		[Rean] #235	ローエングリン城…\n 救国の聖女の古城か。
+#236 This is the first time I've come here\n at night. Be careful of your footing.		[Laura] #236	私も夜に来るのは初めてだ。\n 足元に気をつけるがいい。
+#237 Whoa! What's that?		[Millium] #237	ほえ、あれって…
+#238 Something's strange about the castle...		[Gaius] #238	城の外壁のようだが…
+#239 Is that glow just the moonlight?		[Jusis] #239	月明かりで\n 光っているのか…？
+#240 This castle has no shortage of strange\n foes. Perhaps they really ARE gho--		[Gaius] #240	妙な連中ばかりだな。\n フン、やはり幽──
+#241 D-Don't say it!		[Millium] #241	い、言っちゃだめーっ！！
+#242 You need a 'key' to dispel a barrier\n like this. We should start looking.		[Emma] #242	この種の結界には“鍵”があるはず。\n …それらしい物を探してみましょう。
+#243 An external corridor. We must be\n on the north side of the castle.		[Jusis] #243	外回廊…\n 城の北側になるみたいだな。
+#244 We've gone pretty far inside now.\n I hope the children are safe...		[Laura] #244	かなり奥まで来たはずだ。\n 子供たちが無事だといいが…
+#245 Oh, another barrier. Let's see if we\n can find the orb that dispels it.		[Emma] #245	あ…また結界ですね。\n 対応する宝珠を探しましょう。
+#246 (This all seems strangely\n ...normal to her.)		[Rean] #246	（委員長、妙に手際がいいな…）
+#247 Left hand, right hand,\n left hand, right hand...		[Millium] #247	うんしょ、うんしょ…
+#248 Tch... Nothing but trouble.		[Gaius] #248	フン、面倒だな。
+#249 This looks like...		[Rean] #249	ここが…
+#250 We've reached the uppermost floor.\n The bell tower is ahead.		[Laura] #250	城の最上階…\n この先に鐘楼がある。
+#251 The energy's source is\n nearby... Almost there!		[Emma] #251	気配が近い…\n 行ってみましょう！
+#252 What the...?!		[Rean] #252	これは…！
+#253 Looks like they were packing explosive\n charges. We'll need to find another route!		[Sara] #253	爆発物で破壊したみたいね。\n …他のルートを探すわよ！
+#254 It seems this is a storage area.		[Gaius] #254	ここは倉庫区画か…
+#255 Plenty of archaisms wandering\n around here, too.		[Millium] #255	やっぱり人形兵器が\n 徘徊しているみたいだねー。
+#256 We finally got around to the other side.		[Jusis] #256	破壊されたゲートの向こうに\n 来たようだな。
+#257 The path to the right leads deeper\n into the fort. Let's keep moving.		[Laura] #257	要塞の奥は右手か…\n このまま進むとしよう。
+#258 Oooh, an orbment charging station!		[Millium] #258	あ、回復装置だ♪
+#259 That door near it looks\n like it leads outside...		[Emma] #259	外への出口も\n あるみたいですけど…
+#260 Probably an external corridor.\n Everyone, follow me!		[Sara] #260	たぶん外回廊ね…\n みんな、付いてきなさい！
+#261 Hmph. Another storage area.		[Gaius] #261	フン、また別の倉庫区画か。
+#262 Hmm... Looks like we hang a\n left if we wanna go through.		[Millium] #262	えーと、左手に向かえば\n エリアを抜けられるみたい。
+#263 This is the freight platform... We\n finally made it to the other side.		[Emma] #263	貨物用のホーム…\n 反対側にたどり着きましたね。
+#264 We've gotta be close. Just need to\n head up that staircase over there!		[Sara] #264	ゴールは近いわね。\n …そこの階段を登るわよ！
+#265 (ARCUS ringing)		[(Phone)] #265	（プルルル…プルルル…）
+#266 Sara here... Yeah. We're almost to\n the railway gun.		[Sara] #266	こちらサラ──ええ、もう少しで\n 列車砲の格納庫に到達します。
+#267 Yeah. May Aidios be with us both.		[Sara] #267	お互い女神の加護を…！
+#268 Is Group B almost there?		[Rean] #268	あちらも大詰めですか…
+#269 This is it, so get ready!		[Sara] #269	ええ…\n こっちも気合を入れるわよ！
+#270 Right!		[???] #270	はいっ…！
+#271 *sigh* Master Rean, please\n don't cause too much trouble.		[Mint] #271	ふう…リィン様。\n あまり困らせないで下さいませ。
+#272 Let's make our way to the\n Reinford headquarters.		[Mint] #272	ＲＦ本社ビルに参りましょう。
+#273 Uh... Right. Of course.\n (...Why is she singling ME out?)		[Rean] #273	りょ、了解です。\n （って、俺だけのせいなのか？）
+#274 M a s t e r R e a n?		[Mint] #274	リ・ィ・ン・様…？
+#275 I-I'm sorry. (That'll give me\n nightmares...)		[Rean] #275	す、すみません。\n （…笑顔が怖い…）
+#276 (Sweet dreams.)		[Crow] #276	（バッカ、むしろご褒美じゃねぇか。）
+#277 This way leads to Marquis\n Rogner's mansion.		[Alisa] #277	その先は…\n ログナー侯爵家の敷地ね。
+#278 So that's where Gelica's stubborn\n old man lives, huh? Better stay away.		[Crow] #278	ゼリカの堅物オヤジか。\n 会いたくねーなぁ。
+#279 These things sure are convenient.		[Elliot] #279	うーん…結構便利かも。
+#280 I know, right? I can see them building\n some in Heimdallr eventually.		[Machias] #280	ああ、帝都でも\n いずれ導入されそうだ。
+#281 Wh-Why are you going the wrong\n way? Just because you can?		[Alisa] #281	な、なんでわざわざ\n 逆走するのよ？
+#282 It's kinda fun.		[Fie] #282	ちょっと楽しいかも。
+#283 Plain old stairs just wouldn't cut it,\n for the famed industrial metropolis, huh?		[Machias] #283	街中にこんなものまで…\n つくづく機械の街という感じだな。
+#284 Yeah... For better or worse,\n this is a town full of tech.		[Alisa] #284	そうね…\n 良きにつけ、悪しきにつけだけど。
+#285 Looks like a dead end.		[Fie] #285	ん、行き止まりみたい。
+#286 This was...some kind of\n maintenance room, I think?		[Alisa] #286	ここは…メンテナンス用の\n 整備室だったかしら。
+#287 Wow. You can get a great view of\n the Reinford building from here.		[Elliot] #287	うわ～、ここからだと\n ＲＦビルがよく見えるね。
+#288 ...And a really sore neck.		[Fie] #288	…見てたら首が凝りそう。
+#289 Oh, yeah. This road leads all the way\n to your hometown, doesn't it, Rean?		[Elliot] #289	そういえば、この道って\n リィンの故郷に通じてるんだよね？
+#290 Yeah. It'd take you days to get there\n if you tried to walk it, though.		[Rean] #290	ああ、と言っても\n 徒歩だと数日はかかると思うぞ。
+#291 Huh. This is a pretty nice area.		[Rean] #291	へえ、いい場所だな。
+#292 Grandfather used to love coming here\n to fish, now that I think about it.		[Alisa] #292	そういえば、お祖父様が\n よくここに釣りに来てたわね。
+#293 You can always count on provincial\n army soldiers to be arrogant as hell.		[Machias] #293	領邦軍…\n 相変わらず横柄な連中だな。
+#294 Hmm... Wonder what they're\n doing out here.		[Crow] #294	んー…何かあんのかねぇ？
+#295 Wow! You can see all of Roer\n spread out from here.		[Rean] #295	へえ、ここからだと\n ルーレ市が一望できるな。
+#296 You can...though the view isn't as\n nice as it'd be from the front.		[Alisa] #296	ええ、街の裏手だから\n 見栄えはあまりよくないけど。
+#297 ...This is a pretty nice view.		[Fie] #297	…ちょっと良い眺めかも。
+#298 Oooh... Actually, I didn't even\n know about this place.		[Alisa] #298	へえ…\n こんな場所があったのね。
+#299 Oh, a train track.		[Fie] #299	あ、線路がある。
+#300 That's the freight line that\n runs into the mine.		[Alisa] #300	鉄鉱山に通じる貨物路線ね。
+#301 *pant* I'm gonna need a rest\n before we even get there.		[Elliot] #301	はあはあ…\n ちょっと疲れてきたかも。
+#302 Yeah... I wasn't expecting\n this path to be so steep.		[Machias] #302	あ、ああ…\n 意外と険しい道だな。
+#303 Man, you city slickers need to\n toughen up! Left, right, left, right!		[Crow] #303	都会っ子はだらしねえなぁ。\n ほれ、おいっちに、おいっちに！
+#304 What was that...?		[Rean] #304	なんだ……？
+#305 By the way, did you happen to\n run into Sharon on your way out?		[Rean] #305	そういや、出る時に\n シャロンさんに見つからなかったか？
+#306 She saw me leaving, but she just\n let me go.		[Fie] #306	ん、気付かれたけど\n 見逃してくれたっぽい。
+#307 Hmm... (Even the best maids\n aren't THAT all-knowing...)		[Rean] #307	そ、そうか……\n （本当、何者なんだろう。）
+#308 This is where Claire said\n to meet her, right?		[Fie] #308	大尉さんの指定、ここだっけ。
+#309 Yeah. This looks like the place.		[Rean] #309	ああ、そのはずだ。
+#310 (...They seem oddly cautious.)		[Fie] #310	（…妙に警戒してるね。）
+#311 (Yeah... I wonder if it has\n something to do with the RMP.)		[Rean] #311	（ああ…鉄道憲兵隊絡みか？）
+#312 This was some kind of\n classy bar, I think?		[Rean] #312	ここは…\n たしか飲み屋だったか。
+#313 Seems pretty lively in there.		[Fie] #313	賑わってるみたい。
+#314 Wow. This city's got a nice\n feel at night.		[Rean] #314	へえ…\n 夜だと雰囲気あるな。
+#315 Yeah... It's really pretty.		[Fie] #315	ん…すごく綺麗かも。
+#316 Argh. Every minute we spend here, things\n are getting worse for the miners.		[Alisa] #316	くっ、こうしている間にも\n 鉄鉱山の人たちが…
+#317 Stay calm, Alisa.		[Fie] #317	アリサ、焦りは禁物。
+#318 Yeah. The Railway Military Police\n are on their way, after all.		[Elliot] #318	そうだね…\n 鉄道憲兵隊も急行してるし。
+#319 Let's at least try and get\n a look at what's going on.		[Rean] #319	とにかく、様子だけでも\n 確かめに行ってみよう。
+#320 But man, if terrorists really were\n planning to blow up the mine...		[Crow] #320	しっかし、テロリストがこのまま\n 鉄鉱山を爆破でもしやがったら…
+#321 It would shake the very\n foundations of the Empire.		[Machias] #321	…帝国そのものの屋台骨が\n 揺らぎかねませんね。
+#322 ...		[Alisa] #322	……………………………
+#323 Hmm... Looks like this is just\n a one-way path.		[Neithardt] #323	ふむ、どうやらここは\n 基本的に一本道のようだね。
+#324 Well, no chance of us getting lost in\n here, at least. Let's run on through.		[Crow] #324	迷う心配はねぇな。\n 一気に突っ切るとすっか。
+#325 Oh, yeah... Towa's been pretty\n worried about all of you, you know?		[Neithardt] #325	そういえば、トワが君たちの事を\n ずいぶん心配していたよ。
+#326 Well, I'm glad to know she's looking\n out for us.		[Rean] #326	そうですか…有り難いな。
+#327 Yeah. Though I feel a little bad,\n since we're making more work for her.		[Alisa] #327	いつもお世話になっていますし、\n 本当に頭が上がりませんね。
+#328 We've been walking for ages.\n How far ARE we at this point?		[Elliot] #328	け、けっこう歩いたけど…\n どこまで来たんだろう。
+#329 Judging by the distance we've traveled,\n I'd say we're about halfway.		[Fie] #329	ん…歩数からすると\n 山道の半分くらいかな。
+#330 H-How can you tell that...?		[Machias] #330	す、凄いな。\n そんなことが分かるのか。
+#331 This path's gotten real\n twisty all of a sudden.		[Crow] #331	さっきから随分と\n 曲りくねってやがるな。
+#332 Hmm... I wonder if they built it like\n that to avoid the mine shafts...		[Neithardt] #332	ふむ、ひょっとしたら坑道を\n 避けて通っているのかもしれない。
+#333 If that's true, that must\n mean we're almost there!		[Alisa] #333	そうなると、そろそろ\n 到着しそうですね…！
+#334 Over there!		[Rean] #334	あ…！
+#335 Looks like we made it.		[Neithardt] #335	よし、ゴールだな。
+#336 Ahhhhhh... This is pure bliss. ㈱		[Neithardt] #336	うーん、眼福、眼福㈱
+#337 Stop that, Angelica!		[Alisa] #337	ア、アンゼリカさんっ…！
+#338 Just kiddin' around. I love it\n when you're angry.		[Neithardt] #338	冗談だよ。\n 怒った顔も可愛いね。
+#339 I swear, this girl...		[Crow] #339	ったく、この女だけは…
+#340 Looks like this place is crawling\n with archaisms, just like Garrelia.		[Machias] #340	やはりガレリア要塞と同じように\n 人形兵器が放たれているようだな…
+#341 There's some monsters I didn't see\n when we were here yesterday, too.		[Elliot] #341	昨日は見かけなかった\n 魔獣もいるみたいだけど…
+#342 They must have brought them in\n from outside. Be careful!		[Rean] #342	外から引き込んだのかもしれない。\n …気を引き締めて行こう！
+#343 There's the exit. Looks like the\n gate's been shut.		[Fie] #343	鉱山の出口…\n ゲートが閉じてるね。
+#344 So the provincial army and the RMP are\n having their shouting match out there...		[Machias] #344	この向こうで、領邦軍と\n 鉄道憲兵隊が睨み合ってるのか…
+#345 Let's just leave them to it.\n We need to head further in.		[Neithardt] #345	こちらはいい。\n 奥に進むとしよう。
+#346 Huh? A dead end?		[Elliot] #346	あれっ、行き止まり？
+#347 Maybe not. We walked past\n a ladder not too long ago.		[Neithardt] #347	いや、少し手前に\n 上に登る梯子があったはずだ。
+#348 Let's go back and find it.		[Rean] #348	探してみましょう。
+#349 Yep, this is the one. Climbing\n this should take us further in.		[Neithardt] #349	うん、ここを登れば\n さらに奥まで行けるはずだ。
+#350 ...There we go.		[Fie] #350	ん…これでヨシ。
+#351 Almost there... Just a little further now!		[Alisa] #351	終点は近いわ…行きましょう！
+#352 Umm... Rean...?		[Emma] #352	その…リィンさん。
+#353 Hold onto that thought for now.\n Let's just keep moving.		[Rean] #353	今はいいさ。\n とにかく先に進もう。
+#354 ...Right!		[Emma] #354	…はい！
+#355 Meow.		[Celine] #355	ニャア。
+#356 Meeeow... Mrrowr.		[Celine] #356	にゃああ…にゃおん。
+#357 ...I know. I'll be careful, I promise.		[Emma] #357	…分かってる。\n くれぐれも気をつけるから。
+#358 (I always get this feeling like Emma\n can actually understand Celine...)		[Rean] #358	（薄々気付いていたけど…\n  委員長、セリーヌと喋れるのか？）
+#359 *hiss*		[Celine] #359	ふしゃああ…
+#360 This looks like...		[Rean] #360	ここは…
+#361 I can sense something inside.		[Emma] #361	気配を感じる…\n 何かがあるみたいですね。
+#362 This looks like a nice spot.		[Rean] #362	うん、ここなら釣れそうだな。
+#363 Oooh, this looks like a good spot.		[Rean] #363	おっ、いいポイントみたいだな。
+#364 All right, let's get started.		[Alisa] #364	さあ、行きましょう。
+#365 Looks like we've still got a ways to go.		[Alisa] #365	まだ先があるみたいね。
+#366 Whew... This is the end.		[Alisa] #366	ふう、ここが終点ね。
+#367 Ah! It's a treasure chest! ♪		[Alisa] #367	あ、宝箱発見♪
+#368 That looks like a strong one...\n Be careful.		[Alisa] #368	強そうね…注意しないと。
+#369 What's that? It's so shiny...		[Alisa] #369	何かしら…あの光ってるの…
+#370 Onward!		[Laura] #370	さあ、行くとしようか。
+#371 Let's keep up the pace.		[Laura] #371	うむ、この調子で進むとしよう。
+#372 We appear to have reached the exit.		[Laura] #372	フフ、どうやら終点のようだな。
+#373 Is that a treasure chest?		[Laura] #373	ふむ、宝箱か。
+#374 A challenging foe. We should engage\n it with care.		[Laura] #374	難敵だな…心してかかるとしよう。
+#375 What's that strange shining creature?		[Laura] #375	むむっ…あの輝くモノは…
+#376 Please be careful, everyone.		[Emma] #376	皆さん、気をつけて行きましょう。
+#377 I wonder if we're around halfway\n through now.		[Emma] #377	ようやく中間地点でしょうか…
+#378 *sigh* It looks like we've\n finally made it to the end.		[Emma] #378	はぁ、やっと終点みたいですね。
+#379 Oh, that's a beautiful-looking\n treasure chest.		[Emma] #379	あ、立派な宝箱です。
+#380 This monster seems dangerous. Be careful!		[Emma] #380	危険度大…どうか気をつけて！
+#381 Oh? I wonder what that strange\n glow is...		[Emma] #381	あら、あの光っているのって…？
+#382 Let's go.		[Fie] #382	それじゃ、行こっか。
+#383 We're still not done?\n *sigh* What a pain.		[Fie] #383	まだあるのか…めんどいな。
+#384 Oh, there's the end.		[Fie] #384	ん、終点みたいだね。
+#385 I spy treasure.		[Fie] #385	お宝見っけ。
+#386 That one looks annoying.\n Watch out.		[Fie] #386	厄介そう…気をつけた方がいいかも。
+#387 So shiny... What is it?		[Fie] #387	キラキラしてる…なんだろ？
+#388 Let's go go gooo!		[Millium] #388	さー、どんどん進んでいこう！
+#389 Huh? There's more to go?		[Millium] #389	んー、まだまだ続くみたいだねー。
+#390 Oooh, this looks like the end!		[Millium] #390	あ、ここが終点じゃない？
+#391 Yaaay, treasure!		[Millium] #391	お宝はっけーん！
+#392 Oooh, that one looks tough.		[Millium] #392	お、なかなか強そーだね。
+#393 Whoa! Look at that shiny thing!		[Millium] #393	わわっ、キラキラしてるのがいる！
+#394 Let's go go gooo!		[Altina] #394	さー、どんどん進んでいこう！
+#395 Huh? There's more to go?		[Altina] #395	んー、まだまだ続くみたいだねー。
+#396 Oooh, this looks like the end!		[Altina] #396	あ、ここが終点じゃない？
+#397 Yaaay, treasure!		[Altina] #397	お宝はっけーん！
+#398 Oooh, that one looks tough.		[Altina] #398	お、なかなか強そーだね。
+#399 Whoa! Look at that shiny thing!		[Altina] #399	わわっ、キラキラしてるのがいる！
+#400 Let's be careful, everyone.		[Elliot] #400	よ、よーし、気をつけて行こう。
+#401 Oh, boy... There's more?		[Elliot] #401	うう、まだ続いてるみたいだね…
+#402 Yaaay! We're at the end!		[Elliot] #402	よかった～、終点みたいだ！
+#403 Oh, a treasure chest!		[Elliot] #403	あ、宝箱だよ！
+#404 That looks like a tough one.\n Be careful!		[Elliot] #404	強そうなのがいる…気をつけないと。
+#405 Whoa! What's that shiny thing?		[Elliot] #405	わわっ、あのキラキラしたのって…？
+#406 All right, time to commence our\n investigation.		[Machias] #406	さあ、探索を始めよう。
+#407 We're not through yet. Stay alert.		[Machias] #407	まだ続くのか…慎重に行こう。
+#408 All right! We're finally through.		[Machias] #408	よーし、終点みたいだな。
+#409 Oh, what a nice-looking treasure chest.		[Machias] #409	おっ、良さそうな宝箱だ。
+#410 A dangerous foe. Stay on guard!		[Machias] #410	強敵を発見…警戒を怠るな！
+#411 What is that glowing creature...?		[Machias] #411	な、なんだあの光っているのは…？
+#412 We should proceed onward.		[Gaius] #412	さて、とっとと行くとするか。
+#413 There's more. Stay alert.		[Gaius] #413	まだ続くか…気を抜くな。
+#414 Hmph. We're finally done.		[Gaius] #414	フッ、ここが終点のようだな。
+#415 Oh, a treasure chest.		[Gaius] #415	ほう、宝箱か。
+#416 It's enormous... Stay on guard!		[Gaius] #416	でかいな…心してかかるぞ。
+#417 What is that bizarre creature?		[Gaius] #417	なんだ、あの奇妙なモノは…？
+#418 It's time to begin our investigation.		[Jusis] #418	さて、探索を始めるとしよう。
+#419 Hmm... We still seem to have a\n ways to go.		[Jusis] #419	む…まだ続いているようだな。
+#420 Haha. We made it through.		[Jusis] #420	フフ、どうやら終点のようだな。
+#421 Huh. There seems to be\n a treasure chest here.		[Jusis] #421	おや…宝箱があるな。
+#422 What a large monster...\n We'll need to be careful.		[Jusis] #422	大きいな…気をつけて当たろう。
+#423 What is that strange glow?		[Jusis] #423	なんだ、あの輝きは…？
+#424 All right, let's get exploring!		[Crow] #424	おーし、どんどん進むとしようぜ。
+#425 Aww, man. We're still not through?		[Crow] #425	なんだ、まだ続いてんのか？
+#426 Whew... We're finally done.		[Crow] #426	やれやれ、終点みてぇだな。
+#427 *whistle* Now THAT'S what I call\n a chest!		[Crow] #427	ヒュウ、お宝発見♪
+#428 Looks like a tough one. Watch out!		[Crow] #428	ヤバイのがいるな…気をつけろ！
+#429 Whoa! What's that shiny thing?		[Crow] #429	なんだぁ、あの光ってやがるのは…！？
