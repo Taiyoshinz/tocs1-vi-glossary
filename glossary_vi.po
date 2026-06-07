@@ -1,9 +1,15 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-06-07 08:21+0000\n"
+"Last-Translator: Lư Hữu Phước <gumbal797@gmail.com>\n"
+"Language-Team: Vietnamese <https://hosted.weblate.org/projects/trails-of-"
+"cold-steel-1-vietnamese/glossary/vi/>\n"
 "Language: vi\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2026.6\n"
 
 #. Tear
 msgid "ティア"
@@ -620,3 +626,68 @@ msgstr "Đột Kích"
 #. Triple Advantage
 msgid "奇数攻撃"
 msgstr "Tam Đột Kích"
+
+msgid "魔獣"
+msgstr "Ma thú"
+
+msgctxt "đường ngầm dưới hồi dungeon đầu game"
+msgid "地下道"
+msgstr "Đường ngầm"
+
+msgid "学院の敷地"
+msgstr "Khuôn viên học viện"
+
+msgctxt "Mixiiiiiiiiiiiiiiiii"
+msgid "みっしぃ"
+msgstr "Mishy"
+
+msgid "ルナリア自然公園"
+msgstr "Công Viên Tự Nhiên Lunaria"
+
+msgid "大陸横断鉄道"
+msgstr "Đường Sắt Xuyên Lục Địa"
+
+msgid "石碑"
+msgstr "phiến đá"
+
+msgid " 精霊信仰"
+msgstr " tín ngưỡng thờ tinh linh"
+
+msgid "回復装置"
+msgstr "Thiết bị hồi phục"
+
+msgid "聖女ヴェロニカ"
+msgstr "Thánh Nữ Veronica"
+
+msgid "飛行船の発着場"
+msgstr "sân bay"
+
+msgid "職人通り"
+msgstr "Phố Nghệ Nhân"
+
+msgid "ザール橋"
+msgstr "Cầu Saar"
+
+msgid "領邦軍"
+msgstr "Quân Đội Lãnh Bang"
+
+msgid "集落"
+msgstr "làng"
+
+msgid "運搬車"
+msgstr "xe vận chuyển"
+
+msgid "石柱群"
+msgstr "Bãi cột đá"
+
+msgid "監視塔"
+msgstr "tháp quan sát"
+
+msgid "アージュ"
+msgstr "arge"
+
+msgid "軍用飛行艇"
+msgstr "phi thuyền quân sự"
+
+msgid "導力装甲車"
+msgstr "xe thiết giáp dẫn lực"
