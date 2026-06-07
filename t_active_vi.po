@@ -1,19 +1,25 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-06-07 08:21+0000\n"
+"Last-Translator: Lư Hữu Phước <gumbal797@gmail.com>\n"
+"Language-Team: Vietnamese <https://hosted.weblate.org/projects/trails-of-"
+"cold-steel-1-vietnamese/t_active_vi/vi/>\n"
 "Language: vi\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2026.6\n"
 
 #. Yikes! A monster?!
 msgctxt "[Elliot] #0"
 msgid "あ、あれって魔獣…！？"
-msgstr ""
+msgstr "Kia- kia là ma thú ư...!?"
 
 #. Huh... Never seen this kind before.
 msgctxt "[Jusis] #1"
 msgid "ふむ、見たことのない種類だが。"
-msgstr ""
+msgstr "Hừm... Chưa từng nhìn thấy chủng loại này bao giờ."
 
 #. It looks like a Flying Feline.
 #.  Careful, everyone.
@@ -21,7 +27,7 @@ msgctxt "[Rean] #2"
 msgid ""
 "トビネコだな…\n"
 " 気を引き締めていこう。"
-msgstr ""
+msgstr "Mèo bay nhỉ... Cẩn thận nó đấy."
 
 #. Please tell me there aren't more of
 #.  those things lurking around here...
@@ -29,7 +35,7 @@ msgctxt "[Elliot] #3"
 msgid ""
 "うう…今みたいなのが\n"
 " 何匹もうろついてるのかな…"
-msgstr ""
+msgstr "Ư... Đừng nói là có hàng tá con như thế đang lảng vảng ở đây nhé…"
 
 #. I hate to tell you, but I can sense
 #.  more further in.
@@ -37,12 +43,12 @@ msgctxt "[Jusis] #4"
 msgid ""
 "気配を感じる…\n"
 " 間違いなさそうだ。"
-msgstr ""
+msgstr "Tôi cảm nhận thấy gì đó... dường như không phải là do tưởng tượng..."
 
 #. Anyway, let's just stay alert.
 msgctxt "[Rean] #5"
 msgid "とにかく、焦らず先に進もう。"
-msgstr ""
+msgstr "Dù sao thì, chúng ta cứ cẩn thận mà tiến bước."
 
 #. I'm starting to lose my sense
 #.  of direction down here...
@@ -51,12 +57,14 @@ msgid ""
 "本当に地下道って感じだよね…\n"
 " 方向感覚がなくなってきたかも…"
 msgstr ""
+"Nơi này không khác gì một địa đạo thực sự... tớ thấy mình dần mất cảm giác "
+"phương hướng rồi đây…"
 
 #. Yeah. Gotta make sure we're
 #.  not going in circles.
 msgctxt "[Rean] #7"
 msgid "ああ、気をつけて進まないとな。"
-msgstr ""
+msgstr "Ừ, chúng ta nên cẩn thận để không bị lạc."
 
 #. What's a place like this even
 #.  doing on the school grounds?
@@ -64,7 +72,7 @@ msgctxt "[Machias] #8"
 msgid ""
 "しかし、どうして学院の敷地に\n"
 " こんな場所があるんだ？"
-msgstr ""
+msgstr "Nhưng tại sao lại có một nơi như thế này ngay dưới khuôn viên học viện?"
 
 #. Yeah... Who puts a giant trap
 #.  door in a campus building?
@@ -72,7 +80,7 @@ msgctxt "[Elliot] #9"
 msgid ""
 "そうだよねぇ…\n"
 " 落とし穴まで用意してるし。"
-msgstr ""
+msgstr "Phải nhỉ... có cả các loại bẫy sập các thứ nữa..."
 
 #. Looks like the path splits. Which
 #.  way do you think we should go?
@@ -80,35 +88,35 @@ msgctxt "[Rean] #10"
 msgid ""
 "分かれ道か…\n"
 " どちらに行ったものかな。"
-msgstr ""
+msgstr "Ngã rẽ sao... không biết họ đi đường nào nhỉ?"
 
 #. I feel a little wind blowing from the
 #.  east. I'd bet the exit's that way.
 msgctxt "[Jusis] #11"
 msgid "風を感じる…出口は東側のようだ。"
-msgstr ""
+msgstr "Có gió thổi... khả năng cao lối ra nằm ở hướng đông."
 
 #. ...
 msgctxt "[Machias] #12"
 msgid "…………………………"
-msgstr ""
+msgstr "…"
 
 #. (He seems kinda...imposing. I don't
 #.  know how to break the ice...)
 msgctxt "[Elliot] #13"
 msgid "（う、うーん…話しかけづらいかも…）"
-msgstr ""
+msgstr "(Ư-ừm... trông cậu bạn này khó bắt chuyện quá...)"
 
 #. ...
 msgctxt "[Gaius] #14"
 msgid "…………………………"
-msgstr ""
+msgstr "…"
 
 #. (He seems kinda...imposing. I don't
 #.  know how to break the ice...)
 msgctxt "[Elliot] #15"
 msgid "（う、うーん…話しかけづらいかも…）"
-msgstr ""
+msgstr "(Ư-ừm... trông cậu bạn này khó bắt chuyện quá...)"
 
 #. Bah... I feel like we've just
 #.  been going in circles.
@@ -116,7 +124,7 @@ msgctxt "[Machias] #16"
 msgid ""
 "くっ…さっきから同じ場所を\n"
 " 歩き続けている気がするぞ…"
-msgstr ""
+msgstr "Hừ... có cảm giác như chúng ta đi vòng vòng nãy giờ vậy…"
 
 #. You might be right. Maybe we should
 #.  check where we are on the map.
@@ -124,7 +132,7 @@ msgctxt "[Rean] #17"
 msgid ""
 "ああ…いったん地図で\n"
 " 位置を確認した方がよさそうだ。"
-msgstr ""
+msgstr "Ừ... có lẽ chúng ta nên dừng lại để kiểm tra bản đồ."
 
 #. I feel like we've simply
 #.  been running in circles.
@@ -132,7 +140,7 @@ msgctxt "[Gaius] #18"
 msgid ""
 "チッ…さっきから同じ場所を\n"
 " 歩き続けているようだな。"
-msgstr ""
+msgstr "Chậc... cảm giác như nãy giờ chúng ta đi vòng quanh mãi một nơi vậy."
 
 #. You might be right. Maybe we should
 #.  check where we are on the map.
@@ -140,14 +148,14 @@ msgctxt "[Rean] #19"
 msgid ""
 "ああ…いったん地図で\n"
 " 位置を確認した方がよさそうだ。"
-msgstr ""
+msgstr "Ừ... có lẽ chúng ta nên dừng lại để kiểm tra bản đồ."
 
 #. Wow, check out all these stalls!
 msgctxt "[Elliot] #20"
 msgid ""
 "あはは、色んな屋台があって\n"
 " 目移りしちゃうね。"
-msgstr ""
+msgstr "Ahaha, có nhiều hàng quán quá. Kiểu này sẽ phân tâm mất."
 
 #. Oooh. The lace at that stall
 #.  has a really pretty design.
@@ -155,14 +163,14 @@ msgctxt "[Alisa] #21"
 msgid ""
 "うーん、今のレース、\n"
 " すごく良い柄だったわね。"
-msgstr ""
+msgstr "Chà, món đồ len kia có họa tiết đẹp ghê."
 
 #. Mishy...? I admit, it has a certain charm.
 msgctxt "[Laura] #22"
 msgid ""
 "みっしぃ…？\n"
 " 妙に心惹かれる造形だな。"
-msgstr ""
+msgstr "Mishy...? Quả thật là cũng có điểm hút mắt riêng."
 
 #. All these windmills sure make
 #.  the town feel pretty laid back.
@@ -170,13 +178,13 @@ msgctxt "[Alisa] #23"
 msgid ""
 "風車がたくさん…\n"
 " ふふっ、のどかでいいわね。"
-msgstr ""
+msgstr "Có nhiều cối xay gió ghê... haha, cảm giác thật thanh bình làm sao."
 
 #. True. The scenery is surprisingly
 #.  relaxing.
 msgctxt "[Laura] #24"
 msgid "うん、癒される光景だな。"
-msgstr ""
+msgstr "Ừm, quang cảnh thật dễ chịu làm sao."
 
 #. This would be a really tranquil
 #.  area...if not for the monsters.
@@ -184,22 +192,22 @@ msgctxt "[Elliot] #25"
 msgid ""
 "こっちものどかだね…\n"
 " やっぱり魔獣はいるみたいだけど。"
-msgstr ""
+msgstr "Nơi này đúng là thanh bình thật... mặc cho vẫn còn ma thú ở quanh đây."
 
 #. Yeah. Let's be careful.
 msgctxt "[Rean] #26"
 msgid "まあ、気をつけて行こう。"
-msgstr ""
+msgstr "Ừ, cảnh giác mà đi tiếp nào."
 
 #. Is this a farmhouse?
 msgctxt "[Laura] #27"
 msgid "ここは…農家のようだな。"
-msgstr ""
+msgstr "Nơi này... có vẻ như là một nhà nông."
 
 #. Huh. I wonder where we are...
 msgctxt "[Elliot] #28"
 msgid "あれ、なんだろう、ここ…"
-msgstr ""
+msgstr "Ơ, đây là nơi nào…"
 
 #. Hmm... It says,
 #.  'Lunaria Nature Park.'
@@ -207,17 +215,17 @@ msgctxt "[Laura] #29"
 msgid ""
 "ふむ、『ルナリア自然公園』\n"
 " と書かれているようだが。"
-msgstr ""
+msgstr "Hừm, nó đề là \"Công Viên Tự Nhiên Lunaria\"."
 
 #. Wow. This farmhouse is huge.
 msgctxt "[Alisa] #30"
 msgid "へえ…大きな農家ね。"
-msgstr ""
+msgstr "Ồ... nhà nông to ghê."
 
 #. Haha. Look at the cows! ♪
 msgctxt "[Elliot] #31"
 msgid "あはは、牛がいるよ♪"
-msgstr ""
+msgstr "Ahaha, có cả bò này♪"
 
 #. The Transcontinental Railroad, huh?
 #.  Guess that'll take you out of the country.
@@ -225,7 +233,7 @@ msgctxt "[Rean] #32"
 msgid ""
 "大陸横断鉄道…\n"
 " 外国に通じているんだったな。"
-msgstr ""
+msgstr "Tuyến Đường Sắt Xuyên Lục Địa... nó thông với cả các quốc gia khác nhỉ."
 
 #. Yeah. If you keep on heading east, you'd
 #.  eventually reach Garrelia Fortress.
@@ -233,18 +241,18 @@ msgctxt "[Alisa] #33"
 msgid ""
 "ええ…このずっと先に\n"
 " 東の国境、ガレリア要塞があるわ。"
-msgstr ""
+msgstr "Ừ, nếu tiếp tục tiến về phía đông, chúng ta sẽ đến Thành Lũy Garrelia."
 
 #. We should take a right here
 #.  to reach the nature park.
 msgctxt "[Laura] #34"
 msgid "自然公園は、ここを右手だな。"
-msgstr ""
+msgstr "Công viên tự nhiên nằm ở phía tay phải nhỉ."
 
 #. Right. Let's go!
 msgctxt "[Alisa] #35"
 msgid "ええ、行ってみましょう…！"
-msgstr ""
+msgstr "Ừm, chúng ta đi nào...!"
 
 #. There's tons of little stone
 #.  monuments in here...
@@ -252,13 +260,13 @@ msgctxt "[Elliot] #36"
 msgid ""
 "なんか、小さな石碑が\n"
 " あちこちにあるけど…"
-msgstr ""
+msgstr "Nơi này đâu đâu cũng có các phiến đá nhỏ…"
 
 #. Yeah. What do you think
 #.  they're supposed to be?
 msgctxt "[Alisa] #37"
 msgid "ええ…何なのかしら？"
-msgstr ""
+msgstr "Phải... không biết chúng để làm gì nhỉ?"
 
 #. I imagine they were made by
 #.  the animists in this province.
@@ -267,11 +275,13 @@ msgid ""
 "多分、この地方にあった\n"
 " 精霊信仰の名残だろう。"
 msgstr ""
+"Có vẻ như chúng là dấu vết còn sót lại của tín ngưỡng thờ tâm linh tại nơi "
+"đây."
 
 #. This way's a dead end.
 msgctxt "[Laura] #39"
 msgid "こちらは行き止まりか。"
-msgstr ""
+msgstr "Đường cụt rồi sao."
 
 #. Yeah... This park covers a lot
 #.  more area than I was expecting.
@@ -279,27 +289,27 @@ msgctxt "[Rean] #40"
 msgid ""
 "ああ…思った以上に\n"
 " 奥深いみたいだな。"
-msgstr ""
+msgstr "Ừ... Công viên này sâu hơn so với những gì tớ nghĩ."
 
 #. Oh, there's a stream here.
 #.  This seems like a nice spot.
 msgctxt "[Alisa] #41"
 msgid "小川か…少しほっとするわね。"
-msgstr ""
+msgstr "Một con kênh sao... nơi này đẹp thật."
 
 #. I can't sense anyone in this area.
 msgctxt "[Laura] #42"
 msgid ""
 "この辺りに\n"
 " 人の気配はないようだ。"
-msgstr ""
+msgstr "Khu vực này dường như không có ai."
 
 #. Just how deep does this forest go?
 msgctxt "[Elliot] #43"
 msgid ""
 "こ、この森、\n"
 " どこまで続いてるのかな…"
-msgstr ""
+msgstr "Khu rừng này rốt cuộc sâu đến cỡ nào vậy…"
 
 #. We must be pretty far in now.
 #.  I'd imagine we're almost there.
@@ -308,6 +318,7 @@ msgid ""
 "かなり進んだはずだ。\n"
 " あと一息だろう。"
 msgstr ""
+"Chúng ta đi cũng được một quãng khá xa rồi. Chắc chỉ còn một chút nữa thôi."
 
 #. Oh, hey! There's an orbment
 #.  charging station!
@@ -315,18 +326,18 @@ msgctxt "[Alisa] #45"
 msgid ""
 "あっ…！\n"
 " 回復装置があるわ…！"
-msgstr ""
+msgstr "A...! Đằng kia có thiết bị hồi phục...!"
 
 #. We must be in the most remote
 #.  reaches of the park.
 msgctxt "[Rean] #46"
 msgid "ああ…どうやら終点みたいだ。"
-msgstr ""
+msgstr "Ừ, có vẻ như đây là điểm cuối rồi."
 
 #. Who's this a statue of?
 msgctxt "[Fie] #47"
 msgid "この像、ナニ？"
-msgstr ""
+msgstr "Bức tượng này là?"
 
 #. It seems to be a statue
 #.  of St. Veronica.
@@ -334,12 +345,12 @@ msgctxt "[Emma] #48"
 msgid ""
 "聖女ヴェロニカの像、\n"
 " みたいですね。"
-msgstr ""
+msgstr "Có vẻ như là tượng của Thánh Nữ Veronica."
 
 #. Oh? You know of her?
 msgctxt "[Gaius] #49"
 msgid "ほう、詳しいな。"
-msgstr ""
+msgstr "Ồ, cậu biết rõ đấy."
 
 #. *sigh* I love the look of this
 #.  city. It's so beautiful...
@@ -347,7 +358,7 @@ msgctxt "[Emma] #50"
 msgid ""
 "はぁ…\n"
 " 本当に綺麗な街並みですね。"
-msgstr ""
+msgstr "Ha... thành phố này đẹp thật đấy."
 
 #. Maybe so, but it's got nothing on
 #.  Heimdallr in terms of sheer scale.
@@ -355,7 +366,7 @@ msgctxt "[Machias] #51"
 msgid ""
 "フン…規模は帝都の方が\n"
 " はるかに上だがな。"
-msgstr ""
+msgstr "Hừm... nếu xét về quy mô thì Đế Đô vẫn trên hẳn một bật nhỉ."
 
 #. Is this the way to
 #.  the city's airport?
@@ -363,20 +374,20 @@ msgctxt "[Rean] #52"
 msgid ""
 "この先は…\n"
 " 飛行船の発着場みたいだな。"
-msgstr ""
+msgstr "Phía trước là sân bay của thành phố nhỉ."
 
 #. It is, though I doubt we'll have
 #.  any reason to go there.
 msgctxt "[Gaius] #53"
 msgid "ああ、今回は用はあるまい。"
-msgstr ""
+msgstr "Phải, nhưng hiện tại chúng ta không có việc gì phải đến đó."
 
 #. This seems to be the city's noble quarter.
 msgctxt "[Emma] #54"
 msgid ""
 "この辺りは…貴族の方々が\n"
 " 住んでいるみたいですね。"
-msgstr ""
+msgstr "Khu vực này, có vẻ như là nơi sinh sống của quý tộc nhỉ."
 
 #. No wonder most of these houses
 #.  look so overblown and excessive.
@@ -384,33 +395,33 @@ msgctxt "[Machias] #55"
 msgid ""
 "フン、どうりでお高く止まった\n"
 " 屋敷が多いわけだ。"
-msgstr ""
+msgstr "Hừ, thảo nào có hàng tá dinh thự xa hoa."
 
 #. ...
 msgctxt "[Gaius] #56"
 msgid "…………………………"
-msgstr ""
+msgstr "…"
 
 #. Wait, this leads to...
 msgctxt "[Gaius] #57"
 msgid "おい、そちらは…"
-msgstr ""
+msgstr "Khoan đã, đằng kia là…"
 
 #. Huh? What's wrong?
 msgctxt "[Rean] #58"
 msgid "？ どうしたんだ？"
-msgstr ""
+msgstr "Sao vậy?"
 
 #. ...Never mind.
 msgctxt "[Gaius] #59"
 msgid "…いや、何でもない。"
-msgstr ""
+msgstr "...Không, không có gì đâu."
 
 #. This street seems kinda
 #.  different from the others.
 msgctxt "[Fie] #60"
 msgid "ここ、ちょっと雰囲気違うね。"
-msgstr ""
+msgstr "Nơi này trông có vẻ khác biệt."
 
 #. This is Artisans' Street, where craftsmen
 #.  and merchants ply their trades.
@@ -418,22 +429,22 @@ msgctxt "[Gaius] #61"
 msgid ""
 "職人通り…\n"
 " 様々な店が軒を連ねているな。"
-msgstr ""
+msgstr "Nơi này là Phố Nghệ Nhân, ở đây có đủ các loại cửa tiệm."
 
 #. Oh, a lake.
 msgctxt "[Fie] #62"
 msgid "あ、池がある。"
-msgstr ""
+msgstr "A, một con hồ."
 
 #. Heehee. It looks so pretty.
 msgctxt "[Emma] #63"
 msgid "ふふっ、綺麗ですね。"
-msgstr ""
+msgstr "Haha, đẹp thật đấy."
 
 #. A bridge, huh?
 msgctxt "[Machias] #64"
 msgid "この橋は…"
-msgstr ""
+msgstr "Cây cầu này…"
 
 #. Saar Bridge. Beyond here is out
 #.  of bounds for our field study.
@@ -441,7 +452,7 @@ msgctxt "[Gaius] #65"
 msgid ""
 "ザール橋…\n"
 " 実習範囲はここまでだ。"
-msgstr ""
+msgstr "Đây là Cầu Saar. Nơi này nằm ngoài phạm vi thực địa của chúng ta."
 
 #. That bridge above us looks like it
 #.  dates back to the Middle Ages.
@@ -449,13 +460,13 @@ msgctxt "[Rean] #66"
 msgid ""
 "上にあるのは…\n"
 " 中世の橋梁みたいだな。"
-msgstr ""
+msgstr "Cây cầu trên kia hình như có từ thời Trung Cổ thì phải."
 
 #. It is. It's been there for
 #.  several hundred years.
 msgctxt "[Gaius] #67"
 msgid "ああ、数百年前のものだ。"
-msgstr ""
+msgstr "Ừ, nó đã được xây hàng trăm năm trước rồi."
 
 #. This looks like quite an old road,
 #.  though it does seem well reinforced.
@@ -464,22 +475,23 @@ msgid ""
 "古い道みたいですけど…\n"
 " かなり補強がされていますね。"
 msgstr ""
+"Nơi này trông như một con đường cổ, nhưng nó được gia cố khá kỹ lưỡng nhỉ."
 
 #. Yup... Looks like a lot of
 #.  armored vehicles come this way.
 msgctxt "[Fie] #69"
 msgid "ん…車両も結構通ってるみたい。"
-msgstr ""
+msgstr "Ừm... xem ra có rất nhiều phương tiện lưu thông qua đây."
 
 #. ...
 msgctxt "[Gaius] #70"
 msgid "…………………………"
-msgstr ""
+msgstr "…"
 
 #. I didn't notice there was a path here...
 msgctxt "[Machias] #71"
 msgid "こんな所に道が…"
-msgstr ""
+msgstr "Không ngờ lại có con đường ở đây…"
 
 #. The monster we're looking
 #.  for should be just ahead.
@@ -487,19 +499,19 @@ msgctxt "[Rean] #72"
 msgid ""
 "手配された魔獣は\n"
 " この先みたいだな。"
-msgstr ""
+msgstr "Ma thú mà chúng ta cần tìm có lẽ ở ngay trước mắt thôi."
 
 #. We're finally back.
 msgctxt "[Fie] #73"
 msgid "やっと戻って来た。"
-msgstr ""
+msgstr "Cuối cùng cũng quay trở lại."
 
 #. Whew... My feet are killing me.
 msgctxt "[Emma] #74"
 msgid ""
 "ふぅ…\n"
 " さすがに歩き疲れましたね。"
-msgstr ""
+msgstr "Phù... chân tớ tê hết cả rồi đây."
 
 #. Just the kind of thing you'd
 #.  expect in an old ruin like this.
@@ -507,7 +519,7 @@ msgctxt "[Fie] #75"
 msgid ""
 "いかにも中世の遺跡っぽい\n"
 " ギミックだね。"
-msgstr ""
+msgstr "Cơ quan đúng chất di tích thời Trung Cổ."
 
 #. Do you think it's powered by
 #.  the water flowing through here?
@@ -515,7 +527,7 @@ msgctxt "[Emma] #76"
 msgid ""
 "ええ、水の力を\n"
 " 使ってるんでしょうか。"
-msgstr ""
+msgstr "Ừm, nó hoạt động bằng sức đẩy của nước chăng?"
 
 #. The entrance to the guardhouse is
 #.  to the west. We should hurry.
@@ -524,13 +536,14 @@ msgid ""
 "領邦軍の詰所は西だ。\n"
 " …とにかく急ぐぞ。"
 msgstr ""
+"Văn phòng của Quân Đội Lãng Bang nằm ở phía tây. Chúng ta khẩn trương nào."
 
 #. *pant* Why is this ladder so long?
 msgctxt "[Emma] #78"
 msgid ""
 "ふぅふぅ…\n"
 " ずいぶん長い梯子ですね。"
-msgstr ""
+msgstr "Hộc hộc... cầu thang này dài thật đấy."
 
 #. Is it harder to climb ladders
 #.  when you've got a big chest?
@@ -538,22 +551,22 @@ msgctxt "[Fie] #79"
 msgid ""
 "やっぱり胸が大きいと\n"
 " 登りにくい？"
-msgstr ""
+msgstr "Quả nhiên ngực to thì leo cầu thang sẽ khó hơn?"
 
 #. F-Fie...!
 msgctxt "[Emma] #80"
 msgid "フィ、フィーちゃん…///"
-msgstr ""
+msgstr "F-Fie à...!"
 
 #. ...
 msgctxt "[???] #81"
 msgid "…………………………"
-msgstr ""
+msgstr "…"
 
 #. There's another lattice door...
 msgctxt "[Rean] #82"
 msgid "また格子扉か…"
-msgstr ""
+msgstr "Lại là một cánh cửa lưới ư…"
 
 #. There should be a mechanism
 #.  to open it somewhere nearby.
@@ -566,24 +579,24 @@ msgstr ""
 #. Whew... I'm exhausted...
 msgctxt "[Emma] #84"
 msgid "はぁ…ちょっと疲れました。"
-msgstr ""
+msgstr "Ha... mệt quá đi thôi."
 
 #. It's gotta be the chest...
 msgctxt "[Fie] #85"
 msgid "やっぱり胸が…"
-msgstr ""
+msgstr "Quả nhiên là do ngực…"
 
 #. Fie, that's enough.
 msgctxt "[Rean] #86"
 msgid ""
 "フィー。\n"
 " そのくらいにしなさい。"
-msgstr ""
+msgstr "Fie. Dừng ở đó thôi."
 
 #. ...Honestly.
 msgctxt "[Gaius] #87"
 msgid "…まったく。"
-msgstr ""
+msgstr "... Thiệt tình."
 
 #. Ugh. If I hadn't been so careless,
 #.  this would never have happened...
@@ -591,41 +604,41 @@ msgctxt "[Machias] #88"
 msgid ""
 "クッ、しかし油断しなければ\n"
 " こんな事態には…"
-msgstr ""
+msgstr "Nếu tớ không bất cẩn thì chuyện này đã chẳng xảy ra…"
 
 #. There wasn't much you could've done.
 msgctxt "[Rean] #89"
 msgid "あの場合は仕方ないさ。"
-msgstr ""
+msgstr "Không thể trách cậu ở trong tình cảnh đó được."
 
 #. Heehee. I'm just glad you're all right.
 msgctxt "[Emma] #90"
 msgid ""
 "ふふっ…\n"
 " とにかく無事で良かったです。"
-msgstr ""
+msgstr "Haha. Cậu vẫn bình an vô sự là tốt rồi."
 
 #. That's the wrong way...!
 msgctxt "[Fie] #91"
 msgid "そっちは違う…！"
-msgstr ""
+msgstr "Không phỉa đường đó...!"
 
 #. We need to head east! Hurry!
 msgctxt "[Gaius] #92"
 msgid "東へまっすぐだ、急ぐぞ！"
-msgstr ""
+msgstr "Hướng thẳng về phía đông! Nhanh lên!"
 
 #. Yoohoo!
 msgctxt "[Alisa] #93"
 msgid "やっほ──…っ！"
-msgstr ""
+msgstr "Yahoooo!"
 
 #. Heehee. You're as excited as a child.
 msgctxt "[Emma] #94"
 msgid ""
 "ふふっ、アリサさん、\n"
 " 子供みたい。"
-msgstr ""
+msgstr "Haha, Alisa, cậu hét lên cứ như trẻ con vậy."
 
 #. Ahaha. I think I'm just
 #.  caught up in the moment.
@@ -633,12 +646,12 @@ msgctxt "[Alisa] #95"
 msgid ""
 "あはは、ちょっと\n"
 " ハイになってるみたい。"
-msgstr ""
+msgstr "Ahaha, tớ phán khích hơi quá ấy mà."
 
 #. The sun's almost down...
 msgctxt "[Gaius] #96"
 msgid "日が落ちてきたな…"
-msgstr ""
+msgstr "Mặt trời lận rồi…"
 
 #. We're almost at the settlement.
 #.  Let's keep up the pace, guys.
@@ -646,33 +659,33 @@ msgctxt "[Jusis] #97"
 msgid ""
 "集落までもう少しだ。\n"
 " このまま飛ばすとしよう。"
-msgstr ""
+msgstr "Còn một chút nữa là đến làng rồi. Phóng hết tốc lực nào."
 
 #. Heehee. Look at all the sheep here.
 msgctxt "[Emma] #98"
 msgid ""
 "ふふっ…\n"
 " 羊がたくさんですね。"
-msgstr ""
+msgstr "Haha, có nhiều cừu thật đấy."
 
 #. Watching them makes me feel so...content.
 msgctxt "[Alisa] #99"
 msgid "うーん、癒されるわね。"
-msgstr ""
+msgstr "Khung cảnh thật khiến người ta cảm thấy yên lòng."
 
 #. You have an orbal truck here?
 msgctxt "[Rean] #100"
 msgid ""
 "へえ、導力車も\n"
 " 使っているんだな？"
-msgstr ""
+msgstr "Ồ, xe dẫn lực sao?"
 
 #. Looks like an old-model Reinford truck.
 msgctxt "[Alisa] #101"
 msgid ""
 "ラインフォルト製の\n"
 " 古い運搬車みたいだけど…"
-msgstr ""
+msgstr "Có vẻ như là mẫu xe vận tải cũ của Reinford…"
 
 #. Yup. It was donated to the
 #.  settlement a few years ago.
@@ -680,7 +693,7 @@ msgctxt "[Jusis] #102"
 msgid ""
 "数年前、とある人が\n"
 " 寄贈してくれたものでな。"
-msgstr ""
+msgstr "Phải, vài năm trước đã có người tặng nó cho làng."
 
 #. I'm surprised to see a river
 #.  running at this elevation.
@@ -688,14 +701,14 @@ msgctxt "[Gaius] #103"
 msgid ""
 "ほう…こんな高地にも\n"
 " 川が流れているのか。"
-msgstr ""
+msgstr "Ồ... Không ngờ trên khu vực này vẫn có sông ngòi đấy."
 
 #. It's fed from the lake to the north.
 msgctxt "[Jusis] #104"
 msgid ""
 "ああ、北にある湖から\n"
 " 流れてきたものだ。"
-msgstr ""
+msgstr "Ừ, nó chảy từ con hồ lớn ở phía bắc."
 
 #. I figured there'd be monsters
 #.  around. Be careful, everyone.
@@ -703,17 +716,17 @@ msgctxt "[Jusis] #105"
 msgid ""
 "やはり魔獣が出ている…\n"
 " 気をつけて行くとしよう。"
-msgstr ""
+msgstr "Quả nhiển là có ma thú lảng vảng. Chúng ta hãy cẩn thận khi tiến lên."
 
 #. Got it.
 msgctxt "[Rean] #106"
 msgid "ああ、了解だ…！"
-msgstr ""
+msgstr "Ừ, đã rõ...!"
 
 #. Umm... Isn't this the way to...?
 msgctxt "[Emma] #107"
 msgid "えっと、こちらの方って…"
-msgstr ""
+msgstr "Ừm... hướng này chẳng phải là…"
 
 #. This path leads to the stone
 #.  circle you saw yesterday.
@@ -721,24 +734,24 @@ msgctxt "[Jusis] #108"
 msgid ""
 "このまま道沿いに回ると\n"
 " 昨日の石柱群にたどり着くな。"
-msgstr ""
+msgstr "Men theo con đường mòn này là sẽ đến bãi cột đá ngày hôm qua."
 
 #. Is this the way to the watchtower?
 msgctxt "[Gaius] #109"
 msgid "監視塔とやらはこの先か。"
-msgstr ""
+msgstr "Đi thẳng hướng này là sẽ đến tháp quan sát sao?"
 
 #. Yeah. Just keep heading along this path.
 msgctxt "[Jusis] #110"
 msgid ""
 "ああ、このまま\n"
 " 道沿いに行けばいい。"
-msgstr ""
+msgstr "Ừ, cứ men theo con đường này là sẽ đến."
 
 #. Well...here we are...
 msgctxt "[Alisa] #111"
 msgid "や、やっと門に着いたわね…"
-msgstr ""
+msgstr "C- cuối cùng cũng tới…"
 
 #. Let's go meet with the
 #.  lieutenant general.
@@ -746,17 +759,17 @@ msgctxt "[Rean] #112"
 msgid ""
 "ああ…\n"
 " 中将から話を聞いてみよう。"
-msgstr ""
+msgstr "Ừ, đi tìm gặp trung tướng nào."
 
 #. That's...
 msgctxt "[Alisa] #113"
 msgid "あれが…"
-msgstr ""
+msgstr "Kia là…"
 
 #. It looks like a Calvard military base.
 msgctxt "[Emma] #114"
 msgid "共和国軍の基地みたいですね…"
-msgstr ""
+msgstr "Có vẻ là căn cứ của quân đội nước Cộng Hòa."
 
 #. It is. This area kind of acts as a
 #.  buffer zone between the two countries.
@@ -764,12 +777,12 @@ msgctxt "[Jusis] #115"
 msgid ""
 "ああ…ちょうどこの辺りが\n"
 " 緩衝地帯になっているらしい。"
-msgstr ""
+msgstr "Ừ... nơi này có thể xem như là vùng đệm giữa hai nước."
 
 #. There's mist in the distance...
 msgctxt "[Gaius] #116"
 msgid "モヤが立っているな…"
-msgstr ""
+msgstr "Có sương mù…"
 
 #. Yeah. It's even higher here
 #.  than the southern highlands.
@@ -777,14 +790,14 @@ msgctxt "[Rean] #117"
 msgid ""
 "ああ、南よりも\n"
 " さらに高地なんだろう。"
-msgstr ""
+msgstr "Ừ, nơi này dường như còn cao hơn cả khu vực phía nam."
 
 #. Wow... That's one towering waterfall.
 msgctxt "[Alisa] #118"
 msgid ""
 "わぁ…あの滝、\n"
 " 凄い高さから落ちてるわね。"
-msgstr ""
+msgstr "Oa... thác nước đó cao tít trên kia luôn."
 
 #. I'll say. It must be at
 #.  least a 500 arge drop.
@@ -792,7 +805,7 @@ msgctxt "[Emma] #119"
 msgid ""
 "ええ、５００アージュくらい\n"
 " 落差がありそうですね…"
-msgstr ""
+msgstr "Ừm, khoảng cách có lẽ rơi vào khoảng 500 arge."
 
 #. Oh, it's a plateau. I guess
 #.  this way's a dead end.
@@ -800,25 +813,25 @@ msgctxt "[Rean] #120"
 msgid ""
 "高台か…\n"
 " こちらは行き止まりだな。"
-msgstr ""
+msgstr "Đất cao à... có vẻ như đây là đường cụt rồi."
 
 #. Ahhh... I love how refreshing
 #.  the wind feels here.
 msgctxt "[Emma] #121"
 msgid "ふふっ、風が気持ちいいですね。"
-msgstr ""
+msgstr "Haha, gió ở đây mát lành ghê."
 
 #. Oh... We made it all the way
 #.  to where the giant statue is.
 msgctxt "[Alisa] #122"
 msgid "あ…像の正面に来たわね。"
-msgstr ""
+msgstr "A... chúng ta đến chỗ bức tượng rồi."
 
 #. It looks even more massive
 #.  the closer we get.
 msgctxt "[Rean] #123"
 msgid "ああ、それにしても大きいな…"
-msgstr ""
+msgstr "Ừ, tới đây mới thấy nó to cỡ nào…"
 
 #. To get right in front of it, we'll
 #.  need to go around the cliff.
@@ -826,12 +839,12 @@ msgctxt "[Jusis] #124"
 msgid ""
 "像の前に行くには\n"
 " 左右から回り込む必要があるな。"
-msgstr ""
+msgstr "Chúng ta cần đi vòng qua vách đá nếu muốn đến trước bức tượng."
 
 #. I'm glad to be back here again.
 msgctxt "[Emma] #125"
 msgid "ふぅ…ホッとしますね。"
-msgstr ""
+msgstr "Phù... thật là nhẹ nhõm."
 
 #. Agreed. I'm certainly
 #.  in no hurry to return.
@@ -839,17 +852,17 @@ msgctxt "[Gaius] #126"
 msgid ""
 "フン…\n"
 " 辛気臭い場所だったな。"
-msgstr ""
+msgstr "Hừm... nơi đó đúng là chẳng hay ho gì."
 
 #. How beautiful...
 msgctxt "[Alisa] #127"
 msgid "……綺麗………"
-msgstr ""
+msgstr "Đẹp quá…"
 
 #. Yeah... Breathtaking.
 msgctxt "[Emma] #128"
 msgid "素敵な場所ですね…"
-msgstr ""
+msgstr "Đến mức khiến lòng ta xao xuyến nhỉ…"
 
 #. Man, I'd love to get in
 #.  a little fishing here.
@@ -857,27 +870,27 @@ msgctxt "[Rean] #129"
 msgid ""
 "うーん…\n"
 " 釣りがしたくなるな。"
-msgstr ""
+msgstr "Chà, tớ muốn nán lại để câu cá quá."
 
 #. Well, no one's stopping you.
 msgctxt "[Gaius] #130"
 msgid "別に止めはしないぞ。"
-msgstr ""
+msgstr "Không có ai ở đây ngăn cậu đâu."
 
 #. This is...
 msgctxt "[Emma] #131"
 msgid "ここは…"
-msgstr ""
+msgstr "Nơi này là…"
 
 #. It's so gloomy in here...
 msgctxt "[Alisa] #132"
 msgid "な、なんか薄暗いわね…"
-msgstr ""
+msgstr "Ở- ở đây hơi tối nhỉ…"
 
 #. ...
 msgctxt "[Jusis] #133"
 msgid "…………………………"
-msgstr ""
+msgstr "…"
 
 #. That's one of the Imperial
 #.  Army's airships...
@@ -885,7 +898,7 @@ msgctxt "[Alisa] #134"
 msgid ""
 "帝国軍が運用している\n"
 " 軍用飛行艇だわ…"
-msgstr ""
+msgstr "Đó là phi thuyền quân sự của Quân Đội Đế Quốc…"
 
 #. This situation is looking
 #.  worse by the minute.
@@ -893,50 +906,50 @@ msgctxt "[Gaius] #135"
 msgid ""
 "フン、思った以上に\n"
 " キナ臭くなっているな。"
-msgstr ""
+msgstr "Hừm, chuyện ngày càng đáng ngờ."
 
 #. ...We need to hurry.
 msgctxt "[Jusis] #136"
 msgid "…とにかく急ぐぞ。"
-msgstr ""
+msgstr "...Chúng ta khẩn trương nào."
 
 #. Those are armored cars
 #.  from the Imperial Army...!
 msgctxt "[Emma] #137"
 msgid "帝国軍の導力装甲車…！"
-msgstr ""
+msgstr "Chúng là xe thiết giáp dẫn lực của Quân Đội Đế Quốc...!"
 
 #. Damn... This isn't looking good...
 msgctxt "[Rean] #138"
 msgid "クッ、このままじゃ…"
-msgstr ""
+msgstr "Hừ, cứ đà này thì…"
 
 #. ...
 msgctxt "[Jusis] #139"
 msgid "………………………"
-msgstr ""
+msgstr "…"
 
 #. We can't let them get away!
 msgctxt "[Jusis] #140"
 msgid "このまま行かせるものか…！"
-msgstr ""
+msgstr "Không thể để thoát được!"
 
 #. Right! We need to overtake them!
 msgctxt "[Rean] #141"
 msgid ""
 "ああ！\n"
 " 何としても追いつこう！"
-msgstr ""
+msgstr "Ừ! Bằng mọi giá phải đuổi theo!"
 
 #. Crap... They're fast!
 msgctxt "[Rean] #142"
 msgid "くっ、速い…！"
-msgstr ""
+msgstr "Chậc, nhanh quá...!"
 
 #. Just don't lose sight of them!
 msgctxt "[Gaius] #143"
 msgid "ともかく見失うな…！"
-msgstr ""
+msgstr "Đừng để mất dấu...!"
 
 #. Did they touch down near
 #.  the stone circle...?
@@ -944,21 +957,21 @@ msgctxt "[Emma] #144"
 msgid ""
 "せ、石柱群のあたりに\n"
 " 降りたんでしょうか…！？"
-msgstr ""
+msgstr "C- có phải nó vừa hạ cánh xuống bãi cột đá không...!?"
 
 #. Grrr... There's no escape for them now!
 msgctxt "[Alisa] #145"
 msgid ""
 "くうう～…\n"
 " 絶対に追いつくわよっ！"
-msgstr ""
+msgstr "Hừ... nhất định phải đuổi theo chúng!"
 
 #. Woohoooooo! This is amaaaziiiiiing!
 msgctxt "[Altina] #146"
 msgid ""
 "ひゃっほう！\n"
 " あはは、気持ちいーね！"
-msgstr ""
+msgstr "Yahoooo! Ahaha, đã quá!"
 
 #. *sigh* If you keep squirming around
 #.  back there, you're going to fall off.
@@ -966,7 +979,7 @@ msgctxt "[Rean] #147"
 msgid ""
 "はあ…あんまりはしゃいで\n"
 " 落ちないようにな？"
-msgstr ""
+msgstr "Ha... đừng có phấn khích quá mà lao thẳng xuống đó đấy."
 
 #. Mmm... If we keep up this pace,
 #.  we might make it in time after all.
@@ -974,7 +987,7 @@ msgctxt "[Altina] #148"
 msgid ""
 "うーん、この速度なら\n"
 " 何とか間に合いそうかな？"
-msgstr ""
+msgstr "Hừm, nếu giữ vững tốc độ này biết đâu sẽ bắp kịp đấy?"
 
 #. Not might. We WILL make it in time.
 msgctxt "[Jusis] #149"
