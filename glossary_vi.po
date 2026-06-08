@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-07 08:21+0000\n"
+"PO-Revision-Date: 2026-06-08 18:01+0000\n"
 "Last-Translator: Lư Hữu Phước <gumbal797@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/trails-of-"
 "cold-steel-1-vietnamese/glossary/vi/>\n"
@@ -691,3 +691,54 @@ msgstr "phi thuyền quân sự"
 
 msgid "導力装甲車"
 msgstr "xe thiết giáp dẫn lực"
+
+msgid "オペラハウス"
+msgstr "nhà hát opera"
+
+msgid "紅耀石"
+msgstr "hồng diệu thạch"
+
+msgid "獅子心皇帝"
+msgstr "Hoàng Đế Sư Tử"
+
+msgid "故郷"
+msgstr "quê"
+
+msgid "暗黒時代"
+msgstr "Thời Kỳ Tăm Tối"
+
+msgid "皇族"
+msgstr "Hoàng Tộc"
+
+msgid "エベル湖"
+msgstr "Hồ Ebel"
+
+msgid "船着場"
+msgstr "Bến tàu"
+
+msgid "サザーラント州"
+msgstr "Tỉnh Sutherland"
+
+msgid "支線"
+msgstr "Tuyến Nhánh"
+
+msgid "委員長"
+msgstr "lớp trưởng"
+
+msgid "倉庫区画"
+msgstr "kho bãi"
+
+msgid "人形兵器"
+msgstr "binh khí hình nhân"
+
+msgid "要塞"
+msgstr "pháo đài"
+
+msgid "貨物船"
+msgstr "tàu chở hàng"
+
+msgid "列車砲"
+msgstr "pháo đường sắt"
+
+msgid "女神の加護を"
+msgstr "Cầu cho nữ thần phù hộ"
