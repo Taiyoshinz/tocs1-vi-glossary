@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-08 18:01+0000\n"
+"PO-Revision-Date: 2026-06-09 09:00+0000\n"
 "Last-Translator: Lư Hữu Phước <gumbal797@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/trails-of-"
 "cold-steel-1-vietnamese/glossary/vi/>\n"
@@ -529,7 +529,7 @@ msgstr "Điện Hạ"
 
 #. Garrelia Fortress
 msgid "ガレリア要塞"
-msgstr "Thành Lũy"
+msgstr "Pháo Đài Garrelia"
 
 msgid "リベール王国"
 msgstr "Vương Quốc Liberl"
@@ -742,3 +742,9 @@ msgstr "pháo đường sắt"
 
 msgid "女神の加護を"
 msgstr "Cầu cho nữ thần phù hộ"
+
+msgid "終点"
+msgstr "điểm cuối"
+
+msgid "宝箱"
+msgstr "kho báu"
