@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-08 18:01+0000\n"
+"PO-Revision-Date: 2026-06-09 09:00+0000\n"
 "Last-Translator: Lư Hữu Phước <gumbal797@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/trails-of-"
 "cold-steel-1-vietnamese/t_active_vi/vi/>\n"
@@ -265,7 +265,7 @@ msgid ""
 " 東の国境、ガレリア要塞があるわ。"
 msgstr ""
 "Ừ, nếu tiếp tục tiến về phía đông,\n"
-"chúng ta sẽ đến Thành Lũy Garrelia."
+"chúng ta sẽ đến Pháo Đài Garrelia."
 
 #. We should take a right here
 #.  to reach the nature park.
@@ -2472,6 +2472,8 @@ msgstr ""
 msgctxt "[Rean] #326"
 msgid "そうですか…有り難いな。"
 msgstr ""
+"Vậy ạ, chúng em phải cảm ơn\n"
+"chị ấy rồi."
 
 #. Yeah. Though I feel a little bad,
 #.  since we're making more work for her.
@@ -2480,6 +2482,8 @@ msgid ""
 "いつもお世話になっていますし、\n"
 " 本当に頭が上がりませんね。"
 msgstr ""
+"Chị ấy lúc nào cũng giúp đỡ tụi mình,\n"
+"tới mức không biết phải báo đáp ra làm sao nữa."
 
 #. We've been walking for ages.
 #.  How far ARE we at this point?
@@ -2488,6 +2492,8 @@ msgid ""
 "け、けっこう歩いたけど…\n"
 " どこまで来たんだろう。"
 msgstr ""
+"M- mặc dù đi cũng được một quãng rồi...\n"
+"nhưng tới điểm cuối còn chẳng thấy đâu."
 
 #. Judging by the distance we've traveled,
 #.  I'd say we're about halfway.
@@ -2496,6 +2502,8 @@ msgid ""
 "ん…歩数からすると\n"
 " 山道の半分くらいかな。"
 msgstr ""
+"Mm... tính theo số bước thì chúng ta\n"
+"đã đi được tầm nửa đường rồi."
 
 #. H-How can you tell that...?
 msgctxt "[Machias] #330"
@@ -2503,6 +2511,8 @@ msgid ""
 "す、凄いな。\n"
 " そんなことが分かるのか。"
 msgstr ""
+"H- hay thế. Cậu tính được\n"
+"cả mấy thứ đó luôn à?"
 
 #. This path's gotten real
 #.  twisty all of a sudden.
@@ -2511,6 +2521,8 @@ msgid ""
 "さっきから随分と\n"
 " 曲りくねってやがるな。"
 msgstr ""
+"Từ đoạn này là đường tự nhiên\n"
+"ngoằn ngoèo hơn hẳn."
 
 #. Hmm... I wonder if they built it like
 #.  that to avoid the mine shafts...
@@ -2519,6 +2531,8 @@ msgid ""
 "ふむ、ひょっとしたら坑道を\n"
 " 避けて通っているのかもしれない。"
 msgstr ""
+"Hừm... có lẽ họ xây như vậy\n"
+"là để tránh va phải hầm mỏ."
 
 #. If that's true, that must
 #.  mean we're almost there!
@@ -2527,26 +2541,28 @@ msgid ""
 "そうなると、そろそろ\n"
 " 到着しそうですね…！"
 msgstr ""
+"Nếu vậy thì nghĩa là chúng ta\n"
+"sắp đến nơi rồi...!"
 
 #. Over there!
 msgctxt "[Rean] #334"
 msgid "あ…！"
-msgstr ""
+msgstr "A...!"
 
 #. Looks like we made it.
 msgctxt "[Neithardt] #335"
 msgid "よし、ゴールだな。"
-msgstr ""
+msgstr "Tốt lắm, đến nơi rồi."
 
 #. Ahhhhhh... This is pure bliss. ㈱
 msgctxt "[Neithardt] #336"
 msgid "うーん、眼福、眼福㈱"
-msgstr ""
+msgstr "Ôiiii, thật là mãn nhãn quá xá.㈱"
 
 #. Stop that, Angelica!
 msgctxt "[Alisa] #337"
 msgid "ア、アンゼリカさんっ…！"
-msgstr ""
+msgstr "C- chị Angelica à...!"
 
 #. Just kiddin' around. I love it
 #.  when you're angry.
@@ -2555,11 +2571,13 @@ msgid ""
 "冗談だよ。\n"
 " 怒った顔も可愛いね。"
 msgstr ""
+"Chị đùa chút thôi.\n"
+"Em giận dữ trông dễ thương lắm~."
 
 #. I swear, this girl...
 msgctxt "[Crow] #339"
 msgid "ったく、この女だけは…"
-msgstr ""
+msgstr "Thiệt tình, con gái con đứa…"
 
 #. Looks like this place is crawling
 #.  with archaisms, just like Garrelia.
@@ -2568,6 +2586,8 @@ msgid ""
 "やはりガレリア要塞と同じように\n"
 " 人形兵器が放たれているようだな…"
 msgstr ""
+"Ở đây cũng có đám binh khí hình nhân\n"
+"giống như lúc ở Pháo Đài Garrelia…"
 
 #. There's some monsters I didn't see
 #.  when we were here yesterday, too.
@@ -2576,6 +2596,8 @@ msgid ""
 "昨日は見かけなかった\n"
 " 魔獣もいるみたいだけど…"
 msgstr ""
+"Ở đây cũng xuất hiện loài ma thú mới\n"
+"mà chúng ta không thấy hôm qua…"
 
 #. They must have brought them in
 #.  from outside. Be careful!
@@ -2584,6 +2606,8 @@ msgid ""
 "外から引き込んだのかもしれない。\n"
 " …気を引き締めて行こう！"
 msgstr ""
+"Có thể chúng được đem vào từ bên ngoài.\n"
+"Vừa cảnh giác vừa tiến lên nào!"
 
 #. There's the exit. Looks like the
 #.  gate's been shut.
@@ -2592,6 +2616,8 @@ msgid ""
 "鉱山の出口…\n"
 " ゲートが閉じてるね。"
 msgstr ""
+"Lối ra kia rồi.\n"
+"Nhưng cổng đã bị đóng."
 
 #. So the provincial army and the RMP are
 #.  having their shouting match out there...
@@ -2600,6 +2626,8 @@ msgid ""
 "この向こうで、領邦軍と\n"
 " 鉄道憲兵隊が睨み合ってるのか…"
 msgstr ""
+"Quân Lãnh Bang và Đội Hiến Binh\n"
+"gầm ghè nhau ở ngoài kia nhỉ…"
 
 #. Let's just leave them to it.
 #.  We need to head further in.
@@ -2608,11 +2636,13 @@ msgid ""
 "こちらはいい。\n"
 " 奥に進むとしよう。"
 msgstr ""
+"Cứ mặc họ đi.\n"
+"Chúng ta mau tiến vào bên trong."
 
 #. Huh? A dead end?
 msgctxt "[Elliot] #346"
 msgid "あれっ、行き止まり？"
-msgstr ""
+msgstr "Ơ, đường cụt ư?"
 
 #. Maybe not. We walked past
 #.  a ladder not too long ago.
@@ -2621,11 +2651,13 @@ msgid ""
 "いや、少し手前に\n"
 " 上に登る梯子があったはずだ。"
 msgstr ""
+"Không, ban nãy chúng ta\n"
+"có đi ngang qua một cái cầu thang."
 
 #. Let's go back and find it.
 msgctxt "[Rean] #348"
 msgid "探してみましょう。"
-msgstr ""
+msgstr "Quay lại tìm nó thôi."
 
 #. Yep, this is the one. Climbing
 #.  this should take us further in.
@@ -2634,21 +2666,25 @@ msgid ""
 "うん、ここを登れば\n"
 " さらに奥まで行けるはずだ。"
 msgstr ""
+"Chuẩn rồi, đường ở trên\n"
+"sẽ dẫn chúng ta đi vào sâu hơn."
 
 #. ...There we go.
 msgctxt "[Fie] #350"
 msgid "ん…これでヨシ。"
-msgstr ""
+msgstr "Mm... lên nào."
 
 #. Almost there... Just a little further now!
 msgctxt "[Alisa] #351"
 msgid "終点は近いわ…行きましょう！"
 msgstr ""
+"Sắp đến điểm cuối rồi...\n"
+"Chúng ta tiến lên nào!"
 
 #. Umm... Rean...?
 msgctxt "[Emma] #352"
 msgid "その…リィンさん。"
-msgstr ""
+msgstr "Ừm... Rean này...?"
 
 #. Hold onto that thought for now.
 #.  Let's just keep moving.
@@ -2657,21 +2693,23 @@ msgid ""
 "今はいいさ。\n"
 " とにかく先に進もう。"
 msgstr ""
+"Tạm thời cứ gác nó qua một bên.\n"
+"Chúng ta tiếp tục nào."
 
 #. ...Right!
 msgctxt "[Emma] #354"
 msgid "…はい！"
-msgstr ""
+msgstr "...Ừm!"
 
 #. Meow.
 msgctxt "[Celine] #355"
 msgid "ニャア。"
-msgstr ""
+msgstr "Meo."
 
 #. Meeeow... Mrrowr.
 msgctxt "[Celine] #356"
 msgid "にゃああ…にゃおん。"
-msgstr ""
+msgstr "Meo... meo."
 
 #. ...I know. I'll be careful, I promise.
 msgctxt "[Emma] #357"
@@ -2679,6 +2717,8 @@ msgid ""
 "…分かってる。\n"
 " くれぐれも気をつけるから。"
 msgstr ""
+"...Tôi biết mà.\n"
+"Tôi hứa sẽ cẩn thận."
 
 #. (I always get this feeling like Emma
 #.  can actually understand Celine...)
@@ -2687,16 +2727,18 @@ msgid ""
 "（薄々気付いていたけど…\n"
 "  委員長、セリーヌと喋れるのか？）"
 msgstr ""
+"(Mình cứ có cảm giác...\n"
+"là lớp trưởng có thể nói chuyện với Celine...)"
 
 #. *hiss*
 msgctxt "[Celine] #359"
 msgid "ふしゃああ…"
-msgstr ""
+msgstr "Khèeee…"
 
 #. This looks like...
 msgctxt "[Rean] #360"
 msgid "ここは…"
-msgstr ""
+msgstr "Nơi này là…"
 
 #. I can sense something inside.
 msgctxt "[Emma] #361"
@@ -2704,357 +2746,397 @@ msgid ""
 "気配を感じる…\n"
 " 何かがあるみたいですね。"
 msgstr ""
+"Tớ cảm nhận được\n"
+"có thứ gì đó ở bên trong."
 
 #. This looks like a nice spot.
 msgctxt "[Rean] #362"
 msgid "うん、ここなら釣れそうだな。"
 msgstr ""
+"Chỗ này có vẻ lý tưởng\n"
+"để câu cá đây."
 
 #. Oooh, this looks like a good spot.
 msgctxt "[Rean] #363"
 msgid "おっ、いいポイントみたいだな。"
 msgstr ""
+"Ồ, chỗ này thích hợp\n"
+"để câu cá ấy chứ."
 
 #. All right, let's get started.
 msgctxt "[Alisa] #364"
 msgid "さあ、行きましょう。"
-msgstr ""
+msgstr "Nào, chúng ta đi thôi."
 
 #. Looks like we've still got a ways to go.
 msgctxt "[Alisa] #365"
 msgid "まだ先があるみたいね。"
-msgstr ""
+msgstr "Có vẻ vẫn còn một đoạn nữa."
 
 #. Whew... This is the end.
 msgctxt "[Alisa] #366"
 msgid "ふう、ここが終点ね。"
-msgstr ""
+msgstr "Phù, đây là điểm cuối rồi."
 
 #. Ah! It's a treasure chest! ♪
 msgctxt "[Alisa] #367"
 msgid "あ、宝箱発見♪"
-msgstr ""
+msgstr "A, phát hiện kho báu♪"
 
 #. That looks like a strong one...
 #.  Be careful.
 msgctxt "[Alisa] #368"
 msgid "強そうね…注意しないと。"
 msgstr ""
+"Trông nó có vẻ đáng gờm...\n"
+"mọi người hãy cẩn thận."
 
 #. What's that? It's so shiny...
 msgctxt "[Alisa] #369"
 msgid "何かしら…あの光ってるの…"
-msgstr ""
+msgstr "Gì thế kia, trông thật lấp lánh…"
 
 #. Onward!
 msgctxt "[Laura] #370"
 msgid "さあ、行くとしようか。"
-msgstr ""
+msgstr "Nào, chúng ta tiếp tục lên đường."
 
 #. Let's keep up the pace.
 msgctxt "[Laura] #371"
 msgid "うむ、この調子で進むとしよう。"
 msgstr ""
+"Mm, tiếp tục giữ vững phong độ\n"
+"mà tiếp tục nào."
 
 #. We appear to have reached the exit.
 msgctxt "[Laura] #372"
 msgid "フフ、どうやら終点のようだな。"
 msgstr ""
+"Haha, có vẻ như chúng ta\n"
+"đến điểm cuối rồi."
 
 #. Is that a treasure chest?
 msgctxt "[Laura] #373"
 msgid "ふむ、宝箱か。"
-msgstr ""
+msgstr "Hừm, kho báu sao?"
 
 #. A challenging foe. We should engage
 #.  it with care.
 msgctxt "[Laura] #374"
 msgid "難敵だな…心してかかるとしよう。"
 msgstr ""
+"Cường địch... hãy cẩn trọng\n"
+"mà nghênh chiến."
 
 #. What's that strange shining creature?
 msgctxt "[Laura] #375"
 msgid "むむっ…あの輝くモノは…"
-msgstr ""
+msgstr "Mm... thứ phát sáng kia là...?"
 
 #. Please be careful, everyone.
 msgctxt "[Emma] #376"
 msgid "皆さん、気をつけて行きましょう。"
-msgstr ""
+msgstr "Mọi người, hãy cẩn thận mà tiến bước."
 
 #. I wonder if we're around halfway
 #.  through now.
 msgctxt "[Emma] #377"
 msgid "ようやく中間地点でしょうか…"
 msgstr ""
+"Vậy là chúng ta đã đi được\n"
+"nửa đường rồi sao…"
 
 #. *sigh* It looks like we've
 #.  finally made it to the end.
 msgctxt "[Emma] #378"
 msgid "はぁ、やっと終点みたいですね。"
-msgstr ""
+msgstr "Ha... cuối cùng cũng đến điểm cuối."
 
 #. Oh, that's a beautiful-looking
 #.  treasure chest.
 msgctxt "[Emma] #379"
 msgid "あ、立派な宝箱です。"
-msgstr ""
+msgstr "A, kho báu đẹp mắt."
 
 #. This monster seems dangerous. Be careful!
 msgctxt "[Emma] #380"
 msgid "危険度大…どうか気をつけて！"
 msgstr ""
+"Kẻ địch nguy hiểm...\n"
+"mọi người hãy cẩn thận!"
 
 #. Oh? I wonder what that strange
 #.  glow is...
 msgctxt "[Emma] #381"
 msgid "あら、あの光っているのって…？"
-msgstr ""
+msgstr "Ồ? Thứ phát sáng đằng kia là...?"
 
 #. Let's go.
 msgctxt "[Fie] #382"
 msgid "それじゃ、行こっか。"
-msgstr ""
+msgstr "Nào, đi thôi."
 
 #. We're still not done?
 #.  *sigh* What a pain.
 msgctxt "[Fie] #383"
 msgid "まだあるのか…めんどいな。"
-msgstr ""
+msgstr "Vẫn còn nữa ư... phiền thật."
 
 #. Oh, there's the end.
 msgctxt "[Fie] #384"
 msgid "ん、終点みたいだね。"
-msgstr ""
+msgstr "Mm, có vẻ là điểm cuối rồi."
 
 #. I spy treasure.
 msgctxt "[Fie] #385"
 msgid "お宝見っけ。"
-msgstr ""
+msgstr "Tìm thấy kho báu."
 
 #. That one looks annoying.
 #.  Watch out.
 msgctxt "[Fie] #386"
 msgid "厄介そう…気をつけた方がいいかも。"
 msgstr ""
+"Trông có vẻ khó xơi...\n"
+"chúng ta nên cẩn thận."
 
 #. So shiny... What is it?
 msgctxt "[Fie] #387"
 msgid "キラキラしてる…なんだろ？"
 msgstr ""
+"Thứ lấp lánh đằng kia...\n"
+"rốt cuộc là gì vậy nhỉ?"
 
 #. Let's go go gooo!
 msgctxt "[Millium] #388"
 msgid "さー、どんどん進んでいこう！"
-msgstr ""
+msgstr "Nào, băng băng về phía trước!"
 
 #. Huh? There's more to go?
 msgctxt "[Millium] #389"
 msgid "んー、まだまだ続くみたいだねー。"
 msgstr ""
+"Mm, có vẻ vẫn còn phải\n"
+"đi thêm một đoạn nữa."
 
 #. Oooh, this looks like the end!
 msgctxt "[Millium] #390"
 msgid "あ、ここが終点じゃない？"
-msgstr ""
+msgstr "A, đây là điểm cuối rồi?"
 
 #. Yaaay, treasure!
 msgctxt "[Millium] #391"
 msgid "お宝はっけーん！"
-msgstr ""
+msgstr "Phát hiện kho báuuu!"
 
 #. Oooh, that one looks tough.
 msgctxt "[Millium] #392"
 msgid "お、なかなか強そーだね。"
-msgstr ""
+msgstr "Ồ, tên đó trông có vẻ mạnh."
 
 #. Whoa! Look at that shiny thing!
 msgctxt "[Millium] #393"
 msgid "わわっ、キラキラしてるのがいる！"
-msgstr ""
+msgstr "Oa, có thứ gì phát sáng lấp lánh kìa!"
 
 #. Let's go go gooo!
 msgctxt "[Altina] #394"
 msgid "さー、どんどん進んでいこう！"
-msgstr ""
+msgstr "Nào, lao thẳng về phía trước thui!"
 
 #. Huh? There's more to go?
 msgctxt "[Altina] #395"
 msgid "んー、まだまだ続くみたいだねー。"
-msgstr ""
+msgstr "Hừm, xem ra vẫn phải đi tiếp rồi~."
 
 #. Oooh, this looks like the end!
 msgctxt "[Altina] #396"
 msgid "あ、ここが終点じゃない？"
-msgstr ""
+msgstr "A, đây là điểm cuối rồi?"
 
 #. Yaaay, treasure!
 msgctxt "[Altina] #397"
 msgid "お宝はっけーん！"
-msgstr ""
+msgstr "Phát hiện kho báuuu!"
 
 #. Oooh, that one looks tough.
 msgctxt "[Altina] #398"
 msgid "お、なかなか強そーだね。"
-msgstr ""
+msgstr "Ồ, trông cũng mạnh đấy."
 
 #. Whoa! Look at that shiny thing!
 msgctxt "[Altina] #399"
 msgid "わわっ、キラキラしてるのがいる！"
-msgstr ""
+msgstr "Oa, có thứ gì đó lấp lánh kìa!"
 
 #. Let's be careful, everyone.
 msgctxt "[Elliot] #400"
 msgid "よ、よーし、気をつけて行こう。"
-msgstr ""
+msgstr "N- nào, cẩn trọng tiến bước."
 
 #. Oh, boy... There's more?
 msgctxt "[Elliot] #401"
 msgid "うう、まだ続いてるみたいだね…"
-msgstr ""
+msgstr "Ư... vậy là vẫn còn phải đi tiếp…"
 
 #. Yaaay! We're at the end!
 msgctxt "[Elliot] #402"
 msgid "よかった～、終点みたいだ！"
 msgstr ""
+"Tốt quá, có vẻ ta đã đến\n"
+"điểm cuối rồi!"
 
 #. Oh, a treasure chest!
 msgctxt "[Elliot] #403"
 msgid "あ、宝箱だよ！"
-msgstr ""
+msgstr "A, kho báu kìa!"
 
 #. That looks like a tough one.
 #.  Be careful!
 msgctxt "[Elliot] #404"
 msgid "強そうなのがいる…気をつけないと。"
 msgstr ""
+"Kẻ địch trông có vẻ khá mạnh...\n"
+"Cẩn thận nào, mọi người."
 
 #. Whoa! What's that shiny thing?
 msgctxt "[Elliot] #405"
 msgid "わわっ、あのキラキラしたのって…？"
 msgstr ""
+"Oa, thứ phát sáng lấp lánh\n"
+"đằng kia là...?"
 
 #. All right, time to commence our
 #.  investigation.
 msgctxt "[Machias] #406"
 msgid "さあ、探索を始めよう。"
-msgstr ""
+msgstr "Nào, bắt đầu điều tra nào."
 
 #. We're not through yet. Stay alert.
 msgctxt "[Machias] #407"
 msgid "まだ続くのか…慎重に行こう。"
 msgstr ""
+"Vẫn còn đường phải đi sao...\n"
+"thận trọng tiến bước nào."
 
 #. All right! We're finally through.
 msgctxt "[Machias] #408"
 msgid "よーし、終点みたいだな。"
-msgstr ""
+msgstr "Tốt, có vẻ đây là điểm cuối rồi."
 
 #. Oh, what a nice-looking treasure chest.
 msgctxt "[Machias] #409"
 msgid "おっ、良さそうな宝箱だ。"
-msgstr ""
+msgstr "Ồ, kho báu trông khá bắt mắt."
 
 #. A dangerous foe. Stay on guard!
 msgctxt "[Machias] #410"
 msgid "強敵を発見…警戒を怠るな！"
 msgstr ""
+"Phát hiện kẻ địch mạnh...\n"
+"đừng lơ là cảnh giác!"
 
 #. What is that glowing creature...?
 msgctxt "[Machias] #411"
 msgid "な、なんだあの光っているのは…？"
-msgstr ""
+msgstr "T- thứ phát sáng đằng kia là...?"
 
 #. We should proceed onward.
 msgctxt "[Gaius] #412"
 msgid "さて、とっとと行くとするか。"
-msgstr ""
+msgstr "Nào, tiếp tục tiến về phía trước thôi."
 
 #. There's more. Stay alert.
 msgctxt "[Gaius] #413"
 msgid "まだ続くか…気を抜くな。"
 msgstr ""
+"Vẫn còn phải đi tiếp sao...\n"
+"đừng lơ là cảnh giác."
 
 #. Hmph. We're finally done.
 msgctxt "[Gaius] #414"
 msgid "フッ、ここが終点のようだな。"
-msgstr ""
+msgstr "Hừm, có vẻ đây là điểm cuối rồi."
 
 #. Oh, a treasure chest.
 msgctxt "[Gaius] #415"
 msgid "ほう、宝箱か。"
-msgstr ""
+msgstr "Ồ, kho báu sao."
 
 #. It's enormous... Stay on guard!
 msgctxt "[Gaius] #416"
 msgid "でかいな…心してかかるぞ。"
-msgstr ""
+msgstr "To thật... chuẩn bị tinh thần nào."
 
 #. What is that bizarre creature?
 msgctxt "[Gaius] #417"
 msgid "なんだ、あの奇妙なモノは…？"
-msgstr ""
+msgstr "Cái thứ sinh vật kỳ lạ kia là...?"
 
 #. It's time to begin our investigation.
 msgctxt "[Jusis] #418"
 msgid "さて、探索を始めるとしよう。"
-msgstr ""
+msgstr "Nào, bắt đầu điều tra thôi."
 
 #. Hmm... We still seem to have a
 #.  ways to go.
 msgctxt "[Jusis] #419"
 msgid "む…まだ続いているようだな。"
 msgstr ""
+"Hừm... có vẻ vẫn còn đường\n"
+"ở phía trước."
 
 #. Haha. We made it through.
 msgctxt "[Jusis] #420"
 msgid "フフ、どうやら終点のようだな。"
-msgstr ""
+msgstr "Haha, có vẻ chúng ta đến điểm cuối rồi."
 
 #. Huh. There seems to be
 #.  a treasure chest here.
 msgctxt "[Jusis] #421"
 msgid "おや…宝箱があるな。"
-msgstr ""
+msgstr "Ồ... có kho báu."
 
 #. What a large monster...
 #.  We'll need to be careful.
 msgctxt "[Jusis] #422"
 msgid "大きいな…気をつけて当たろう。"
-msgstr ""
+msgstr "To thật... hãy cẩn thận khi chạm trán nó."
 
 #. What is that strange glow?
 msgctxt "[Jusis] #423"
 msgid "なんだ、あの輝きは…？"
-msgstr ""
+msgstr "Cái thứ phát sáng kia là...?"
 
 #. All right, let's get exploring!
 msgctxt "[Crow] #424"
 msgid "おーし、どんどん進むとしようぜ。"
-msgstr ""
+msgstr "Nào anh em, cứ thế mà thẳng tiến thôi nhỉ."
 
 #. Aww, man. We're still not through?
 msgctxt "[Crow] #425"
 msgid "なんだ、まだ続いてんのか？"
-msgstr ""
+msgstr "Thiệt chứ, vẫn còn phải đi tiếp nữa hả?"
 
 #. Whew... We're finally done.
 msgctxt "[Crow] #426"
 msgid "やれやれ、終点みてぇだな。"
-msgstr ""
+msgstr "Ui cha, có vẻ đã tới điểm cuối rồi."
 
 #. *whistle* Now THAT'S what I call
 #.  a chest!
 msgctxt "[Crow] #427"
 msgid "ヒュウ、お宝発見♪"
-msgstr ""
+msgstr "Huýt, tìm thấy kho báu siêu khủng!"
 
 #. Looks like a tough one. Watch out!
 msgctxt "[Crow] #428"
 msgid "ヤバイのがいるな…気をつけろ！"
 msgstr ""
+"Tên đó trông có vẻ khó nhằn...\n"
+"Cẩn thận đấy!"
 
 #. Whoa! What's that shiny thing?
 msgctxt "[Crow] #429"
 msgid "なんだぁ、あの光ってやがるのは…！？"
-msgstr ""
+msgstr "Ôi chà, cái thứ phát sáng đằng kia là gì thế?"
