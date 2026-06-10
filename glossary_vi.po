@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-09 09:00+0000\n"
+"PO-Revision-Date: 2026-06-10 05:50+0000\n"
 "Last-Translator: Lư Hữu Phước <gumbal797@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/trails-of-"
 "cold-steel-1-vietnamese/glossary/vi/>\n"
@@ -748,3 +748,22 @@ msgstr "điểm cuối"
 
 msgid "宝箱"
 msgstr "kho báu"
+
+msgctxt "Balance"
+msgid "BLN"
+msgstr "Thế"
+
+msgctxt "1"
+msgid "帝国時報"
+msgstr "Thời Báo Đế Quốc"
+
+msgid "カーネリア文庫版"
+msgstr "Bộ Sách Carnelia"
+
+msgctxt "1"
+msgid "赤い月のロゼ"
+msgstr "Hoa Hồng Dưới Trăng Đỏ"
+
+msgctxt "1"
+msgid "カーネリア文庫版"
+msgstr "Bộ Sách Carnelia"
