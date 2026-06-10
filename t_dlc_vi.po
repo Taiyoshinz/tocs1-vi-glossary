@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-10 07:03+0000\n"
+"PO-Revision-Date: 2026-06-10 17:11+0000\n"
 "Last-Translator: Lư Hữu Phước <gumbal797@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/trails-of-"
 "cold-steel-1-vietnamese/t_dlc_vi/vi/>\n"
@@ -129,7 +129,7 @@ msgstr "Đồng Phục Jenis"
 #. A uniform in the colors of Jenis Royal Academy.
 msgctxt "#11 desc"
 msgid "オリジナル制服カラー『空の軌跡・ジェニス王立学園』。"
-msgstr "Đồng phục mang màu sắc của Học Viện Vương Lập Jenis."
+msgstr "Đồng phục mang màu sắc của Học Viện Hoàng Gia Jenis."
 
 #. Black Uniform
 msgctxt "#12 name"
