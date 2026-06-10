@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-09 09:00+0000\n"
+"PO-Revision-Date: 2026-06-10 17:11+0000\n"
 "Last-Translator: Lư Hữu Phước <gumbal797@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/trails-of-"
 "cold-steel-1-vietnamese/t_active_vi/vi/>\n"
@@ -19,7 +19,9 @@ msgstr "Kia- kia là ma thú ư...!?"
 #. Huh... Never seen this kind before.
 msgctxt "[Jusis] #1"
 msgid "ふむ、見たことのない種類だが。"
-msgstr "Hừm... Chưa từng nhìn thấy chủng loại này bao giờ."
+msgstr ""
+"Hừm... Chưa từng nhìn thấy\n"
+"chủng loại này bao giờ."
 
 #. It looks like a Flying Feline.
 #.  Careful, everyone.
