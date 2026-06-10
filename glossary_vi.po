@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-10 07:03+0000\n"
+"PO-Revision-Date: 2026-06-10 17:11+0000\n"
 "Last-Translator: Lư Hữu Phước <gumbal797@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/trails-of-"
 "cold-steel-1-vietnamese/glossary/vi/>\n"
@@ -772,7 +772,7 @@ msgid "ジェニス"
 msgstr "Jenis"
 
 msgid "王立学園"
-msgstr "Học Viện Vương Lập"
+msgstr "Học Viện Hoàng Gia"
 
 msgid "メタルカバー"
 msgstr "Ốp lưng"
