@@ -1,574 +1,580 @@
 #
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2026-06-10 07:03+0000\n"
+"Last-Translator: Lư Hữu Phước <gumbal797@gmail.com>\n"
+"Language-Team: Vietnamese <https://hosted.weblate.org/projects/trails-of-"
+"cold-steel-1-vietnamese/t_dlc_vi/vi/>\n"
 "Language: vi\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2026.6\n"
 
 #. Rean's Casual Clothes
 msgctxt "#0 name"
 msgid "リィンの私服"
-msgstr ""
+msgstr "Rean - Thường Phục"
 
 #. A set of casual clothes just right for Rean.
 msgctxt "#0 desc"
 msgid "リィンが私服に着替えられる衣装アイテム。"
-msgstr ""
+msgstr "Thường phục dành riêng cho Rean."
 
 #. Alisa's Casual Clothes
 msgctxt "#1 name"
 msgid "アリサの私服"
-msgstr ""
+msgstr "Alisa - Thường Phục"
 
 #. A set of casual clothes just right for Alisa.
 msgctxt "#1 desc"
 msgid "アリサが私服に着替えられる衣装アイテム。"
-msgstr ""
+msgstr "Thường phục dành riêng cho Alisa."
 
 #. Elliot's Casual Clothes
 msgctxt "#2 name"
 msgid "エリオットの私服"
-msgstr ""
+msgstr "Elliot - Thường Phục"
 
 #. A set of casual clothes just right for Elliot.
 msgctxt "#2 desc"
 msgid "エリオットが私服に着替えられる衣装アイテム。"
-msgstr ""
+msgstr "Thường phục dành riêng cho Elliot."
 
 #. Laura's Casual Clothes
 msgctxt "#3 name"
 msgid "ラウラの私服"
-msgstr ""
+msgstr "Laura - Thường Phục"
 
 #. A set of casual clothes just right for Laura.
 msgctxt "#3 desc"
 msgid "ラウラが私服に着替えられる衣装アイテム。"
-msgstr ""
+msgstr "Thường phục dành riêng cho Laura."
 
 #. Machias' Casual Clothes
 msgctxt "#4 name"
 msgid "マキアスの私服"
-msgstr ""
+msgstr "Machias - Thường Phục"
 
 #. A set of casual clothes just right for Machias.
 msgctxt "#4 desc"
 msgid "マキアスが私服に着替えられる衣装アイテム。"
-msgstr ""
+msgstr "Thường phục dành riêng cho Machias."
 
 #. Emma's Casual Clothes
 msgctxt "#5 name"
 msgid "エマの私服"
-msgstr ""
+msgstr "Emma - Thường Phục"
 
 #. A set of casual clothes just right for Emma.
 msgctxt "#5 desc"
 msgid "エマが私服に着替えられる衣装アイテム。"
-msgstr ""
+msgstr "Thường phục dành riêng cho Emma."
 
 #. Jusis' Casual Clothes
 msgctxt "#6 name"
 msgid "ユーシスの私服"
-msgstr ""
+msgstr "Jusis - Thường Phục"
 
 #. A set of casual clothes just right for Jusis.
 msgctxt "#6 desc"
 msgid "ユーシスが私服に着替えられる衣装アイテム。"
-msgstr ""
+msgstr "Thường phục dành riêng cho Jusis."
 
 #. Fie's Casual Clothes
 msgctxt "#7 name"
 msgid "フィーの私服"
-msgstr ""
+msgstr "Fie - Thường Phục"
 
 #. A set of casual clothes just right for Fie.
 msgctxt "#7 desc"
 msgid "フィーが私服に着替えられる衣装アイテム。"
-msgstr ""
+msgstr "Thường phục dành riêng cho Fie."
 
 #. Gaius' Casual Clothes
 msgctxt "#8 name"
 msgid "ガイウスの私服"
-msgstr ""
+msgstr "Gaius - Thường Phục"
 
 #. A set of casual clothes just right for Gaius.
 msgctxt "#8 desc"
 msgid "ガイウスが私服に着替えられる衣装アイテム。"
-msgstr ""
+msgstr "Thường phục dành riêng cho Gaius."
 
 #. Millium's Casual Clothes
 msgctxt "#9 name"
 msgid "ミリアムの私服"
-msgstr ""
+msgstr "Millium - Thường Phục"
 
 #. A set of casual clothes just right for Millium.
 msgctxt "#9 desc"
 msgid "ミリアムが私服に着替えられる衣装アイテム。"
-msgstr ""
+msgstr "Thường phục dành riêng cho Millium."
 
 #. Crow's Casual Clothes
 msgctxt "#10 name"
 msgid "クロウの私服"
-msgstr ""
+msgstr "Crow - Thường Phục"
 
 #. A set of casual clothes just right for Crow.
 msgctxt "#10 desc"
 msgid "クロウが私服に着替えられる衣装アイテム。"
-msgstr ""
+msgstr "Thường Phục dành riêng cho Crow."
 
 #. Jenis Uniform
 msgctxt "#11 name"
 msgid "制服･ジェニス王立学園"
-msgstr ""
+msgstr "Đồng Phục Jenis"
 
 #. A uniform in the colors of Jenis Royal Academy.
 msgctxt "#11 desc"
 msgid "オリジナル制服カラー『空の軌跡・ジェニス王立学園』。"
-msgstr ""
+msgstr "Đồng phục mang màu sắc của Học Viện Vương Lập Jenis."
 
 #. Black Uniform
 msgctxt "#12 name"
 msgid "制服･漆黒の戦線"
-msgstr ""
+msgstr "Đồng Phục Đen - Mặt Trận Hắc Ám"
 
 #. A classy black variant uniform. Goes with everything.
 msgctxt "#12 desc"
 msgid "オリジナル制服カラー『漆黒の戦線』。"
-msgstr ""
+msgstr "Đồng phục nguyên bản, chủ đề Mặt Trận Hắc Ám."
 
 #. Mishy Paradise Uniform
 msgctxt "#13 name"
 msgid "制服･パラダイスみっしぃ"
-msgstr ""
+msgstr "Đồng Phục Mishy Thiên Đường"
 
 #. A uniform for those who need more Mishy in their life.
 msgctxt "#13 desc"
 msgid "オリジナル制服カラー『パラダイスみっしぃ』。"
-msgstr ""
+msgstr "Đồng phục nguyên bản, chủ đề Thiên Đường Mishy."
 
 #. Lawson Uniform
 msgctxt "#14 name"
 msgid "制服･ＬＡＷＳＯＮ"
-msgstr ""
+msgstr "Đồng phục Lawson"
 
 #. A uniform for those who embrace convenience.
 msgctxt "#14 desc"
 msgid "オリジナル制服カラー『ＬＡＷＳＯＮ』。"
-msgstr ""
+msgstr "Đồng phục nguyên bản, chủ đề Lawson."
 
 #. Reverse Uniform
 msgctxt "#15 name"
 msgid "制服･ＲＥＶＥＲＳＥ"
-msgstr ""
+msgstr "Đồng phục Reverse"
 
 #. A variant uniform with a special color scheme.
 msgctxt "#15 desc"
 msgid "オリジナル制服カラー『ＲＥＶＥＲＳＥ』。"
-msgstr ""
+msgstr "Đồng phục nguyên bản, chủ đề Reverse."
 
 #. Faceplate - Rean
 msgctxt "#16 name"
 msgid "メタルカバー・リィン"
-msgstr ""
+msgstr "Ốp Lưng - Rean"
 
 #. A stylish metallic ARCUS cover with a design based on Rean.
 msgctxt "#16 desc"
 msgid "リィンをモチーフにした、スタイリッシュなＡＲＣＵＳカバー。"
-msgstr ""
+msgstr "Ốp lưng ARCUS thời thượng được lấy cảm hứng từ Rean."
 
 #. Faceplate - Alisa
 msgctxt "#17 name"
 msgid "メタルカバー・アリサ"
-msgstr ""
+msgstr "Ốp Lưng - Alisa"
 
 #. A stylish metallic ARCUS cover with a design based on Alisa.
 msgctxt "#17 desc"
 msgid "アリサをモチーフにした、スタイリッシュなＡＲＣＵＳカバー。"
-msgstr ""
+msgstr "Ốp lưng ARCUS thời thượng được lấy cảm hứng từ Alisa."
 
 #. Faceplate - Elliot
 msgctxt "#18 name"
 msgid "メタルカバー・エリオット"
-msgstr ""
+msgstr "Ốp Lưng - Elliot"
 
 #. A stylish metallic ARCUS cover with a design based on Elliot.
 msgctxt "#18 desc"
 msgid "エリオットをモチーフにした、スタイリッシュなＡＲＣＵＳカバー。"
-msgstr ""
+msgstr "Ốp lưng ARCUS thời thượng được lấy cảm hứng từ Elliot."
 
 #. Faceplate - Laura
 msgctxt "#19 name"
 msgid "メタルカバー・ラウラ"
-msgstr ""
+msgstr "Ốp Lưng - Laura"
 
 #. A stylish metallic ARCUS cover with a design based on Laura.
 msgctxt "#19 desc"
 msgid "ラウラをモチーフにした、スタイリッシュなＡＲＣＵＳカバー。"
-msgstr ""
+msgstr "Ốp lưng ARCUS thời thượng được lấy cảm hứng từ Laura."
 
 #. Faceplate - Machias
 msgctxt "#20 name"
 msgid "メタルカバー・マキアス"
-msgstr ""
+msgstr "Ốp Lưng - Machias"
 
 #. A stylish metallic ARCUS cover with a design based on Machias.
 msgctxt "#20 desc"
 msgid "マキアスをモチーフにした、スタイリッシュなＡＲＣＵＳカバー。"
-msgstr ""
+msgstr "Ốp lưng ARCUS thời thượng được lấy cảm hứng từ Machias."
 
 #. Faceplate - Emma
 msgctxt "#21 name"
 msgid "メタルカバー・エマ"
-msgstr ""
+msgstr "Ốp Lưng - Emma"
 
 #. A stylish metallic ARCUS cover with a design based on Emma.
 msgctxt "#21 desc"
 msgid "エマをモチーフにした、スタイリッシュなＡＲＣＵＳカバー。"
-msgstr ""
+msgstr "Ốp lưng ARCUS thời thượng được lấy cảm hứng từ Emma."
 
 #. Faceplate - Jusis
 msgctxt "#22 name"
 msgid "メタルカバー・ユーシス"
-msgstr ""
+msgstr "Ốp Lưng - Jusis"
 
 #. A stylish metallic ARCUS cover with a design based on Jusis.
 msgctxt "#22 desc"
 msgid "ユーシスをモチーフにした、スタイリッシュなＡＲＣＵＳカバー。"
-msgstr ""
+msgstr "Ốp lưng ARCUS thời thượng được lấy cảm hứng từ Jusis."
 
 #. Faceplate - Fie
 msgctxt "#23 name"
 msgid "メタルカバー・フィー"
-msgstr ""
+msgstr "Ốp Lưng - Fie"
 
 #. A stylish metallic ARCUS cover with a design based on Fie.
 msgctxt "#23 desc"
 msgid "フィーをモチーフにした、スタイリッシュなＡＲＣＵＳカバー。"
-msgstr ""
+msgstr "Ốp lưng ARCUS thời thượng được lấy cảm hứng từ Fie."
 
 #. Faceplate - Gaius
 msgctxt "#24 name"
 msgid "メタルカバー・ガイウス"
-msgstr ""
+msgstr "Ốp Lưng - Gaius"
 
 #. A stylish metallic ARCUS cover with a design based on Gaius.
 msgctxt "#24 desc"
 msgid "ガイウスをモチーフにした、スタイリッシュなＡＲＣＵＳカバー。"
-msgstr ""
+msgstr "Ốp lưng ARCUS thời thượng được lấy cảm hứng từ Gaius."
 
 #. Faceplate - Millium
 msgctxt "#25 name"
 msgid "メタルカバー・ミリアム"
-msgstr ""
+msgstr "Ốp Lưng - Millium"
 
 #. A stylish metallic ARCUS cover with a design based on Millium.
 msgctxt "#25 desc"
 msgid "ミリアムをモチーフにした、スタイリッシュなＡＲＣＵＳカバー。"
-msgstr ""
+msgstr "Ốp lưng ARCUS thời thượng được lấy cảm hứng từ Millium."
 
 #. Faceplate - Crow
 msgctxt "#26 name"
 msgid "メタルカバー・クロウ"
-msgstr ""
+msgstr "Ốp Lưng - Crow"
 
 #. A stylish metallic ARCUS cover with a design based on Crow.
 msgctxt "#26 desc"
 msgid "クロウをモチーフにした、スタイリッシュなＡＲＣＵＳカバー。"
-msgstr ""
+msgstr "Ốp lưng ARCUS thời thượng được lấy cảm hứng từ Crow."
 
 #. Faceplate - Dengeki
 msgctxt "#27 name"
 msgid "ＳＰカバー・電撃"
-msgstr ""
+msgstr "Ốp Lưng Đặc Biệt - Dengeki"
 
 #. An ARCUS cover from Dengeki Playstation纃ｻ.
 msgctxt "#27 desc"
 msgid "電撃PlayStation㍻コラボ限定のオリジナルＡＲＣＵＳカバー。"
-msgstr ""
+msgstr "Ốp lưng ARCUS hợp tác giới hạn với Dengeki Playstation纃ｻ."
 
 #. Faceplate - Famitsu
 msgctxt "#28 name"
 msgid "ＳＰカバー・ファミ通"
-msgstr ""
+msgstr "Ốp Lưng Đặc Biệt - Famitsu"
 
 #. An ARCUS cover from Famitsu.
 msgctxt "#28 desc"
 msgid "ファミ通コラボ限定のオリジナルＡＲＣＵＳカバー。"
-msgstr ""
+msgstr "Ốp lưng ARCUS hợp tác giới hạn với Famitsu."
 
 #. Ride-Along Mishy
 msgctxt "#29 name"
 msgid "ハグハグみっしぃ"
-msgstr ""
+msgstr "Mishy Ôm Ấp"
 
 #. Have free space on your arm? Let Mishy come along!
 msgctxt "#29 desc"
 msgid "みっしぃがハグハグしてくれるアタッチアイテム。"
-msgstr ""
+msgstr "Phụ kiện Mishy ôm ấp siêu cấp dễ thương."
 
 #. Ride-Along Noi
 msgctxt "#30 name"
 msgid "はぐはぐノイ"
-msgstr ""
+msgstr "Noi Ôm Ấp"
 
 #. Have free space on your arm? Let Noi come along!
 msgctxt "#30 desc"
 msgid "ノイがはぐはぐしてくれるアタッチアイテム。"
-msgstr ""
+msgstr "Phụ kiện Noi ôm ấp siêu cấp dễ thương."
 
 #. Bunny Ears
 msgctxt "#31 name"
 msgid "バニーちゃんセット"
-msgstr ""
+msgstr "Tai Thỏ"
 
 #. Don these cute ears and discover the secret to hoppiness!
 msgctxt "#31 desc"
 msgid "バニーちゃんになった気分になれるアタッチアイテム。"
-msgstr ""
+msgstr "Phụ kiện tai thỏ khiến bạn muốn hóa thành thỏ."
 
 #. Free Trial Pack
 msgctxt "#32 name"
 msgid "無料お試しセット"
-msgstr ""
+msgstr "Gói Dùng Thử Miễn Phí"
 
 #. Includes 3 types of healing items and 4 types of quartz.
 msgctxt "#32 desc"
 msgid "回復薬３種と、クオーツ４種のセット。"
-msgstr ""
+msgstr "Gói đồ gồm 3 vật phẩm hồi phục và 4 loại quartz."
 
 #. Free Trial Pack 2
 msgctxt "#33 name"
 msgid "無料お試しセット②"
-msgstr ""
+msgstr "Gói Dùng Thử Miễn Phí 2"
 
 #. Includes 2 Zeram Powders.
 msgctxt "#33 desc"
 msgid "ゼラムパウダー×２のセット。"
-msgstr ""
+msgstr "Gói đồ gồm 2 Bột Zeram."
 
 #. Free Trial Pack 3
 msgctxt "#34 name"
 msgid "無料お試しセット③"
-msgstr ""
+msgstr "Gói Dùng Thử Miễn Phí 3"
 
 #. Includes 2 Shining Pom Bait.
 msgctxt "#34 desc"
 msgid "Ｓポムのエサ×２のセット。"
-msgstr ""
+msgstr "Gói đồ gồm 2 Mồi Nhử Pom Lấp Lánh."
 
 #. Sepith Pack
 msgctxt "#35 name"
 msgid "セピスセット"
-msgstr ""
+msgstr "Gói Sepith"
 
 #. Includes 500 pieces of each type of sepith.
 msgctxt "#35 desc"
 msgid "七属性セピス×５００のセット。"
-msgstr ""
+msgstr "Gói đồ gồm 500 Sepith mỗi loại."
 
 #. Handy Accessories Pack
 msgctxt "#36 name"
 msgid "便利アクセサリセット"
-msgstr ""
+msgstr "Gói Phụ Kiện Tiện Lợi"
 
 #. Includes 8 useful accessories.
 msgctxt "#36 desc"
 msgid "便利なアクセサリ８種のセット。"
-msgstr ""
+msgstr "Gói đồ gồm 8 phụ kiện tiện lợi khác nhau."
 
 #. Monstrous Ingredients Pack
 msgctxt "#37 name"
 msgid "魔獣食材セット"
-msgstr ""
+msgstr "Gói Nguyên Liệu Ma Thú"
 
 #. Includes 6 types of monster ingredients (30 of each).
 msgctxt "#37 desc"
 msgid "魔獣食材６種×３０のセット。"
-msgstr ""
+msgstr "Gói đồ gồm 6 loại nguyên liệu ma thú (30 mỗi loại)."
 
 #. Valuable Healing Items Pack
 msgctxt "#38 name"
 msgid "上級回復薬セット"
-msgstr ""
+msgstr "Gói Hồi Phục Cao Cấp"
 
 #. Includes 4 types of healing items (10 of each).
 msgctxt "#38 desc"
 msgid "上級回復薬４種×１０のセット。"
-msgstr ""
+msgstr "Gói đồ gồm 4 vật phẩm hồi phục (10 mỗi loại)."
 
 #. Zeram Powder Pack
 msgctxt "#39 name"
 msgid "ゼラムパウダーセット"
-msgstr ""
+msgstr "Gói Bột Zeram"
 
 #. Includes 10 Zeram Powders.
 msgctxt "#39 desc"
 msgid "ゼラムパウダー×１０のセット。"
-msgstr ""
+msgstr "Gồi đồ gồm 10 Bột Zeram."
 
 #. Zeram Capsule Pack
 msgctxt "#40 name"
 msgid "ゼラムカプセルセット"
-msgstr ""
+msgstr "Gói Viên Nang Zeram"
 
 #. Includes 10 Zeram Capsules.
 msgctxt "#40 desc"
 msgid "ゼラムカプセル×１０のセット。"
-msgstr ""
+msgstr "Gói đồ gồm 10 Viên Nang Zeram."
 
 #. Shining Pom Bait Pack 1
 msgctxt "#41 name"
 msgid "Ｓポムのエサセット"
-msgstr ""
+msgstr "Gói Mồi Nhử Pom 1"
 
 #. A handy pack of 3 Shining Pom Bait.
 msgctxt "#41 desc"
 msgid "Ｓポムのエサ×３のセット。"
-msgstr ""
+msgstr "Gói đồ gồm 3 Mồi Nhử Pom Lấp Lánh."
 
 #. Shining Pom Bait Pack 2
 msgctxt "#42 name"
 msgid "Ｓポムのエサセット②"
-msgstr ""
+msgstr "Gói Mồi Nhử Pom 2"
 
 #. A handy pack of 3 Shining Pom Bait.
 msgctxt "#42 desc"
 msgid "Ｓポムのエサ×３のセット。"
-msgstr ""
+msgstr "Gói đồ gồm 3 Mồi Nhử Pom Lấp Lánh."
 
 #. Shining Pom Bait Pack 3
 msgctxt "#43 name"
 msgid "Ｓポムのエサセット③"
-msgstr ""
+msgstr "Gói Mồi Nhử Pom 3"
 
 #. A handy pack of 3 Shining Pom Bait.
 msgctxt "#43 desc"
 msgid "Ｓポムのエサ×３のセット。"
-msgstr ""
+msgstr "Gói đồ gồm 3 Mồi Nhử Pom Lấp Lánh."
 
 #. Shining Pom Bait Trial Set
 msgctxt "#44 name"
 msgid "Ｓポムのエサ無料セット"
-msgstr ""
+msgstr "Gói Mồi Nhử Pom Miễn Phí"
 
 #. A handy pack of 3 Shining Pom Bait.
 msgctxt "#44 desc"
 msgid "Ｓポムのエサ×３のセット。"
-msgstr ""
+msgstr "Gói đồ gồm 3 Mồi Nhử Pom Lấp Lánh."
 
 #. Shining Pom Bait Pack 1
 msgctxt "#45 name"
 msgid "Ｓポムのエサセット①"
-msgstr ""
+msgstr "Gói Mồi Nhử Pom 1"
 
 #. A handy pack of 3 Shining Pom Bait.
 msgctxt "#45 desc"
 msgid "Ｓポムのエサ×３のセット。"
-msgstr ""
+msgstr "Gói đồ gồm 3 Mồi Nhử Pom Lấp Lánh."
 
 #. Shining Pom Bait Pack 2
 msgctxt "#46 name"
 msgid "Ｓポムのエサセット②"
-msgstr ""
+msgstr "Gói Mồi Nhử Pom 2"
 
 #. A handy pack of 3 Shining Pom Bait.
 msgctxt "#46 desc"
 msgid "Ｓポムのエサ×３のセット。"
-msgstr ""
+msgstr "Gói đồ gồm 3 Mồi Nhử Pom Lấp Lánh."
 
 #. Shining Pom Bait Pack 3
 msgctxt "#47 name"
 msgid "Ｓポムのエサセット③"
-msgstr ""
+msgstr "Gói Mồi Nhử Pom 3"
 
 #. A handy pack of 3 Shining Pom Bait.
 msgctxt "#47 desc"
 msgid "Ｓポムのエサ×３のセット。"
-msgstr ""
+msgstr "Gói đồ gồm 3 Mồi Nhử Pom Lấp Lánh."
 
 #. Shining Pom Bait Pack 4
 msgctxt "#48 name"
 msgid "Ｓポムのエサセット④"
-msgstr ""
+msgstr "Gói Mồi Nhử Pom 4"
 
 #. A handy pack of 3 Shining Pom Bait.
 msgctxt "#48 desc"
 msgid "Ｓポムのエサ×３のセット。"
-msgstr ""
+msgstr "Gói đồ gồm 3 Mồi Nhử Pom Lấp Lánh."
 
 #. Shining Pom Bait Pack 5
 msgctxt "#49 name"
 msgid "Ｓポムのエサセット⑤"
-msgstr ""
+msgstr "Gói Mồi Nhử Pom 5"
 
 #. A handy pack of 3 Shining Pom Bait.
 msgctxt "#49 desc"
 msgid "Ｓポムのエサ×３のセット。"
-msgstr ""
+msgstr "Gói đồ gồm 3 Mồi Nhử Pom Lấp Lánh."
 
 #. Shining Pom Bait Value Pack 1
 msgctxt "#50 name"
 msgid "Ｓポムのエサお得セット①"
-msgstr ""
+msgstr "Bộ Mồi Nhử Pom 1"
 
 #. A glorious pack of 6 Shining Pom Bait.
 msgctxt "#50 desc"
 msgid "Ｓポムのエサ×６のセット。"
-msgstr ""
+msgstr "Gói đồ gồm 6 Mồi Nhử Pom Lấp Lánh."
 
 #. Shining Pom Bait Value Pack 2
 msgctxt "#51 name"
 msgid "Ｓポムのエサお得セット②"
-msgstr ""
+msgstr "Bộ Mồi Nhử Pom 2"
 
 #. A glorious pack of 6 Shining Pom Bait.
 msgctxt "#51 desc"
 msgid "Ｓポムのエサ×６のセット。"
-msgstr ""
+msgstr "Gói đồ gồm 6 Mồi Nhử Pom Lấp Lánh."
 
 #. Shining Pom Bait Value Pack 3
 msgctxt "#52 name"
 msgid "Ｓポムのエサお得セット③"
-msgstr ""
+msgstr "Bộ Mồi Nhử Pom 3"
 
 #. A glorious pack of 6 Shining Pom Bait.
 msgctxt "#52 desc"
 msgid "Ｓポムのエサ×６のセット。"
-msgstr ""
+msgstr "Gói đồ gồm 6 Mồi Nhử Pom Lấp Lánh."
 
 #. Shining Pom Bait Value Pack 4
 msgctxt "#53 name"
 msgid "Ｓポムのエサお得セット④"
-msgstr ""
+msgstr "Bộ Mồi Nhử Pom 4"
 
 #. A glorious pack of 6 Shining Pom Bait.
 msgctxt "#53 desc"
 msgid "Ｓポムのエサ×６のセット。"
-msgstr ""
+msgstr "Gói đồ gồm 6 Mồi Nhử Pom Lấp Lánh."
 
 #. Shining Pom Bait Value Pack 5
 msgctxt "#54 name"
 msgid "Ｓポムのエサお得セット⑤"
-msgstr ""
+msgstr "Bộ Mồi Nhử Pom 5"
 
 #. A glorious pack of 6 Shining Pom Bait.
 msgctxt "#54 desc"
 msgid "Ｓポムのエサ×６のセット。"
-msgstr ""
+msgstr "Gói đồ gồm 6 Mồi Nhử Pom Lấp Lánh."
 
 #. Beginner Value Pack
 msgctxt "#55 name"
 msgid "初心者用お得セット"
-msgstr ""
+msgstr "Gói Tân Thủ Xịn"
 
 #. Includes 2 Zeram Capsules and 500 of each type of sepith.
 msgctxt "#55 desc"
 msgid "七属性セピス×５００、ゼラムカプセル×２のセット。"
-msgstr ""
+msgstr "Gói đồ gồm 2 Viên Nang Zeram và 500 Sepith mỗi loại."
 
 #. Enrollment Bonus Pack
 msgctxt "#56 name"
 msgid "士官学院入学祝いセット"
-msgstr ""
+msgstr "Gói Nhập Học Sĩ Quan"
 
 #. Includes Cold Steel faceplate, Suzaku quartz, and 2 accessories.
 msgctxt "#56 desc"
@@ -576,33 +582,35 @@ msgid ""
 "『SPカバー・閃』、Ｓレアクオーツ『朱雀刃』、\n"
 "アクセサリ２種のセット。"
 msgstr ""
+"Gói đồ gồm Ốp Lưng Ánh Thép, quartz Dao Chu Tước,\n"
+"2 phụ kiện."
 
 #. Ride-Along Toro
 msgctxt "#57 name"
 msgid "はぐはぐトロ"
-msgstr ""
+msgstr "Toro Ôm Ấp"
 
 #. Have free space on your arm? Let Toro come along!
 msgctxt "#57 desc"
 msgid "トロがはぐはぐしてくれるアタッチアイテム。"
-msgstr ""
+msgstr "Phụ kiện Toro ôm ấp siêu cấp dễ thương."
 
 #. Ride-Along Kuro
 msgctxt "#58 name"
 msgid "はぐはぐクロ"
-msgstr ""
+msgstr "Kuro Ôm Ấp"
 
 #. Have free space on your arm? Let Kuro come along!
 msgctxt "#58 desc"
 msgid "クロがはぐはぐしてくれるアタッチアイテム。"
-msgstr ""
+msgstr "Phụ kiện Kuro ôm ấp siêu cấp dễ thương."
 
 #. Faceplate - Toro & Kuro
 msgctxt "#59 name"
 msgid "ＳＰカバー・トロクロ"
-msgstr ""
+msgstr "Ốp Lưng - Toro & Kuro"
 
 #. An ARCUS cover featuring cool cats Toro and Kuro.
 msgctxt "#59 desc"
 msgid "『みんなといっしょ』コラボ限定のオリジナルＡＲＣＵＳカバー。"
-msgstr ""
+msgstr "Ốp lưng ARCUS hợp tác giới hạn với Toro và Kuro."
