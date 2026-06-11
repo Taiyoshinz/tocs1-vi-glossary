@@ -1,0 +1,688 @@
+#
+msgid ""
+msgstr ""
+"Language: vi\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Link Attack
+msgctxt "#0 name"
+msgid "リンクアタック"
+msgstr ""
+
+#. Allows the use of link attacks.
+msgctxt "#0 desc"
+msgid "リンクアタックが使えるようになる。"
+msgstr ""
+
+#. Finishing Blow
+msgctxt "#1 name"
+msgid "止めの一撃"
+msgstr ""
+
+#. Follows assist attacks with a finishing blow if the foe has low HP.
+msgctxt "#1 desc"
+msgid "追撃の後、残りＨＰの少ない敵に止めを刺す。"
+msgstr ""
+
+#. Cover
+msgctxt "#2 name"
+msgid "かばう"
+msgstr ""
+
+#. Sometimes defends partner from an attack, halving damage.
+msgctxt "#2 desc"
+msgid "一定確率でパートナーをかばう。ダメージ半減。"
+msgstr ""
+
+#. Powerful Strike
+msgctxt "#3 name"
+msgid "渾身の一撃"
+msgstr ""
+
+#. Increases finishing blow's power and activation frequency.
+msgctxt "#3 desc"
+msgid "止めの一撃の威力が増し、発生しやすくなる。"
+msgstr ""
+
+#. Rush 2
+msgctxt "#4 name"
+msgid "ラッシュⅡ"
+msgstr ""
+
+#. Increases the power of Rush.
+msgctxt "#4 desc"
+msgid "ラッシュの威力が向上する。"
+msgstr ""
+
+#. Link Attack
+msgctxt "#5 name"
+msgid "リンクアタック"
+msgstr ""
+
+#. Allows the use of link attacks.
+msgctxt "#5 desc"
+msgid "リンクアタックが使えるようになる。"
+msgstr ""
+
+#. Finishing Blow
+msgctxt "#6 name"
+msgid "止めの一撃"
+msgstr ""
+
+#. Follows assist attacks with a finishing blow if the foe has low HP.
+msgctxt "#6 desc"
+msgid "追撃の後、残りＨＰの少ない敵に止めを刺す。"
+msgstr ""
+
+#. Auto-Tear
+msgctxt "#7 name"
+msgid "クイックティア"
+msgstr ""
+
+#. Sometimes heals partner's HP when they are attacked.
+msgctxt "#7 desc"
+msgid "パートナーが攻撃されると、一定確率でＨＰ回復。"
+msgstr ""
+
+#. Cheer
+msgctxt "#8 name"
+msgid "ライブリーエール"
+msgstr ""
+
+#. Sometimes encourages partner when they are attacked. CP+50.
+msgctxt "#8 desc"
+msgid "パートナーが攻撃されると、一定確率で激励。ＣＰ＋５０。"
+msgstr ""
+
+#. Rush 2
+msgctxt "#9 name"
+msgid "ラッシュⅡ"
+msgstr ""
+
+#. Increases the power of Rush.
+msgctxt "#9 desc"
+msgid "ラッシュの威力が向上する。"
+msgstr ""
+
+#. Link Attack
+msgctxt "#10 name"
+msgid "リンクアタック"
+msgstr ""
+
+#. Allows the use of link attacks.
+msgctxt "#10 desc"
+msgid "リンクアタックが使えるようになる。"
+msgstr ""
+
+#. Finishing Blow
+msgctxt "#11 name"
+msgid "止めの一撃"
+msgstr ""
+
+#. Follows assist attacks with a finishing blow if the foe has low HP.
+msgctxt "#11 desc"
+msgid "追撃の後、残りＨＰの少ない敵に止めを刺す。"
+msgstr ""
+
+#. Auto-Tear
+msgctxt "#12 name"
+msgid "クイックティア"
+msgstr ""
+
+#. Sometimes heals partner's HP when they are attacked.
+msgctxt "#12 desc"
+msgid "パートナーが攻撃されると、一定確率でＨＰ回復。"
+msgstr ""
+
+#. Arts Support
+msgctxt "#13 name"
+msgid "ブーストアーツ"
+msgstr ""
+
+#. Sometimes increases the power of partner's arts by 1.2x.
+msgctxt "#13 desc"
+msgid "パートナーがアーツを使うと、一定確率で発動を補助。ダメージ1.2倍。"
+msgstr ""
+
+#. Rush 2
+msgctxt "#14 name"
+msgid "ラッシュⅡ"
+msgstr ""
+
+#. Increases the power of Rush.
+msgctxt "#14 desc"
+msgid "ラッシュの威力が向上する。"
+msgstr ""
+
+#. Link Attack
+msgctxt "#15 name"
+msgid "リンクアタック"
+msgstr ""
+
+#. Allows the use of link attacks.
+msgctxt "#15 desc"
+msgid "リンクアタックが使えるようになる。"
+msgstr ""
+
+#. Finishing Blow
+msgctxt "#16 name"
+msgid "止めの一撃"
+msgstr ""
+
+#. Follows assist attacks with a finishing blow if the foe has low HP.
+msgctxt "#16 desc"
+msgid "追撃の後、残りＨＰの少ない敵に止めを刺す。"
+msgstr ""
+
+#. Cover
+msgctxt "#17 name"
+msgid "かばう"
+msgstr ""
+
+#. Sometimes defends partner from an attack, halving damage.
+msgctxt "#17 desc"
+msgid "一定確率でパートナーをかばう。ダメージ半減。"
+msgstr ""
+
+#. Vengeance
+msgctxt "#18 name"
+msgid "猛反撃"
+msgstr ""
+
+#. Sometimes counters with a critical when partner is attacked.
+msgctxt "#18 desc"
+msgid "パートナーが攻撃されると、一定確率でクリティカル反撃。"
+msgstr ""
+
+#. Rush 2
+msgctxt "#19 name"
+msgid "ラッシュⅡ"
+msgstr ""
+
+#. Increases the power of Rush.
+msgctxt "#19 desc"
+msgid "ラッシュの威力が向上する。"
+msgstr ""
+
+#. Link Attack
+msgctxt "#20 name"
+msgid "リンクアタック"
+msgstr ""
+
+#. Allows the use of link attacks.
+msgctxt "#20 desc"
+msgid "リンクアタックが使えるようになる。"
+msgstr ""
+
+#. Finishing Blow
+msgctxt "#21 name"
+msgid "止めの一撃"
+msgstr ""
+
+#. Follows assist attacks with a finishing blow if the foe has low HP.
+msgctxt "#21 desc"
+msgid "追撃の後、残りＨＰの少ない敵に止めを刺す。"
+msgstr ""
+
+#. Auto-Tear
+msgctxt "#22 name"
+msgid "クイックティア"
+msgstr ""
+
+#. Sometimes heals partner's HP when they are attacked.
+msgctxt "#22 desc"
+msgid "パートナーが攻撃されると、一定確率でＨＰ回復。"
+msgstr ""
+
+#. Auto-Charge
+msgctxt "#23 name"
+msgid "クイックチャージ"
+msgstr ""
+
+#. Sometimes restores partner's EP after they use arts.
+msgctxt "#23 desc"
+msgid "パートナーがアーツを使うと、一定確率でＥＰ回復。"
+msgstr ""
+
+#. Rush 2
+msgctxt "#24 name"
+msgid "ラッシュⅡ"
+msgstr ""
+
+#. Increases the power of Rush.
+msgctxt "#24 desc"
+msgid "ラッシュの威力が向上する。"
+msgstr ""
+
+#. Link Attack
+msgctxt "#25 name"
+msgid "リンクアタック"
+msgstr ""
+
+#. Allows the use of link attacks.
+msgctxt "#25 desc"
+msgid "リンクアタックが使えるようになる。"
+msgstr ""
+
+#. Finishing Blow
+msgctxt "#26 name"
+msgid "止めの一撃"
+msgstr ""
+
+#. Follows assist attacks with a finishing blow if the foe has low HP.
+msgctxt "#26 desc"
+msgid "追撃の後、残りＨＰの少ない敵に止めを刺す。"
+msgstr ""
+
+#. Auto-Tear
+msgctxt "#27 name"
+msgid "クイックティア"
+msgstr ""
+
+#. Sometimes heals partner's HP when they are attacked.
+msgctxt "#27 desc"
+msgid "パートナーが攻撃されると、一定確率でＨＰ回復。"
+msgstr ""
+
+#. Auto-Curia
+msgctxt "#28 name"
+msgid "クイックキュリア"
+msgstr ""
+
+#. Sometimes cures a partner's abnormal status or stat down.
+msgctxt "#28 desc"
+msgid "パートナーが状態異常・能力低下になると、一定確率で解除。"
+msgstr ""
+
+#. Rush 2
+msgctxt "#29 name"
+msgid "ラッシュⅡ"
+msgstr ""
+
+#. Increases the power of Rush.
+msgctxt "#29 desc"
+msgid "ラッシュの威力が向上する。"
+msgstr ""
+
+#. Link Attack
+msgctxt "#30 name"
+msgid "リンクアタック"
+msgstr ""
+
+#. Allows the use of link attacks.
+msgctxt "#30 desc"
+msgid "リンクアタックが使えるようになる。"
+msgstr ""
+
+#. Finishing Blow
+msgctxt "#31 name"
+msgid "止めの一撃"
+msgstr ""
+
+#. Follows assist attacks with a finishing blow if the foe has low HP.
+msgctxt "#31 desc"
+msgid "追撃の後、残りＨＰの少ない敵に止めを刺す。"
+msgstr ""
+
+#. Counterattack
+msgctxt "#32 name"
+msgid "反撃"
+msgstr ""
+
+#. Sometimes counterattacks foe when partner is attacked.
+msgctxt "#32 desc"
+msgid "パートナーが攻撃されると、一定確率で反撃。"
+msgstr ""
+
+#. Arts Support
+msgctxt "#33 name"
+msgid "ブーストアーツ"
+msgstr ""
+
+#. Sometimes increases the power of partner's arts by 1.2x.
+msgctxt "#33 desc"
+msgid "パートナーがアーツを使うと、一定確率で発動を補助。ダメージ1.2倍。"
+msgstr ""
+
+#. Rush 2
+msgctxt "#34 name"
+msgid "ラッシュⅡ"
+msgstr ""
+
+#. Increases the power of Rush.
+msgctxt "#34 desc"
+msgid "ラッシュの威力が向上する。"
+msgstr ""
+
+#. Link Attack
+msgctxt "#35 name"
+msgid "リンクアタック"
+msgstr ""
+
+#. Allows the use of link attacks.
+msgctxt "#35 desc"
+msgid "リンクアタックが使えるようになる。"
+msgstr ""
+
+#. Finishing Blow
+msgctxt "#36 name"
+msgid "止めの一撃"
+msgstr ""
+
+#. Follows assist attacks with a finishing blow if the foe has low HP.
+msgctxt "#36 desc"
+msgid "追撃の後、残りＨＰの少ない敵に止めを刺す。"
+msgstr ""
+
+#. Counterattack
+msgctxt "#37 name"
+msgid "反撃"
+msgstr ""
+
+#. Sometimes counterattacks foe when partner is attacked.
+msgctxt "#37 desc"
+msgid "パートナーが攻撃されると、一定確率で反撃。"
+msgstr ""
+
+#. Deadly Assist
+msgctxt "#38 name"
+msgid "刹那の追撃"
+msgstr ""
+
+#. Assist attacks deal critical damage and cause delay+20.
+msgctxt "#38 desc"
+msgid "追撃がクリティカルになり、遅延+20が付加される。"
+msgstr ""
+
+#. Rush 2
+msgctxt "#39 name"
+msgid "ラッシュⅡ"
+msgstr ""
+
+#. Increases the power of Rush.
+msgctxt "#39 desc"
+msgid "ラッシュの威力が向上する。"
+msgstr ""
+
+#. Link Attack
+msgctxt "#40 name"
+msgid "リンクアタック"
+msgstr ""
+
+#. Allows the use of link attacks.
+msgctxt "#40 desc"
+msgid "リンクアタックが使えるようになる。"
+msgstr ""
+
+#. Finishing Blow
+msgctxt "#41 name"
+msgid "止めの一撃"
+msgstr ""
+
+#. Follows assist attacks with a finishing blow if the foe has low HP.
+msgctxt "#41 desc"
+msgid "追撃の後、残りＨＰの少ない敵に止めを刺す。"
+msgstr ""
+
+#. Counterattack
+msgctxt "#42 name"
+msgid "反撃"
+msgstr ""
+
+#. Sometimes counterattacks foe when partner is attacked.
+msgctxt "#42 desc"
+msgid "パートナーが攻撃されると、一定確率で反撃。"
+msgstr ""
+
+#. Protective Wall
+msgctxt "#43 name"
+msgid "堅守"
+msgstr ""
+
+#. Sometimes protects partner, reducing incoming damage by 90%.
+msgctxt "#43 desc"
+msgid "一定確率でパートナーを、あらゆる攻撃からかばう。ダメージ1/10。"
+msgstr ""
+
+#. Rush 2
+msgctxt "#44 name"
+msgid "ラッシュⅡ"
+msgstr ""
+
+#. Increases the power of Rush.
+msgctxt "#44 desc"
+msgid "ラッシュの威力が向上する。"
+msgstr ""
+
+#. Link Attack
+msgctxt "#45 name"
+msgid "リンクアタック"
+msgstr ""
+
+#. Allows the use of link attacks.
+msgctxt "#45 desc"
+msgid "リンクアタックが使えるようになる。"
+msgstr ""
+
+#. Finishing Blow
+msgctxt "#46 name"
+msgid "止めの一撃"
+msgstr ""
+
+#. Follows assist attacks with a finishing blow if the foe has low HP.
+msgctxt "#46 desc"
+msgid "追撃の後、残りＨＰの少ない敵に止めを刺す。"
+msgstr ""
+
+#. Counterattack
+msgctxt "#47 name"
+msgid "反撃"
+msgstr ""
+
+#. Sometimes counterattacks foe when partner is attacked.
+msgctxt "#47 desc"
+msgid "パートナーが攻撃されると、一定確率で反撃。"
+msgstr ""
+
+#. Cheer
+msgctxt "#48 name"
+msgid "ライブリーエール"
+msgstr ""
+
+#. Sometimes encourages partner when they are attacked. CP+50.
+msgctxt "#48 desc"
+msgid "パートナーが攻撃されると、一定確率で激励。ＣＰ＋５０。"
+msgstr ""
+
+#. Rush 2
+msgctxt "#49 name"
+msgid "ラッシュⅡ"
+msgstr ""
+
+#. Increases the power of Rush.
+msgctxt "#49 desc"
+msgid "リンクアタック－ラッシュがより強力になる。"
+msgstr ""
+
+#. Link Attack
+msgctxt "#50 name"
+msgid "リンクアタック"
+msgstr ""
+
+#. Allows the use of link attacks.
+msgctxt "#50 desc"
+msgid "リンクアタックが使えるようになる。"
+msgstr ""
+
+#. Finishing Blow
+msgctxt "#51 name"
+msgid "止めの一撃"
+msgstr ""
+
+#. Follows assist attacks with a finishing blow if the foe has low HP.
+msgctxt "#51 desc"
+msgid "追撃の後、残りＨＰの少ない敵に止めを刺す。"
+msgstr ""
+
+#. Counterattack
+msgctxt "#52 name"
+msgid "反撃"
+msgstr ""
+
+#. Sometimes counterattacks foe when partner is attacked.
+msgctxt "#52 desc"
+msgid "パートナーが攻撃されると、一定確率で反撃。"
+msgstr ""
+
+#. Auto-Charge
+msgctxt "#53 name"
+msgid "クイックチャージ"
+msgstr ""
+
+#. Sometimes restores partner's EP after they use arts.
+msgctxt "#53 desc"
+msgid "パートナーがアーツを使うと、一定確率でＥＰ回復。"
+msgstr ""
+
+#. Rush 2
+msgctxt "#54 name"
+msgid "ラッシュⅡ"
+msgstr ""
+
+#. Increases the power of Rush.
+msgctxt "#54 desc"
+msgid "ラッシュの威力が向上する。"
+msgstr ""
+
+#. Link Attack
+msgctxt "#55 name"
+msgid "リンクアタック"
+msgstr ""
+
+#. Allows the use of link attacks.
+msgctxt "#55 desc"
+msgid "リンクアタックが使えるようになる。"
+msgstr ""
+
+#. Finishing Blow
+msgctxt "#56 name"
+msgid "止めの一撃"
+msgstr ""
+
+#. Follows assist attacks with a finishing blow if the foe has low HP.
+msgctxt "#56 desc"
+msgid "追撃の後、残りＨＰの少ない敵に止めを刺す。"
+msgstr ""
+
+#. Cover
+msgctxt "#57 name"
+msgid "かばう"
+msgstr ""
+
+#. Sometimes defends partner from an attack, halving damage.
+msgctxt "#57 desc"
+msgid "一定確率でパートナーをかばう。ダメージ半減。"
+msgstr ""
+
+#. Deadly Assist
+msgctxt "#58 name"
+msgid "刹那の追撃"
+msgstr ""
+
+#. Assist attacks deal critical damage and cause delay+20.
+msgctxt "#58 desc"
+msgid "追撃がクリティカルになり、遅延+20が付加される。"
+msgstr ""
+
+#. Rush 2
+msgctxt "#59 name"
+msgid "ラッシュⅡ"
+msgstr ""
+
+#. Increases the power of Rush.
+msgctxt "#59 desc"
+msgid "ラッシュの威力が向上する。"
+msgstr ""
+
+#. Link Attack
+msgctxt "#60 name"
+msgid "リンクアタック"
+msgstr ""
+
+#. Allows the use of link attacks.
+msgctxt "#60 desc"
+msgid "リンクアタックが使えるようになる。"
+msgstr ""
+
+#. Finishing Blow
+msgctxt "#61 name"
+msgid "止めの一撃"
+msgstr ""
+
+#. Follows assist attacks with a finishing blow if the foe has low HP.
+msgctxt "#61 desc"
+msgid "追撃の後、残りＨＰの少ない敵に止めを刺す。"
+msgstr ""
+
+#. Counterattack
+msgctxt "#62 name"
+msgid "反撃"
+msgstr ""
+
+#. Sometimes counterattacks foe when partner is attacked.
+msgctxt "#62 desc"
+msgid "パートナーが攻撃されると、一定確率で反撃。"
+msgstr ""
+
+#. Powerful Strike
+msgctxt "#63 name"
+msgid "渾身の一撃"
+msgstr ""
+
+#. Increases finishing blow's power and activation frequency.
+msgctxt "#63 desc"
+msgid "止めの一撃の威力が増し、発生しやすくなる（ダメージ２倍）。"
+msgstr ""
+
+#. Rush 2
+msgctxt "#64 name"
+msgid "ラッシュⅡ"
+msgstr ""
+
+#. Increases the power of Rush.
+msgctxt "#64 desc"
+msgid "ラッシュの威力が向上する。"
+msgstr ""
+
+msgctxt "#65 name"
+msgid "止めの一撃"
+msgstr ""
+
+msgctxt "#65 desc"
+msgid "リンクアタック－追撃の後、残ＨＰの少ない敵に止めを刺す。"
+msgstr ""
+
+msgctxt "#66 name"
+msgid "反撃"
+msgstr ""
+
+msgctxt "#66 desc"
+msgid "パートナーが攻撃されると、一定確率で反撃。"
+msgstr ""
+
+msgctxt "#67 name"
+msgid "渾身の一撃"
+msgstr ""
+
+msgctxt "#67 desc"
+msgid "止めの一撃の威力が増し、発生しやすくなる（ダメージ２倍）。"
+msgstr ""
+
+msgctxt "#68 name"
+msgid "ラッシュⅡ"
+msgstr ""
+
+msgctxt "#68 desc"
+msgid "リンクアタック－ラッシュがより強力になる。"
+msgstr ""
