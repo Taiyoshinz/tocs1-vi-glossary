@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-10 17:11+0000\n"
+"PO-Revision-Date: 2026-06-11 17:01+0000\n"
 "Last-Translator: Lư Hữu Phước <gumbal797@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/trails-of-"
 "cold-steel-1-vietnamese/glossary/vi/>\n"
@@ -776,3 +776,25 @@ msgstr "Học Viện Hoàng Gia"
 
 msgid "メタルカバー"
 msgstr "Ốp lưng"
+
+msgctxt "Finishing Blow"
+msgid "止めの一撃"
+msgstr "Đòn Dứt Điểm"
+
+msgctxt "Kỹ năng Cover"
+msgid "かばう"
+msgstr "Che Chắn"
+
+msgctxt "Powerful Strike"
+msgid "渾身の一撃"
+msgstr "Tấn Công Dồn Lực"
+
+msgid "発生"
+msgstr "Phát động"
+
+msgid "パートナー"
+msgstr "Cộng sự"
+
+msgctxt "Link Attack"
+msgid "リンクアタック"
+msgstr "Tấn Công Liên Kết"
