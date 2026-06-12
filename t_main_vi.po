@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-11 17:01+0000\n"
+"PO-Revision-Date: 2026-06-12 17:33+0000\n"
 "Last-Translator: Lư Hữu Phước <gumbal797@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/trails-of-"
 "cold-steel-1-vietnamese/t_main_vi/vi/>\n"
@@ -9,52 +9,52 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.6\n"
+"X-Generator: Weblate 2026.7.dev0\n"
 
 #. Overall Achievements
 msgctxt "#0 chapter"
 msgid "総合成績"
-msgstr ""
+msgstr "Tổng Thành Tựu"
 
 #. Prologue
 msgctxt "#1 chapter"
 msgid "序章"
-msgstr ""
+msgstr "Mở Đầu"
 
 #. Chapter 1
 msgctxt "#2 chapter"
 msgid "第１章"
-msgstr ""
+msgstr "Chương 1"
 
 #. Chapter 2
 msgctxt "#3 chapter"
 msgid "第２章"
-msgstr ""
+msgstr "Chương 2"
 
 #. Chapter 3
 msgctxt "#4 chapter"
 msgid "第３章"
-msgstr ""
+msgstr "Chương 3"
 
 #. Chapter 4
 msgctxt "#5 chapter"
 msgid "第４章"
-msgstr ""
+msgstr "Chương 4"
 
 #. Chapter 5
 msgctxt "#6 chapter"
 msgid "第５章"
-msgstr ""
+msgstr "Chương 5"
 
 #. Chapter 6
 msgctxt "#7 chapter"
 msgid "第６章"
-msgstr ""
+msgstr "Chương 6"
 
 #. Final Chapter
 msgctxt "#8 chapter"
 msgid "終章"
-msgstr ""
+msgstr "Chương Cuối"
 
 #. I spotted a strange girl sleeping on a bench
 #. in the park. She seemed like another new Thors
@@ -63,6 +63,9 @@ msgstr ""
 msgctxt "#9 desc"
 msgid "公園のベンチで寝ている変わった子を見かけた。\n　彼女も新入生みたいだが……猫みたいな子だったな。"
 msgstr ""
+"Mình đã bắt gặp một cô gái ngủ trên ghế dài ở công viên.\n"
+"Có vẻ cô ấy cũng là tân học viên... và cũng khiến mình\n"
+"liên tưởng đến mèo."
 
 #. I crossed paths with a tall boy at the nearby
 #. Septian Church. He was busy praying when I
@@ -71,6 +74,9 @@ msgstr ""
 msgctxt "#10 step"
 msgid "七耀教会の礼拝堂で祈りを捧げていた長身の男子と出会う。\n　帝国人じゃなさそうだけど、彼も新入生らしい。"
 msgstr ""
+"Mình đã gặp một cậu bạn cao ráo đang cầu nguyện tại\n"
+"Giáo Hội Thất Diệu. Có vẻ cậu ta cũng là tân học viên,\n"
+"nhưng dường như không phải là người Đế Quốc."
 
 #. I saw a female student who was accompanied by
 #. an elderly man who appeared to be a butler.
@@ -79,6 +85,9 @@ msgstr ""
 msgctxt "#11 step"
 msgid "執事風の御老人を連れた女子生徒を見かけた。\n　あの凛とした佇まい……名のある武門の出かもしれない。"
 msgstr ""
+"Mình đã bắt gặp một nữ sinh đi cùng một cụ ông\n"
+"có dáng dấp quản gia. Xét từ dáng vẻ uy nghiêm ấy,\n"
+"có vẻ cô ấy xuất thân từ một gia tộc võ thuật danh tiếng."
 
 #. I finally reached Thors Military Academy, the
 #. famed military academy established by the great
@@ -89,6 +98,12 @@ msgstr ""
 msgctxt "#12 step"
 msgid "かのドライケルス大帝が創設した学校、\n　《トールズ士官学院》に辿りついた。\n・そこへ導力リムジンで乗り付けた新入生を見かける。\n　やはり大貴族の子弟も入学してきているみたいだ。"
 msgstr ""
+"Mình đã  đặt chân đến Học Viện Sĩ Quan Thors,\n"
+"được sáng lập bởi Hoàng Đế Dreichels.\n"
+"・Tại đó, mình đã nhìn thấy một tân học viên\n"
+"được đưa đến bằng xe limousine dẫn lực.\n"
+"Có vẻ như con em của các đại quý tộc cũng\n"
+"nhập học ở ngôi trường này."
 
 #. Walking through the gate, I was greeted by two
 #. second-year students. I'm not sure how they
@@ -116,6 +131,21 @@ msgstr ""
 msgctxt "#13 step"
 msgid "正門をくぐったところで２人の上級生に迎えられる。\n　なぜか俺の名前を知っていたみたいだけど……？\n・申請していた品物を預けると、入学式の時間に。\n　いよいよ学院生活が始まる──気を引き締めて行こう。\n・入学式でヴァンダイク学院長から言葉を贈られる。\n　『世の礎たれ』──これからの２年間で、\n　その意味を自分なりに考えてみないとな。\n・隣の席にいた紅毛の少年、エリオットと知り合う。\n　彼も同じ色の制服を着ているみたいだ。\n　ほかの新入生たちとは違う制服……どういう事だろう？\n・ほどなくして入学式が終わると、\n　一人の女性教官から声がかかった。\n　どうやら赤色の制服を着た新入生には、\n　『特別オリエンテーリング』なるものがあるらしい。\n　──いったい何が始まろうとしているんだ？"
 msgstr ""
+"Bước qua cổng chính, mình đã được hai học viên khóa trên đón tiếp.\n"
+"Không hiểu sao họ lại biết tên của mình...?\n"
+"・Sau khi gửi lại đồ đạc mà mình đã đã đăng ký đem vào học viện,\n"
+"cũng là lúc đến giờ khai giảng. Chuẩn bị sẵn sàng nào.\n"
+"・Tại lễ khai giảng, chúng mình đã được nghe những lời nhắn nhủ\n"
+"từ Hiệu Trưởng Vandyck. 'Hãy trở thành nền móng cho thế giới'.\n"
+"Trong 2 năm tới, mình phải tìm ra ý nghĩa của câu nói đó cho bản thân.\n"
+"・Mình đã làm quen với Elliot, cậu bạn tóc đỏ ngồi bên cạnh.\n"
+"Cậu ấy cũng mặc đồng phục cùng màu với mình.\n"
+"Đồng phục của chúng mình khác hẳn với các tân học viên còn lại...?\n"
+"・Ngay sau khi lễ khai giảng kết thúc,\n"
+"một nữ giáo quan đã gọi chúng mình lại.\n"
+"Có vẻ như những tân học viên mặc đồng phục đỏ sẽ phải tham gia\n"
+"cái gọi là \"buổi định hướng đặc biệt\".\n"
+"Rốt cuộc điều gì đang chờ đợi mình...?"
 
 #. I obtained a master quartz from on top of one
 #. of the pedestals. Apparently, setting this into
@@ -124,6 +154,9 @@ msgstr ""
 msgctxt "#14 desc"
 msgid "台座から《マスタークオーツ》を手に入れた。\n　これをＡＲＣＵＳの中心に嵌#2Rは#めれば\n　魔法#4Rアーツ#が使えるようになるそうだ。"
 msgstr ""
+"Mình đã lấy được một viên Quartz Lõi từ trên bệ đá.\n"
+"Nghe nói nếu khảm thứ này vào ARCUS, mình sẽ có thể\n"
+"sử dụng được phép thuật #2Rart#."
 
 #. With everyone's preparations complete, our
 #. special orienteering exercise began. We were
@@ -142,6 +175,14 @@ msgstr ""
 msgctxt "#15 step"
 msgid "みんなの準備が整い、特別オリエンテーリングが始まった。\n　各自ダンジョン区画を抜けて、１階を目指すことに。\n・マキアス、ユーシス、女子たちと続けて出発していく。\n　……あの金髪の女子には目の仇にされてしまったようだ。\n・俺はその場に残っていたエリオット、\n　そして留学生ガイウスと共に行動することになった。\n　みんなそれぞれ特徴的な武器を持っているらしい。\n・さっそく広間の奥にある扉から出発する。\n　戦い方を把握しながら進んでいこう。"
 msgstr ""
+"Chuẩn bị hoàn tất, buổi định hướng đặc biệt đã bắt đầu.\n"
+"Mục tiêu của cả bọn là vượt qua hầm ngục để tiến tới tầng 1.\n"
+"・Lần lượt Machias, Jusis, và các bạn nữ cũng đã xuất phát.\n"
+"...Có vẻ như mình bị cô bạn tóc vàng ấy ghim mất rồi.\n"
+"・Mình quyết định đồng hành cùng Elliot và cậu bạn Gaius.\n"
+"Dường như mỗi người đều sở hữu một loại vũ khí khác nhau.\n"
+"・Cả bọn ngay lập tức xuất phát từ sâu trong đại sảnh.\n"
+"Vừa tiến lên, vừa phối hợp chiến đấu nào."
 
 #. Just as we thought we were used to fighting
 #. the monsters in the area, one of them caught us
@@ -157,6 +198,12 @@ msgstr ""
 msgctxt "#16 step"
 msgid "一通り戦いに慣れてきたところで魔獣の急襲にあうが、\n　駆けつけたマキアスに間一髪のところで助けられる。\n・俺たちは改めて自己紹介をしあう。\n　マキアスは『貴族』という身分に対して\n　何かしら思うところがあるようだ。\n・……ひとまずマキアスを加え、４人で行動することに。\n　先行している女子たちを追いかけよう。"
 msgstr ""
+"Ngay khi vừa quen dần với nhịp độ chiến đấu, cản bọn đã bị\n"
+"ma thú tập kích, may thay, Machias đã đến kịp lúc.\n"
+"・Chúng tôi tranh thủ giới thiệu bản thân thêm một lần nữa.\n"
+"Dường như Machias có định khiến khá sâu sắc với quý tộc.\n"
+"・Trước mắt, cả bọnquyết định đồng hành cùng nhau.\n"
+"Phải nhanh chóng đuổi theo nhóm bạn nữ."
 
 #. Once we caught up with them, they told us that
 #. they were doing just fine on their own.
@@ -180,6 +227,19 @@ msgstr ""
 msgctxt "#17 step"
 msgid "３人の女子たちはどうやら無事なようだった。\n・主席で入学したエマは辺境の出身で、\n　エリオットと同じく魔導杖を扱うらしい。\n・ルーレ出身のアリサはやはり先ほどの出来事を\n　怒っているらしく、まともに話すらしてもらえなかった……\n　きちんと謝れるといいんだが。\n・レグラム出身のラウラはアルゼイド子爵家──\n　《光の剣匠》と呼ばれる帝国最高の剣士の娘だ。\n　実力は確かのようだし、女子たちの心配は無用だろう。\n・女子たちと二手に分かれ、残りの２人──\n　ユーシスと銀髪の子を探しつつ、出口を目指すことに。"
 msgstr ""
+"Có vẻ 3 bạn nữ vẫn bình an vô sự.\n"
+"・Emma nhập học với tư cách thủ khoa, cô ấy đến từ\n"
+"vùng biên cảnh xa xôi. Có vẻ Emma cũng sử dụng\n"
+"trượng dẫn lực giống với Elliot.\n"
+"・Alisa đến từ Roer. Có vẻ vì vẫn còn giận chuyện ban nãy\n"
+"nên cô nàng chẳng thèm đái hoài gì đến mình.\n"
+"Ước gì mình có cơ hội để xin lỗi một cách đàng hoàng...\n"
+"・Legram đến từ Legram, là tiểu thư và là con gái của\n"
+"vị kiếm sĩ mạnh nhất Đế Quốc với danh xưng 'Kiếm Sư Ánh Sáng'.\n"
+"Thực lực của cô ấy là không phải bàn cãi, có vẻ không cần phải lo\n"
+"cho nhóm nữ rồi.\n"
+"・Cả bọn tách ra làm hai ngả, tiếp tục hướng về phía lối ra,\n"
+"đồng thời tìm kiếm hai người còn lại. Jusis và cô bạn tóc bạc."
 
 #. We were able to confirm that the silver-haired
 #. girl, whose name is Fie, was safe. I've got a feeling
@@ -189,6 +249,11 @@ msgstr ""
 msgctxt "#18 step"
 msgid "銀髪の少女、フィーの無事を確認した。\n　どうやら一人で行動しているようだが、\n　心配はいらないといった様子で先に行ってしまった。\n・彼女によるとすでに半分は超えているらしい。\n　このまま先に進んでいこう。"
 msgstr ""
+"Cô bạn tóc bạc tên Fie, được xác nhận là vẫn an toàn.\n"
+"Có vẻ cô ấy đang hành động một mình, với phong thái\n"
+"chẳng hề bận tâm điều chi.\n"
+"・Theo lời cô ấy, cả bọn đã đi được nửa đường.\n"
+"Cứ như vậy mà tiến về phía trước thôi."
 
 #. We found Jusis in the middle of a battle. He's a
 #. skilled swordsman who uses the traditional court
@@ -201,6 +266,13 @@ msgstr ""
 msgctxt "#19 step"
 msgid "魔獣と戦っていたユーシスを発見する。\n　貴族に伝わる伝統的な宮廷剣術の使い手らしい。\n・マキアスは帝都ヘイムダルを管理する立場にある\n　カール・レーグニッツ知事の息子だったようだ。\n　それを揶揄するユーシスに、マキアスは食ってかかる。\n　……どうやらこの２人、よほどソリが合わないようだ。"
 msgstr ""
+"Cả bọn tìm thấy Jusis đang chiến đấu với ma thú.\n"
+"Có vẻ cậu ta sử sử dụng Kiếm Thuật Cung Đình\n"
+"truyền thống của giới quý tộc.\n"
+"・Hóa ra Machias lại là con trai của Thống Đốc Carl Regnitz,\n"
+"người đứng đầu quản lý Đế Đô Heildallr.\n"
+"Machias ngay lập tức nổi nóng khi bị Jusis buông lời chế giễu.\n"
+"...Xem ra hai người này không hợp nhau tí nào."
 
 #. I got between them and admonished Jusis, who
 #. admitted that he was at fault surprisingly quickly
@@ -211,6 +283,10 @@ msgstr ""
 msgctxt "#20 step"
 msgid "間に入ってユーシスを諌#2Rいさ#めると、\n　意外にもあっさりと自分にも非があったことを認め、\n　そのまま一人で先へ行ってしまう。\n・平民と貴族──帝国という国ならではの問題を噛み締めつつ、\n　ようやく落ち着いたマキアスとともに、改めて出発する。"
 msgstr ""
+"Khi mình xen vào, Jusis bỗng thừa nhận lỗi lầm của bản thân\n"
+"một cách nhanh chóng, rồi cứ thế một mình đi tiếp.\n"
+"・Dân thường và quý tộc... vừa suy nghĩ về vấn đề nhức nhối\n"
+"của Đế Quốc, tôi cùng Machias đã bình tĩnh trở lại tiến về phía trước."
 
 #. I held back Machias before he tried to punch
 #. Jusis, and he walked off on his own, saying he
@@ -226,6 +302,14 @@ msgstr ""
 msgctxt "#21 step"
 msgid "今にも殴りかかりそうなマキアスを止めると、\n　彼は頭を冷やしたいと先に行ってしまう。\n・ユーシスは自分にも非があったことをあっさりと認める。\n　大貴族の子息である彼にも、彼なりの考え方があるようだ。\n・平民と貴族──帝国という国ならではの問題を噛み締めつつ、\n　同行を申し出るユーシスを加えて、改めて出発する。"
 msgstr ""
+"Mình đã kịp ngăn Machias lại khi cậu ta sắp sửa lao vào\n"
+"đánh nhau với Jusis. Cậu ta bảo muốn một mình đi trước\n"
+"để lấy lại bình tĩnh. \n"
+"・Jusis thừa nhận lỗi lầm một cách vô cùng dễ dàng.\n"
+"Có vẻ như vị công tử đại quý tộc này cũng có những suy nghĩ\n"
+"và nguyên tắc riêng của bản thân.\n"
+"・Thường dân và quý tộc... vừa suy nghĩ về vấn đề nhức nhối,\n"
+"chúng tôi đồng ý để Jusis nhập đội và tiếp tục tiến về phía trước."
 
 #. We finally reached the end of the dungeon and
 #. found a path leading up to the surface, but a
@@ -259,6 +343,30 @@ msgstr ""
 msgctxt "#22 step"
 msgid "ようやく地上に通じる終点にたどり着くと、\n　そこには巨大な石の守護者#10Rガ　ー　ゴ　イ　ル#が待ち受けていた。\n　地上に戻るため、俺たちは戦いを挑むことに。\n・──力を合わせてなんとか倒したかと思いきや、\n　石の守護者はすぐさま力を取り戻して再び襲い掛かる。\n　そこへ、分かれていたアリサたちが助太刀に来てくれた。\n・みんなの怒涛の攻撃によって見えた勝機──\n　その瞬間、俺たちの体が淡い光に包み込まれ、\n　凄まじいまでの連携を発揮する。\n　そして、ようやく石の守護者を打ち倒したのだった。\n・そこに何事もなかったかのように現れたサラ教官。\n　彼女によれば、これこそがＡＲＣＵＳの真価──\n　その名も《戦術リンク》というらしい。\n　戦場の革命とも言えるこの機能に高い適性を示したことが、\n　俺たちが《Ⅶ組》に集められた理由の一つなのだという。\n・サラ教官は改めて、俺たちに問いかける──\n　待ち受けるハードなカリキュラムを覚悟した上で、\n　《Ⅶ組》に参加するかどうか。\n　──俺の考えは既に決まっていた。\n・最終的に、俺たち９名全員が参加を表明することに。\n　それぞれが自分の想いを胸に……\n　特科クラス《Ⅶ組》は今ここに発足されたのだった。"
 msgstr ""
+"Ngay khi tiến đến điểm cuối dẫn lên mặt đất,\n"
+"cả bọn đã chạm trán với một Kẻ Canh Giữ #10RGargoyle# khổng lồ.\n"
+"Để trở lại mặt đất, cả bọn quyết định sẽ chiến đấu với nó.\n"
+"・Cứ ngỡ cả đội đã hạ được nó, nào ngờ Kẻ Canh Giữ ngay lập tức\n"
+"hồi phục lại sức mạnh và một lần nữa lao vào tấn công.\n"
+"Ngay trong tình thế ấy, nhóm của Alisa đã kịp thời đến ứng cứu.\n"
+"・Nhờ những đòn tấn công như vũ bão, cả nhóm đã nhìn\n"
+"thấy cơ hội chiến thắng.\n"
+"Ngay khoảnh khắc đó, bỗng có một luồng sáng dịu nhẹ\n"
+"bao bọc lấy mọi người.\n"
+"Và sau đó, cả nhóm đã thành công đánh bại Kẻ Canh Giữ.\n"
+" ・Đúng lúc đó, giáo Quan Sara bỗng xuất hiện bình chân như vại.\n"
+"Theo lời cô ấy, nó chính là thứ cốt lõi của ARCUS, gọi là\n"
+"Liên Kết Chiến Thuật.\n"
+"Việc cho thấy độ tương thích cao với tính năng được coi là có thể\n"
+"thay đổi cục diện chiến trường chính là một trong những lý do\n"
+"chúng tôi được tập hợp vào Lớp VII.\n"
+"・Giáo quan Sara một lần nữa đặt câu hỏi, liệu chúng tôi\n"
+"đã sẵn sàng cho chương trình cực kỳ khắc nghiệt ở phía trước\n"
+"và tham gia vào Lớp VII.\n"
+"Câu trả lời của tôi vốn đã được quyết định từ lâu.\n"
+"・Cuối cùng, toàn bộ chín thành viên đều đồng lòng tham gai.\n"
+"Mỗi người đều mang cho mình một hoài bão riêng...\n"
+"Lớp VII đặc biệt chính thức được thành lập."
 
 #. Today I was asked a question in Instructor
 #. Thomas' class. Luckily, I was able to give him
@@ -267,6 +375,9 @@ msgstr ""
 msgctxt "#23 desc"
 msgid "トマス教官の授業で問題を出されたが、\n　なんとか正しく答えることができたようだ。\n　アリサが何か教えてくれようとしていたようだが……"
 msgstr ""
+"Hôm nay, Giáo quan Thomas đã mời tôi phát biểu,\n"
+"may rằng tôi đã trả lời đúng.\n"
+"Hình như Alisa đã cố chỉ bài cho tôi…"
 
 #. Today I was asked a question in Instructor
 #. Thomas' class. Just as I was struggling for an
@@ -275,6 +386,9 @@ msgstr ""
 msgctxt "#24 step"
 msgid "トマス教官の授業で問題を出され、\n　答えに迷っているとアリサがこっそり教えてくれた。\n　そのうち礼を言わないとな。"
 msgstr ""
+"Giáo sư Thomas đã mời tôi phát biểu.\n"
+"Trong lúc còn đang chơi vơi, Alisa đã lén chỉ bài cho tôi.\n"
+"Phải cảm ơn cô ấy mới được."
 
 #. During our final homeroom of the day, Instructor
 #. Sara gave us a schedule rundown. She told us about
@@ -290,6 +404,15 @@ msgstr ""
 msgctxt "#25 step"
 msgid "放課後のＨＲでサラ教官から様々な説明を受けた。\n　生徒の自主性に任せられる《自由行動日》、\n　４／２１（水）にある《実技テスト》、そして\n　その後に控える《Ⅶ組》の特別なカリキュラムの説明。\n　……明日は有意義に過ごした方がよさそうだ。\n・ＨＲ後、サラ教官から《生徒会》で何かを\n　受け取ってほしいとの頼みごとを受ける。\n　本校舎の隣にある《学生会館》に向かおう。"
 msgstr ""
+"Trong giờ sinh hoạt lớp, chúng tôi đã được giáo quan Sara\n"
+"giải thích nhiều thứ.\n"
+"Từ ngày hoạt động tự do, cho đến buổi kiểm tra thực chiến\n"
+"diễn ra vào vào ngày 21/4, và cả chương trình học đặc biệt\n"
+"của Lớp VII sẽ diễn ra sau đó.\n"
+"...Có vẻ ngày mai tôi nên dành thời gian để làm điều có ích.\n"
+"・Sau giờ sinh hoạt lớp, giáo quan Sara nhờ tôi đến Hội Học Sinh\n"
+"để lấy vài món đồ.\n"
+"Đi đến Hội Trường Học Sinh nằm ngay cạnh học xá chính thôi."
 
 #. I was investigating the locked old schoolhouse
 #. door, when I was overcome by a strange sensation. 
@@ -297,6 +420,9 @@ msgstr ""
 msgctxt "#26 step"
 msgid "旧校舎の鍵のかかった扉を調べると、\n　不思議な感覚を感じた……気のせいだろうか？\n　……とにかく今は生徒会に向かおう。"
 msgstr ""
+"Trong khi điều tra về cánh cửa bị khóa của tòa học xá cũ,\n"
+"một cảm giác kỳ lạ đã chạy dọc sống lưng tôi...\n"
+"là tưởng tượng ư?"
 
 #. In front of the Student Union building, I ran into a
 #. laid-back second year. He said that he would show
@@ -308,6 +434,13 @@ msgstr ""
 msgctxt "#27 step"
 msgid "学生会館の前で、飄々とした雰囲気の２年生と出会った。\n　彼の「手品」に付き合っているうちに、\n　いつの間にか５０ミラを騙し取られてしまっていた。\n・先輩のなかなかのクセモノぶりを感じつつ、\n　一通り用が済んだら生徒会を訪ねることに。"
 msgstr ""
+"Ngay trước Hội Trường Học Sinh, tôi đã bắt gặp một đàn anh năm hai\n"
+"với phong thái ung dung.\n"
+"Trong lúc bị cuốn vào trò ảo thuật của anh ta, tôi đã bị lừa mất\n"
+"50 mira luscn ào không hay.\n"
+"・Biết được người đàn anh này không phải dạng vừa,\n"
+"tôi tự nhủ sau khi xong xuôi mọi việc xung quanh\n"
+"thì sẽ đi đến Hội Học Sinh."
 
 #. Inside the Student Council room was one of the 
 #. second-year students that I met on the day of the 
@@ -333,52 +466,72 @@ msgstr ""
 msgctxt "#28 step"
 msgid "生徒会室には、入学式の日に会った先輩がいた。\n　トワ生徒会長──小柄だが間違いなく２年生らしい。\n・会長から《Ⅶ組》メンバーの学生手帳を受け取り、\n　俺から全員に渡しておくことになった。\n・……だが、用件はそれだけではなかった。\n　サラ教官の目論見#6Rもくろみ#にまんまと嵌められ、\n　明日の自由行動日に生徒会の手伝いとして\n　生徒や街の人々からの様々な依頼をこなすことに。\n・教官は俺に生徒会の手伝いをさせることで、\n　何かを見極めようとしているらしい。\n　自分の“立ち位置”を見出すためにも、\n　まずは動いてみるのがいいかもしれない。\n・依頼は直接俺たちの学生寮に届けられるそうだ。\n　明日の朝にポストを確認してみることに。\n・──その夜、学生寮で行動を開始することにした。\n　みんなの部屋を回って学生手帳を渡そう。"
 msgstr ""
+"Trong phòng Hội Học Sinh là vị tiền bối mà tôi đã gặp\n"
+"tại lễ nhập học.\n"
+"Hội Trưởng Hội Học Sinh Towa - dù vóc dáng nhỏ nhắn,\n"
+"nhưng chị ấy là học viên năm hai.\n"
+"・Tôi được giao cho sổ tay học viên của các thành viên lớp VII \n"
+"và nhận trách nhiệm đưa nó đến tay của mọi người.\n"
+"・Thế nhưng, chuyện cần làm không chỉ có bấy nhiêu.\n"
+"Tôi đã sập bẫy ngoạn mục trước toan tính của giáo quan Sara.\n"
+"Vào ngày hoạt động tự do ngày mai, tôi sẽ phải hỗ trợ\n"
+"Hội Học Sinh giải quyết các vấn đề khác nhau của các học viên\n"
+"và người dân trong thị trấn.\n"
+" ・Có vẻ bằng việc bắt tôi phụ giúp Học Học Sinh,\n"
+"giáo quan muốn kiểm chứng điều gì đó ở tôi.\n"
+"Trước mắt cứ bắt tay vào hành động vậy.\n"
+"・Nghe nói các yêu cầu sẽ được gửi trực tiếp đến ký túc xá.\n"
+"Sáng mai tôi sẽ kiểm tra hộp thư xem sao.\n"
+"・Tối hôm đó, tôi quyết định đi quanh ký túc xá\n"
+"để đưa sổ tay học viên cho mọi người."
 
 #. I delivered Alisa's student notebook to her.
 msgctxt "#29 step"
 msgid "アリサに学生手帳を渡した。"
-msgstr ""
+msgstr "Tôi đã giao sổ tay học viên cho Alisa."
 
 #. I delivered Elliot's student notebook to him.
 msgctxt "#30 step"
 msgid "エリオットに学生手帳を渡した。"
-msgstr ""
+msgstr "Tôi đã giao sổ tay học viên cho Elliot."
 
 #. I delivered Laura's student notebook to her.
 msgctxt "#31 step"
 msgid "ラウラに学生手帳を渡した。"
-msgstr ""
+msgstr "Tôi đã giao sổ tay học viên cho Laura."
 
 #. I delivered Machias' student notebook to him.
 msgctxt "#32 step"
 msgid "マキアスに学生手帳を渡した。"
-msgstr ""
+msgstr "Tôi đã giao sổ tay học viên cho Machias."
 
 #. I delivered Emma's student notebook to her.
 msgctxt "#33 step"
 msgid "委員長に学生手帳を渡した。"
-msgstr ""
+msgstr "Tôi đã giao sổ tay học viên cho Emma."
 
 #. I delivered Jusis' student notebook to him.
 msgctxt "#34 step"
 msgid "ユーシスに学生手帳を渡した。"
-msgstr ""
+msgstr "Tôi đã giao sổ tay học viên cho Jusis."
 
 #. I delivered Fie's student notebook to her.
 msgctxt "#35 step"
 msgid "フィーに学生手帳を渡した。"
-msgstr ""
+msgstr "Tôi đã giao sổ tay học viên cho Fie."
 
 #. I delivered Gaius' student notebook to him.
 msgctxt "#36 step"
 msgid "ガイウスに学生手帳を渡した。"
-msgstr ""
+msgstr "Tôi đã giao sổ tay học viên cho Gaius."
 
 #. I've delivered all of the student notebooks now.
 #. I should go back to my room and get some sleep.
 msgctxt "#37 step"
 msgid "これで全員に学生手帳を渡し終えた。\n　今日はもう部屋に戻って休もう。"
 msgstr ""
+"Tôi đã giao sổ tay học viên cho mọi người.\n"
+"Giờ thì quay về phòng nghỉ ngơi thôi."
 
 #. #666c　　　　          ◆　　　　◆　　　　◆
 #. #006c4/18 (Sun) Free Day
@@ -390,12 +543,21 @@ msgstr ""
 msgctxt "#38 step"
 msgid "#666c　　　　          ◆　　　　◆　　　　◆\n　#006c４／１８（日）自由行動日\n・寮のポストに依頼の封筒が届けられていた。\n　学院長と技術部からの依頼は確実にこなそう。\n・Ⅶ組のみんなもすでに出かけたようだ。\n　時間があったら声をかけてもいいかもしれない。"
 msgstr ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"#006c４／１８（CN）Ngày Hoạt Động Tự do\n"
+"・Phong bì ủy thác đã được đưa đến hòm thư của ký túc xá.\n"
+"Trước mắt là phải hoàn thành ủy thác từ thầy hiệu trưởng và\n"
+"CLB Kỹ Thuật.\n"
+"・Các thành viên Lớp VII có vẻ đã ra ngoài cả rồi.\n"
+"Nếu rảnh thì mình có thể bắt chuyện với họ."
 
 #. Once I'd finished the Engineering Club's request,
 #. I got ready and set off for the old schoolhouse.
 msgctxt "#39 step"
 msgid "技術部からの依頼を達成した！\n　他の用事が済んだら旧校舎の依頼に向かおう。"
 msgstr ""
+"Mình đã hoàn thành ủy thác của CLB Kỹ Thuật!\n"
+"Xử lý xong xuôi mấy việc khác rồi đi đến học xá cũ nào."
 
 #. We'd finished investigating the old schoolhouse,
 #. but unanswered questions still remain. I want to
@@ -408,6 +570,12 @@ msgstr ""
 msgctxt "#40 step"
 msgid "旧校舎の地下の探索を終えたが、残された謎は多い。\n　これからも定期的に調べる必要がありそうだ。\n　旧校舎の鍵はこのまま俺が預かることになった。\n・探索を手伝ってくれたエリオットたちと別れた。\n　日も沈み始めているし、そろそろ寮に戻ろう。　"
 msgstr ""
+"Tôi đã điều tra xong khu học xá cũ, nhưng vẫn còn\n"
+"rất nhiều bí ẩn chưa được giải đáp.\n"
+"Do từ giờ sẽ phải đến đây điều tra định kỳ nên\n"
+"chìa khóa đã được giao cho tôi.\n"
+"・Elliot và Gaius đã giúp đỡ tôi rất nhiều.\n"
+"Mặt trời cũng bắt đầu lặn rồi, mau về ký túc xá nào.　"
 
 #. After finishing some sword practice, I decided
 #. to listen to Abend Time on the radio I received
@@ -421,18 +589,32 @@ msgstr ""
 msgctxt "#41 step"
 msgid "夜中の剣の稽古を終えてから、譲ってもらったラジオで\n　『アーベントタイム』という番組を聴いてみた。　\n　せっかくだから、これからも聴いてみよう。\n#666c　　　　          ◆　　　　◆　　　　◆\n　#006c４／２１（水）実技テスト\n・グラウンドで初めての《実技テスト》が行われた。\n　教官に呼び出された《戦術殻》という謎の物体に、\n　俺はエリオット、ガイウスとのチームで臨む。"
 msgstr ""
+"Sau khi luyện kiếm vào buổi tối, tôi đã nghe thử chương trỉnh\n"
+"phát thanh Adbend Time.\n"
+"Hiếm lắm mới được tặng radio như thế này, từ giờ mình phải\n"
+"tiếp tục đón nghe thôi.\n"
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"　#006c21/4（T4）Kiểm Tra Thực Chiến\n"
+"Bài kiểm tra thực chiến đấu tiền đã được tổ chức tại sân tập.\n"
+"Đối đầu với thực thể mang tên Vỏ Chiến Thuật do giáo quan Sara\n"
+"gọi ra, tôi đã lập đội với Elliot và Gaius để cùng nhau chiến đấu."
 
 #. By making good use of our combat links and
 #. fighting as one, we earned a good score.
 msgctxt "#42 step"
 msgid "戦術リンクを駆使して適切な行動を取り、\n　なんとか良い評価を勝ち取ることができた。"
 msgstr ""
+"Nhờ việc vận dụng liên kết chiến thuật,\n"
+"chúng tôi đã có được kết quả tốt."
 
 #. ...Unfortunately, we didn't fight as well as we
 #. should have done and didn't get a great score.
 msgctxt "#43 step"
 msgid "……だが、状況に応じた適切な行動がとれず、\n　あまり良い評価を得られたとは言えなかった。"
 msgstr ""
+"...Đáng tiếc thay, chúng tôi đã không thể đưa ra những\n"
+"chiến thuật phù hợp với tình hình và không đạt được\n"
+"kết quả tốt."
 
 #. After that, we were given an explanation on
 #. another part of our class' curriculum, which the
@@ -457,6 +639,23 @@ msgstr ""
 msgctxt "#44 step"
 msgid "その後、俺たちはⅦ組の特別なカリキュラムである\n　《特別実習》について説明を受ける──それは、\n　Ａ班とＢ班に分かれて指定された実習地に向かい、\n　期間中に用意された課題をこなすというものだった。\n・今回の実習地と班分けは以下の通り──\n\n　Ａ班：リィン、アリサ、ラウラ、エリオット\n　　　　（実習地：交易地ケルディック）\n\n　Ｂ班：エマ、マキアス、ユーシス、フィー、ガイウス\n　　　　（実習地：紡績町パルム）　　　　　　　　　\n\n　──色々と不安はあるが、何とかやっていくしかない。\n・実習先へは鉄道を使って今週末に出発することに。\n　しっかりと準備を整えておく必要がありそうだ。"
 msgstr ""
+"Sau đó, chúng tôi đã được giải thích về thực địa đặc biệt.\n"
+"Đó là chương trình học đặc biệt của Lớp VII.\n"
+"Theo đó, cả lớp sẽ tách ra làm hai nhóm A và B để di chuyển\n"
+"đến các khu vực thực địa được chỉ định, rồi giải quyết những\n"
+"phần việc được giao trong khoảng thời gian quy định.\n"
+"・Địa điểm thực địa và nhóm phân chia cụ thể như sau:\n"
+"\n"
+"Nhóm A: Rean, Alisa, Laura, Elliot\n"
+"(Khu vực thực địa: Thị Trấn Thương Mại Celdic)\n"
+"\n"
+"Nhóm B: Emma, Machias, Jusis, Fie, Gaius\n"
+"(Khu vực thực địa: Thị Trấn Dệt May Parm)\n"
+"\n"
+"Dù còn nhiều lo ngại, nhưng chỉ còn cách cố hết sức thôi.\n"
+"・Cả nhóm sẽ xuất phát đến khu vực thực địa bằng tàu hỏa\n"
+"vào cuối tuần này.\n"
+"Chúng tôi cần phải chuẩn bị mọi thứ thật kỹ càng."
 
 #. We arrived at the station just as Group B were
 #. leaving for Parm. I was a little nervous about how
@@ -466,6 +665,12 @@ msgstr ""
 msgctxt "#45 desc"
 msgid "トリスタ駅に入ると、ちょうどＢ班の出発に出くわした。\n　マキアスとユーシスのことは心配だが、\n　俺たちは俺たちで実習に集中した方が良さそうだ。\n・カウンターでケルディックへの乗車券を購入しよう。"
 msgstr ""
+"Vừa bước vào Ga Trista, chúng tôi đã bắt gặp nhóm B cũng\n"
+"đang chuẩn bị xuất phát.\n"
+"Dù khá lo lắng cho tình hình giữa Machias và Jusis,\n"
+"nhưng có lẽ lần này chúng tôi nên tập trung vào chuyến đi\n"
+"của nhóm mình thì hơn.\n"
+"・Đến quầy mua vé tàu hướng về Celdic thôi."
 
 #. We purchased our tickets and boarded a train
 #. bound for Crossbell. It seemed like the station
@@ -494,6 +699,28 @@ msgstr ""
 msgctxt "#46 step"
 msgid "乗車券を購入し、クロスベル方面行き列車へと乗り込む。\n　どうやら俺たちの実習の話は通っていたらしい。\n・目的地まで１時間ほど列車に揺られることになる。\n　その間にアリサから交易地として知られる\n　ケルディックについておさらいをしてもらった。\n・サラ教官の真意に考えを巡らせていると、\n　なんと当の教官が目の前に現れる。\n　俺たちＡ班への説明のためついてきていたらしい。\n　さっさと座席で眠りにつく教官に\n　ため息をつくしかない俺たちだった。\n・──やがて列車はケルディックに到着し、\n　俺たちは教官の案内のもと宿に向かうことに。\n・用意されていた部屋は一つで、実習中は\n　男女が同じ部屋で過ごすことになるらしい。\n　さすがに語気を荒くするアリサだったが、\n　ラウラに窘#2Rたしな#められ渋々納得した様子。\n・そして──宿の女将さんから特別実習の封筒を受け取る。\n　その内容は、まさに雑用と言ってもいいくらいの\n　町の様々な“お手伝い”ばかりなのだった。\n・ひとまず１階にいるサラ教官に問い質してみることに。"
 msgstr ""
+"Sau khi mua vé, chúng tôi lên chuyến tàu hướng về Crossbell.\n"
+"Có vẻ nhân viên nhà ga đã biết về chuyến thực địa của chúng tôi.\n"
+"・Cả đội sẽ phải ngồi trên tàu một tiếng rồi mới đến nơi.\n"
+"Trong lúc đó, Alisa đã giúp cả nhóm điểm lại thông tin về Celdic -\n"
+"nơi vốn được biết đến là một thị trấn thương mại sầm uất.\n"
+"・Trong lúc đang suy nghĩ về ý đồ thực sự của giáo quan Sara,\n"
+"không ngờ cô ấy lại xuất hiện trước mắt chúng tôi.\n"
+"・Hóa ra cô ấy đi theo là để đưa ra lời giải thích cho nhóm.\n"
+"Nhìn vị giáo quan nhanh chóng chìm vào giấc ngủ,\n"
+"chúng tôi chẳng biết làm gì ngoài thở dài ngao ngán.\n"
+"・Chẳng mấy chốc, chuyến tàu đã cập bến Celdic.\n"
+"Dưới sự hướng dẫn của giáo quan, chúng tôi đi đến nhà trọ.\n"
+"・Khu vực sinh hoạt được gói gọn trong một căn phòng.\n"
+"Đồng nghĩa với việc trong khoảng thời gian tới, cả nam và nữ\n"
+"sẽ phải sống chung một phòng.\n"
+"Quả nhiên Alisa sẽ lên tiếng phản đối, nhưng sau khi được\n"
+"Laura khuyên bảo, cô ấy đành phải chấp nhận với vẻ mặt\n"
+"miễn cưỡng.\n"
+"・Và rồi, chúng tôi nhận được phong bì thực địa đặc biệt.\n"
+"Ủy thác toàn là những yêu cầu phụ giúp 'việc vặt' trong\n"
+"thị trấn.\n"
+"・Trước mắt, chúng tôi sẽ xuống tầng 1 để hỏi giáo quan."
 
 #. It seems as though the aim of these field studies
 #. is somewhat related to the assistance I gave the 
@@ -507,6 +734,13 @@ msgstr ""
 msgctxt "#47 step"
 msgid "この『特別実習』の狙い──どうやら自由行動日に\n　俺がやった『生徒会の手伝い』に通じていそうだ。\n　ケルディックという場所を知る良い経験になるはず……\n　教官の思惑はさておき、俺たちは実習を開始することに。\n・２つの必須課題を含む町の人からの依頼を\n　俺たちの判断でこなしていこう。"
 msgstr ""
+"Mục đích của chuyến thực địa đặc biệt dường như có vài điểm\n"
+"tương đồng với công việc giúp đỡ Hội Học Sinh.\n"
+"Đây chắc chắn sẽ là một trải nghiệm tuyệt vời để chúng tôi\n"
+"hiểu rõ hơn về thị trấn Celdric.\n"
+"Tạm giác lại ý đồ của giáo quan sang một bên, chúng tôi dã bắt đầu\n"
+"chuyến thực địa của mình.\n"
+"・Cùng nhau giải quyết các yêu cầu của người dân thị trấn nào."
 
 #. We stepped into famous Celdic Grand Market and
 #. thought it wouldn't hurt to do a bit of shopping
@@ -514,6 +748,8 @@ msgstr ""
 msgctxt "#48 step"
 msgid "有名なケルディックの大市に足を踏み入れた。\n　依頼をこなすついでに買い物をしてもよさそうだ。"
 msgstr ""
+"Chúng tôi đã đặt chân vào Chợ Lớn Celdic nổi tiếng.\n"
+"Nhân lúc thực hiện ủy thác, tranh thủ mua vài món đồ nào."
 
 #. We ran into the Kreuzen Provincial Army while
 #. they were patrolling the town. They warned us not
@@ -521,6 +757,9 @@ msgstr ""
 msgctxt "#49 step"
 msgid "巡回するクロイツェン州領邦軍に声をかけられた。\n　あまり面倒を起こさないよう釘を刺されてしまう。"
 msgstr ""
+"Trong lúc dạo quanh, chúng tôi đã bị Quân Đội Lãnh Bang\n"
+"Kreuzen gọi lại. \n"
+"Họ cảnh báo chúng tôi không được gây rắc rối."
 
 #. Outside the Lunaria Nature Park, we encountered
 #. a couple of park rangers. Apparently, the area is off
@@ -528,24 +767,34 @@ msgstr ""
 msgctxt "#50 step"
 msgid "《ルナリア自然公園》の前で管理人たちに遭遇した。\n　今は立入禁止になっているらしい。"
 msgstr ""
+"Chúng tôi đã gặp các nhân viên kiểm lâm bên ngoài\n"
+"Công Viên Tự Nhiên Lunaria.\n"
+"Có vẻ như hiện tại không cho phép người ngoài vào."
 
 #. We completed the mandatory request from the
 #. orbal factory!
 msgctxt "#51 step"
 msgid "必須の課題となっていた工房の依頼を達成した。"
 msgstr ""
+"Chúng tôi đã hoàn thành ủy thác bắt buộc của\n"
+"xưởng công nghệ!"
 
 #. We exterminated a monster on the East Highway.
 #. Man, these combat links come in handy.
 msgctxt "#52 step"
 msgid "東の街道にいた手配魔獣を退治した。\n　やはり戦術リンクはかなり役立ちそうだ。"
 msgstr ""
+"Chúng tôi đã diệt trừ ma thú ở Đường Đông.\n"
+"Liên kết chiến thuật thực sự rất giúp ích."
 
 #. We've finished all of the mandatory tasks and
 #. headed back to the inn to talk to Instructor Sara.
 msgctxt "#53 step"
 msgid "必須の依頼を一通りこなすことが出来た。\n　一旦宿に帰って、サラ教官に話を聞いてみよう。"
 msgstr ""
+"Chúng tôi đã hoàn thành xong các ủy thác bắt buộc.\n"
+"Trước mắt, chúng tôi sẽ về nhà trọ và nói chuyện với\n"
+"giáo quan Sara."
 
 #. On our way back to the inn, we heard a commotion
 #. coming from the Grand Market. We made a detour
@@ -553,6 +802,8 @@ msgstr ""
 msgctxt "#54 step"
 msgid "大市から諍#2Rいさか#いの声が聞こえてきた。\n　宿に戻る前に確認してみたほうがよさそうだ。"
 msgstr ""
+"Chúng tôi nghe thấy tiếng cãi vã đến từ phía Chợ Lớn.\n"
+"Có lẽ chúng tôi nên ghé qua để kiểm tra tình hình."
 
 #. We found two merchants arguing with each other.
 #. Supposedly, they'd both been assigned the same
@@ -576,6 +827,22 @@ msgstr ""
 msgctxt "#55 step"
 msgid "大市では２人の商人が言い争いをしていた。\n　どうやら店の場所を巡るトラブルがあったらしい。\n・大市の元締めであるオットーさんが駆けつけたこともあり\n　殴り合いになるすんでのところで仲裁することができた。\n　ひとまずは交代で場所を使うことになるという。\n・お宅に招待され話を聞くと、今回の実習課題は\n　元締めが見繕ってくれたらしい。\n　なんでもヴァンダイク学院長とは旧知の仲だそうだ。\n・先ほどの喧嘩沙汰の背景には、ユーシスの実家である\n　アルバレア公爵家による増税を巡る問題があるとのこと。\n　公爵家に仕える領邦軍も不干渉を貫いているそうだ。\n・気にはなるが、明日も実習の課題が用意されるらしい。\n　今日のところはお暇#2Rいとま#させていただくことに。"
 msgstr ""
+"Tại Chợ Lớn, có hai thương nhân đã lời qua tiếng lại với nhau.\n"
+"Dường như giữa họ đang có tranh chấp về vị trí gian hàng.\n"
+"・Nhờ có sự khuyên ngăn của bác Otto - quản lý Chợ Lớn,\n"
+"chúng tôi đã giải hòa thành công trước khi cả hai bên lao vào\n"
+"tác động lẫn nhau.\n"
+"Trước mắt, giải pháp được đưa ra là cả hai bên sẽ thay nhau\n"
+"sử dụng vị trí đó.\n"
+"・Khi được mời về nhà trò chuyện, chúng tôi mới biết rằng\n"
+"ủy thác thực địa lần này được chính bác chọn cho.\n"
+"Có vẻ như bác ấy vốn là người quen cũ với Hiệu Trưởng Vandyck.\n"
+"・Nguyên nhân cho cuộc cãi vã vừa rồi đến từ việc gia tăng thuế\n"
+"của gia tộc Công Tước Albarea - cũng chính là gia tộc của Jusis.\n"
+"Lực lượng Quân Đội Lãnh Bảng phục vụ dưới trướng gia tộc công tước\n"
+"dường như không có ý định can thiệp vào vụ việc lần này.\n"
+"・Dù bận tâm, nhưng ngày mai vẫn sẽ có những ủy thác thực địa khác.\n"
+"Nên ngày hôm nay, chúng tôi quyết định sẽ quay về nghỉ ngơi."
 
 #. We walked out of the market manager's house
 #. and right into Instructor Sara. She said she was off
@@ -588,6 +855,14 @@ msgstr ""
 msgctxt "#56 step"
 msgid "元締めの家を出たところで、サラ教官に遭遇する。\n　これからＢ班のフォローに向かうことになったらしい。\n　実習中の判断を俺たちに任せ、教官は駅へ去っていった。\n・今日は夕食を早めにとってレポートを作ることに。\n　用が済んだら宿に戻ろう。"
 msgstr ""
+"Ngay khi vừa rời khỏi nhà của bác quản lý, chúng tôi đã\n"
+"gặp giáo quan Sara.\n"
+"Có vẻ như cô ấy đang chuẩn bị lên đường đễ hỗ trợ nhóm B.\n"
+"Sau khi giao lại toàn quyền quyết định của chuyến thực địa\n"
+"cho chúng tôi, cô ấy đã hướng về phía nhà ga.\n"
+"・Hôm nay, cả nhóm quyết định ăn tối sớm để tập trung\n"
+"hoàn thành báo cáo.\n"
+"Giải quyết xong việc rồi thì về nhà trọ thôi."
 
 #. We had a great chat over a dinner of freshly
 #. grown local produce. Just as we were on our way
@@ -599,6 +874,10 @@ msgstr ""
 msgctxt "#57 step"
 msgid "新鮮な地の物の料理をご馳走になりながら談笑し、\n　部屋に戻ろうとしたところでラウラに声をかけられる。\n　俺の剣の流派《八葉一刀流》のことを見抜いた上で、\n　実力について誤解を与えてしまったらしい。\n　……がっかりさせてしまったかもしれないな。"
 msgstr ""
+"Chúng tôi đã thưởng thức những món ăn địa phương tươi ngon.\n"
+"Khi định về phòng, tôi bỗng được Laura gọi lại.\n"
+"Sau khi nắm được thực lực kiếm thuật của tôi,\n"
+"có lẽ cô ấy đã thất vọng..."
 
 #. We heard the argument before we could see it. 
 #. Worse yet, it was so fierce that even market
@@ -625,6 +904,26 @@ msgstr ""
 msgctxt "#58 desc"
 msgid "大市に到着するなり、激しい諍いの声が聞こえてきた。\n　どうやら元締めでも仲裁しきれないほどの騒動らしい。\n・俺たちが駆けつけると、昨日と同じ商人たちが\n　昨日以上の激しい剣幕で言い争っていた。\n　どうやら商品を盗まれた被害者は２人らしく、　\n　更には屋台までもバラバラに破壊されてしまったらしい。\n　互いに相手を犯人だと主張しており、埒#2Rらち#が明かない様子。\n・騒ぎの収拾に現れたのは、領邦軍の小隊だった。\n　しかし事件の捜査をするつもりはないらしく、\n　強引なやり口で無理矢理に騒ぎを収めたのだった。\n・その後、なんとか無事に大市は開かれたが……\n　やはり事件をこのままにするわけにはいかない。\n　特別実習の一環として、俺たち自身の判断で\n　事件の捜査にあたらせてもらうことを提案する。\n・オットー元締めの許可を得て、\n　さっそく捜査を開始することに。\n　タイムリミットは最終列車の出る今夜９時……\n　まずは被害にあった大市で聞き込みをしてみよう。"
 msgstr ""
+"Cách Chợ Lớn một quãng, chúng tôi đã nghe thấy tiếng cãi vã kịch liệt.\n"
+"Có vẻ như đây là vụ gây gổ nghiêm trọng đến mức bác quản lý\n"
+"cũng không thể đứng ra ngăn cản.\n"
+"・Khi chúng tôi lao đến, vẫn là hai thương nhân ngày hôm qua đang ra sức\n"
+"tranh xoay quanh chuyện cũ, nhưng với thái độ hung hăng và giận dữ hơn hẳn.\n"
+"Tình hình có vẻ như cả hai người họ đều là nạn nhân bị trộm mất hàng hóa,\n"
+"hơn nữa ngay cả các gian hàng lưu động cũng bị đập phá tan tành.\n"
+"Do đôi bên cứ khăng khăng đổ lỗi cho đối phương là hung thủ nên sự việc\n"
+"cứ thế dậm chân tại chỗ, chẳng thể đi đến đâu.\n"
+"・Một tiểu đội thuộc Quân Lãnh Bang đã đứng ra dàn xếp mọi chuyện.\n"
+"Thế nhưng, họ hoàn toàn không có ý định điều tra vụ án, mà chỉ dùng\n"
+"những biện pháp mạnh bạo để ép buộc đám đông phải giải tán.\n"
+"・Sau đó, dù Chợ Lớn vẫn được mở cửa bình thường, nhưng chúng tôi\n"
+"không thể nhắm mắt làm ngơ trước một sự việc như thế.\n"
+"Với tư cách là một phần của nhóm, tôi đã đề xuất rằng cả nhóm sẽ\n"
+"tự dựa vào phán đoán của mình để điều tra vụ việc.\n"
+"・Nhận được sự cho phép từ bác quản lý,\n"
+"chúng tôi đã ngay lập tức tiến hành điều tra.\n"
+"Thời hạn là 9 giờ tối nay, khi chuyến tàu cuối cùng lăn bánh...\n"
+"Trước hết, hãy đi dò hỏi nạn nhân tại Chợ Lớn xem sao."
 
 #. We spoke to one of the victims, Heinz, a merchant
 #. from Heimdallr. He says that he left the market as
@@ -634,6 +933,11 @@ msgstr ""
 msgctxt "#59 step"
 msgid "被害者の一人、帝都の商人ハインツさんに話を聞いた。\n　昨日は開店準備だけして帰っていたらしく、\n　それは大市の商人たちが証明できるそうだ。"
 msgstr ""
+"Chúng tôi đã hỏi chuyện một trong các nạn nhân là Heinz,\n"
+"một thương nhân đến từ Đế Đô.\n"
+"Heinz nói rằng sau khi chuẩn bị xong gian hàng, bản thân đã\n"
+"rời khỏi khu chợ.\n"
+"Các thương nhân khác của khu chợ có thể làm chứng cho điều đó."
 
 #. We spoke to one of the victims, Marco, a merchant
 #. from Celdic. He says that he spent last night
@@ -643,6 +947,11 @@ msgstr ""
 msgctxt "#60 step"
 msgid "被害者の一人、地元の商人マルコさんに話を聞いた。\n　昨晩は商売仲間と酒を飲んでいたらしく、\n　事件に関係することは何も目撃していないらしい。"
 msgstr ""
+"Chúng tôi đã hỏi chuyện một trong các nạn nhân là Marco,\n"
+"một thương nhân đến từ Đế Đô.\n"
+"Marco nói rằng hôm qua bản thân đã uống rượu cùng với\n"
+"đối tác kinh doanh.\n"
+"Marco cũng cho biết bản thân không thể giúp gì cho cuộc điều tra."
 
 #. Once we'd spoken to both of the victims, we
 #. couldn't believe that either of them could have
@@ -654,6 +963,13 @@ msgstr ""
 msgctxt "#61 step"
 msgid "被害者の商人たちに話を聞いてみたが、\n　彼らのどちらかが犯人とはどうしても考えられなかった。\n・今朝の領邦軍の不自然な行動が、どうしても引っかかる。\n　何かしらの手がかりがあるかもしれない……\n　ここは思い切って詰所を訪ねてみるのがよさそうだ。"
 msgstr ""
+"Chúng tôi dã nói chuyện với các nạn nhân.\n"
+"Dẫu có suy luận theo hướng nào, chúng tôi vẫn không cho rằng\n"
+"một trong hai chính là thủ phạm.\n"
+"・Hành động đáng ngờ của Quân Lãnh Bang sáng nay cứ khiến tôi\n"
+"không khỏi hoài nghi.\n"
+"Biết đâu sẽ có manh mối nào đó...\n"
+"Nghĩ vậy, chúng tôi đánh liều đi thẳng đến trạm gác của họ."
 
 #. At the guardhouse, we were able to speak to the
 #. commanding officer and essentially confirmed that
@@ -674,6 +990,20 @@ msgstr ""
 msgctxt "#62 step"
 msgid "詰所を訪ねると、領邦軍隊長の話を聞くことができた。\n　やはり大市が出した増税取り消しの陳情が背景にあり、\n　大市の事件については不干渉を決め込むつもりらしい。\n・ここでエリオットが機転を利かせて、\n　隊長の口から重要な情報を引き出すことに成功する。\n　被害者の取り扱っていた商品について、\n　不干渉を徹底している領邦軍が知るはずがない。\n　“増税取り消しの陳情”を取り下げさせるため、\n　領邦軍が“犯人”に関わっている可能性は高そうだ。\n・おそらく実行犯は別にいると考えられる。\n　表通りで聞き込みをして、手がかりを探してみよう。"
 msgstr ""
+"Khi đến trạm gác, chúng tôi đã được nói chuyện với sĩ quan trưởng.\n"
+"Quả nhiên, việc Chợ Lớn đệ đơn kiến nghị bãi bỏ quyết định\n"
+"gia tăng thuế đóng vai trò là nguyên nhân chính khiến cho\n"
+"Quân Lãnh Bang quyết định ngó lơ đối với vụ án này.\n"
+"・Elliot đã vô cùng xuất sắc khi đã thành công moi được\n"
+"thông tin từ sĩ quan trưởng, khiến ông ta tiết lộ một bí mật\n"
+"cực kỳ quan trọng.\n"
+"Tại sao Quân Lãnh Bang lại có thể nắm được thông tin hàng hóa\n"
+"của nạn nhân, trong khi chính họ chẳng hề tham gia điều tra\n"
+"về vụ việc?\n"
+"Khả năng cao họ có dính líu với thủ phạm, mục đích của vụ án là\n"
+"tạo áp lực để phía Chợ Lớn rút lại đơn kiến nghị.\n"
+"・Khả năng cao thủ phạm là một nhóm bên thứ ba.\n"
+"Đi dò hỏi thông tin dọc theo trục đường chính xem sao."
 
 #. We spoke to a young girl on the main street who
 #. mentioned seeing an unfamiliar man in town lately.
