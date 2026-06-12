@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-10 17:39+0000\n"
+"PO-Revision-Date: 2026-06-12 17:33+0000\n"
 "Last-Translator: Lư Hữu Phước <gumbal797@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/trails-of-"
 "cold-steel-1-vietnamese/t_active_vi/vi/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.6\n"
+"X-Generator: Weblate 2026.7.dev0\n"
 
 #. Yikes! A monster?!
 msgctxt "[Elliot] #0"
@@ -604,7 +604,7 @@ msgid ""
 "領邦軍の詰所は西だ。\n"
 " …とにかく急ぐぞ。"
 msgstr ""
-"Văn phòng của Quân Đội Lãnh Bang nằm ở\n"
+"Trạm gác của Quân Đội Lãnh Bang nằm ở\n"
 "phía tây. Chúng ta khẩn trương nào."
 
 #. *pant* Why is this ladder so long?
