@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-11 17:01+0000\n"
+"PO-Revision-Date: 2026-06-12 17:33+0000\n"
 "Last-Translator: Lư Hữu Phước <gumbal797@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/trails-of-"
 "cold-steel-1-vietnamese/glossary/vi/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.6\n"
+"X-Generator: Weblate 2026.7.dev0\n"
 
 #. Tear
 msgid "ティア"
@@ -798,3 +798,70 @@ msgstr "Cộng sự"
 msgctxt "Link Attack"
 msgid "リンクアタック"
 msgstr "Tấn Công Liên Kết"
+
+msgid "成績"
+msgstr "Thành Tựu"
+
+msgid "特別オリエンテーリング"
+msgstr "buổi định hướng đặc biệt"
+
+msgid "広間"
+msgstr "đại sảnh"
+
+msgctxt "Radiant Blademaster"
+msgid "光の剣匠"
+msgstr "Kiếm Sư Ánh Sáng"
+
+msgid "平民"
+msgstr "Thường dân"
+
+msgid "守護者"
+msgstr "Kẻ Canh Giữ"
+
+msgid "ＨＲ"
+msgstr "giờ sinh hoạt"
+
+msgid "自由行動日"
+msgstr "Ngày hoạt động tự do"
+
+msgid "本校舎"
+msgstr "học xá chính"
+
+msgid "学生会館"
+msgstr "Hội Trường Học Sinh"
+
+msgid "学生手帳"
+msgstr "sổ tay học viên"
+
+msgid "技術部"
+msgstr "CLB Kỹ Thuật"
+
+msgid "実技テスト"
+msgstr "Kiểm tra thực chiến"
+
+msgid "グラウンド"
+msgstr "sân tập"
+
+msgid "戦術殻"
+msgstr "vỏ chiến thuật"
+
+msgid "戦術リンク"
+msgstr "liên kết chiến thuật"
+
+msgid "交易地ケルディック"
+msgstr "Thị Trấn Thương MẠi Celdic"
+
+msgid "紡績町"
+msgstr "Thị Trấn Dệt May Parm"
+
+msgid "ディックの大市"
+msgstr "Chợ Lớn Celdic"
+
+msgid "大市"
+msgstr "Chợ Lớn"
+
+msgid "元締め"
+msgstr "quản lý"
+
+msgid "詰所"
+msgstr "Trạm gác"
