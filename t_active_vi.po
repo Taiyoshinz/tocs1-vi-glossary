@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-12 17:33+0000\n"
+"PO-Revision-Date: 2026-06-14 19:01+0000\n"
 "Last-Translator: Lư Hữu Phước <gumbal797@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/trails-of-"
 "cold-steel-1-vietnamese/t_active_vi/vi/>\n"
@@ -281,7 +281,7 @@ msgid ""
 " 東の国境、ガレリア要塞があるわ。"
 msgstr ""
 "Ừ, nếu tiếp tục tiến về phía đông,\n"
-"chúng ta sẽ đến Pháo Đài Garrelia."
+"chúng ta sẽ đến Căn Cứ Địa Garrelia."
 
 #. We should take a right here
 #.  to reach the nature park.
@@ -1250,7 +1250,7 @@ msgid ""
 "獅子心皇帝…\n"
 " 威風堂々としたお姿だな。"
 msgstr ""
-"Hoàng Đế Sư Tử...\n"
+"Hoàng Đế Tim Sư Tử...\n"
 "Dáng vẻ oai phong lẫm liệt."
 
 #. Weird to think he's the one
@@ -2639,7 +2639,7 @@ msgid ""
 " 人形兵器が放たれているようだな…"
 msgstr ""
 "Ở đây cũng có đám binh khí hình nhân\n"
-"giống như lúc ở Pháo Đài Garrelia…"
+"giống như lúc ở Căn Cứ Địa Garrelia…"
 
 #. There's some monsters I didn't see
 #.  when we were here yesterday, too.
