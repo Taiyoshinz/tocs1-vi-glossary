@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-12 17:33+0000\n"
+"PO-Revision-Date: 2026-06-14 19:01+0000\n"
 "Last-Translator: Lư Hữu Phước <gumbal797@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/trails-of-"
 "cold-steel-1-vietnamese/glossary/vi/>\n"
@@ -276,7 +276,7 @@ msgid "七耀石"
 msgstr "Thất Diệu Thạch"
 
 msgid "ストレガー社"
-msgstr "Công Ty Strega"
+msgstr "Tập Đoàn Strega"
 
 #. Eisenritter.
 msgid "鉄騎隊"
@@ -529,7 +529,7 @@ msgstr "Điện Hạ"
 
 #. Garrelia Fortress
 msgid "ガレリア要塞"
-msgstr "Pháo Đài Garrelia"
+msgstr "Căn Cứ Địa Garrelia"
 
 msgid "リベール王国"
 msgstr "Vương Quốc Liberl"
@@ -699,7 +699,7 @@ msgid "紅耀石"
 msgstr "hồng diệu thạch"
 
 msgid "獅子心皇帝"
-msgstr "Hoàng Đế Sư Tử"
+msgstr "Hoàng Đế Tim Sư Tử"
 
 msgid "故郷"
 msgstr "quê"
@@ -865,3 +865,51 @@ msgstr "quản lý"
 
 msgid "詰所"
 msgstr "Trạm gác"
+
+msgid "導力端末"
+msgstr "máy tính"
+
+msgid "軍事学"
+msgstr "Quân Sự Học"
+
+msgid "導力バイク"
+msgstr "xe máy dẫn lực"
+
+msgid "ドライケルス大帝"
+msgstr "Đại Đế Dreichels"
+
+msgid "来たる日"
+msgstr "Ngày Định Mệnh Ấy"
+
+msgid "公都バリアハート"
+msgstr "Công Đô Bareahard"
+
+msgid "旧都 セントアーク"
+msgstr "Cố Đô Saint-Ark"
+
+msgid "峡谷道"
+msgstr "Đường Hẻm Núi"
+
+msgid "宝石職人"
+msgstr "thợ kim hoàn"
+
+msgid "オーロックス峡谷"
+msgstr "Hẻm Núi Aurochs"
+
+msgid "貨物列車"
+msgstr "tàu chở hàng"
+
+msgid "戦車"
+msgstr "xe tăng"
+
+msgid "兵士"
+msgstr "binh lính"
+
+msgid "街道"
+msgstr "đường lộ"
+
+msgid "水路"
+msgstr "(hệ thống) đường nước ngầm"
+
+msgid "貴族街"
+msgstr "Khu Quý Tộc"
