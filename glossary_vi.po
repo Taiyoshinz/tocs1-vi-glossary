@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-14 19:01+0000\n"
+"PO-Revision-Date: 2026-06-16 06:34+0000\n"
 "Last-Translator: Lư Hữu Phước <gumbal797@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/trails-of-"
 "cold-steel-1-vietnamese/glossary/vi/>\n"
@@ -672,7 +672,7 @@ msgid "領邦軍"
 msgstr "Quân Đội Lãnh Bang"
 
 msgid "集落"
-msgstr "làng"
+msgstr "bộ lạc"
 
 msgid "運搬車"
 msgstr "xe vận chuyển"
@@ -913,3 +913,140 @@ msgstr "(hệ thống) đường nước ngầm"
 
 msgid "貴族街"
 msgstr "Khu Quý Tộc"
+
+msgid "猟兵団"
+msgstr "băng lính đánh thuê jaegar"
+
+msgctxt "underground prison"
+msgid "地下牢"
+msgstr "ngục tối"
+
+msgid "歩兵"
+msgstr "bộ binh"
+
+msgid "司令部"
+msgstr "bộ tư lệnh"
+
+msgid "機甲部隊"
+msgstr "quân cơ giới"
+
+msgid "工兵部隊"
+msgstr "đội công binh"
+
+msgid "獅子戦役"
+msgstr "Chiến Dịch Sư Tử"
+
+msgid "七耀暦"
+msgstr "Lịch Thất Diệu"
+
+msgid "芸術"
+msgstr "nghệ thuật"
+
+msgid "デッサン"
+msgstr "hình họa"
+
+msgid "スケッチ"
+msgstr "phác họa"
+
+msgid "クロッキー"
+msgstr "họa nhanh"
+
+msgid "金融取引法"
+msgstr "Luật Giao Dịch Tài Chính"
+
+msgid "帝国交通法"
+msgstr "Luật Giao Thông Quốc Tế"
+
+msgid "臨時課税法"
+msgstr "Luật Thế Tạm Thời"
+
+msgid "実践技術"
+msgstr "kỹ thuật thực tiễn"
+
+msgid "政治経済の基礎演習"
+msgstr "Bài Tập Thực Hành Cơ Bản Về Kinh Tế Chính Trị"
+
+msgid "劇画で学ぶ帝国史"
+msgstr "Lịch Sử Đế Quốc Qua Kịch Họa"
+
+msgid "文芸部"
+msgstr "CLB Văn Nghệ"
+
+msgid "帝国オペラと絵画"
+msgstr "Opera Đế Quốc Và Hội Họa"
+
+msgid "音楽室"
+msgstr "phòng âm nhạc"
+
+msgid "ギムナジウム"
+msgstr "nhà thể chất"
+
+msgid "ラインフォルト家"
+msgstr "Nhà Reinford"
+
+msgid "女学院"
+msgstr "Học Viện Nữ Sinh"
+
+msgid "パーソナリティ"
+msgstr "phát thanh viên"
+
+msgid "中間試験結果発表"
+msgstr "công bố kết quả giữa kỳ"
+
+msgid "アイゼンガルド連峰"
+msgstr "Dãy Núi Eisengard"
+
+msgid "軍馬"
+msgstr "quân mã"
+
+msgid "飛行船"
+msgstr "khí cầu"
+
+msgid "雇い主"
+msgstr "chủ nhân"
+
+msgid "理事"
+msgstr "ủy viên hội đồng"
+
+msgid "ゼンダー門"
+msgstr "Cổng Zender"
+
+msgctxt "1"
+msgid "守護者"
+msgstr "hộ vệ"
+
+msgid "隻眼"
+msgstr "Độc Nhãn"
+
+msgid "ラカンさん"
+msgstr "Chú Lacan"
+
+msgid "巨石文明"
+msgstr "nền văn minh cự thạch"
+
+msgid "薬師"
+msgstr "vị dược sư"
+
+msgid "長老"
+msgstr "trưởng lão"
+
+msgid "石切り場"
+msgstr "mỏ đá"
+
+msgid "悪しき精霊"
+msgstr "Ác Tinh Linh"
+
+msgid "ラクリマ湖"
+msgstr "Hồ Lacrima"
+
+msgid "ご隠居"
+msgstr "vị ẩn sĩ"
+
+msgid "カメラマン"
+msgstr "thợ ảnh"
+
+msgid "ボート小屋"
+msgstr "cabin"
+
+msgid "迫撃砲"
+msgstr "súng cối"
