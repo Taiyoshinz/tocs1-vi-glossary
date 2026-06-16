@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-16 07:52+0000\n"
+"PO-Revision-Date: 2026-06-17 06:49+0000\n"
 "Last-Translator: Lư Hữu Phước <gumbal797@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/trails-of-"
 "cold-steel-1-vietnamese/glossary/vi/>\n"
@@ -915,7 +915,10 @@ msgid "貴族街"
 msgstr "Khu Quý Tộc"
 
 msgid "猟兵団"
-msgstr "băng lính đánh thuê jaegar"
+msgstr ""
+"quân đoàn thợ săn\n"
+"lính săn\n"
+"jaegar"
 
 msgctxt "underground prison"
 msgid "地下牢"
@@ -928,13 +931,13 @@ msgid "司令部"
 msgstr "bộ tư lệnh"
 
 msgid "機甲部隊"
-msgstr "quân cơ giới"
+msgstr "binh đoàn giáp cơ khí"
 
 msgid "工兵部隊"
 msgstr "đội công binh"
 
 msgid "獅子戦役"
-msgstr "Chiến Dịch Sư Tử"
+msgstr "Chiến Tranh Sư Tử"
 
 msgid "七耀暦"
 msgstr "Lịch Thất Diệu"
@@ -1062,3 +1065,30 @@ msgstr "Cục Tình Báo Quân Đội Đế Quốc"
 
 msgid "Scarecrow"
 msgstr "Bù Nhìn"
+
+msgid "結社"
+msgstr "Tổ Chức"
+
+msgid "灰の騎神"
+msgstr "Kỵ Thần Tro Tàn"
+
+msgid "蒼の騎神"
+msgstr "Kỵ Thần Lam Biếc"
+
+msgid "緋の騎神"
+msgstr "Kỵ Thần Huyết Hồng"
+
+msgid "紫の騎神"
+msgstr "Kỵ Thần Lam Tử"
+
+msgid "銀の騎神"
+msgstr "Kỵ Thần Ngân Bạch"
+
+msgid "黒の騎神"
+msgstr "Kỵ Thần Hắc Ám"
+
+msgid "金の騎神"
+msgstr "Kỵ Thần hoàng Kim"
+
+msgid "体育倉庫"
+msgstr "nhà kho thể chất"
