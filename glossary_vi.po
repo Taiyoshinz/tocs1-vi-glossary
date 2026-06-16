@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-16 06:34+0000\n"
+"PO-Revision-Date: 2026-06-16 07:52+0000\n"
 "Last-Translator: Lư Hữu Phước <gumbal797@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/trails-of-"
 "cold-steel-1-vietnamese/glossary/vi/>\n"
@@ -512,7 +512,7 @@ msgstr "Chủ Tịch Irina"
 
 #. The Imperial Liberation Front
 msgid "帝国解放戦線"
-msgstr "Mặt Trận Giải Phóng Đế Quốc"
+msgstr "Trận Tuyến Giải Phóng Đế Quốc"
 
 msgid "鉄道憲兵隊"
 msgstr "Đội Hiến Binh Đường Sắt"
@@ -1050,3 +1050,15 @@ msgstr "cabin"
 
 msgid "迫撃砲"
 msgstr "súng cối"
+
+msgid "飛行艇"
+msgstr "tàu bay"
+
+msgid "上位属性"
+msgstr "nguyên tố cấp cao"
+
+msgid "帝国軍情報局"
+msgstr "Cục Tình Báo Quân Đội Đế Quốc"
+
+msgid "Scarecrow"
+msgstr "Bù Nhìn"
