@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-17 06:49+0000\n"
+"PO-Revision-Date: 2026-06-18 08:06+0000\n"
 "Last-Translator: Lư Hữu Phước <gumbal797@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/trails-of-"
 "cold-steel-1-vietnamese/glossary/vi/>\n"
@@ -1092,3 +1092,83 @@ msgstr "Kỵ Thần hoàng Kim"
 
 msgid "体育倉庫"
 msgstr "nhà kho thể chất"
+
+msgid "甲冑"
+msgstr "giáp cốt"
+
+msgid "家督"
+msgstr "thừa kế"
+
+msgid "帝都ヘイムダル"
+msgstr "Đế Đô Heimdallr"
+
+msgid "案内人"
+msgstr "người dẫn đường"
+
+msgid "アルト通り"
+msgstr "Phố Alto"
+
+msgid "紅毛のクレイグ"
+msgstr "Craig Tóc Đỏ"
+
+msgid "機甲師団"
+msgstr "Sư Đoàn Giáp Cơ Khí"
+
+msgid "ドライケルス広場"
+msgstr "Quảng Trường Dreichels"
+
+msgid "ガルニエ地区"
+msgstr "Quận Garnier"
+
+msgid "地区"
+msgstr "Quận"
+
+msgid "大通り"
+msgstr "đại lộ"
+
+msgid "百貨店"
+msgstr "trung tâm thương mại"
+
+msgid "マーテル公園"
+msgstr "Công Viên Mater"
+
+msgid "音楽院"
+msgstr "Học Viện Âm Nhạc"
+
+msgid "西風の旅団"
+msgstr "Lữ Đoàn Gió Tây"
+
+msgid "帝都憲兵隊"
+msgstr "Đội Hiến Binh Đế Đô"
+
+msgid "ヘイムダル港"
+msgstr "Cảng Heimdallr"
+
+msgid "地下水道"
+msgstr "đường nước ngầm"
+
+msgid "オスト地区"
+msgstr "Quận Ost"
+
+msgid "怪盗Ｂ"
+msgstr "Siêu Trộm B"
+
+msgid "聖アストライア女学院"
+msgstr "Học Viện Nữ Sinh Thánh Astria"
+
+msgctxt "của học viện nữ thánh"
+msgid "屋内庭園"
+msgstr "vườn nội khu"
+
+msgctxt "special khi nói về lớp vii"
+msgid "《壁》"
+msgstr "《bức tường ngăn cách》"
+
+msgid "会見"
+msgstr "hội kiến"
+
+msgid "テロ対策の遊軍"
+msgstr "biệt đội chống khủng bố lưu động"
+
+msgid "ジェスター猟兵団"
+msgstr "Quân Đoàn Thợ Săn Jester"
