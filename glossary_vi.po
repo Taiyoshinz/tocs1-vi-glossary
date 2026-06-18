@@ -1,15 +1,15 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-18 08:06+0000\n"
-"Last-Translator: Lư Hữu Phước <gumbal797@gmail.com>\n"
-"Language-Team: Vietnamese <https://hosted.weblate.org/projects/trails-of-"
-"cold-steel-1-vietnamese/glossary/vi/>\n"
+"PO-Revision-Date: 2026-06-20 08:37+0000\n"
+"Last-Translator: Weblate Admin <weblate@example.com>\n"
+"Language-Team: Vietnamese <http://localhost:8080/projects/sen-no-kiseki-1/"
+"glossary/vi/>\n"
 "Language: vi\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.7.dev0\n"
+"X-Generator: Weblate 2026.6.1\n"
 
 #. Tear
 msgid "ティア"
@@ -1136,7 +1136,7 @@ msgid "音楽院"
 msgstr "Học Viện Âm Nhạc"
 
 msgid "西風の旅団"
-msgstr "Lữ Đoàn Gió Tây"
+msgstr "Lữ Đoàn Tây Phong"
 
 msgid "帝都憲兵隊"
 msgstr "Đội Hiến Binh Đế Đô"
@@ -1151,7 +1151,7 @@ msgid "オスト地区"
 msgstr "Quận Ost"
 
 msgid "怪盗Ｂ"
-msgstr "Siêu Trộm B"
+msgstr "Đạo Tặc B"
 
 msgid "聖アストライア女学院"
 msgstr "Học Viện Nữ Sinh Thánh Astria"
@@ -1172,3 +1172,39 @@ msgstr "biệt đội chống khủng bố lưu động"
 
 msgid "ジェスター猟兵団"
 msgstr "Quân Đoàn Thợ Săn Jester"
+
+msgid "バルフレイム宮"
+msgstr "Cung Điện Valflame"
+
+msgid "ヴァンクール大通り"
+msgstr "Đại Lộ Vainqueủ"
+
+msgid "路地裏"
+msgstr "con hẻm"
+
+msgid "宮中晩餐会"
+msgstr "yến tiệc hoàng cung"
+
+msgid "園遊会"
+msgstr "tiệc sân vườn"
+
+msgid "クリスタルガーデン"
+msgstr "Vườn Pha Lê"
+
+msgid "近衛兵"
+msgstr "Vệ Binh Hoàng Gia"
+
+msgid "地下墓所"
+msgstr "hầm mộ"
+
+msgid "降魔の笛"
+msgstr "Sáo Trấn Ma"
+
+msgid "双刃剣"
+msgstr "kiếm hai đầu"
+
+msgid "皇太子"
+msgstr "Thái Tử"
+
+msgid "帝国政府"
+msgstr "Chính Phủ Đế Quốc"
