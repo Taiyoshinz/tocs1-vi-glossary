@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-20 08:37+0000\n"
+"PO-Revision-Date: 2026-06-21 10:53+0000\n"
 "Last-Translator: Weblate Admin <weblate@example.com>\n"
 "Language-Team: Vietnamese <http://localhost:8080/projects/sen-no-kiseki-1/"
 "glossary/vi/>\n"
@@ -828,7 +828,7 @@ msgid "本校舎"
 msgstr "học xá chính"
 
 msgid "学生会館"
-msgstr "Hội Trường Học Sinh"
+msgstr "Tòa Đa Năng"
 
 msgid "学生手帳"
 msgstr "sổ tay học viên"
@@ -1201,10 +1201,57 @@ msgid "降魔の笛"
 msgstr "Sáo Trấn Ma"
 
 msgid "双刃剣"
-msgstr "kiếm hai đầu"
+msgstr "song nhận kiếm"
 
 msgid "皇太子"
 msgstr "Thái Tử"
 
 msgid "帝国政府"
 msgstr "Chính Phủ Đế Quốc"
+
+msgid "墨付き"
+msgstr "phê chuẩn"
+
+msgctxt "Jurai Special Economic Zone"
+msgid "ジュライ特区"
+msgstr "Đặc Khu Jurai"
+
+msgid "領主"
+msgstr "lãnh chúa"
+
+msgid "練武場"
+msgstr "võ đường"
+
+msgid "機械仕掛けの魔獣"
+msgstr "ma thú máy móc"
+
+msgid "護衛"
+msgstr "vệ sĩ/đoàn vệ sĩ"
+
+msgid "中立派"
+msgstr "Phe Trung Lập"
+
+msgid "結界"
+msgstr "kết giới"
+
+msgid "魔物"
+msgstr "ma vật"
+
+msgctxt "trong tòa lâu đài chap 4"
+msgid "オーブ"
+msgstr "viên ngọc"
+
+msgid "異変"
+msgstr "hiện tượng dị thường"
+
+msgid "不死の王"
+msgstr "Vua Bất Tử"
+
+msgid "槍の聖女"
+msgstr "Thánh Nữ Thương"
+
+msgid "アイゼングラーフ"
+msgstr "Eisengraf"
+
+msgid "常在戦争"
+msgstr "thường trực chiến tranh"
