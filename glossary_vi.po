@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-22 11:13+0000\n"
+"PO-Revision-Date: 2026-06-22 17:27+0000\n"
 "Last-Translator: Weblate Admin <weblate@example.com>\n"
 "Language-Team: Vietnamese <http://localhost:8080/projects/sen-no-kiseki-1/"
 "glossary/vi/>\n"
@@ -1055,7 +1055,7 @@ msgid "迫撃砲"
 msgstr "súng cối"
 
 msgid "飛行艇"
-msgstr "tàu bay"
+msgstr "khí cầu bay"
 
 msgid "上位属性"
 msgstr "nguyên tố cấp cao"
@@ -1318,3 +1318,30 @@ msgstr "phòng quản lý trung tâm"
 
 msgid "連絡道"
 msgstr "đường liên thông"
+
+msgid "ダメ押し"
+msgstr "món quà bất ngờ"
+
+msgid "学院祭"
+msgstr "Lễ Hội Học Viện"
+
+msgid "クロスベル自治州"
+msgstr "Khu Tự Trị Crossbell"
+
+msgid "最後の試し"
+msgstr "Thử Thách Cuối Cùng"
+
+msgid "後夜祭"
+msgstr "Đêm Sau Hội Lễ"
+
+msgid "巨大飛行戦艦"
+msgstr "chiến hạm bay khổng lồ"
+
+msgid "機甲兵"
+msgstr "Lính Cơ Giáp"
+
+msgid "深淵の魔女"
+msgstr "Phù Thủy Thâm Uyên"
+
+msgid "術"
+msgstr "thuật pháp"
