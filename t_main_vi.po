@@ -7629,3 +7629,1983 @@ msgstr ""
 "các giáo quan ở phía trước.\n"
 "・Một khi chuẩn bị xong, chúng ta sẽ đánh thẳng ra ngoài.\n"
 "Chúng ta chiến đấu là để bảo vệ học viện này!"
+
+#. Thors Military Academy
+msgctxt "#9 quest"
+msgid "トールズ士官学院"
+msgstr ""
+
+#. Walking through the gate, I was greeted by two
+#. second-year students. I'm not sure how they
+#. knew my name, though...
+#. ・After handing them the items I applied to bring
+#. into the academy, it was time for the entrance
+#. ceremony. My time at this academy begins today--
+#. I'll need to be ready for whatever academy life
+#. throws at me.
+#. ・During his speech, Principal Vandyck passed on
+#. the words of Emperor Dreichels: 'Arise, O youth,
+#. and become the foundation of the world.' The
+#. true meaning of these words is something we'll
+#. have to put a lot of thought into during our two
+#. years at the academy.
+#. ・I ended up talking to Elliot, the red-haired boy
+#. sitting next to me. He wore a red uniform, just
+#. like me, and just unlike all of the other
+#. students... I knew something had to be up there.
+#. ・Soon, the ceremony came to an end, and a female
+#. instructor called out to us. Apparently, there was
+#. going to be a 'special orienteering exercise' for
+#. us students in red uniforms... I had no idea
+#. what I was in for.
+msgctxt "#14 step"
+msgid ""
+"・正門をくぐったところで２人の上級生に迎えられる。\n"
+"　なぜか俺の名前を知っていたみたいだけど……？\n"
+"・申請していた品物を預けると、入学式の時間に。\n"
+"　いよいよ学院生活が始まる──気を引き締めて行こう。\n"
+"・入学式でヴァンダイク学院長から言葉を贈られる。\n"
+"　『世の礎たれ』──これからの２年間で、\n"
+"　その意味を自分なりに考えてみないとな。\n"
+"・隣の席にいた紅毛の少年、エリオットと知り合う。\n"
+"　彼も同じ色の制服を着ているみたいだ。\n"
+"　ほかの新入生たちとは違う制服……どういう事だろう？\n"
+"・ほどなくして入学式が終わると、\n"
+"　一人の女性教官から声がかかった。\n"
+"　どうやら赤色の制服を着た新入生には、\n"
+"　『特別オリエンテーリング』なるものがあるらしい。\n"
+"　──いったい何が始まろうとしているんだ？\n"
+msgstr ""
+
+#. #006c3/31 (Wed) Special Orienteering
+#. ・We were led into an old schoolhouse behind the
+#. main building of the academy.
+#. ・As it turned out, we students in red uniforms were
+#. part of Class VII, a new class established this
+#. year which contains students from different social
+#. classes. The woman who led us into the old
+#. schoolhouse then introduced herself as our
+#. homeroom teacher, Instructor Sara Valestein.
+#. ・The first to raise an objection to this
+#. arrangement was a glasses-wearing boy named
+#. Machias, but he was immediately chided by Jusis
+#. Albarea, a son of one of the Four Great Houses.
+#. They weren't the only ones with concerns, either.
+#. ・Ignoring all the hubbub, Instructor Sara told us
+#. that she'd arranged for all of us take a 'special
+#. orienteering exercise.' A moment later, the floor
+#. opened up beneath us, causing us to fall into an
+#. underground area below the building.
+#. ・Fortunately, no one seemed to be hurt--
+#. although I did end up taking a slap to the face
+#. because I landed in an...unfortunate position
+#. beneath one of the girls.
+#. ・Instructor Sara then called us on the ARCUS
+#. battle orbments Thors sent us before we arrived.
+#. She asked us to collect our weapons from the
+#. pedestals surrounding the room and set the
+#. quartz with them into our ARCUS units.
+#. ...Not that we had much of a choice.
+msgctxt "#15 desc"
+msgid ""
+"　#006c３／３１（水）特別オリエンテーリング\n"
+"・俺たちはそのまま、本校舎の裏手にある\n"
+"　『旧校舎』に連れてこられる。\n"
+"・赤い制服の新入生は、特科クラス《Ⅶ組》──\n"
+"　それは今年から新たに立ち上げられた、\n"
+"　身分に関係なく選ばれたクラスらしい。\n"
+"　彼女、サラ・バレスタイン教官はその担任なのだという。\n"
+"・真っ先に意義を唱えたのは眼鏡の男子マキアス。\n"
+"　それを窘#2Rたしな#める《四大名門》アルバレア家の子息ユーシス。\n"
+"　他のみんなもめいめい思うところがあるようだ。\n"
+"・そんな中、教官がオリエンテーリングの開始を宣言する。\n"
+"　すると──次の瞬間、突然足場の仕掛けが作動して\n"
+"　俺たちは地下まで滑り落ちてしまう。\n"
+"・みんな何とか怪我はなかったようだが、\n"
+"　俺は一瞬の出来事で一人の女子とあらぬ体勢に……\n"
+"　そのままきつい一発を頬にもらってしまうのだった。\n"
+"・入学前に届けられていた戦術オーブメント\n"
+"　《ＡＲＣＵＳ》にサラ教官からの通信が入る。\n"
+"　各々の台座から預けていた武器を回収し、\n"
+"　結晶回路#8Rク　オ　ー　ツ#をＡＲＣＵＳにセットしろとのこと。\n"
+"　……とにかくやってみるとしよう。\n"
+msgstr ""
+
+#. Old Schoolhouse Exploration
+msgctxt "#15 quest"
+msgid "旧校舎地下の探索"
+msgstr ""
+
+#. I held back Machias before he tried to punch
+#. Jusis, and he walked off on his own, saying he
+#. wanted to cool his head.
+#. ・Jusis was more than willing to admit that he was
+#. partially at fault for what happened. He may be
+#. the son of a prominent noble, but he doesn't
+#. think he's Aidios' gift to mankind...which is kind
+#. of a pleasant surprise.
+#. ・After reflecting on the class issues that
+#. Erebonia faces, we finally got moving again,
+#. now with Jusis in tow.
+msgctxt "#23 step"
+msgid ""
+"・今にも殴りかかりそうなマキアスを止めると、\n"
+"　彼は頭を冷やしたいと先に行ってしまう。\n"
+"・ユーシスは自分にも非があったことをあっさりと認める。\n"
+"　大貴族の子息である彼にも、彼なりの考え方があるようだ。\n"
+"・平民と貴族──帝国という国ならではの問題を噛み締めつつ、\n"
+"　同行を申し出るユーシスを加えて、改めて出発する。\n"
+msgstr ""
+
+#. #006c4/17 (Sat) After School
+msgctxt "#25 desc"
+msgid "　#006c４／１７（土）放課後"
+msgstr ""
+
+#. Academy Life - April
+msgctxt "#25 quest"
+msgid "４月の学院生活"
+msgstr ""
+
+#. By making good use of our combat links and
+#. fighting as one, we earned a good score.
+msgctxt "#45 step"
+msgid ""
+"・戦術リンクを駆使して適切な行動を取り、\n"
+"　なんとか良い評価を勝ち取ることができた。\n"
+msgstr ""
+
+#. #006c4/24 (Sat) Field Study at Celdic - Day 1
+#. ・This morning, I was finally able to reconcile
+#. with Alisa before setting off for our field study.
+#. ・With that off my shoulders, it was time for us
+#. to leave. We got ready and headed for the station.
+msgctxt "#48 desc"
+msgid ""
+"#006c４／２４（土）特別実習・ケルディック１日目\n"
+"・特別実習の朝、出発前に\n"
+"　ようやくアリサと和解することができた。\n"
+"・胸のつかえが一つとれたところで、\n"
+"　いよいよ実習に出発することに。\n"
+"　準備を済ませてから駅に向かおう。\n"
+msgstr ""
+
+#. Our First Field Study
+msgctxt "#48 quest"
+msgid "初めての特別実習"
+msgstr ""
+
+#. On our way back to the inn, we heard a commotion
+#. coming from the Grand Market. We made a detour
+#. over there before we went back to the inn.
+msgctxt "#58 step"
+msgid ""
+"・大市から諍#2Rいさか#いの声が聞こえてきた。\n"
+"　宿に戻る前に確認してみたほうがよさそうだ。\n"
+msgstr ""
+
+#. #006c4/25 (Sun) Field Study at Celdic - Day 2
+#. ・We received our field study tasks for the day
+#. from the inn's owner. We were assigned fewer of
+#. them than yesterday, which was kind of odd.
+#. ・I apologized to Laura for what happened last
+#. night. It looked like Alisa and Elliot were
+#. worried about us, too.
+#. ・Just as we were about to launch into our field
+#. study tasks, a girl working at the inn arrived in
+#. a panic. There had been a theft at the Grand
+#. Market, so we needed to see what was going on.
+msgctxt "#62 desc"
+msgid ""
+"#006c４／２５（日）特別実習・ケルディック２日目\n"
+"・女将さんから本日の実習課題を受け取った。\n"
+"　昨日よりは数も少ないようだ。\n"
+"・昨夜のことをラウラに謝ることができた。\n"
+"　アリサたちにも心配をかけてしまったみたいだ。\n"
+"・気を取り直して、さっそく実習を開始しようとした矢先、\n"
+"　宿の店員さんが慌てて飛び込んでくる。\n"
+"　なんと、大市で盗難事件が発生したらしい。\n"
+"　実習を始める前に大市に行ってみよう。\n"
+msgstr ""
+
+#. Theft at the Grand Market
+msgctxt "#62 quest"
+msgid "大市の盗難事件"
+msgstr ""
+
+#. At the guardhouse, we were able to speak to the
+#. commanding officer and essentially confirmed that
+#. the tax dispute was the reason that they refused
+#. to get involved in matters at the Grand Market.
+#. ・Not only that, Elliot's quick-wittedness allowed
+#. us to extract some key information from him. How
+#. could the provincial army knew what goods the
+#. merchants intended to sell if they refused to
+#. get involved? We knew then that the provincial
+#. army had a hand in this crime, hoping to get the
+#. market manager to withdraw his petition against
+#. the tax increase.
+#. ・But having a hand in it doesn't mean the
+#. provincial army committed the crime themselves.
+#. We needed to find out who did. We continued our
+#. search by asking around on the main drag.
+msgctxt "#67 step"
+msgid ""
+"・詰所を訪ねると、領邦軍隊長の話を聞くことができた。\n"
+"　やはり大市が出した増税取り消しの陳情が背景にあり、\n"
+"　大市の事件については不干渉を決め込むつもりらしい。\n"
+"・ここでエリオットが機転を利かせて、\n"
+"　隊長の口から重要な情報を引き出すことに成功する。\n"
+"　被害者の取り扱っていた商品について、\n"
+"　不干渉を徹底している領邦軍が知るはずがない。\n"
+"　“増税取り消しの陳情”を取り下げさせるため、\n"
+"　領邦軍が“犯人”に関わっている可能性は高そうだ。\n"
+"・おそらく実行犯は別にいると考えられる。\n"
+"　表通りで聞き込みをして、手がかりを探してみよう。\n"
+msgstr ""
+
+#. #006c5/22 (Sat) After School
+msgctxt "#72 desc"
+msgid "　#006c５／２２（土）放課後"
+msgstr ""
+
+#. Academy Life - May
+msgctxt "#72 quest"
+msgid "５月の学院生活"
+msgstr ""
+
+#. We finished our investigation of the old
+#. schoolhouse and told the principal about the
+#. elevator.
+#. ・He told us that the principals of the academy
+#. had been tasked with preserving the building until
+#. the 'Promised Day' arrives--though what exactly
+#. that means is a mystery. Maybe it has something
+#. to do with St. Sandlot? ...Either way, it looks
+#. like these investigations will be a regular thing.
+#. I'll be sure to bring all my friends with me.
+#. ・By the time we were finished talking to the
+#. principal, evening had arrived and I headed
+#. back to the dormitory.
+msgctxt "#83 step"
+msgid ""
+"・旧校舎の調査を終え、\n"
+"　昇降機が現れていたことを学院長に報告した。\n"
+"・あの建物は《ドライケルス大帝》によって\n"
+"　“来たる日”まで保存するよう伝えられてきたそうだが、\n"
+"　それが一体何を意味するのかは分かっていないらしい。\n"
+"　あの《聖女サンドロット》にも関係があるのだろうか。\n"
+"　……やはりこれからも調査の必要がありそうだ。\n"
+"　また来月にでも、みんなと一緒に調べてみるとしよう。\n"
+"・そうこうしているうちにもう夕方だ。\n"
+"　そろそろ学生寮に戻るとしよう。\n"
+msgstr ""
+
+#. #006c5/29 (Sat) Field Study at Bareahard - Day 1
+#. ・The first thing I did today was meet
+#. everyone downstairs as soon as I could.
+msgctxt "#89 desc"
+msgid ""
+"　#006c５／２９（土）特別実習・バリアハート１日目\n"
+"・皆はすでに部屋を出たようだ。\n"
+"　俺も１階に下りよう。\n"
+msgstr ""
+
+#. The Verdant City
+msgctxt "#89 quest"
+msgid "翡翠の公都"
+msgstr ""
+
+#. When we were finally able to give our report on
+#. the monster's extermination. Unsurprisingly, the
+#. provincial army was quick to recognize Jusis and
+#. treated him with the utmost.
+#. ・One of the soldiers said that the main battle
+#. tanks we saw earlier belong to the provincial
+#. army and that the fort itself underwent some
+#. significant construction last month.
+#. ・After hearing that, it was time to head back to
+#. town.
+msgctxt "#99 step"
+msgid ""
+"・ようやく砦に魔獣退治を報告することができた。\n"
+"　ユーシスはやはり領邦軍にも顔が利くようだ。\n"
+"・兵士によると、先ほど運ばれていた戦車は、\n"
+"　領邦軍に配備されるものだったという。\n"
+"　この砦も先月改修工事があったばかりらしい。\n"
+"・……今は行くとしよう。\n"
+msgstr ""
+
+#. #006c5/30 (Sun) Field Study at Bareahard - Day 2 (PM)
+#. ・We went to the provincial army guardhouse to
+#. plead Machias' innocence, but they had no
+#. interest in listening to us. Worse yet, they also
+#. gave us a message from the duke's household saying
+#. that Jusis would be unable to rejoin us on our
+#. field study.
+#. ・On returning to the hotel, we found provincial
+#. army soldiers investigating it, so we couldn't
+#. return to our rooms. We decided to regroup and
+#. consider our next move at an inn on the Artisans'
+#. Street.
+#. ・It seemed most likely that Machias was captured
+#. because he's the son of Governor Regnitz, an
+#. influential figure in the Reformist Faction. We
+#. were afraid they were going to use him for
+#. blackmail...or worse.
+#. ・Still, with Jusis stuck at home and Rufus in
+#. Heimdallr, we felt alone and a little scared.
+#. ・We figured that our chances of rescuing him
+#. would decrease dramatically if he was moved from
+#. the provincial army guardhouse, so we vowed to
+#. sneak in there and rescue him.
+#. ・Just as we were wondering how to go about our
+#. lofty claim, we met a bracer named Toval. He works
+#. at a guildhouse in Legram to the south but often
+#. comes to Bareahard on business.
+#. ・After asking at the bar, we learned about a
+#. network of waterways under the city--and that
+#. we could use them to reach the guardhouse.
+msgctxt "#106 desc"
+msgid ""
+"　#006c５／３０（日）特別実習・バリアハート２日目午後\n"
+"・詰所の領邦軍兵士たちにマキアスの潔白を訴えるが、\n"
+"　彼らはまったく聞く耳を持たない様子だった。\n"
+"　さらに──ユーシスは実習に戻れないと\n"
+"　公爵家からの伝言があったことを告げられる。\n"
+"・宿泊していたホテルにも領邦軍の捜査が入り、\n"
+"　俺たちは部屋に戻ることも出来なかった。\n"
+"　ひとまず職人通りの宿酒場で状況を整理することに。\n"
+"・マキアスが捕まったのは、革新派の有力人物である\n"
+"　レーグニッツ知事の息子だというところにあるだろう。\n"
+"　痛めつけられて脅迫の材料にされる可能性もある。\n"
+"・実家に呼び戻されたユーシスに頼るのは難しそうだ。\n"
+"　頼れそうなルーファスさんも今は帝都にいる……\n"
+"・市内の詰所に拘束された今なら侵入する余地はありそうだ。\n"
+"　危険は承知の上──俺たちは秘密裏の救出を決意する。\n"
+"・救出方法に考えを巡らせていると、\n"
+"　《遊撃士協会#10Rブレイサーギルド#》のトヴァルさんと出会う。\n"
+"　彼は南のレグラム支部からときどき来ているらしい。\n"
+"・マスターに詳しく話を聞いてみると、\n"
+"　バリアハートの地下には\n"
+"　昔の水道が張り巡らされているのだという。\n"
+"　──おそらく、マキアスのいる領邦軍の詰所にも\n"
+"　繋がっている可能性は高いだろう。\n"
+msgstr ""
+
+#. Rescuing Machias
+msgctxt "#106 quest"
+msgid "マキアスの救出"
+msgstr ""
+
+#. We thought we found our entrance on the outer
+#. edge of the street the station was on.
+msgctxt "#108 step"
+msgid ""
+"・駅前通りの外れに入口らしき場所があったはずだ。\n"
+"　さっそく調べに行ってみよう。\n"
+msgstr ""
+
+#. #006c6/15 (Tue) After School
+#. ・Tomorrow, the dreaded midterms will finally
+#. begin. As icing on the cake, our individual
+#. scores, our ranking in our year, and even our class
+#. averages will be displayed for the world to see.
+#. ・Once homeroom was over, everyone's stayed on
+#. campus to study. I thought it wise to walk around
+#. and find someone to study with.
+msgctxt "#116 desc"
+msgid ""
+"　#006c６／１５（火）放課後\n"
+"・いよいよ《中間試験》が明日から始まる。\n"
+"　個人別の順位やクラスごとの平均点が\n"
+"　掲示板に張り出されることになるらしい。\n"
+"・ＨＲ後──みんな残って最後の予習・復習に励むようだ。\n"
+"　俺も校舎を回ってみんなと勉強することにしよう。\n"
+msgstr ""
+
+#. Academy Life - June
+msgctxt "#116 quest"
+msgid "６月の学院生活"
+msgstr ""
+
+#. I scored 7th highest in the year.
+#. I don't think I could have done any better!
+msgctxt "#137 step"
+msgid "　俺の成績は学年７位──どうやら最善を尽くせたみたいだ。"
+msgstr ""
+
+#. Patrick's a challenging opponent, but we took
+#. him down with style, putting all of the skills
+#. developed during our time at the academy to use.
+msgctxt "#142 step"
+msgid ""
+"・強敵だったが、今までの経験を上手に生かして\n"
+"　見事な勝利を収めることができた。\n"
+msgstr ""
+
+#. #006c6/26 (Sat) Field Study at Nord - Day 1
+#. ・I woke up this morning dreading the eight-hour
+#. train ride ahead of me. The plan was to be in
+#. the highlands by the evening, but getting there
+#. wasn't going to be easy.
+#. ・Fortunately, when we were about to leave,
+#. Sharon announced that she'd packed all of us very
+#. tasty-looking breakfasts. Alisa wasn't sure how
+#. to react, but knowing I had something to eat on the
+#. long train ride ahead brightened my day. After
+#. that, we went straight to the station.
+msgctxt "#146 desc"
+msgid ""
+"　#006c６／２６（土）特別実習・ノルド高原１日目\n"
+"・準備を整え、今月の特別実習の朝を迎えた。\n"
+"　ノルド高原へは列車で８時間近くかかるらしい。\n"
+"　到着は夕方になりそうだ。\n"
+"・出かけ際、シャロンさんが朝食の包みを渡してくれた。\n"
+"　アリサは複雑そうだが、列車内で食べるのが楽しみだな。\n"
+"　さっそくトリスタ駅に向かおう。\n"
+msgstr ""
+
+#. Journey to a Foreign Land
+msgctxt "#146 quest"
+msgid "異郷の地への旅路"
+msgstr ""
+
+#. #006c6/27 (Sun) Field Study at Nord - Day 2
+#. ・We woke up early, and, after enjoying a delicious
+#. breakfast, received the envelope containing our
+#. field study tasks. Our tasks for the morning are
+#. concentrated around the southwest area of the
+#. highlands.
+#. ・The two mandatory tasks are the request from
+#. Zender Gate and the request from the settlement's
+#. doctor. We got started right away, putting the
+#. horses we were borrowing to good use.
+msgctxt "#152 desc"
+msgid ""
+"　#006c６／２７（日）特別実習・ノルド高原２日目\n"
+"・早起きして美味しい朝餉#4Rあさげ#を頂くと、\n"
+"　さっそく特別実習の封筒を受け取った。\n"
+"　午前中は南西部の依頼に集中しているらしい。\n"
+"・ゼンダー門からの要請と薬師からの依頼は\n"
+"　必須の課題となっている……さっそく始めよう。\n"
+"　高原の移動は馬を使ったほうがよさそうだ。\n"
+msgstr ""
+
+#. Field Study at the Nord Highlands
+msgctxt "#152 quest"
+msgid "ノルド高原での実習"
+msgstr ""
+
+#. Once we'd confirmed the particulars of the
+#. elder's request, we got to work on all of the
+#. tasks we'd been assigned that afternoon.
+msgctxt "#158 step"
+msgid ""
+"・長老に依頼内容を確認した。\n"
+"　改めて北部を含めた実習を再開しよう。\n"
+msgstr ""
+
+#. #006c6/28 (Mon) Field Study at Nord - Day 3
+#. ・Just as we were finishing our breakfast, Elder
+#. Ivan hurried in with urgent news: the Imperial
+#. Army watchtower had come under attack the night
+#. before. To make matters worse, the Republican
+#. Army's base had been attacked as well.
+#. ・Preparing for the worst, the people of Nord
+#. started getting ready to move the settlement. We
+#. knew we had to go and find out what we can about
+#. the situation from Lieutenant General Vander.
+#. We gathered our things and headed southwest to
+#. Zender Gate.
+msgctxt "#169 desc"
+msgid ""
+"　#006c６／２８（月）特別実習・ノルド高原３日目\n"
+"・朝食をいただき、今日の実習課題をもらったところで\n"
+"　イヴン長老が急ぎの報せを持ってくる。\n"
+"　昨夜、帝国軍の監視塔が何者かに襲撃されたらしい。\n"
+"　それだけでなく、共和国の基地も攻撃を受けたという。\n"
+"・有事に備えてノルドの集落は移動の準備を始める。\n"
+"　俺たちはゼクス中将に状況を確かめにいくことに。\n"
+"　準備が出来たら高原南西部へ出よう。\n"
+msgstr ""
+
+#. Attack on the Watchtower
+msgctxt "#169 quest"
+msgid "監視塔襲撃事件"
+msgstr ""
+
+#. We discovered a rope ladder, clearly positioned
+#. so that people wouldn't notice it when going past.
+#. That fit the suspicious bill, all right.
+#. ・Emma proposed that Alisa try to use her bow to
+#. knock the ladder down. We didn't have the highest
+#. hopes, but she got it somehow, and we climbed up.
+msgctxt "#178 step"
+msgid ""
+"・高原の一角に隠すように設置されたザイルを発見する。\n"
+"　崖の上に何かがあるのかもしれない。\n"
+"・委員長の提案で、アリサの導力弓で縄梯子を落とすことに。\n"
+"　失敗したかと思われたが、何とか上手くいった。\n"
+"　さっそく縄梯子を登って崖の上を確認しにいこう。\n"
+msgstr ""
+
+#. #006c7/17 (Sat) After School
+#. ・I raced Instructor Sara and Gaius during
+#. today's swimming lesson.
+msgctxt "#190 desc"
+msgid ""
+"　#006c７／１７（土）放課後\n"
+"・今日の水練の授業でサラ教官たちと水泳勝負をした。\n"
+msgstr ""
+
+#. Academy Life - July
+msgctxt "#190 quest"
+msgid "７月の学院生活"
+msgstr ""
+
+#. I found Laura searching for her in the gymnasium.
+#. I stopped to talk to her for a few moments,
+#. and she made me realize an unpleasant truth.
+msgctxt "#207 step"
+msgid ""
+"・ラウラがギムナジウムで捜してくれていた。\n"
+"　……少し痛いところを突かれてしまったな。\n"
+msgstr ""
+
+#. #006c7/24 (Sat) Field Study at Heimdallr - Day 1
+#. ・Elliot, Machias, and I decided to gather before
+#. Laura and Fie arrived to discuss what to do about
+#. them, but we couldn't come up with any ideas.
+#. ・The two of them seemed determined to sort out
+#. their issues during this field study on their own,
+#. though.
+#. ・With the Fie-Laura problem fresh in our minds,
+#. we headed off to the station.
+msgctxt "#220 desc"
+msgid ""
+"　#006c７／２４（土）特別実習・帝都ヘイムダル１日目\n"
+"・エリオット、マキアスと一足先に集まるも、\n"
+"　結局ラウラとフィーにしてやれることは浮かばない。\n"
+"・当の２人も今回の実習こそは\n"
+"　何かを掴みたいと思っているようだ。\n"
+"・とにかく準備を済ませて駅に向かおう。\n"
+msgstr ""
+
+#. The Vermillion Capital
+msgctxt "#220 quest"
+msgid "緋の帝都"
+msgstr ""
+
+#. We used the key the governor had given us to
+#. enter the former Bracer Guild branch, and found
+#. that it's currently owned by the local government.
+#. ・We put our belongings in our rooms and set about
+#. reading the envelope containing our tasks that we
+#. were given by the governor.
+#. ・We should get started on our tasks right away.
+#. There are three mandatory ones that we need to
+#. complete... We should try and tour all the districts
+#. we've been assigned while working through them.
+msgctxt "#224 step"
+msgid ""
+"・預かった鍵を使って旧ギルド支部に入ると、\n"
+"　そこは帝都庁の管理下となっているようだった。\n"
+"・荷物を置いて、レーグニッツ知事に預かった\n"
+"　今日の実習課題を確認することに。\n"
+"・さっそく実習を開始しよう。\n"
+"　必須の課題は３つ……各街区を確認しながら片付けよう。\n"
+msgstr ""
+
+#. On the way back, Elliot heard the sound of a
+#. sonata in the distance.
+#. ・Fie found the entrance to a hidden passage
+#. connected to the surface. The only problem was
+#. getting it open.
+msgctxt "#232 step"
+msgid ""
+"・引き返している途中、エリオットが\n"
+"　微かに聞こえてくる音楽の調べに気付く。\n"
+"・フィーが地上に繋がっている隠し扉を見つけた。\n"
+"　どこかに開ける仕掛けがないか探してみよう。\n"
+msgstr ""
+
+#. #006c7/25 (Sun) Field Study at Heimdallr - Day 2
+#. ・The morning of the second day of our field study
+#. came, and after eating breakfast at Elliot's
+#. house, we got working on our tasks.
+#. ・We thought it'd be best to save the monster
+#. extermination at Heimdallr Port until last.
+msgctxt "#238 desc"
+msgid ""
+"　#006c７／２５（日）特別実習・帝都ヘイムダル２日目\n"
+"・２日目の朝、クレイグ家で朝食を頂いてから\n"
+"　今日の実習を開始することに。\n"
+"・ヘイムダル港の魔獣退治は最後にして、\n"
+"　さっそく依頼をこなそう。\n"
+msgstr ""
+
+#. The Vermillion Capital 2
+msgctxt "#238 quest"
+msgid "緋の帝都②"
+msgstr ""
+
+#. While we were talking in front of the gate to St.
+#. Astraia, the members of Group B appeared.
+#. ・As the chime to signal 5 o'clock rang, Elise
+#. walked out to greet us. Apparently, she knew
+#. the person who called us to the academy.
+#. ・We were led to an indoor garden, where we found
+#. none other than the princess of Erebonia, Princess
+#. Alfin, waiting for us.
+#. ・It turns out that she, too, invited us on someone
+#. else's behalf, however--Prince Olivert Reise Arnor,
+#. chairman of Thors' board of directors.
+#. ・Apparently, Prince Olivert was the one responsible
+#. for Class VII in the first place. He told us that
+#. our field studies were intended to allow us to see
+#. the many obstacles and conflicts that exist in the
+#. Empire and encourage us to face them head on,
+#. without looking away. His words cleared up some
+#. of the doubts in our minds.
+#. ・We were also shocked to find out that our
+#. instructor, who was chosen by the principal to
+#. support us, was once an A-rank bracer with the
+#. nickname 'Purple Lightning.'
+#. ・Princess Alfin also invited me to dance with her
+#. at the garden party...but I'm pretty sure she was
+#. just teasing me. I didn't just lose my chance to
+#. marry into the royal family, did I? No. Couldn't
+#. have. Let's not be silly here.
+#. ・After parting ways with Elise at the gate, we ran
+#. into Instructor Sara and Captain Claire. Captain
+#. Claire told us that the Railway Military Police
+#. has something they want us to help with in place
+#. of our field study tasks tomorrow.
+#. ・We were informed that the terrorists, one of whom
+#. we met in the Nord Highlands, are planning to do
+#. something during the Summer Festival. The captain
+#. proposed that we serve as a reserve force as part
+#. of the security measures. Naturally, we agreed.
+#. ・We returned to the guild with Instructor Sara,
+#. who told us about how the Bracer Guild stopped
+#. operating in the capital due to a brutal attack
+#. by the Jester jaeger corps.
+#. ・After hearing her story, it was clear to us why
+#. she doesn't think very highly of Chancellor
+#. Osborne and the Railway Military Police.
+#. ・We finished writing our report and went to bed
+#. early. Both groups have a long day tomorrow, and
+#. we're going to need to contribute as much as
+#. possible to keeping this city safe.
+msgctxt "#244 step"
+msgid ""
+"・聖アストライア女学院の前で話していると、\n"
+"　Ｂ班の面々と合流する。\n"
+"・夕方５時を報せる鐘が鳴ると、\n"
+"　エリゼが俺たちを迎えに来る。\n"
+"　用があるというのはエリゼの知り合いだそうだ。\n"
+"・屋内庭園まで案内されると、そこにいたのは\n"
+"　エレボニア帝国の皇族──アルフィン皇女殿下だった。\n"
+"・殿下は俺たちとある人物との会見の場を用意していた。\n"
+"　それは彼女の兄にして《トールズ士官学院》の理事長、\n"
+"　オリヴァルト・ライゼ・アルノール皇子だった。\n"
+"・彼は俺たち《Ⅶ組》の設立を決めた張本人だった。\n"
+"　《特別実習》を通じて帝国に存在する\n"
+"　様々な《壁》を知り、そこから目を背けずに行動する──\n"
+"　そんな狙いに、合点がいくものを感じる俺たち。\n"
+"・そして、その指導のために引き抜いたという\n"
+"　人物の名前を聞いて、俺たちはさらに驚くことに。\n"
+"　《紫電のバレスタイン》──サラ教官は\n"
+"　もとはギルドに所属するＡ級遊撃士なのだった。\n"
+"・アルフィン皇女に園遊会での\n"
+"　ダンスの相手に誘われたりもしたが……\n"
+"　まあ、さすがにからかわれただけだろうな。\n"
+"・──会見後、エリゼと別れた俺たちの前に\n"
+"　サラ教官とクレア大尉が現れる。\n"
+"　明日の実習課題を一時保留にした上で、\n"
+"　鉄道憲兵隊に協力してもらいたい事があるらしい。\n"
+"・帝国の影に潜む“テロリスト”──\n"
+"　ノルド高原で遭った《Ｇ》こと“ギデオン”たちが\n"
+"　夏至祭で事を起こそうとしているらしい。\n"
+"　俺たちはテロ対策の遊軍を引き受けることに。\n"
+"・その後、サラ教官と共に旧ギルド支部に戻ると\n"
+"　ギルドが帝都から撤退した理由──\n"
+"　《ジェスター猟兵団》による\n"
+"　襲撃事件について話してくれた。\n"
+"・オズボーン宰相とそれに連なる鉄道憲兵隊との因縁……\n"
+"　なんだか分かったような気がするな。\n"
+"・レポートをまとめ、今日は早めに休むことに。\n"
+"　明日はＢ班とできる限りの働きをしないとな。\n"
+msgstr ""
+
+#. #006c7/26 (Mon) Field Study at Heimdallr - Day 3
+#. ・Today is the first day of the Summer Festival.
+#. With Instructor Sara acting as our point of
+#. contact, we began our anti-terrorist patrols.
+#. We need to keep an eye out for anything
+#. suspicious while we're walking around.
+msgctxt "#247 desc"
+msgid ""
+"　#006c７／２６（月）特別実習・帝都ヘイムダル３日目\n"
+"・今日は夏至祭の初日……サラ教官を連絡役とし、\n"
+"　テロ対策の巡回を始めることに。\n"
+"　各街区で怪しい動きがないか調べてみよう。\n"
+msgstr ""
+
+#. Anti-Terrorist Measures at the Summer Festival
+msgctxt "#247 quest"
+msgid "夏至祭のテロ対策"
+msgstr ""
+
+#. Security at Valflame Palace is perfect.
+#. Nothing to worry about there.
+msgctxt "#248 step"
+msgid ""
+"・バルフレイム宮の警備は万全のようだ。\n"
+"　ここは心配する必要は無いだろう。\n"
+msgstr ""
+
+#. #006c7/26 (Mon) Field Study at Heimdallr - Day 3
+#. ・We arrived at Mater Park to find it teeming with
+#. monsters. After making a dash to the Crystal
+#. Garden, we found Gideon leading a group of
+#. terrorists.
+#. ・He used his mysterious flute to take control of
+#. the monsters yet again, and used the chance to
+#. take Elise and Princess Alfin away.
+#. ・We cut down the monsters, but by then, the
+#. terrorists had already escaped into a
+#. newly-revealed underground passage.
+#. ・Leaving the Crystal Garden to Patrick, we took
+#. off after the terrorists.
+msgctxt "#260 desc"
+msgid ""
+"　#006c７／２６（月）特別実習・帝都ヘイムダル３日目\n"
+"・マーテル公園は魔獣たちで溢れ返っていた。\n"
+"　クリスタルガーデンに駆けつけると、\n"
+"　そこにはテロリストを率いるギデオンの姿が。\n"
+"・彼はまたも不可思議な笛で魔獣を操り、\n"
+"　その隙にエリゼとアルフィン皇女を連れ去ってしまう。\n"
+"・なんとか魔獣は撃破するも、テロリストたちは\n"
+"　崩落で現れた地下へ逃げ込んでしまった。\n"
+"・この場をパトリックに任せ、\n"
+"　俺たちはテロリストを追跡することに。\n"
+msgstr ""
+
+#. Pursuing the Terrorists
+msgctxt "#260 quest"
+msgid "テロリストの追跡"
+msgstr ""
+
+#. #006c8/18 (Wed) After School
+#. ・We stood around talking about Chancellor Osborne,
+#. and the upcoming trade conference, the sweltering
+#. heat wearing us down all the while.
+#. ・Eventually, Instructor Sara arrived and the
+#. morning's homeroom began--with a surprise. We
+#. were getting two new transfer students today.
+#. ・The first was Crow. Apparently, he went crying to
+#. Instructor Sara about how he didn't have enough
+#. credits to graduate, so that ended up getting him
+#. placed in our class for the next three months.
+#. ・The second was the girl who helped us at the Nord
+#. Highlands--the Intelligence Division agent
+#. Millium. As if this school couldn't get any weirder...
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. #006c8/21 (Sat) After School
+msgctxt "#265 desc"
+msgid ""
+"　#006c８／１８（水）放課後\n"
+"・うだる暑さの中、俺たちは《通商会議》や、\n"
+"　先月対面したオズボーン宰相のことなどを話していた。\n"
+"・やがてサラ教官によって朝のＨＲが始まり──\n"
+"　唐突にⅦ組への２人の編入生が紹介される。\n"
+"・一人は２年のクロウ先輩。\n"
+"　単位が足りなくなって泣きついたところ、\n"
+"　３ヶ月ほどⅦ組に参加することになったらしい。\n"
+"・そしてもう一人は──ノルド高原で俺たちと協力した\n"
+"　《情報局》のエージェント、ミリアムだった。\n"
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"　#006c８／２１（土）放課後\n"
+msgstr ""
+
+#. Academy Life - August
+msgctxt "#265 quest"
+msgid "８月の学院生活"
+msgstr ""
+
+#. Both Crow and Millium seemed to have meshed
+#. into our class without any problems, but it was plain
+#. to see that there was something behind their
+#. addition to our class. We wouldn't want to make
+#. them feel unwelcome, but we should watch how
+#. things develop very carefully.
+#. ・After everyone else had left the classroom,
+#. I decided to get going.
+msgctxt "#268 step"
+msgid ""
+"・クロウ先輩とミリアムは呆気なくⅦ組に馴染んでいたが、\n"
+"　２人の編入に様々な思惑があるのは確かだ。\n"
+"　様子を見つつも、壁を作らないように接していこう。\n"
+"・みんな教室を出て行ったようだし、俺もそろそろ行こう。\n"
+msgstr ""
+
+#. Finally, we found Millium standing on the
+#. rooftop. She seemed all explored out for the day,
+#. so we escorted her back to the dorms before she
+#. could get a second wind. Everything finally seemed
+#. peaceful...
+#. ・...at least until she summoned Airgetlam out
+#. of thin air. It seems as though it's with her all
+#. the time...
+#. ・We arrived back at the dormitory to find Crow
+#. loafing around on the sofa. He said he's going
+#. to be living here with us from now on, and his
+#. room will be the one across the hall from mine.
+#. I can see it getting really lively around here.
+#. ・Both Crow and Millium seem excited to help with
+#. our exploration of the old schoolhouse tomorrow.
+#. I might just have to give them a ring.
+msgctxt "#276 step"
+msgid ""
+"・最後に、屋上で佇むミリアムを見つける。\n"
+"　今日のところは満足したらしく、みんなで寮に帰ることに。\n"
+"・帰り道、ミリアムとは街の真ん中で\n"
+"　何の躊躇もなくアガートラムを出してしまう。\n"
+"　どうやら常にミリアムと一緒にいるらしい……\n"
+"・学生寮に戻ると、クロウ先輩がソファでくつろいでいた。\n"
+"　先輩もここで俺たちと住むことになったようだ。\n"
+"　部屋は俺の真向かい──この寮も賑やかになりそうだ。\n"
+"・２人は明日の旧校舎探索に参加したいらしい。\n"
+"　いい機会だし、明日は呼ばせてもらうことにしようか。\n"
+msgstr ""
+
+#. I fulfilled my promise to bring Crow and Millium
+#. along for the investigation, but other than that,
+#. not much happened this month.
+#. ・Then came the rain. Lots and lots of it. We all
+#. ran back to our dorm to take shelter.
+msgctxt "#280 step"
+msgid ""
+"・クロウ先輩とミリアムを加え、今月の旧校舎探索を終えた。\n"
+"　先月に比べればあまり大きな変化は起きていなかった。\n"
+"・建物の外に出たところで、夕立が降り始めた。\n"
+"　そろそろ寮に戻るとしよう。\n"
+msgstr ""
+
+#. #006c8/28 (Sat) Field Study at Legram - Day 1
+#. ・I was given a rude awakening by a
+#. far-too-energetic Millium, and shambled towards
+#. the lobby where the others were gathering.
+#. ...Jusis followed along shortly after, looking
+#. exhausted after presumably being woken up in
+#. the same way as I was.
+#. ・Once we'd pieced our tired brains back together,
+#. we headed over to the station.
+msgctxt "#286 desc"
+msgid ""
+"　#006c８／２８（土）特別実習・レグラム１日目\n"
+"・早朝、元気いっぱいのミリアムに起こされてから\n"
+"　寮の玄関ロビーに集まる。\n"
+"　……ユーシスは散々構われて憔悴しているようだ。\n"
+"・準備が出来たら駅へと向かおう。\n"
+msgstr ""
+
+#. Field Study at Legram
+msgctxt "#286 quest"
+msgid "レグラムでの実習"
+msgstr ""
+
+#. We saw Group B off as they boarded their train
+#. to the Jurai SEZ and bought our tickets to Legram.
+msgctxt "#287 step"
+msgid ""
+"・駅でＢ班のジュライ特区への出発を見送った。\n"
+"　俺たちも乗車券を購入しよう。\n"
+msgstr ""
+
+#. Unlike the guild branches in Heimdallr, the
+#. Legram guild is still active.
+#. ・When we arrived, were greeted by Toval, the
+#. bracer who we met during our field study in
+#. Bareahard.
+#. ・It turns out he was the one who chose our tasks
+#. for this month. Once we had the list in our
+#. hands, we jumped in with both feet.
+#. ・We needed to go to the training hall in town for
+#. one of the mandatory tasks and exterminate a
+#. monster for the other. We were just hoping we'd
+#. have a chance to fulfill the townsfolk's requests
+#. in the middle of it all.
+msgctxt "#289 step"
+msgid ""
+"・レグラムのギルドは、休止状態の帝都支部と違い\n"
+"　今も活動を続けているようだった。\n"
+"・そこに待っていたのは遊撃士のトヴァルさん──\n"
+"　バリアハートの実習で出会ったその人だった。\n"
+"・今回の実習をまとめてくれていたらしく、\n"
+"　さっそく課題を確認して実習を開始することに。\n"
+"・練武場の依頼と街道の魔獣退治は必須で片付けつつ、\n"
+"　できれば住民の依頼もこなしていこう。\n"
+msgstr ""
+
+#. We finished all of our requests just as the sun
+#. went down and stopped in at the guild to report.
+msgctxt "#293 step"
+msgid ""
+"・必須の依頼を片付けたところで夕方に。\n"
+"　一旦ギルドに報告に戻るとしよう。\n"
+msgstr ""
+
+#. #006c8/29 (Sun) Field Study at Legram - Day 2
+#. ・We awoke to a beautiful blue sky, with no traces
+#. of the mist that filled the town the previous day.
+#. Lohengrin Castle was easily visible from the
+#. shore, too.
+#. ・I talked everyone about the beast-like power
+#. within me, and the way I'd feared it since I
+#. was a child. Yesterday's duel allowed me to take
+#. the first steps towards conquering that fear,
+#. and I feel like talking to everyone about it
+#. helped.
+#. ・We visited the guild to get a second salvo of
+#. requests from Toval. He told us he'd have more
+#. work for us in the afternoon, so we decided to
+#. knock out as many requests as we could, saving
+#. the monster extermination for last.
+msgctxt "#295 desc"
+msgid ""
+"　#006c８／２９（日）特別実習・レグラム２日目\n"
+"・空は快晴──２日目のレグラムは霧も晴れ、\n"
+"　湖畔のローエングリン城もはっきりと見えていた。\n"
+"・俺はみんなに、あの“力”のことを話した。\n"
+"　幼い頃から畏れてきた、獣じみた力……\n"
+"　だが、昨日の手合わせを通じて何かを掴めた気がする。\n"
+"・ギルドでトヴァルさんから２日目の実習課題を受け取る。\n"
+"　午後からはまた別の依頼が入るようだ。\n"
+"　魔獣退治を必須とし、今日も依頼をこなしていこう。\n"
+msgstr ""
+
+#. Field Study at Legram 2
+msgctxt "#295 quest"
+msgid "レグラムでの実習②"
+msgstr ""
+
+#. #006c8/29 (Sun) Field Study at Legram - Day 2 (Night)
+#. ・We scoured the town but couldn't find the
+#. missing boys anywhere.
+#. ・All signs pointed to them going to Lohengrin
+#. Castle, so we decided to follow suit and look
+#. for them ourselves.
+#. ・Once we were ready, we boarded the orbal boat
+#. they had prepared for us at the wharf and set off.
+msgctxt "#300 desc"
+msgid ""
+"　#006c８／２９（日）特別実習・レグラム２日目　夜\n"
+"・町の中をくまなく探したが、\n"
+"　男の子たちの姿はどこにもなかった。\n"
+"・やはり湖畔の《ローエングリン城》に\n"
+"　向かった可能性は高い──\n"
+"　俺たちで探しに行くことに。\n"
+"・波止場に導力ボートが用意されているはずだ。\n"
+"　準備を整えてさっそく出発しよう。\n"
+msgstr ""
+
+#. Search for the Children
+msgctxt "#300 quest"
+msgid "子供たちの捜索"
+msgstr ""
+
+#. The moment we did, the door closed itself behind
+#. us. Worse yet, it was protected by some kind of
+#. barrier that not even Airgetlam could break.
+#. ・The bell we heard earlier sounded again,
+#. summoning a number of ghost-like fiends which
+#. proceeded to attack us.
+#. ・We were able to defeat them, but it became
+#. apparent during the battle that the higher
+#. elements were in effect there, too.
+#. ・Emma seemed surprisingly knowledgeable about
+#. all of that stuff...but we didn't have time to ask
+#. her about it. We had children to save.
+msgctxt "#303 step"
+msgid ""
+"・意を決して湖上の内部に足を踏み入れると、\n"
+"　入ってきた正門の扉が勝手に閉まってしまう。\n"
+"　アガートラムでも破壊できない《結界》によって\n"
+"　俺たちは閉じ込められてしまった。\n"
+"・ここで再び鳴り響く鐘──\n"
+"　それに呼び寄せられるように\n"
+"　幽霊のような《魔物》が襲い掛かる。\n"
+"・何とか退けるも、旧校舎と同じように\n"
+"　上位属性も働いているらしい──\n"
+"・何故か色々と詳しい委員長……\n"
+"　だが今は子供たちを助けるのが先決だ。\n"
+"　とにかく城内の探索を開始しよう。\n"
+msgstr ""
+
+#. #006c8/30 (Mon) Field Study at Garrelia Fortress - Day 1
+#. ・The next morning, we were set to leave Legram.
+#. Klaus bade us farewell, and we set off for the
+#. station to travel to Garrelia Fortress.
+#. ・Before we boarded the train, though, we made
+#. sure to say goodbye to the locals.
+msgctxt "#308 desc"
+msgid ""
+"　#006c８／３０（月）特別実習・ガレリア要塞１日目\n"
+"・一晩明け、レグラムでの特別実習は終了となった。\n"
+"　クラウスさんに送り出され、俺たちは\n"
+"　次の実習地に向かうことに。\n"
+"・町の人への挨拶などをしつつ、駅へ行こう。\n"
+msgstr ""
+
+#. Tour of Garrelia Fortress
+msgctxt "#308 quest"
+msgid "ガレリア要塞の見学"
+msgstr ""
+
+#. #006c8/31 (Tue) Field Study at Garrelia Fortress - Day 2
+#. ・We quickly divided our main priorities between
+#. our two groups: Group A went with Instructor Sara
+#. to recover the railway gun in the right wing of
+#. the fortress and Group B, led by Major Neithardt,
+#. moved out to recover the left wing's.
+#. ・Our mission was clear--and failure wasn't an
+#. option.
+msgctxt "#311 desc"
+msgid ""
+"　#006c８／３１（火）特別実習・ガレリア要塞２日目\n"
+"・俺たちＡ班はサラ教官と共に\n"
+"　右翼の《列車砲》を押さえることに。\n"
+"　Ｂ班はナイトハルト少佐と左翼に向かう。\n"
+"・ミッション開始──さっそく要塞内を進もう。\n"
+msgstr ""
+
+#. Recovering the Railway Guns
+msgctxt "#311 quest"
+msgid "列車砲の奪還"
+msgstr ""
+
+#. #006c9/15 (Wed) Special Homeroom
+#. ・As we were discussing the academy festival, which
+#. will be held next month, word reached us that the
+#. board of directors had voted in favor of
+#. continuing our field studies, which came as quite
+#. a relief.
+#. ・Instructor Sara suggested that we go and speak
+#. with them. When we did, we were lucky enough to
+#. run into Prince Olivert and Major Vander, who
+#. thanked us for our work last month.
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. #006c9/18 (Sat) After School
+#. ・We will be departing on our next field study
+#. next weekend, but we still have no idea what
+#. our class is going to do for the academy festival.
+#. Hopefully, we'll have something by the start of
+#. next week.
+#. ・After I'd finished my business on campus,
+#. I decided to head on back to my dorm.
+msgctxt "#316 desc"
+msgid ""
+"　#006c９／１５（水）特別ＨＲ\n"
+"・来月の《士官学院祭》について話し合う中、\n"
+"　理事会の結果《特別実習》の継続が決定する。\n"
+"　ひとまず安心した俺たち。\n"
+"・サラ教官の勧めでレーグニッツ知事、ルーファスさん、\n"
+"　そしてイリーナ会長にそれぞれ挨拶に行く面々。\n"
+"　理事長のオリヴァルト皇子もミュラー少佐と共に来ており、\n"
+"　俺たちは先月の事件の労いの言葉などを頂いた。\n"
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"　#006c９／１８（土）放課後\n"
+"・当初の予定通り来週末には特別実習が控えるが、\n"
+"　学院祭の出し物はいまだ決まっていない。\n"
+"　なんとか来週明けまでには決めないとな。\n"
+"・今日は用事が済んだら帰るとしよう。\n"
+msgstr ""
+
+#. Academy Life - September
+msgctxt "#316 quest"
+msgid "９月の学院生活"
+msgstr ""
+
+#. As we left the old schoolhouse for the day, we
+#. ran into Celine. She didn't stay around for long,
+#. but she's a capable cat, so I wasn't worried
+#. about her.
+#. ・I had a bit more time before I was supposed to
+#. meet Towa in the computer room, so I decided to
+#. finish up some of the things I needed to do and
+#. went to meet her.
+msgctxt "#321 step"
+msgid ""
+"・旧校舎の探索を終えたところで、\n"
+"　建物の前でセリーヌと遭遇した。\n"
+"　そのままどこかへ行ってしまったが、\n"
+"　まあ心配はいらないだろう。\n"
+"・そろそろ夕方、トワ会長との待ち合わせの時間だ。\n"
+"　用事が済んだら本校舎２階の端末室に行こう。\n"
+msgstr ""
+
+#. #006c9/25 (Sat) Field Study at Roer - Day 1
+#. ・We gathered in the main lobby of the dormitory
+#. and set off once everyone had arrived.
+#. ・Instead of going straight to the station,
+#. Instructor Sara told us to gather at the field.
+#. After a little shopping in town, we made our way
+#. there.
+msgctxt "#327 desc"
+msgid ""
+"　#006c９／２５（土）特別実習・ルーレ１日目\n"
+"・学生寮の玄関ロビーで待ち合わせ、\n"
+"　全員揃ったところで出発することに。\n"
+"・サラ教官からは学院のグラウンドに呼ばれている。\n"
+"　街で準備を済ませつつ向かうとしよう。\n"
+msgstr ""
+
+#. The Industrial Metropolis
+msgctxt "#327 quest"
+msgid "黒銀の鋼都"
+msgstr ""
+
+#. We looked down to see the provincial army and
+#. Railway Military Police being openly hostile
+#. towards one another. With a sinking feeling in
+#. our stomachs, we descended to the lower level
+#. to get a closer look.
+msgctxt "#333 step"
+msgid ""
+"・下層では領邦軍と鉄道憲兵隊が睨み合いをしていた。\n"
+"　嫌な予感がする──近くまで行って様子を伺おう。\n"
+msgstr ""
+
+#. #006c9/26 (Sun) Field Study at Roer - Day 2 (PM)
+#. ・We returned to a city in chaos. Sirens were
+#. wailing and smoke was billowing from a nearby
+#. military factory. We ran over there to see what
+#. was going on.
+#. ・The workers fleeing the building told us that
+#. mechanical monsters had suddenly appeared inside.
+#. ・There were still people in there, and with all
+#. the fire and explosions, we didn't really fancy
+#. their chances. We left evacuating the workers
+#. who had already escaped to the soldiers near the
+#. entrance and hurried inside to rescue the others.
+#. ・Inside the building, we found one of the
+#. society's giant archaisms. After a battle in
+#. the roaring flames, it fell before us.
+#. ・Soon after, the Railway Military Police hurried
+#. into the building, resolving the crisis and
+#. returning everything to normality.
+#. ・Captain Claire sternly reprimanded us for acting
+#. so rashly, but did thank us for contributing to
+#. the crisis' resolution.
+#. ・We were shocked to find out that everything that
+#. happened at the factory had been planned more
+#. than three months ago, most likely by the
+#. terrorists' leader, C.
+#. ・While we were talking, one of the Railway
+#. Military Policemen relayed an urgent message was
+#. to Captain Claire: the terrorists had attacked
+#. the Sachsen Iron Mine.
+#. ・Captain Claire and her men jumped into the
+#. armored car and took off toward the mine.
+#. We decided to follow suit on foot.
+msgctxt "#346 desc"
+msgid ""
+"　#006c９／２６（日）特別実習・ルーレ２日目　午後\n"
+"・街に戻ると、サイレンの音が聞こえてきた。\n"
+"　どうやら軍需工場の方から煙が上がっているようだ。\n"
+"　急いで状況を確認しに行くことに。\n"
+"・逃げてきた工員に話を聞くと、なんと工場内部に\n"
+"　突然“機械仕掛けの魔獣”が現れたらしい──\n"
+"・引火による爆発が続く中、\n"
+"　内部ではまだ人が取り残されているとのことだった。\n"
+"　避難誘導をその場の警備兵に任せ、\n"
+"　俺たちは軍需工場内部へと突入することに。\n"
+"・奥に待ち受けていたのは、\n"
+"　やはり《結社》の大型人形兵器のようだった。\n"
+"　俺たちは人形兵器に戦いを挑み、その破壊に成功する。\n"
+"・その後、駆けつけてきた鉄道憲兵隊によって\n"
+"　事後処理が進められ、事件はなんとか収束する。\n"
+"・クレア大尉は俺たちの危険な行動に\n"
+"　厳しい言葉を投げかけつつも、\n"
+"　被害を最小限に抑えられたことを労ってくれた。\n"
+"・この事件は３ヶ月も前から準備されていたようだ。\n"
+"　おそらくテロリストのリーダー《Ｃ》によって\n"
+"　企てられたものと考えられるが……\n"
+"・そこへ、鉄道憲兵隊員から急ぎの報せが入る。\n"
+"　──ザクセン鉄鉱山がテロリストに襲撃されたという。　\n"
+"・クレア大尉たちは装甲車で現場に急行していく。\n"
+"　俺たちも急いで確かめに行ってみよう。\n"
+msgstr ""
+
+#. Assault on the Iron Mine
+msgctxt "#346 quest"
+msgid "鉄鉱山の襲撃事件"
+msgstr ""
+
+#. We finally reached the end of the long
+#. underground passage and climbed the ladder
+#. leading up to the iron mine.
+msgctxt "#351 step"
+msgid ""
+"・長い連絡道の終点に辿り着いた。\n"
+"　この上が鉄鉱山に通じているはずだ。\n"
+"　さっそくハシゴを上っていこう。\n"
+msgstr ""
+
+#. We defeated two more large archaisms that tried
+#. to stop us, eventually coming to a door.
+msgctxt "#354 step"
+msgid ""
+"・大型の人形兵器が防衛する地点を突破した。\n"
+"　扉の先を確認してみよう。\n"
+msgstr ""
+
+#. We heard a tremor, and soon after received a call
+#. from Crow. Apparently there was a cave-in, making
+#. it difficult for him to meet back up with us.
+#. We were down a teammate, but we kept going.
+msgctxt "#356 step"
+msgid ""
+"・地響きが聞こえた後、クロウから連絡が入る。\n"
+"　連絡道で崩落があったため合流は難しいとのこと。\n"
+"　腹を括ってこのまま先に進もう。\n"
+msgstr ""
+
+#. #006c10/21 (Thu) Preparing for the Academy Festival
+#. ・With only two days to go until the academy
+#. festival, we're really running out of time to
+#. prepare. Or class had decided to conduct our
+#. final rehearsals in the old schoolhouse, which
+#. was kind of surreal, to be honest.
+#. ・I'd agreed to help the Student Council with their
+#. work today, so after talking with the others,
+#. I went to collect my tasks from Towa.
+#. ・I was determined to help everyone out as much
+#. as I possibly could, but I made doubly sure to
+#. fulfill the request from Instructor Beatrix.
+msgctxt "#359 desc"
+msgid ""
+"　#006c１０／２１（木）学院祭準備\n"
+"・学院祭を明後日に控え、\n"
+"　俺たち士官学院生は最後の準備期間を迎えた。\n"
+"　Ⅶ組は旧校舎を利用して“ステージ演奏”の\n"
+"　最後のリハーサルを行うことに。\n"
+"・俺は夕方までは課外活動をすることにし、\n"
+"　さっそくトワ会長から依頼を受け取った。\n"
+"・各所に顔を出しつつ、出来る限りの手伝いをしよう。\n"
+"　ベアトリクス教官からの依頼は必ずこなしておこう。\n"
+msgstr ""
+
+#. October - Preparing for the Academy Festival
+msgctxt "#359 quest"
+msgid "１０月・学院祭準備"
+msgstr ""
+
+#. When I turned the radio on, I was surprised to
+#. hear Misty delivering a breaking news broadcast.
+#. ・In it, she stated that, this afternoon,
+#. Crossbell State had declared its independence.
+msgctxt "#377 step"
+msgid ""
+"・深夜──部屋に戻ってラジオをつけると、\n"
+"　ミスティさんの臨時ニュースが流れてきた。\n"
+"・今日の午後、クロスベル自治州で\n"
+"　『国家独立宣言』が行われたという──\n"
+msgstr ""
+
+#. #006c10/23 (Sat) Academy Festival - Day 1
+#. ・Towa announced the beginning of the academy
+#. festival, and the festivities finally began.
+#. ・I volunteered to assist the Student Council with
+#. their work, patrolling the campus and seeing if
+#. anyone needed any assistance during my free time.
+#. ・Towa, however, gave me six tickets that I could
+#. use on the various attractions at the festival,
+#. just to make sure that I enjoyed myself.
+#. ・I explored the festival to see what it had on offer,
+#. inviting people to various events as the impulse
+#. struck me.
+msgctxt "#378 desc"
+msgid ""
+"　#006c１０／２３（土）士官学院祭・１日目\n"
+"・──トワ会長の宣言と共に、\n"
+"　ついにトールズ士官学院の学院祭が始まった。\n"
+"・俺は臨時の生徒会メンバーとして、\n"
+"　空いた時間に学院祭の見回りもすることに。\n"
+"・すると、トワ会長から俺も楽しむようにと\n"
+"　アトラクションで使えるチケットを６枚も頂いた。\n"
+"　せっかくだからありがたく使わせてもらおう。\n"
+"・誰かを誘ってアトラクションに入るのも良さそうだ。\n"
+"　さっそく学院祭を見て回ろう！\n"
+msgstr ""
+
+#. Academy Festival - Day 1
+msgctxt "#378 quest"
+msgid "士官学院祭・１日目"
+msgstr ""
+
+#. #006c10/23 (Sat) Old Schoolhouse (Night)
+#. ・We reached the source of the sound: the old
+#. schoolhouse. The building was emitting a strange
+#. bluish-white glow, while a transparent barrier
+#. prevented anyone from entering,
+#. ・After seeing all of this, the principal seemed
+#. ready to make the difficult decision of canceling
+#. the second day of the festival to avoid exposing
+#. visitors to any potential danger.
+#. ・In order to prevent him from doing so, we
+#. volunteered to go in and try to fix things ourselves.
+#. ・As we resolved to do this, our ARCUS units began
+#. to resonate with the old schoolhouse itself,
+#. allowing us to pass through the barrier.
+#. ・The principal gave us permission to go inside,
+#. and with Towa and the others supporting us, we
+#. stepped inside the building.
+#. ・We used the elevator to descend to the seventh
+#. and final floor.
+#. ・The time had come to demonstrate what our class
+#. was really capable of and bring this to an end!
+msgctxt "#382 desc"
+msgid ""
+"　#006c１０／２３（土）旧校舎　夜\n"
+"・辿り着いた先は、学院の旧校舎だった。\n"
+"　建物全体が青白く輝いており、立ち入る者は\n"
+"　透明な障壁に阻まれてしまうという。\n"
+"・この異常事態に、来場客の危機管理のため\n"
+"　学院祭の中止が決断されようとする。\n"
+"・そんな中、俺たちは\n"
+"　旧校舎の異変の対処を申し出る。\n"
+"　ここにいた“証”を残すために、\n"
+"　そして“明日”を掴むために──\n"
+"・その瞬間、みんなのＡＲＣＵＳが\n"
+"　旧校舎そのものと共鳴し始め──\n"
+"　Ⅶ組メンバーは旧校舎に入れるように。\n"
+"・学院長、サラ教官たちの許可を得て、\n"
+"　トワ会長たちの応援を受けながら、\n"
+"　俺たちは旧校舎へと足を踏み入れた。\n"
+"・新たに現れていた地下第７層に\n"
+"　エレベーターで下りていくと、\n"
+"　ついに最下層の扉が開かれる。\n"
+"・全力を尽くして先に進み、\n"
+"　旧校舎の異変を食い止めよう！\n"
+msgstr ""
+
+#. Incident at the Old Schoolhouse
+msgctxt "#382 quest"
+msgid "旧校舎の異変"
+msgstr ""
+
+#. #006c 10/24 (Sunday) Academy Festival - Day 2
+#. ・The second day of the festival went ahead as
+#. planned, and it was even livelier than the first.
+#. ・I couldn't get everything that happened the
+#. night before out of my head, but I tried to push
+#. it aside to focus on the concert.
+#. ・Many of us in Class VII had family members
+#. coming to visit, my sister among them.
+#. ・I had a bit of time before she arrived, though,
+#. so I decided to bring George a pie to eat while
+#. he was tinkering away over in the old schoolhouse.
+msgctxt "#385 desc"
+msgid ""
+"　#006c１０／２４（日）士官学院祭・２日目\n"
+"・無事に学院祭の２日目は開始され、\n"
+"　前日よりもさらに大きな盛り上がりを見せていた。\n"
+"・俺たちのステージは午後の予定だ。\n"
+"　昨夜のことがどうしても気になるが、\n"
+"　本番に集中しなくちゃな。\n"
+"・今日はみんなの家族も訪れているらしい。\n"
+"　エリゼも午前には学院祭を見に来る予定だ。\n"
+"・少し時間に余裕がある……\n"
+"　旧校舎にいるジョルジュ先輩に\n"
+"　パイの差し入れでも持っていくかな。\n"
+msgstr ""
+
+#. Academy Festival - Day 2
+msgctxt "#385 quest"
+msgid "士官学院祭・２日目"
+msgstr ""
+
+#. George really lit up when I gave him the pie.
+msgctxt "#388 step"
+msgid ""
+"　ジョルジュ先輩は渡した差し入れを\n"
+"　かなり喜んでくれたみたいだ。\n"
+msgstr ""
+
+#. George was appreciative when I gave him the pie.
+msgctxt "#389 step"
+msgid ""
+"　ジョルジュ先輩に差し入れを渡すと\n"
+"　それなりに喜んでくれたみたいだ。\n"
+msgstr ""
+
+#. He said that the knight-like humanoid doesn't
+#. appear to be an artifact, as there's evidence that
+#. it was made by skilled craftsmen and technicians
+#. who used an unknown metal of some kind in its
+#. creation.
+#. ・Weirder still, it seems that there's space inside
+#. for a person to get in. Every time I think we
+#. solve one mystery, five more spring up in its place...
+#. ・I felt like I was wearing out my welcome,
+#. so I got out of there.
+msgctxt "#390 step"
+msgid ""
+"・あの灰色の騎士人形は古代遺物とは異なり、\n"
+"　職人や技師が未知の金属素材を使って\n"
+"　仕上げた形跡があるという。\n"
+"・また、この騎士人形は人ひとりが乗れるように\n"
+"　なっているらしい──まだ調べることは多そうだ。\n"
+"・ついつい居座ってしまったな。\n"
+"　旧校舎を出るとしよう。\n"
+msgstr ""
+
+#. I went to the front gate to greet Elise, knowing
+#. that she could arrive at any moment.
+msgctxt "#391 step"
+msgid ""
+"・そろそろエリゼが来る時間みたいだ。\n"
+"　正門まで迎えに行こう。\n"
+msgstr ""
+
+#. Turns out, I'd underestimated her. Elise was
+#. already there waiting for me. She seemed worried
+#. about me, but I needed to be a good older brother
+#. and show her around.
+#. ・We walked around all of the attractions together,
+#. and before we knew it, the morning was almost
+#. over. ...Which meant it was time for me to start
+#. thinking about going to the auditorium and
+#. help prepare for the concert.
+#. ・Not long after the bell rang to signal it was
+#. noon, Prince Olivert and Princess Alfin arrived
+#. with Captain Claire as their escort. Apparently,
+#. they'd all come just to see our concert.
+#. ・Prince Olivert gave me an update on Crossbell.
+#. At least it doesn't seem like there's any
+#. chance of a war breaking out...for now, anyway.
+#. ・I left Elise with Prince Olivert and Princess
+#. Alfin, then headed over to the auditorium to help
+#. prepare for the concert.
+#. ・Eventually, the time came for the events at the
+#. auditorium to begin. Class I's operetta was
+#. exceptional, which only made us more nervous
+#. about having to follow them.
+#. ・Just as we were getting ready to go out on stage,
+#. Towa, George and--most shockingly of all--Angelica
+#. showed up to talk to us.
+#. ・Angelica seemed the same as ever, but between the
+#. three of them, they really motivated us to deliver
+#. an unforgettable performance.
+#. ・And with that, our concert finally began.
+#. ・The first song was a duet sung by Machias and
+#. Jusis, who worked so well together that it was
+#. like they were different people on stage. Thanks
+#. to their brilliant performance (and Gaius and my
+#. support, probably), the auditorium was filled with
+#. the delighted squeals of the female students.
+#. ・Our second song was a trio between Emma, Millium,
+#. and Fie, who used their performance to draw
+#. attention to Alisa and Laura's as well, leading
+#. to enthusiastic cheers from the boys.
+#. ・After both songs were finished, the audience
+#. cried out for an encore, and with the addition
+#. of Crow, we were ready to oblige with our third
+#. and final song. We encouraged the audience to
+#. sing along, and they did, making it feel as though
+#. every person in the auditorium were united as one.
+#. ・Afterwards, we found out that we had been voted
+#. the best attraction at the festival--although as
+#. far as we were concerned, the festival was a
+#. victory for all of the students. With a feeling
+#. of unity in our heads, we made our way to the
+#. final event of the festival, the afterparty.
+#. ・I thanked Elliot and Crow for all they'd done to
+#. make our performance and the festival a success.
+#. ・Crow told me that he'd be in our class until the
+#. end of the month and he finally returned the 50
+#. mira that he borrowed--okay, stole--from me
+#. months ago.
+#. ・Eventually, the dancing began, and Elise asked
+#. if I had anyone I wanted to dance with.
+msgctxt "#392 step"
+msgid ""
+"・正門ではすでにエリゼが待っていた。\n"
+"　俺の体を気遣ってくれるが、今日は兄として\n"
+"　しっかり学院祭を案内してやることに。\n"
+"・そうして各クラスの出し物を２人で回っていると\n"
+"　あっという間に午前の時間は過ぎて行き、\n"
+"　そろそろ講堂のステージの準備を始めることに。\n"
+"・そこへ、オリヴァルト皇子とアルフィン皇女、\n"
+"　さらに護衛のクレア大尉たちが訪れる。\n"
+"　俺たちのステージを見に来てくれたようだ。\n"
+"・皇子殿下からクロスベル方面の話を聞く。\n"
+"　今のところ戦争などの大きな事態に\n"
+"　発展する心配はないらしい。\n"
+"・エリゼを殿下たちにお任せし、\n"
+"　俺はそのままステージ準備に向かった。\n"
+"・──そして、講堂での出し物が始まった。\n"
+"　Ⅰ組のオペレッタはかなり気合が入った出来で、\n"
+"　すぐ後の俺たちもつい身が引き締まる。\n"
+"・ステージの準備をしていると、\n"
+"　トワ会長とジョルジュ先輩──\n"
+"　そしてアンゼリカ先輩が顔を出してくれる。\n"
+"・アンゼリカ先輩は相変わらずと言った様子で、\n"
+"　先輩たちからの心強い激励を受けたのだった。\n"
+"・そして──俺たちのステージ演奏が開始された。\n"
+"・１曲目はマキアスとユーシスの男子デュオ──\n"
+"　いつもいがみ合っているとは思えないほど\n"
+"　かみ合った２人を俺やガイウスが引き立て、\n"
+"　女子生徒たちの黄色い声援が講堂内に響いた。\n"
+"・２曲目は委員長とフィー、ミリアムの女子トリオ──\n"
+"　３人の歌声を軸としてアリサとラウラの演奏も押し出し、\n"
+"　男子生徒たちの声援も入って大きな盛り上がりとなった。\n"
+"・演奏後に響くアンコール──ここでクロウが加わり、\n"
+"　用意していた３曲目へと突入する。\n"
+"　観客たちを巻き込んで唱和していき、最後には\n"
+"　会場全体が一つになったような一体感に包まれた。\n"
+"・その後、俺たちのステージは\n"
+"　アンケート投票で見事１位を勝ち取ったらしい。\n"
+"　学院生全員の勝利──それを噛み締めながら、\n"
+"　最後の締めである“後夜祭”に向かうことに。\n"
+"・ステージを作り上げるために特に頑張ってくれた\n"
+"　エリオットとクロウに労いの言葉をかける。\n"
+"・クロウは今月いっぱいでⅦ組からは去るという──\n"
+"　そして、いつかの５０ミラを俺に返してくれた。\n"
+"・──それから、後夜祭のダンスが始まった。　\n"
+"　誘う相手はいないのかと俺に問いかけるエリゼ。\n"
+msgstr ""
+
+#. The first person I thought about was Alisa.
+#. ・After I asked Alisa to dance, we sat and talked
+#. while watching the flickering bonfire.
+#. ...I hope that together, we'll be able to find
+#. the paths we're meant to take through life.
+msgctxt "#393 step"
+msgid ""
+"　真っ先に浮かんだのは──アリサだった。\n"
+"・その後、アリサを誘って一緒にダンスを踊り、\n"
+"　篝火を眺めながらゆっくりと話をした。\n"
+"　……互いの道を見つけるため、これからも頑張ろう。\n"
+msgstr ""
+
+#. The first person I thought about was Elliot.
+#. ・I invited Elliot to come and talk with me
+#. while watching the flickering bonfire.
+#. ...I hope we'll get to hold another concert like
+#. that next year.
+msgctxt "#394 step"
+msgid ""
+"　真っ先に浮かんだのは──エリオットだった。\n"
+"・その後、エリオットを誘って\n"
+"　篝火を眺めながらゆっくりと話をした。\n"
+"　……来年もこんなコンサートがやれるといいな。\n"
+msgstr ""
+
+#. The first person I thought about was Laura.
+#. ・After I asked Laura to dance, we sat and talked
+#. while watching the flickering bonfire.
+#. ...Here's hoping we can keep pushing each other
+#. to improve during the rest of our time here.
+msgctxt "#395 step"
+msgid ""
+"　真っ先に浮かんだのは──ラウラだった。\n"
+"・その後、ラウラを誘って一緒にダンスを踊り、\n"
+"　篝火を眺めながらゆっくりと話をした。\n"
+"　……これからも高めあっていけるといいな。\n"
+msgstr ""
+
+#. The first person I thought about was Machias.
+#. ・I invited Machias to come and talk with me while
+#. watching the flickering bonfire.
+#. ...I'm glad that he's opened up his mind... Makes
+#. me wonder where we'll be this time next year.
+msgctxt "#396 step"
+msgid ""
+"　真っ先に浮かんだのは──マキアスだった。\n"
+"・その後、マキアスを誘って\n"
+"　篝火を眺めながらゆっくりと話をした。\n"
+"　……来年もこんな学院祭を作っていかないとな。\n"
+msgstr ""
+
+#. The first person I thought about was Emma.
+#. ・After I asked Emma to dance, we sat and talked
+#. while watching the flickering bonfire.
+#. ...I'll just have to keep waiting until the day
+#. Emma feels comfortable telling us what she's
+#. keeping secret.
+msgctxt "#397 step"
+msgid ""
+"　真っ先に浮かんだのは──委員長だった。\n"
+"・その後、委員長を誘って一緒にダンスを踊り、\n"
+"　篝火を眺めながらゆっくりと話をした。\n"
+"　……委員長が話してくれる日を待っていよう。\n"
+msgstr ""
+
+#. The first person I thought about was Jusis.
+#. ・I invited Jusis to come and talk with me while
+#. watching the flickering bonfire.
+#. ...I'm glad Jusis has come into his own.
+msgctxt "#398 step"
+msgid ""
+"　真っ先に浮かんだのは──ユーシスだった。\n"
+"・その後、ユーシスを誘って\n"
+"　篝火を眺めながらゆっくりと話をした。\n"
+"　……これからも切磋琢磨していかないとな。\n"
+msgstr ""
+
+#. The first person I thought about was Fie.
+#. ・After I asked Fie to dance, we sat and talked
+#. while watching the flickering bonfire.
+#. ...I hope Fie gets the chance to see her 'family'
+#. again one day.
+msgctxt "#399 step"
+msgid ""
+"　真っ先に浮かんだのは──フィーだった。\n"
+"・その後、フィーを誘って一緒にダンスを踊り、\n"
+"　篝火を眺めながらゆっくりと話をした。\n"
+"　……フィーがきっと“家族”に会えるといいな。\n"
+msgstr ""
+
+#. The first person I thought about was Gaius.
+#. ・I invited Gaius to come and talk with me while
+#. watching the flickering bonfire.
+#. ...We'll both have to keep doing what we can to
+#. make this a country we can be proud of.
+msgctxt "#400 step"
+msgid ""
+"　真っ先に浮かんだのは──ガイウスだった。\n"
+"・その後、ガイウスを誘って\n"
+"　篝火を眺めながらゆっくりと話をした。\n"
+"　……これからも大切な“故郷”を守っていかないとな。\n"
+msgstr ""
+
+#. The first person I thought about was Millium.
+#. ・After I asked Millium to dance, we sat and
+#. talked while watching the flickering bonfire.
+#. ...I don't know which Millium she wants to be, but
+#. no matter who she is, she's still our friend.
+msgctxt "#401 step"
+msgid ""
+"　真っ先に浮かんだのは──ミリアムだった。\n"
+"・その後、ミリアムを誘って一緒にダンスを踊り、\n"
+"　篝火を眺めながらゆっくりと話をした。\n"
+"　……仲間として、これからも一緒に頑張りたいな。\n"
+msgstr ""
+
+#. The first person I thought about was Crow.
+#. ・I invited Crow to come and talk with me while
+#. watching the flickering bonfire.
+#. ...We don't have much time left together, but
+#. I want to make the most of it.
+msgctxt "#402 step"
+msgid ""
+"　真っ先に浮かんだのは──クロウだった。\n"
+"・その後、クロウを誘って\n"
+"　篝火を眺めながらゆっくりと話をした。\n"
+"　……この大事な悪友と残りの学院生活を楽しまないとな。\n"
+msgstr ""
+
+#. The first person I thought about was Instructor Sara.
+#. ・After I asked her to dance, we sat and talked
+#. while watching the flickering bonfire.
+#. ...I'm looking forward to being able to drink
+#. with her someday.
+msgctxt "#403 step"
+msgid ""
+"　真っ先に浮かんだのは──サラ教官だった。\n"
+"・その後、教官を誘って一緒にダンスを踊り、\n"
+"　篝火を眺めながらゆっくりと話をした。\n"
+"　……そのうち一緒に飲めるようになるといいな。\n"
+msgstr ""
+
+#. The first person I thought about was Towa.
+#. ・After I asked Towa to dance, we sat and talked
+#. while watching the flickering bonfire.
+#. ...We'll have to make this academy the best one
+#. it can be.
+msgctxt "#404 step"
+msgid ""
+"　真っ先に浮かんだのは──トワ会長だった。\n"
+"・その後、会長を誘って一緒にダンスを踊り、\n"
+"　篝火を眺めながらゆっくりと話をした。\n"
+"　……これからもっといい学院にしていかないとな。\n"
+msgstr ""
+
+#. ...I guessed that everyone was tired, though,
+#. so I chose to dance with Elise and Princess Alfin
+#. instead.
+msgctxt "#405 step"
+msgid ""
+"　……でも、今日はみんなも疲れているだろうし、\n"
+"　俺はエリゼやアルフィン皇女とダンスを踊ることに。\n"
+msgstr ""
+
+#. Afterwards, Captain Claire called me over and
+#. revealed that she was a Thors alumnus as well.
+#. ・While we were talking, though, she got a call
+#. and suddenly walked away.
+#. ・A visibly-panicked Prince Olivert and Princess
+#. Alfin stopped by shortly after, and offered to
+#. take Elise back to Heimdallr with them. All of
+#. the other important guests seemed shaken as well,
+#. leaving one after another.
+#. ・We could all sense something was amiss, and it
+#. didn't take long before we found out what it was
+#. --Garrelia Fortress on the eastern border of
+#. the Empire had been annihilated.
+msgctxt "#406 step"
+msgid ""
+"・その後、クレア大尉に声を掛けられた。\n"
+"　彼女もまたトールズ士官学院の出身だったらしい。\n"
+"・話している最中、クレア大尉に何か通信が入ってくる──\n"
+"　すると大尉はそのまま立ち去ってしまう。\n"
+"・オリヴァルト皇子やアルフィン皇女も\n"
+"　エリゼを連れて慌しく帝都へと戻っていく──\n"
+"　各方面の要人であるみんなの家族も同様だった。\n"
+"・何かが起こっているのを感じていると、\n"
+"　学院長は学院祭の終了と共に、ある事実を告げる。\n"
+"　東部国境にある、あの──\n"
+"　《ガレリア要塞》が“消滅”したと。\n"
+msgstr ""
+
+#. #006c10/30 (Sat) Thors Military Academy
+#. ・The annihilation of Garrelia Fortress resulted
+#. in tensions across the Empire growing worse
+#. than ever before, and when they were at their
+#. peak, we heard that Chancellor Osborne would be
+#. giving an address at noon in Heimdallr.
+#. ・We were also informed that the day's lessons
+#. had all been canceled, so we decided to listen
+#. to the statement together on the radio in the
+#. classroom.
+#. ・We had some free time, however, so we decided
+#. to go our separate ways until then. I'd better
+#. see if I can find Millium and Crow. I decided
+#. to ask people on campus if they'd seen them.
+msgctxt "#407 desc"
+msgid ""
+"　#006c１０／３０（土）トールズ士官学院\n"
+"・ガレリア要塞の消滅を皮切りに\n"
+"　帝国各地がかつてない緊張に晒される中、\n"
+"　正午に帝都でオズボーン宰相が演説を行うらしい。\n"
+"・本日の授業は中止となり、俺たちは\n"
+"　教室で演説のラジオ中継を聞くことに。\n"
+"・ひとまず正午までは自由行動となった。\n"
+"　俺はクロウとミリアムを捜した方がよさそうだ。\n"
+"　学院内で心当たりに話を聞きつつ探してみよう。\n"
+msgstr ""
+
+#. Upheaval in the Empire
+msgctxt "#407 quest"
+msgid "帝国の動乱"
+msgstr ""
+
+#. Towa said that she met Crow yesterday but had
+#. no idea where he could be.
+msgctxt "#408 step"
+msgid ""
+"・トワ会長は昨日クロウに会っていたらしいが、\n"
+"　どこにいるかは知らないらしい。\n"
+msgstr ""
+
+#. George didn't know where Crow was, either.
+#. Apparently, Crow talked to him yesterday to return
+#. a number of things he'd borrowed from him.
+msgctxt "#409 step"
+msgid ""
+"・ジョルジュ先輩もクロウの行方は知らないらしい。\n"
+"　昨日は貸していたものを色々返しにきたそうだ。\n"
+msgstr ""
+
+#. I noticed that the old schoolhouse door was
+#. unlocked and decided to check inside.
+msgctxt "#410 step"
+msgid ""
+"・旧校舎の鍵が外れているのを発見した。\n"
+"　一応、中を確かめてみよう。\n"
+msgstr ""
+
+#. I found Millium on the seventh floor. She wanted
+#. to take another look at the ashen knight.
+#. ・She told me investigating the old schoolhouse was
+#. one of her designated tasks. I wonder
+#. what Chancellor Osborne knows about this place...
+#. ・After we talked for a while, she agreed to come
+#. back to the classroom with me.
+msgctxt "#411 step"
+msgid ""
+"・地下第７層の奥でミリアムを発見した。\n"
+"　灰色の騎士人形が気になって見に来たらしい。\n"
+"・この旧校舎の調査は、\n"
+"　学院でのミリアムの任務の一つだったという。\n"
+"　オズボーン宰相は何か知っていたのだろうか？\n"
+"・とりあえずミリアムと一緒に行くことに。\n"
+msgstr ""
+
+#. I couldn't find Crow on campus, so I'd assumed
+#. he'd gone into town.
+msgctxt "#412 step"
+msgid ""
+"・クロウは街に遊びに出たのかもしれない。\n"
+"　一度トリスタまで捜しに行ってみよう。\n"
+msgstr ""
+
+#. I went into Trista to look for Crow. Asking
+#. Sharon if she knew anything seemed like as good
+#. a place to start as any.
+msgctxt "#413 step"
+msgid ""
+"・クロウを捜してトリスタに出てきた。\n"
+"　まず寮でシャロンさんに話を聞いてみよう。\n"
+msgstr ""
+
+#. We asked Sharon about Crow, and she told us that
+#. he returned to the dormitory very briefly before going
+#. out again.
+#. ・I thought I'd check his room, just in case.
+#. It's right across from my own.
+msgctxt "#414 step"
+msgid ""
+"・シャロンさんによると、クロウは一度寮に戻って\n"
+"　またすぐ出かけていったらしい。\n"
+"・一応、部屋のほうも調べてみよう。\n"
+"　俺の部屋の向かいがクロウの部屋だ。\n"
+msgstr ""
+
+#. It looked like Crow was gone.
+#. ・I tried to think if there was anything I'd
+#. overlooked as I walked back to the academy.
+msgctxt "#415 step"
+msgid ""
+"・やはりクロウは出かけているようだった。\n"
+"・他に調べてない場所はあったかな……？\n"
+"　そろそろ学院に戻るとしよう。\n"
+msgstr ""
+
+#. It suddenly hit me that I hadn't checked the
+#. station. I ran over to take a quick look.
+msgctxt "#416 step"
+msgid ""
+"・そういえば、駅の中はちゃんと調べてなかったな。\n"
+"　……ちょっと入ってみようか。\n"
+msgstr ""
+
+#. One of the station employees told me that she
+#. thought she saw Crow about an hour ago, but she
+#. wasn't completely sure.
+#. ・At that point, I had to abandon my search for
+#. Crow so I could get back in time to hear the
+#. chancellor's address.
+msgctxt "#417 step"
+msgid ""
+"・駅員さんが１時間ほど前に\n"
+"　クロウを見かけたかもしれないという。\n"
+"・とりあえず置いておこう。\n"
+"　ラジオ放送も始まるし、学院に戻らないとな。\n"
+msgstr ""
+
+#. On my way back to the academy, I ran into
+#. Patrick.
+#. ・He told me that he saw Crow earlier, and that he
+#. mentioned that he was heading to Heimdallr to hear
+#. the chancellor's address in person.
+#. ・At noon, the chancellor prepared to speak, with
+#. Misty providing commentary. Emma seemed shocked to
+#. hear her voice for some reason...
+#. ・Chancellor Osborne began his address, discussing
+#. the tensions with Crossbell over the past few
+#. days. It was all going the way that we'd expected it to.
+#. ・During the statement, Millium revealed that one
+#. of the reasons she was sent to the academy was to
+#. investigate C, who we all believed to be dead.
+#. ・Thinking over all that had happened over the
+#. past few months, however, it started to seem
+#. more and more horrifically plausible that C
+#. truly was Crow.
+#. ・As the chancellor's speech reached its climax,
+#. the sound of a single gunshot filled the air--
+#. a sniper had shot Chancellor Osborne.
+#. ・We could hear the confused cries of the people
+#. of Heimdallr through the radio, and then in the
+#. midst of it all, Misty--Vita Clotilde--began
+#. to sing. As she did, a strange image appeared
+#. before us, showing Dreichels Plaza in Heimdallr.
+#. ・Before our eyes, a giant battleship belonging to
+#. the Noble Faction soared through the skies of
+#. Heimdallr and dropped 'Panzer Soldats' to the
+#. ground, which overtook the streets of the capital
+#. and the Imperial palace in the blink of an eye.
+#. We were almost even more surprised to see members
+#. of Zephyr, which Fie used to be a part of, there, too.
+#. ・Then we saw Captain Claire hold Crow at gunpoint,
+#. but he escaped by boarding what looked like a blue
+#. machine of some kind.
+#. ・The reason we were able to see the events
+#. happening in Heimdallr was a strange spell of
+#. Vita's called 'Phantasmagoria.' Even more
+#. surprising was the revelation that she was
+#. related to Emma somehow, and was feared as the
+#. Witch of the Abyss.
+#. ・After telling us all to stay in the building,
+#. Instructor Sara left the classroom.
+#. ・It turned out Heimdallr wasn't the only place
+#. being targeted by the Soldats--a number of them
+#. were approaching Trista as well, accompanied by
+#. a fleet of armored cars.
+#. ・We reached the front gate only to find crowds of
+#. people from Trista flooding into the academy for
+#. safety.
+#. ・We received permission from Towa and George
+#. to go and help the instructors...so we started to
+#. do exactly that.
+#. ・As soon as we've finished our preparations,
+#. we're heading straight through that gate toward
+#. whatever fate awaits us out there. We're not
+#. going to back down, no matter what. I don't care
+#. if I have to fight till my last breath--no one's
+#. going to lay so much as a finger on our academy!
+msgctxt "#418 step"
+msgid ""
+"・学院に戻る前にパトリックと遭遇した。\n"
+"　彼もこれから放送を聞くようだ。\n"
+"・パトリックはクロウを見かけていた。\n"
+"　オズボーン宰相の演説を見物しに\n"
+"　わざわざ帝都まで出かけていったらしい。\n"
+"・正午、いよいよ宰相閣下の演説が始まった。\n"
+"　ミスティさんのラジオ中継に、\n"
+"　なぜか委員長が驚く仕草を見せる。\n"
+"・演説は、ここ数日のクロスベルとの緊張について。\n"
+"　大方の予想通りの方向に持っていかれようとしていた。\n"
+"・そんな中、ミリアムの目的の一つが\n"
+"　死んだはずの《Ｃ》の調査であったことが分かる。\n"
+"・今までの様々な状況から考えて、その正体は──\n"
+"　“クロウだ”という可能性が濃厚になっていく。\n"
+"・そして、オズボーン宰相の演説が\n"
+"　いよいよ佳境に差し掛かる中、一発の銃声が響く──\n"
+"　宰相閣下が狙撃されてしまったらしい。\n"
+"・混乱の最中、ラジオの向こうでミスティさん──\n"
+"　ヴィータ・クロチルダの歌声が聞こえてくる。\n"
+"　それと同時に、帝都の“映像”が目の前に現れた。\n"
+"・──貴族派の巨大飛行戦艦、そこから降下した\n"
+"　人型有人兵器《機甲兵#6Rパンツァーゾルダ#》によって\n"
+"　帝都ヘイムダルとバルフレイム宮は占領されてしまう。\n"
+"　そこにはフィーの出身、《西風の旅団》の姿もあった。\n"
+"・さらに《Ｃ》──クロウは、銃を突きつける\n"
+"　クレア大尉の目の前から蒼い“何か”で離脱していく──\n"
+"・これらの一連の映像はミスティさん──\n"
+"　《深淵の魔女》と呼ばれる委員長の身内の術らしい。\n"
+"・サラ教官は俺たちに学院から出ないように\n"
+"　言付けてから出て行ってしまう。\n"
+"・どうやら、帝都に続いてこのトリスタまで、\n"
+"　装甲車と《機甲兵》が迫ってきているらしい──\n"
+"・正門に行くと、大勢の街の人々が避難してきていた。\n"
+"・トワ会長、ジョルジュ先輩に許可を貰い、\n"
+"　俺たちは教官たちを助太刀しにいくことにする──\n"
+"・準備ができたら正門から打って出よう。\n"
+"　他でもない、この士官学院を守るために！\n"
+msgstr ""
