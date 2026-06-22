@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-21 10:53+0000\n"
+"PO-Revision-Date: 2026-06-22 11:13+0000\n"
 "Last-Translator: Weblate Admin <weblate@example.com>\n"
 "Language-Team: Vietnamese <http://localhost:8080/projects/sen-no-kiseki-1/"
 "glossary/vi/>\n"
@@ -738,7 +738,7 @@ msgid "貨物船"
 msgstr "tàu chở hàng"
 
 msgid "列車砲"
-msgstr "pháo đường sắt"
+msgstr "Toa Pháo"
 
 msgid "女神の加護を"
 msgstr "Cầu cho nữ thần phù hộ"
@@ -1254,4 +1254,67 @@ msgid "アイゼングラーフ"
 msgstr "Eisengraf"
 
 msgid "常在戦争"
-msgstr "thường trực chiến tranh"
+msgstr "chiến tranh thường trực"
+
+msgid "通商会議"
+msgstr "Hội Nghị Giao Thương"
+
+msgid "自動操縦"
+msgstr "chế độ tự động"
+
+msgid "ガレリア峡谷"
+msgstr "Thung Lũng Garrelia"
+
+msgid "空砲"
+msgstr "đạn mã tử"
+
+msgid "コンサート"
+msgstr "buổi hòa nhạc."
+
+msgid "端末室"
+msgstr "phòng tin học"
+
+msgid "導力ビデオカメラ"
+msgstr "máy quay phim dẫn lực"
+
+msgid "鋼都ルーレ"
+msgstr "Roer, Thủ Phủ Thép"
+
+msgid "海都オルディス"
+msgstr "Hải Đô Ordis"
+
+msgid "エプスタイン財団"
+msgstr "Quỹ Tài Trợ Epstein"
+
+msgid "ZCF"
+msgstr "Công Xưởng Trung Tâm Zeiss"
+
+msgid "皇族の船"
+msgstr "tàu của hoàng tộc"
+
+msgid "ノルティア州"
+msgstr "Tỉnh Nortia"
+
+msgid "工科大学"
+msgstr "trường dại học công nghệ"
+
+msgid "下層の広場"
+msgstr "quảng trường tầng dưới"
+
+msgid "装甲車"
+msgstr "xe bọc thép"
+
+msgid "バスルーム"
+msgstr "phòng giặt ủi"
+
+msgid "ラインフォルト第一製作所"
+msgstr "Nhà Mát Reinford Số 1"
+
+msgid "非常連絡道"
+msgstr "lối đi liên thông khẩn cấp"
+
+msgid "集中管理室"
+msgstr "phòng quản lý trung tâm"
+
+msgid "連絡道"
+msgstr "đường liên thông"
