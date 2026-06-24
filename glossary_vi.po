@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-23 17:14+0000\n"
+"PO-Revision-Date: 2026-06-25 04:39+0000\n"
 "Last-Translator: Weblate Admin <weblate@example.com>\n"
 "Language-Team: Vietnamese <http://localhost:8080/projects/sen-no-kiseki-1/"
 "glossary/vi/>\n"
@@ -825,7 +825,7 @@ msgid "自由行動日"
 msgstr "Ngày hoạt động tự do"
 
 msgid "本校舎"
-msgstr "học xá chính"
+msgstr "tòa học xá chính"
 
 msgid "学生会館"
 msgstr "Tòa Đa Năng"
@@ -1326,7 +1326,7 @@ msgid "学院祭"
 msgstr "Lễ Hội Học Viện"
 
 msgid "クロスベル自治州"
-msgstr "Khu Tự Trị Crossbell"
+msgstr "Tỉnh Tự Trị Crossbell"
 
 msgid "最後の試し"
 msgstr "Thử Thách Cuối Cùng"
@@ -1345,3 +1345,17 @@ msgstr "Phù Thủy Vực Thẳm"
 
 msgid "術"
 msgstr "thuật pháp"
+
+msgctxt "The Verdant City"
+msgid "翡翠の公都"
+msgstr "Thành Phố Ngọc Bích"
+
+msgid "軍需工場"
+msgstr "nhà máy sản xuất quân nhu"
+
+msgctxt "1"
+msgid "結社"
+msgstr "Tổ Chức"
+
+msgid "アトラクション"
+msgstr "gian hàng trò chơi"
