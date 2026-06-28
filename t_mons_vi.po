@@ -1,0 +1,3510 @@
+#
+msgid ""
+msgstr ""
+"Language: vi\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Grass Drome
+msgctxt "#0 name"
+msgid "グラスドローメ"
+msgstr ""
+
+#. A kind of spongy mollusk that
+#. likes areas with high humidity.
+#. Produces orbal energy in its
+#. body and uses wind arts.
+msgctxt "#0 desc"
+msgid ""
+"湿気のある場所を好む\n"
+"ブヨブヨとした軟体魔獣。\n"
+"体内から導力を生み出し\n"
+"風属性のアーツを発動する。"
+msgstr ""
+
+#. Ice Drome
+msgctxt "#1 name"
+msgid "アイスドローメ"
+msgstr ""
+
+#. An icy cold mollusk that 
+#. breeds in areas with lots of 
+#. water. Creates orbal energy in 
+#. its body and uses water arts.
+msgctxt "#1 desc"
+msgid ""
+"水の多い場所に繁殖する\n"
+"氷のように冷たい軟体魔獣。\n"
+"体内から導力を生み出し\n"
+"水属性のアーツを発動する。"
+msgstr ""
+
+#. Black Drome
+msgctxt "#2 name"
+msgid "ブラックドローメ"
+msgstr ""
+
+#. A mollusk as dark as the
+#. abyss. Produces orbal 
+#. energy in its body and 
+#. uses time arts.
+msgctxt "#2 desc"
+msgid ""
+"闇から生まれ出でたような\n"
+"深淵の色をした軟体魔獣。\n"
+"体内から導力を生み出し\n"
+"時属性のアーツを発動する。"
+msgstr ""
+
+#. Flash Drome
+msgctxt "#3 name"
+msgid "フラッシュドローメ"
+msgstr ""
+
+#. Mollusk that gives off light 
+#. and stores it as a nutrient. 
+#. Creates orbal energy in its 
+#. body and uses space arts.
+msgctxt "#3 desc"
+msgid ""
+"光を養分として蓄え、\n"
+"発光する性質を持つ軟体魔獣。\n"
+"体内から導力を生み出し\n"
+"空属性のアーツを発動する。"
+msgstr ""
+
+#. Magma Drome
+msgctxt "#4 name"
+msgid "マグマドローメ"
+msgstr ""
+
+#. A mollusk which draws in 
+#. heat as a nutrient. Creates 
+#. orbal energy in its body 
+#. and uses fire arts.
+msgctxt "#4 desc"
+msgid ""
+"周囲の熱を取り込み、\n"
+"栄養とする軟体魔獣。\n"
+"体内から導力を生み出し\n"
+"火属性のアーツを発動する。"
+msgstr ""
+
+#. Giant Drome
+msgctxt "#5 name"
+msgid "ビッグドローメ"
+msgstr ""
+
+#. A giant mollusk which inhabits
+#. Heimdallr's underground. 
+#. Attacks all by causing the
+#. surrounding space to vibrate.
+msgctxt "#5 desc"
+msgid ""
+"帝都の地下に棲みついた\n"
+"巨大な軟体魔獣。\n"
+"空間を振動させて\n"
+"周囲全てへの攻撃を行う。"
+msgstr ""
+
+#. Egg Snake
+msgctxt "#6 name"
+msgid "エッグスネーク"
+msgstr ""
+
+#. A reptilian monster that has
+#. taken up living in the egg of
+#. a large bird. Its fangs have
+#. deadly poison inside them.
+msgctxt "#6 desc"
+msgid ""
+"大型の鳥類の卵に棲みついた\n"
+"爬虫類型の魔獣。\n"
+"その牙には猛毒がある。"
+msgstr ""
+
+#. Rock Serpent
+msgctxt "#7 name"
+msgid "ロックサーペント"
+msgstr ""
+
+#. A serpent monster that lives
+#. in an exceptionally hard egg
+#. of a large bird. Its fangs can
+#. petrify enemies.
+msgctxt "#7 desc"
+msgid ""
+"岩のように硬い巨鳥の卵に\n"
+"住み着いている蛇型魔獣。\n"
+"牙には石化毒が含まれている。"
+msgstr ""
+
+#. Rhinocider
+msgctxt "#8 name"
+msgid "ライノサイダー"
+msgstr ""
+
+#. A monster covered by 
+#. hardened skin. Its powerful 
+#. charge attacks are strong 
+#. enough to topple orbal cars.
+msgctxt "#8 desc"
+msgid ""
+"全身を硬質化した\n"
+"皮膚に覆われている魔獣。\n"
+"強烈かつ強靭な突進攻撃は\n"
+"導力車をもひっくり返す。"
+msgstr ""
+
+#. Goldcider
+msgctxt "#9 name"
+msgid "ゴルドサイダー"
+msgstr ""
+
+#. A monster covered in a golden,
+#. armor-like shell. Its immense
+#. weight gives its charge
+#. attacks incredible power.
+msgctxt "#9 desc"
+msgid ""
+"黄金色の鎧のような外殻を\n"
+"身にまとった魔獣。\n"
+"その超重量を叩きつけるような\n"
+"突進攻撃は何者をも退ける。"
+msgstr ""
+
+#. Crop Muncher
+msgctxt "#10 name"
+msgid "畑あらし"
+msgstr ""
+
+#. A small monster that attacks
+#. granaries. Be cautious of its
+#. blinding sand attacks.
+msgctxt "#10 desc"
+msgid ""
+"穀倉地帯の畑を狙う小型魔獣。\n"
+"砂の目潰しを行うため要注意。"
+msgstr ""
+
+#. Grass Hopper
+msgctxt "#11 name"
+msgid "グラスホッパー"
+msgstr ""
+
+#. A relatively docile monster
+#. that subsists off grass.
+#. ...Or so you think, until it
+#. kicks sand in your face.
+msgctxt "#11 desc"
+msgid ""
+"草原の草を食んで暮らす\n"
+"比較的大人しい魔獣。\n"
+"……と見せかけて、突然\n"
+"砂を投げつけてきたりする。"
+msgstr ""
+
+#. Pom
+msgctxt "#12 name"
+msgid "ポム"
+msgstr ""
+
+#. A dastardly fluff. Steals 
+#. EP and CP from those 
+#. who dare touch it.
+msgctxt "#12 desc"
+msgid ""
+"なにかしらポムっとした存在。\n"
+"触れた者からEPやCPを吸収する。"
+msgstr ""
+
+#. Grass Pom
+msgctxt "#13 name"
+msgid "わかくさポム"
+msgstr ""
+
+#. A subspecies of Pom that 
+#. smells of fresh flowers. 
+#. Absorbs CP and EP.
+msgctxt "#13 desc"
+msgid ""
+"新緑の草花の香りがする\n"
+"なにかしらポムっとした亜種。\n"
+"CPやEPを吸収する能力を持つ。"
+msgstr ""
+
+#. Shining Pom
+msgctxt "#14 name"
+msgid "シャイニングポム"
+msgstr ""
+
+#. A shining, dastardly fluff 
+#. that absorbs CP and EP. 
+#. Bewitches its foes using 
+#. the bright light it emits.
+msgctxt "#14 desc"
+msgid ""
+"光り輝く何かしら\n"
+"ポムっとした存在。\n"
+"CPやEPを吸収する能力を持ち、\n"
+"まばゆい光で敵を惑わす。"
+msgstr ""
+
+#. Shining Pom
+msgctxt "#15 name"
+msgid "シャイニングポム"
+msgstr ""
+
+#. A shining, dastardly fluff 
+#. that absorbs CP and EP. 
+#. Bewitches its foes using 
+#. the bright light it emits.
+msgctxt "#15 desc"
+msgid ""
+"光り輝く何かしら\n"
+"ポムっとした存在。\n"
+"CPやEPを吸収する能力を持ち、\n"
+"まばゆい光で敵を惑わす。"
+msgstr ""
+
+#. Shining Pom
+msgctxt "#16 name"
+msgid "シャイニングポム"
+msgstr ""
+
+#. A shining, dastardly fluff 
+#. that absorbs CP and EP. 
+#. Bewitches its foes using 
+#. the bright light it emits.
+msgctxt "#16 desc"
+msgid ""
+"光り輝く何かしら\n"
+"ポムっとした存在。\n"
+"CPやEPを吸収する能力を持ち、\n"
+"まばゆい光で敵を惑わす。"
+msgstr ""
+
+#. Shining Pom
+msgctxt "#17 name"
+msgid "シャイニングポム"
+msgstr ""
+
+#. A shining, dastardly fluff 
+#. that absorbs CP and EP. 
+#. Bewitches its foes using 
+#. the bright light it emits.
+msgctxt "#17 desc"
+msgid ""
+"光り輝く何かしら\n"
+"ポムっとした存在。\n"
+"CPやEPを吸収する能力を持ち、\n"
+"まばゆい光で敵を惑わす。"
+msgstr ""
+
+#. Shining Pom
+msgctxt "#18 name"
+msgid "シャイニングポム"
+msgstr ""
+
+#. A shining, dastardly fluff 
+#. that absorbs CP and EP. 
+#. Bewitches its foes using 
+#. the bright light it emits.
+msgctxt "#18 desc"
+msgid ""
+"光り輝く何かしら\n"
+"ポムっとした存在。\n"
+"CPやEPを吸収する能力を持ち、\n"
+"まばゆい光で敵を惑わす。"
+msgstr ""
+
+#. Shining Pom
+msgctxt "#19 name"
+msgid "シャイニングポム"
+msgstr ""
+
+#. A shining, dastardly fluff 
+#. that absorbs CP and EP. 
+#. Bewitches its foes using 
+#. the bright light it emits.
+msgctxt "#19 desc"
+msgid ""
+"光り輝く何かしら\n"
+"ポムっとした存在。\n"
+"CPやEPを吸収する能力を持ち、\n"
+"まばゆい光で敵を惑わす。"
+msgstr ""
+
+#. Shining Pom
+msgctxt "#20 name"
+msgid "シャイニングポム"
+msgstr ""
+
+#. A shining, dastardly fluff 
+#. that absorbs CP and EP. 
+#. Bewitches its foes using 
+#. the bright light it emits.
+msgctxt "#20 desc"
+msgid ""
+"光り輝く何かしら\n"
+"ポムっとした存在。\n"
+"CPやEPを吸収する能力を持ち、\n"
+"まばゆい光で敵を惑わす。"
+msgstr ""
+
+#. Shining Pom
+msgctxt "#21 name"
+msgid "シャイニングポム"
+msgstr ""
+
+#. A shining, dastardly fluff 
+#. that absorbs CP and EP. 
+#. Bewitches its foes using 
+#. the bright light it emits.
+msgctxt "#21 desc"
+msgid ""
+"光り輝く何かしら\n"
+"ポムっとした存在。\n"
+"CPやEPを吸収する能力を持ち、\n"
+"まばゆい光で敵を惑わす。"
+msgstr ""
+
+#. Shining Pom
+msgctxt "#22 name"
+msgid "シャイニングポム"
+msgstr ""
+
+#. A shining, dastardly fluff 
+#. that absorbs CP and EP. 
+#. Bewitches its foes using 
+#. the bright light it emits.
+msgctxt "#22 desc"
+msgid ""
+"光り輝く何かしら\n"
+"ポムっとした存在。\n"
+"CPやEPを吸収する能力を持ち、\n"
+"まばゆい光で敵を惑わす。"
+msgstr ""
+
+#. Shining Pom
+msgctxt "#23 name"
+msgid "シャイニングポム"
+msgstr ""
+
+#. A shining, dastardly fluff 
+#. that absorbs CP and EP. 
+#. Bewitches its foes using 
+#. the bright light it emits.
+msgctxt "#23 desc"
+msgid ""
+"光り輝く何かしら\n"
+"ポムっとした存在。\n"
+"CPやEPを吸収する能力を持ち、\n"
+"まばゆい光で敵を惑わす。"
+msgstr ""
+
+#. Shining Pom
+msgctxt "#24 name"
+msgid "シャイニングポム"
+msgstr ""
+
+#. A shining, dastardly fluff 
+#. that absorbs CP and EP. 
+#. Bewitches its foes using 
+#. the bright light it emits.
+msgctxt "#24 desc"
+msgid ""
+"光り輝く何かしら\n"
+"ポムっとした存在。\n"
+"CPやEPを吸収する能力を持ち、\n"
+"まばゆい光で敵を惑わす。"
+msgstr ""
+
+#. Shining Pom
+msgctxt "#25 name"
+msgid "シャイニングポム"
+msgstr ""
+
+#. A shining, dastardly fluff 
+#. that absorbs CP and EP. 
+#. Bewitches its foes using 
+#. the bright light it emits.
+msgctxt "#25 desc"
+msgid ""
+"光り輝く何かしら\n"
+"ポムっとした存在。\n"
+"CPやEPを吸収する能力を持ち、\n"
+"まばゆい光で敵を惑わす。"
+msgstr ""
+
+#. Shining Pom
+msgctxt "#26 name"
+msgid "シャイニングポム"
+msgstr ""
+
+#. A shining, dastardly fluff 
+#. that absorbs CP and EP. 
+#. Bewitches its foes using 
+#. the bright light it emits.
+msgctxt "#26 desc"
+msgid ""
+"光り輝く何かしら\n"
+"ポムっとした存在。\n"
+"CPやEPを吸収する能力を持ち、\n"
+"まばゆい光で敵を惑わす。"
+msgstr ""
+
+#. Shining Pom
+msgctxt "#27 name"
+msgid "シャイニングポム"
+msgstr ""
+
+#. A shining, dastardly fluff 
+#. that absorbs CP and EP. 
+#. Bewitches its foes using 
+#. the bright light it emits.
+msgctxt "#27 desc"
+msgid ""
+"光り輝く何かしら\n"
+"ポムっとした存在。\n"
+"CPやEPを吸収する能力を持ち、\n"
+"まばゆい光で敵を惑わす。"
+msgstr ""
+
+#. Cryon Bit
+msgctxt "#28 name"
+msgid "クリオンビット"
+msgstr ""
+
+#. A rare infant monster. Has the
+#. unusual habit of freezing its
+#. prey before consuming it.
+msgctxt "#28 desc"
+msgid ""
+"希少性の高い幼生魔獣。\n"
+"獲物を凍らせてから頂くという\n"
+"変わった食性を持つ。"
+msgstr ""
+
+#. Shadow Spirit
+msgctxt "#29 name"
+msgid "シャドウスピリッツ"
+msgstr ""
+
+#. An eerie spirit that lacks
+#. a solid body. Gives those who
+#. hear it nightmares, causing
+#. them to lose their sanity.
+msgctxt "#29 desc"
+msgid ""
+"実体を持たない不気味な霊魂。\n"
+"声を聞いた人間を悪夢に誘い、\n"
+"その正気を失わせる。"
+msgstr ""
+
+#. Ghost Soul
+msgctxt "#30 name"
+msgid "ゴーストソウル"
+msgstr ""
+
+#. A spirit formed from grudges.
+#. Its ominous voice beckons all
+#. humans who hear it to an
+#. eternal slumber.
+msgctxt "#30 desc"
+msgid ""
+"怨念が集まってできた霊魂。\n"
+"人間を終わりなき悪夢に誘う\n"
+"禍々しく邪悪な声を持つ。"
+msgstr ""
+
+#. Dirty Rat
+msgctxt "#31 name"
+msgid "ダーティラッチュウ"
+msgstr ""
+
+#. A rat monster which lives in
+#. dark underground areas. 
+#. Pounces on enemies unnoticed,
+#. delaying their movement.
+msgctxt "#31 desc"
+msgid ""
+"暗い地下に棲息する鼠型魔獣。\n"
+"闇に紛れて飛び掛かり、\n"
+"敵の行動を遅らせる。"
+msgstr ""
+
+#. Jewel Rat
+msgctxt "#32 name"
+msgid "ジュエルラッチュウ"
+msgstr ""
+
+#. A quick-witted rat monster
+#. with horns as hard as jewels. 
+#. Beware its pounce attack.
+msgctxt "#32 desc"
+msgid ""
+"宝石の硬度を持つ角を生やした、\n"
+"俊敏な鼠型魔獣。\n"
+"飛び掛り攻撃には注意。"
+msgstr ""
+
+#. Coco Panda
+msgctxt "#33 name"
+msgid "ココパンダー"
+msgstr ""
+
+#. An intelligent, bipedal 
+#. monster. Beats humans who 
+#. pass by with a stick it made 
+#. from a tree branch.
+msgctxt "#33 desc"
+msgid ""
+"知能の高い二足歩行の魔獣。\n"
+"木の実を加工した棍棒で\n"
+"通りかかる人間を殴りつける。"
+msgstr ""
+
+#. Sasa Panda
+msgctxt "#34 name"
+msgid "ササパンダー"
+msgstr ""
+
+#. A surprisingly ferocious panda
+#. monster. Wields a piece of
+#. bamboo like a weapon to fight
+#. off its enemies.
+msgctxt "#34 desc"
+msgid ""
+"意外と凶暴な熊猫型魔獣。\n"
+"笹を武器のように扱って\n"
+"外敵を退ける。"
+msgstr ""
+
+#. Green Raccoon
+msgctxt "#35 name"
+msgid "グマーライ"
+msgstr ""
+
+#. A small and extremely 
+#. cautious raccoon. The stick it
+#. always carries around was
+#. taken from a poisonous plant.
+msgctxt "#35 desc"
+msgid ""
+"注意深い小熊型の魔獣。\n"
+"常に持っている曲がった杖は\n"
+"毒性の強い植物からとったもの。"
+msgstr ""
+
+#. Orderbelisk
+msgctxt "#36 name"
+msgid "オーデルベリスク"
+msgstr ""
+
+#. A mysterious, floating pillar.
+#. Uses powerful space arts to 
+#. erase intruders from existence.
+msgctxt "#36 desc"
+msgid ""
+"意志を持って浮遊する謎の柱。\n"
+"強力な空属性のアーツを操り\n"
+"侵入者を光の彼方に消し去る。"
+msgstr ""
+
+#. Judge Pillar
+msgctxt "#37 name"
+msgid "ディザードジャッジ"
+msgstr ""
+
+#. A heavenly pillar which acts
+#. as a judge. Stops those who 
+#. touch it from moving, and 
+#. uses healing arts.
+msgctxt "#37 desc"
+msgid ""
+"審判を司るという天界の柱。\n"
+"触れた者の動きを止め、\n"
+"強力な回復アーツを発動する。"
+msgstr ""
+
+#. Sharkodile
+msgctxt "#38 name"
+msgid "ワニシャーク"
+msgstr ""
+
+#. An aquatic monster that lives
+#. in underground waterways. 
+#. Has a giant mouth that 
+#. lets it tear through prey.
+msgctxt "#38 desc"
+msgid ""
+"地下水道に棲息する水棲魔獣。\n"
+"巨大な口で獲物に噛み付き\n"
+"その肉を食い千切る。"
+msgstr ""
+
+#. Great Sharkodile
+msgctxt "#39 name"
+msgid "グレートワッシャー"
+msgstr ""
+
+#. An aquatic monster that rules
+#. the capital's underground
+#. waterways. Its jaw is strong
+#. enough to grind bone to dust.
+msgctxt "#39 desc"
+msgid ""
+"帝都の地下水道を牛耳る\n"
+"大型の水棲魔獣。\n"
+"獲物を骨ごと粉々に噛み砕く\n"
+"あまりにも強靭な顎を持つ。"
+msgstr ""
+
+#. Creepy Sheep
+msgctxt "#40 name"
+msgid "ヒツジン"
+msgstr ""
+
+#. A dynamic sheep monster. 
+#. Capable of using an unusual
+#. boxing style that lets it put
+#. its foes to sleep.
+msgctxt "#40 desc"
+msgid ""
+"活動的なヒツジ型魔獣。\n"
+"相手を眠らせる能力を持つ\n"
+"独自の拳法を操る。"
+msgstr ""
+
+#. Cherubic Gate
+msgctxt "#41 name"
+msgid "ケルビムゲイト"
+msgstr ""
+
+#. A floor guardian that has 
+#. merged with a door. Fires
+#. light rays from the jewel at 
+#. its center to confuse foes.
+msgctxt "#41 desc"
+msgid ""
+"扉と一体化した階層の守護者。\n"
+"中心の宝玉から認識を乱して\n"
+"人を狂わせる怪光線を放つ。"
+msgstr ""
+
+#. Seraphic Gate
+msgctxt "#42 name"
+msgid "セラフィムゲイト"
+msgstr ""
+
+#. A glistening floor guardian.
+#. Unleashes rays of light and
+#. lowers foes' mobility with a
+#. cursed roar.
+msgctxt "#42 desc"
+msgid ""
+"光り輝く階層の守護者。\n"
+"怪しげな怪光線を放つほか、\n"
+"動きを鈍らせる\n"
+"呪いの雄叫びを上げる。"
+msgstr ""
+
+#. Gordi Chief
+msgctxt "#43 name"
+msgid "ゴーディオッサー"
+msgstr ""
+
+#. A primate that dwells in
+#. the forest. Its blows are so
+#. powerful that they knock 
+#. the recipient unconscious.
+msgctxt "#43 desc"
+msgid ""
+"森林に棲息する霊長類。\n"
+"怪力にモノを言わせた一撃は、\n"
+"意識を保てなくなるほど強力。"
+msgstr ""
+
+#. Gordi Schnarr
+msgctxt "#44 name"
+msgid "ゴーディシュナー"
+msgstr ""
+
+#. A large monkey monster 
+#. that lives deep in the forest. 
+#. Its powerful arms are capable 
+#. of dealing devastating blows.
+msgctxt "#44 desc"
+msgid ""
+"深い森の奥に住む大猿の魔獣。\n"
+"圧倒的な膂力に任せて振るわれる\n"
+"豪腕の一撃は凄まじい威力。"
+msgstr ""
+
+#. War Mantis
+msgctxt "#45 name"
+msgid "ワーマンティス"
+msgstr ""
+
+#. A large mantis monster. 
+#. Wields an incredibly sharp
+#. scythe capable of decapitating
+#. its prey in a single strike.
+msgctxt "#45 desc"
+msgid ""
+"巨大な蟷螂型の魔獣。\n"
+"一振りで獲物の首を刈り取る\n"
+"強烈な切れ味のカマを持つ。"
+msgstr ""
+
+#. Death Sickle
+msgctxt "#46 name"
+msgid "デスシックル"
+msgstr ""
+
+#. A bipedal mantis monster. Has
+#. sharp sickles on its forelegs
+#. and attacks humans' necks on
+#. sight.
+msgctxt "#46 desc"
+msgid ""
+"二足歩行する蟷螂型の魔獣。\n"
+"鋭いカマを両手に持ち、\n"
+"人間の急所である\n"
+"首を狙って振り下ろす。"
+msgstr ""
+
+#. Fanged Wolf
+msgctxt "#47 name"
+msgid "バイトウルフ"
+msgstr ""
+
+#. A wolf monster that moves in
+#. packs. Attacks prey with its
+#. powerful fangs.
+msgctxt "#47 desc"
+msgid ""
+"群れをなして、強靭な牙で\n"
+"獲物に襲い掛かる狼型の魔獣。"
+msgstr ""
+
+#. Greedy Wolf
+msgctxt "#48 name"
+msgid "グリードウルフ"
+msgstr ""
+
+#. A greedy wolf that came from
+#. the mountains in search of 
+#. food. Pursues prey endlessly,
+#. attacking its windpipe first.
+msgctxt "#48 desc"
+msgid ""
+"新たな餌場を求めて山麓から\n"
+"やってきた強欲なる狼型魔獣。\n"
+"執拗に獲物を追いまわし\n"
+"喉笛を食いちぎる。"
+msgstr ""
+
+#. White Fang
+msgctxt "#49 name"
+msgid "ホワイトファング"
+msgstr ""
+
+#. A wolf monster with white
+#. fur. Roams the highlands
+#. and always hunts together
+#. with its pack.
+msgctxt "#49 desc"
+msgid ""
+"ノルド高原にいくつかの群れが\n"
+"存在する白い体毛の狼型魔獣。\n"
+"集団で獲物を狩る習性がある。"
+msgstr ""
+
+#. Mad Penguin
+msgctxt "#50 name"
+msgid "マッドペングー"
+msgstr ""
+
+#. An avian monster that lives in
+#. bogs and throws small fish.
+#. It can't fly, but it doesn't
+#. care, either.
+msgctxt "#50 desc"
+msgid ""
+"泥地に棲息する鳥型魔獣。\n"
+"川魚を投げつけてくる。\n"
+"飛べないことは気にしていない。"
+msgstr ""
+
+#. Ball Bat
+msgctxt "#51 name"
+msgid "ボールバット"
+msgstr ""
+
+#. An exceptionally heavy bat
+#. monster. Tackles enemies from
+#. the air with incredible force,
+#. knocking them back.
+msgctxt "#51 desc"
+msgid ""
+"重量級の巨体を誇る蝙蝠型魔獣。\n"
+"中空から勢いをつけて体当たりし\n"
+"敵を強烈に吹き飛ばす。"
+msgstr ""
+
+#. Metal Bat
+msgctxt "#52 name"
+msgid "メタルバット"
+msgstr ""
+
+#. A large bat monster. A steady 
+#. diet of ore has made its fur 
+#. as hard as steel.
+msgctxt "#52 desc"
+msgid ""
+"巨体の蝙蝠型魔獣。\n"
+"鉱物を食べ続けたことによって\n"
+"鋼のような硬度の体毛を持った。"
+msgstr ""
+
+#. Death Slugger
+msgctxt "#53 name"
+msgid "デススラッガー"
+msgstr ""
+
+#. A purgatorial tank that mows
+#. down sinners in its wake. 
+#. Moves ceaselessly, firing its
+#. cannon with reckless abandon.
+msgctxt "#53 desc"
+msgid ""
+"罪人を踏みつけて\n"
+"行進する煉獄の戦車。\n"
+"縦横無尽に駆け回り、\n"
+"大砲を撃ちまくる。"
+msgstr ""
+
+#. Demon Rider
+msgctxt "#54 name"
+msgid "デーモンライダー"
+msgstr ""
+
+#. Tank made by alchemy, it
+#. can pulverize anything with
+#. its cannon. Its charge attack
+#. slays warriors in one strike.
+msgctxt "#54 desc"
+msgid ""
+"古代錬金術が生み出した戦闘戦車。呪われし怨念の遺児。何かしらの波動を受け永の眠りより目覚めた。\n"
+"その砲から打ち出される無限回転の鉄球は、如何なる物をも粉砕する。\n"
+"突進技チャリオッツ・ダッシャーで、一撃で屈強な戦士の息の根をも止める。"
+msgstr ""
+
+#. Phalanx J9
+msgctxt "#55 name"
+msgid "ファランクスJ9"
+msgstr ""
+
+#. A mechanical monster. Has
+#. immense firepower, but all
+#. else about it is unknown.
+msgctxt "#55 desc"
+msgid ""
+"機械仕掛けの魔獣。\n"
+"高い火力を備えており、\n"
+"その正体は全くの不明。"
+msgstr ""
+
+#. Phalanx J9
+msgctxt "#56 name"
+msgid "ファランクスJ9"
+msgstr ""
+
+#. An archaism designed to aid in
+#. conquering enemy strongholds.
+#. Fires small missiles effective
+#. against bunched-up foes.
+msgctxt "#56 desc"
+msgid ""
+"拠点制圧用の人形兵器。\n"
+"密集した敵を殲滅する\n"
+"小型ミサイルを積んでいる。"
+msgstr ""
+
+#. Phalanx J9
+msgctxt "#57 name"
+msgid "ファランクスJ9"
+msgstr ""
+
+#. An archaism designed to aid in
+#. conquering enemy strongholds.
+#. Fires small missiles effective
+#. against bunched-up foes.
+msgctxt "#57 desc"
+msgid ""
+"拠点制圧用の人形兵器。\n"
+"密集した敵を殲滅する\n"
+"小型ミサイルを積んでいる。"
+msgstr ""
+
+#. Phalanx J9
+msgctxt "#58 name"
+msgid "ファランクスJ9"
+msgstr ""
+
+#. An archaism designed to aid in
+#. conquering enemy strongholds.
+#. Fires small missiles effective
+#. against bunched-up foes.
+msgctxt "#58 desc"
+msgid ""
+"拠点制圧用の人形兵器。\n"
+"密集した敵を殲滅する\n"
+"小型ミサイルを積んでいる。"
+msgstr ""
+
+#. Fate Spinner
+msgctxt "#59 name"
+msgid "フェイトスピナー"
+msgstr ""
+
+#. A menacing monster with two
+#. sharp claws. Attacks with a
+#. poisonous liquid that causes 
+#. fires and hallucinations.
+msgctxt "#59 desc"
+msgid ""
+"両手に鋭いツメを持つ\n"
+"禍々しい姿の魔獣。\n"
+"幻覚・発火作用のある\n"
+"凶悪な毒液を吐く。"
+msgstr ""
+
+#. Fate Spinner
+msgctxt "#60 name"
+msgid "フェイトスピナー"
+msgstr ""
+
+#. A menacing monster with two
+#. sharp claws. Attacks with a
+#. poisonous liquid that causes 
+#. fires and hallucinations.
+msgctxt "#60 desc"
+msgid ""
+"両手に鋭いツメを持つ\n"
+"禍々しい姿の魔獣。\n"
+"幻覚・発火作用のある\n"
+"凶悪な毒液を吐く。"
+msgstr ""
+
+#. Acerbic Tomartian
+msgctxt "#61 name"
+msgid "にがトマトマン"
+msgstr ""
+
+#. A living acerbic tomato, born
+#. from a sudden mutation. Its
+#. juices are bitter enough to
+#. make you go insane.
+msgctxt "#61 desc"
+msgid ""
+"突然変異で生まれた\n"
+"“にがトマト”の化身。\n"
+"途轍もなく苦い果汁は\n"
+"思わず正気を失うほど。"
+msgstr ""
+
+#. Hellish Tomartian
+msgctxt "#62 name"
+msgid "かれにがトマトマン"
+msgstr ""
+
+#. A mutation of a mutation,
+#. with an obscenely hellish
+#. level of bitterness.
+msgctxt "#62 desc"
+msgid ""
+"にがトマトの化身の中でも\n"
+"更なる突然変異を起こし、\n"
+"地獄のような辛さまでも\n"
+"兼ね備えてしまった魔獣。"
+msgstr ""
+
+#. Thunder Quaker
+msgctxt "#63 name"
+msgid "サンダークエイク"
+msgstr ""
+
+#. An ancient fish capable of
+#. producing electricity in its
+#. body. Can char foes within
+#. a wide area.
+msgctxt "#63 desc"
+msgid ""
+"帯電する体を持つ古代魚。\n"
+"広範囲に激しい放電を行い、\n"
+"すべてを黒コゲにしてしまう。"
+msgstr ""
+
+#. Wandering Armor
+msgctxt "#64 name"
+msgid "ワンダーアーマー"
+msgstr ""
+
+#. A suit of armor from the
+#. Middle Ages that gained the
+#. ability to move in a strange
+#. environment. Very sturdy.
+msgctxt "#64 desc"
+msgid ""
+"特殊な場に感応して\n"
+"ひとりでに動き出した中世の鎧。\n"
+"相当な防御力を誇っている。"
+msgstr ""
+
+#. Wandering Sword
+msgctxt "#65 name"
+msgid "ワンダーソード"
+msgstr ""
+
+#. A sword from the Middle Ages
+#. capable of fighting by itself.
+#. Can take the life of an
+#. intruder in a single blow.
+msgctxt "#65 desc"
+msgid ""
+"意志を持つ中世の剣。\n"
+"侵入者の命を刈り取る\n"
+"必殺の一撃を繰り出す。"
+msgstr ""
+
+#. Nosferatu
+msgctxt "#66 name"
+msgid "ノスフェラトゥ"
+msgstr ""
+
+#. An immortal king from ancient
+#. legends with authority over
+#. souls. Takes the souls of the
+#. innocent and devours them.
+msgctxt "#66 desc"
+msgid ""
+"帝国の古き言い伝えにもある、\n"
+"魂魄を司りし《不死の王》。\n"
+"生者をその身に取り込み\n"
+"罪なき魂を喰らい尽くす。"
+msgstr ""
+
+#. NT-I
+msgctxt "#67 name"
+msgid "ＮＴ－Ⅰ"
+msgstr ""
+
+#. A self-detonating mine set 
+#. by C. Causes a large-scale
+#. explosion.
+msgctxt "#67 desc"
+msgid ""
+"《Ｃ》の設置した自動機雷。\n"
+"周囲を巻き込んで爆発を起こす。"
+msgstr ""
+
+#. Cursed Sculpture
+msgctxt "#68 name"
+msgid "ガースカルプチュア"
+msgstr ""
+
+#. A devil said to have existed
+#. since the Dark Ages. With its
+#. spread wings, it is a symbol
+#. of fear.
+msgctxt "#68 desc"
+msgid ""
+"暗黒時代にいたと言われる悪魔。\n"
+"羽根を広げた姿は恐怖の象徴。"
+msgstr ""
+
+#. Pit Demon
+msgctxt "#69 name"
+msgid "ピットデーモン"
+msgstr ""
+
+#. A devil's minion, mentioned in
+#. the Testaments. Charms foes
+#. with waves, luring them into
+#. an eternal slumber.
+msgctxt "#69 desc"
+msgid ""
+"聖典にも伝わる悪魔の使い。\n"
+"禍々しい波動で人間を魅了し、\n"
+"二度と覚めることのない\n"
+"深淵の眠りへと誘う。"
+msgstr ""
+
+#. Flying Feline
+msgctxt "#70 name"
+msgid "飛び猫"
+msgstr ""
+
+#. A winged feline monster. 
+#. Relentlessly pursues its
+#. prey, attacking with kicks
+#. from above.
+msgctxt "#70 desc"
+msgid ""
+"翼の生えた猫型魔獣。\n"
+"執拗に獲物を追いかけ\n"
+"空から連続キックを繰り出す。"
+msgstr ""
+
+#. White Feline
+msgctxt "#71 name"
+msgid "白飛び猫"
+msgstr ""
+
+#. A subspecies of flying feline
+#. with white fur. Once raised 
+#. as a pet by a noble, but was
+#. abandoned and turned feral.
+msgctxt "#71 desc"
+msgid ""
+"白い体毛を持つ飛び猫の亜種。\n"
+"貴族が愛玩用に飼っていたが\n"
+"地下に捨てられて野性化した。"
+msgstr ""
+
+#. Dastardly Amalgam
+msgctxt "#72 name"
+msgid "ダスタードグミ"
+msgstr ""
+
+#. A mollusk monster that covers
+#. itself with broken stones and
+#. rocks for protection.
+msgctxt "#72 desc"
+msgid ""
+"崩れた石材などを身にまとい\n"
+"高い防御力を得た軟体の魔獣。"
+msgstr ""
+
+#. Frost Biter
+msgctxt "#73 name"
+msgid "フロストバイター"
+msgstr ""
+
+#. A mollusk monster covered
+#. with very cold minerals. All
+#. who touch it turn to ice.
+msgctxt "#73 desc"
+msgid ""
+"超低温の鉱物を身に纏う軟体魔獣。\n"
+"触れるもの全てを凍てつかせる。"
+msgstr ""
+
+#. Coin Beetle
+msgctxt "#74 name"
+msgid "コインビートル"
+msgstr ""
+
+#. A golden-colored beetle. Its 
+#. carapace is hard like a coin.
+msgctxt "#74 desc"
+msgid ""
+"硬貨のように固い皮膚を持つ。\n"
+"黄金色の甲虫型魔獣。"
+msgstr ""
+
+#. Metal Beetle
+msgctxt "#75 name"
+msgid "メタルビートル"
+msgstr ""
+
+#. A beetle with a metallic
+#. shell. Was once frequently
+#. dug up when people mistook 
+#. them for actual ore.
+msgctxt "#75 desc"
+msgid ""
+"板金のような外殻を持つ\n"
+"甲虫型魔獣で、昔は\n"
+"よく鉄鉱石と間違われて\n"
+"発掘されていたという。"
+msgstr ""
+
+#. Attack Dog
+msgctxt "#76 name"
+msgid "アタックドッグ"
+msgstr ""
+
+#. A canine monster with a 
+#. violent temperament. Known
+#. for the spines covering much
+#. of its body.
+msgctxt "#76 desc"
+msgid ""
+"気性の荒い犬型魔獣。\n"
+"全身から生えたトゲが特徴。"
+msgstr ""
+
+#. Dark Canine
+msgctxt "#77 name"
+msgid "ドッグザダーク"
+msgstr ""
+
+#. A nocturnal canine monster
+#. that made its way into the
+#. castle. Aggressive, with
+#. poison in its claws.
+msgctxt "#77 desc"
+msgid ""
+"異変によって古城に入り込んだ\n"
+"夜行性の犬型魔獣。\n"
+"凶暴な性格で爪には猛毒がある。"
+msgstr ""
+
+#. Attack Dog G
+msgctxt "#78 name"
+msgid "アタックドッグＧ"
+msgstr ""
+
+#. The name given to especially
+#. large attack dogs. They are
+#. even more dangerous than
+#. the regular kind.
+msgctxt "#78 desc"
+msgid ""
+"アタックドッグの中でも\n"
+"特に巨大な個体をこう呼ぶ。\n"
+"危険度も一回り上。"
+msgstr ""
+
+#. Blade Horn
+msgctxt "#79 name"
+msgid "ブレードホーン"
+msgstr ""
+
+#. A large insect monster with a
+#. horn resembling a blade. Uses
+#. it to forcefully shatter foes.
+msgctxt "#79 desc"
+msgid ""
+"剣の刀身のような角を持つ\n"
+"大型の昆虫魔獣。\n"
+"勢いに任せて敵を叩き割る。"
+msgstr ""
+
+#. Blue Horn
+msgctxt "#80 name"
+msgid "ブルブーン"
+msgstr ""
+
+#. A beetle covered with a hard
+#. shell. Knocks prey unconscious
+#. with its powerful horn.
+msgctxt "#80 desc"
+msgid ""
+"硬い外殻に覆われた甲虫魔獣。\n"
+"自慢の巨角で獲物を\n"
+"突き飛ばし気絶させる。"
+msgstr ""
+
+#. Blade Pincer
+msgctxt "#81 name"
+msgid "ハッシムゥ"
+msgstr ""
+
+#. An arthropod monster with a 
+#. pair of sharp pincers and a 
+#. hard shell. Loathed by people
+#. for munching on crops.
+msgctxt "#81 desc"
+msgid ""
+"硬い外殻に覆われた、\n"
+"大きなハサミを持つ節足魔獣。\n"
+"畑の穀物を食い荒らすため\n"
+"人々に忌み嫌われている。"
+msgstr ""
+
+#. Steel Ladybug
+msgctxt "#82 name"
+msgid "スティルレディバー"
+msgstr ""
+
+#. A beetle monster with a shell
+#. of steel. Its sharp claws can
+#. snap trees in half.
+msgctxt "#82 desc"
+msgid ""
+"鋼鉄の外殻を持つ昆虫型魔獣。\n"
+"鋭いハサミを使って\n"
+"大木をもなぎ倒してしまう。"
+msgstr ""
+
+#. Claydoll
+msgctxt "#83 name"
+msgid "ドグドール"
+msgstr ""
+
+#. An ancient humanoid that
+#. roams the old schoolhouse's
+#. underground area, repelling
+#. intruders.
+msgctxt "#83 desc"
+msgid ""
+"地下を徘徊し侵入者を退ける、\n"
+"正体不明の古代人形。"
+msgstr ""
+
+#. Iglute Garmr
+msgctxt "#84 name"
+msgid "イグルートガルム"
+msgstr ""
+
+#. A stone gargoyle spoken of in
+#. Erebonian legends. Repels
+#. intruders with powerful
+#. gusts of wind.
+msgctxt "#84 desc"
+msgid ""
+"旧校舎の奥に鎮座していた、\n"
+"帝国の伝承にもある石の守護者。\n"
+"強烈な突風を巻き起こして\n"
+"侵入者を吹き飛ばす。"
+msgstr ""
+
+#. Iglute Garmr
+msgctxt "#85 name"
+msgid "イグルートガルム"
+msgstr ""
+
+#. A stone gargoyle spoken of in
+#. Erebonian legends. Its sturdy
+#. body repels physical attacks.
+msgctxt "#85 desc"
+msgid ""
+"旧校舎の奥に鎮座していた、\n"
+"帝国の伝承にもある石の守護者。\n"
+"凄まじい硬度の体は\n"
+"物理攻撃を弾いてしまう。"
+msgstr ""
+
+#. Iglute GarmrEVNeck
+msgctxt "#86 name"
+msgid "イグルートガルムEV首"
+msgstr ""
+
+#. Guardian of the ruins, 
+#. designed to repel intruders.
+#. Physical attacks aren't very
+#. effective against it.
+msgctxt "#86 desc"
+msgid "侵入者撃退用の遺跡の番人。物理攻撃が効きづらい。"
+msgstr ""
+
+#. Obsidian Garmr
+msgctxt "#87 name"
+msgid "ネグロガルム"
+msgstr ""
+
+#. A jet-black stone guardian.
+#. Its powerful tail strikes are
+#. capable of forcing anything
+#. aside.
+msgctxt "#87 desc"
+msgid ""
+"漆黒の体を持つ石の守護者。\n"
+"圧倒的な巨躯から繰り出される\n"
+"尾の一撃は、全てをなぎ払う。"
+msgstr ""
+
+#. Mantrap
+msgctxt "#88 name"
+msgid "マントラップ"
+msgstr ""
+
+#. A plant-like monster that
+#. roams highways. Draws 
+#. impurities from below the
+#. ground and attacks with them.
+msgctxt "#88 desc"
+msgid ""
+"街道を徘徊する植物型魔獣。\n"
+"深層から汲み上げられた\n"
+"大地の穢れを敵に吹きかける。"
+msgstr ""
+
+#. Mad Weed
+msgctxt "#89 name"
+msgid "マッドウィード"
+msgstr ""
+
+#. A mysterious plant said to
+#. bloom in the abyss. Produces
+#. a miasma that lowers foes'
+#. vitality significantly.
+msgctxt "#89 desc"
+msgid ""
+"深淵に咲くという正体不明の植物。\n"
+"生命力を著しく低下させる\n"
+"穢れた瘴気を無尽蔵に発生させる。"
+msgstr ""
+
+#. Venus Mantrap
+msgctxt "#90 name"
+msgid "ヴィナスマントラ"
+msgstr ""
+
+#. A three-headed plant monster.
+#. Stores impurities within its
+#. body, which it sprays at its
+#. enemies.
+msgctxt "#90 desc"
+msgid ""
+"三ツ首の植物型魔獣。\n"
+"大量の穢れを体内に蓄えており、\n"
+"敵対するものには\n"
+"容赦なく吹きつける。"
+msgstr ""
+
+#. Pit Cerberus
+msgctxt "#91 name"
+msgid "ピットケルベロ"
+msgstr ""
+
+#. A plant-like monster that
+#. roams the darkness. Blows a
+#. deadly miasma that instantly
+#. takes away foes' vision.
+msgctxt "#91 desc"
+msgid ""
+"闇間を徘徊する植物型魔獣。\n"
+"獲物の視界を瞬く間に奪う\n"
+"凶悪な瘴気を吹きつける。"
+msgstr ""
+
+#. Ol-Gadia
+msgctxt "#92 name"
+msgid "オル・ガディア"
+msgstr ""
+
+#. A headless knight that 
+#. emerged from within the 
+#. red door. It seems to be 
+#. designed to serve as a 'trial.'
+msgctxt "#92 desc"
+msgid ""
+"赤い扉の奥から現れた\n"
+"首の無い騎士人形。\n"
+"何らかの試練として\n"
+"立ちはだかっている。"
+msgstr ""
+
+#. Ol-Gadia
+msgctxt "#93 name"
+msgid "オル・ガディア"
+msgstr ""
+
+#. A headless knight that 
+#. emerged from within the 
+#. red door. It seems to be 
+#. designed to serve as a 'trial.'
+msgctxt "#93 desc"
+msgid ""
+"赤い扉の奥から現れた\n"
+"首の無い騎士人形。\n"
+"何らかの試練として\n"
+"立ちはだかっている。"
+msgstr ""
+
+#. Og-Jior
+msgctxt "#94 name"
+msgid "オグ・ジオール"
+msgstr ""
+
+#. Keeper of an ancient ruin,
+#. it forcibly repels intruders. 
+#. Uses its giant iron sword 
+#. to pulverize its foes.
+msgctxt "#94 desc"
+msgid ""
+"侵入者撃退用の遺跡の番人。\n"
+"巨大な鉄の剣でもって、\n"
+"侵入者を砕き散らす。"
+msgstr ""
+
+#. Stealth Turtle
+msgctxt "#95 name"
+msgid "ドゴドゴ"
+msgstr ""
+
+#. A ferocious turtle monster.
+#. Hides itself in the shadows
+#. of bushes, attacking prey 
+#. as it passes by.
+msgctxt "#95 desc"
+msgid ""
+"凶暴な亀型魔獣。\n"
+"茂みの影などに潜み、\n"
+"通りかかる獲物に襲い掛かる。"
+msgstr ""
+
+#. Zaurtoise
+msgctxt "#96 name"
+msgid "ザウタス"
+msgstr ""
+
+#. A turtle monster with a hard
+#. shell. It being on the slow
+#. side hasn't stopped it from
+#. prospering in the highlands.
+msgctxt "#96 desc"
+msgid ""
+"硬い甲羅を持つ亀型魔獣。\n"
+"鈍重ながらも広い高原で\n"
+"獲物を狩って生きてきた\n"
+"凶暴な魔獣の一つ。"
+msgstr ""
+
+#. Elvavria
+msgctxt "#97 name"
+msgid "エルヴァヴリア"
+msgstr ""
+
+#. An archaism from the Middle
+#. Ages, armed with numerous
+#. weapons. Paralyzes foes with
+#. wide-reaching beams.
+msgctxt "#97 desc"
+msgid ""
+"強力な兵器を多数搭載した、\n"
+"中世のものと見られる人形兵器。\n"
+"戦域全体にビームを照射し\n"
+"全ての敵を麻痺させる。"
+msgstr ""
+
+#. Kazakh Doven B
+msgctxt "#98 name"
+msgid "カザックドーベンＢ"
+msgstr ""
+
+#. A military monster trained 
+#. by the provincial army. 
+#. Coordinates with allies to be
+#. sure their prey can't escape.
+msgctxt "#98 desc"
+msgid ""
+"領邦軍で訓練された軍用魔獣。\n"
+"統率のとれた連携攻撃で\n"
+"獲物を決して逃がしはしない。"
+msgstr ""
+
+#. Kazakh Doven R
+msgctxt "#99 name"
+msgid "カザックドーベンＲ"
+msgstr ""
+
+#. A military monster used by the
+#. provincial army. Rouses allies
+#. with a howl, working with
+#. them to deal great damage.
+msgctxt "#99 desc"
+msgid ""
+"領邦軍で運用される軍用魔獣。\n"
+"遠吠えで仲間を奮い立たせ、\n"
+"凄まじい連携攻撃を繰り出す。"
+msgstr ""
+
+#. Kazakh Doven G
+msgctxt "#100 name"
+msgid "カザックドーベンＧ"
+msgstr ""
+
+#. A military monster released by
+#. the Imperial Liberation Front.
+#. Powerful enough to break 
+#. through thick armor.
+msgctxt "#100 desc"
+msgid ""
+"帝国解放戦線が放った軍用魔獣。\n"
+"固い装甲を破壊するほどの\n"
+"強靭な力を持っている。"
+msgstr ""
+
+#. Zesvia
+msgctxt "#101 name"
+msgid "ゼスウィア"
+msgstr ""
+
+#. A spider monster that has
+#. existed since antiquity. 
+#. Feared as the cause of 
+#. innumerable plagues.
+msgctxt "#101 desc"
+msgid ""
+"太古に棲息した蜘蛛型魔獣。\n"
+"様々な疫病の発生源となり、\n"
+"人々に恐れられた。"
+msgstr ""
+
+#. Ginosha-Zanak
+msgctxt "#102 name"
+msgid "ギノシャ・ザナク"
+msgstr ""
+
+#. Sealed away as an 'evil djinn'
+#. in ancient times. Binds prey 
+#. with very hard threads for its
+#. children to devour.
+msgctxt "#102 desc"
+msgid ""
+"《悪しき精霊》として大昔に\n"
+"封じられたとされる巨大蜘蛛。\n"
+"鋼の硬度の糸で生物を縛り、\n"
+"我が子の餌としてしまう。"
+msgstr ""
+
+#. Deathcargot
+msgctxt "#103 name"
+msgid "デスカルゴ"
+msgstr ""
+
+#. A land-dwelling mollusk 
+#. monster with a hard shell. 
+#. Steals life from its prey then
+#. finishes it with water arts.
+msgctxt "#103 desc"
+msgid ""
+"硬い殻を被った陸生の軟体魔獣。\n"
+"獲物の体力を奪い取り、\n"
+"水のアーツでとどめを刺す。"
+msgstr ""
+
+#. Time Snail
+msgctxt "#104 name"
+msgid "ジャークマイマイ"
+msgstr ""
+
+#. A mollusk monster with a
+#. hard shell. Stops prey in 
+#. its tracks with time arts 
+#. and slowly absorbs nutrients.
+msgctxt "#104 desc"
+msgid ""
+"超硬度の殻を持つ軟体魔獣。\n"
+"時のアーツで獲物を仕留め\n"
+"ゆっくりと養分を吸い取る。"
+msgstr ""
+
+#. Evil Crow
+msgctxt "#105 name"
+msgid "バドクロウ"
+msgstr ""
+
+#. An unpleasant bird with a 
+#. distinctive large beak. Has a
+#. ferocious appetite, swallowing
+#. small creatures whole.
+msgctxt "#105 desc"
+msgid ""
+"大きなクチバシが特徴の怪鳥。\n"
+"食欲旺盛で小型の動物なら\n"
+"丸呑みにしてしまうほど。"
+msgstr ""
+
+#. Scavenger Crow
+msgctxt "#106 name"
+msgid "ルータークロウ"
+msgstr ""
+
+#. A strange kind of bird that
+#. lives underground. Spends 
+#. much of its time scouring 
+#. waterways for food.
+msgctxt "#106 desc"
+msgid ""
+"空の無い地下に棲息する\n"
+"珍しい鳥型魔獣。\n"
+"普段は水路の餌を漁っている。"
+msgstr ""
+
+#. Ripper Squirrel
+msgctxt "#107 name"
+msgid "リッパースクロウ"
+msgstr ""
+
+#. An adorable but deadly 
+#. monster with a sharp tail. 
+#. Its spin attack is incredibly 
+#. dangerous.
+msgctxt "#107 desc"
+msgid ""
+"可愛らしい見た目とは裏腹に\n"
+"鋭い刃物のような尾を持つ魔獣。\n"
+"その回転攻撃は脅威の一言。"
+msgstr ""
+
+#. King Dragonfly
+msgctxt "#108 name"
+msgid "ダイオウヤンマ"
+msgstr ""
+
+#. A large dragonfly monster 
+#. that flies around near fields. 
+#. Expels poisonous liquids 
+#. from an organ in its body.
+msgctxt "#108 desc"
+msgid ""
+"畑の周辺を飛び回っている\n"
+"巨大な蜻蛉型の魔獣。\n"
+"体内の毒袋からの体液を飛ばす。"
+msgstr ""
+
+#. Crimson Dragonfly
+msgctxt "#109 name"
+msgid "オニアカネ"
+msgstr ""
+
+#. A large, red dragonfly 
+#. monster. Sprays lethal 
+#. poison, mandating 
+#. caution when fighting one.
+msgctxt "#109 desc"
+msgid ""
+"全身が真っ赤に染まった\n"
+"巨大な蜻蛉型の魔獣。\n"
+"猛毒の飛沫を飛ばすため\n"
+"注意が必要。"
+msgstr ""
+
+#. Scary Dinosaur
+msgctxt "#110 name"
+msgid "スケイリーダイナ"
+msgstr ""
+
+#. A ferocious lizard monster.
+#. Releases sound waves by
+#. vibrating its dorsal fin, then
+#. crushes prey with its teeth.
+msgctxt "#110 desc"
+msgid ""
+"あまりに凶暴な蜥蜴型の魔獣。\n"
+"背びれを震わせて怪音波を発し\n"
+"弱った獲物を噛み砕く。"
+msgstr ""
+
+#. Turtle Bug
+msgctxt "#111 name"
+msgid "タートルバグ"
+msgstr ""
+
+#. An arthropod monster with a 
+#. hard shell. Stores high
+#. pressure gas in its body, 
+#. which it uses to attack foes.
+msgctxt "#111 desc"
+msgid ""
+"体内に高圧ガスを溜め込んだ、\n"
+"固い甲殻を持つ節足魔獣。\n"
+"外敵には容赦なくガスを噴く。"
+msgstr ""
+
+#. Platinum Bug
+msgctxt "#112 name"
+msgid "プラティナバグ"
+msgstr ""
+
+#. An arthropod with a carapace 
+#. as hard as stone. Secretes a
+#. highly unpleasant smelling
+#. fluid, making enemies faint.
+msgctxt "#112 desc"
+msgid ""
+"岩のような甲羅を持つ節足魔獣。\n"
+"凄まじい臭気の体液を分泌し\n"
+"外敵を気絶させてしまう。"
+msgstr ""
+
+#. Hornteater
+msgctxt "#113 name"
+msgid "ホーンティータ"
+msgstr ""
+
+#. A monster with a hard carapace
+#. over its back. Impales prey
+#. with its horns, then slowly 
+#. eats it with its long tongue.
+msgctxt "#113 desc"
+msgid ""
+"背中を硬い甲殻に覆われた魔獣。\n"
+"２本のツノを獲物に突き刺して、\n"
+"ゆっくりと長い舌で食らう。"
+msgstr ""
+
+#. Brutal Buffa
+msgctxt "#114 name"
+msgid "ブルートバファル"
+msgstr ""
+
+#. A buffalo monster that is
+#. always on the move across 
+#. the highlands. Mostly docile,
+#. but fiercely territorial.
+msgctxt "#114 desc"
+msgid ""
+"広大な高原を常に移動し続け\n"
+"住処を転々とする牛型魔獣。\n"
+"温和だが縄張り意識は強い。"
+msgstr ""
+
+#. Anteater
+msgctxt "#115 name"
+msgid "アンティータ"
+msgstr ""
+
+#. An infant Hornteater. When it
+#. becomes older, it grows horns
+#. and a hard carapace over its
+#. back.
+msgctxt "#115 desc"
+msgid ""
+"ホーンティータの幼獣。\n"
+"成長すると巨大な角が生え、\n"
+"硬い甲殻に覆われる。"
+msgstr ""
+
+#. Brutal Infant
+msgctxt "#116 name"
+msgid "コブルート"
+msgstr ""
+
+#. An infant buffalo monster. 
+#. Gains the ability to move
+#. freely within hours of birth,
+#. joining the herd on its own.
+msgctxt "#116 desc"
+msgid ""
+"幼少期の牛型魔獣。\n"
+"生まれて数時間で立ち上がり\n"
+"群れの移動に自力でついていく。"
+msgstr ""
+
+#. Infant Drango
+msgctxt "#117 name"
+msgid "コドモドランゴ"
+msgstr ""
+
+#. A monster that resembles the
+#. dragons in legend. Small in
+#. size, but capable of turning
+#. a wide area to ash.
+msgctxt "#117 desc"
+msgid ""
+"伝承の“竜”によく似た魔獣。\n"
+"体は小さいが火の息を吹き、\n"
+"あたりを焼け野原にするだけの\n"
+"ポテンシャルを秘めている。"
+msgstr ""
+
+#. Zoro-Agruga
+msgctxt "#118 name"
+msgid "ゾロ・アグルーガ"
+msgstr ""
+
+#. A dragon-like fiend from the
+#. Dark Ages made of bone. Sprays
+#. dark breath and has the power
+#. to shake space itself.
+msgctxt "#118 desc"
+msgid ""
+"無数の骨によって竜の姿を成す\n"
+"暗黒時代の伝承にある魔物。\n"
+"闇の息吹を吐き、空間を揺らす\n"
+"絶大な力を持つとされる。"
+msgstr ""
+
+#. Zwordar
+msgctxt "#119 name"
+msgid "ズウォーダー"
+msgstr ""
+
+#. A ferocious bird of prey.
+#. Pulls prey upwards with a
+#. whirlwind, and then catches
+#. it with its sharp talons.
+msgctxt "#119 desc"
+msgid ""
+"獰猛な猛禽型の魔獣。\n"
+"竜巻を起こして獲物を巻き上げ、\n"
+"鋭い爪で鷲掴みにする。"
+msgstr ""
+
+#. Great Grouse
+msgctxt "#120 name"
+msgid "オオライチョウ"
+msgstr ""
+
+#. A giant avian monster that
+#. lives in mountainous regions.
+#. Creates whirlwinds which tear
+#. living things to shreds.
+msgctxt "#120 desc"
+msgid ""
+"山岳地帯を住処とする\n"
+"巨大な鳥型魔獣。\n"
+"翼によって起こされる竜巻は\n"
+"生物を八つ裂きにする。"
+msgstr ""
+
+#. Zwordar
+msgctxt "#121 name"
+msgid "ズウォーダー"
+msgstr ""
+
+#. A ferocious bird of prey.
+#. Pulls prey upwards with a
+#. whirlwind, and then catches
+#. it with its sharp talons.
+msgctxt "#121 desc"
+msgid ""
+"獰猛な猛禽型の魔獣。\n"
+"竜巻を起こして獲物を巻き上げ、\n"
+"鋭い爪で鷲掴みにする。"
+msgstr ""
+
+#. Vampiric Thorn
+msgctxt "#122 name"
+msgid "ヴァンパイアソーン"
+msgstr ""
+
+#. A strange plant monster. 
+#. Usually lurks underground,
+#. draining its prey of every
+#. last drop of blood.
+msgctxt "#122 desc"
+msgid ""
+"異形の植物型魔獣。\n"
+"普段は地中に潜んでおり、\n"
+"捕らえた獲物の血を\n"
+"一滴残らず飲み干す。"
+msgstr ""
+
+#. Greedy Reaper
+msgctxt "#123 name"
+msgid "グリードリーパー"
+msgstr ""
+
+#. A worm monster that lurks
+#. underground. Its body is
+#. covered in tough armor, and
+#. it drains HP from its prey.
+msgctxt "#123 desc"
+msgid ""
+"地中に潜む環形魔獣。\n"
+"硬い装甲に覆われた体を持ち、\n"
+"噛み付いた獲物のHPを吸収する。"
+msgstr ""
+
+#. Hydra
+msgctxt "#124 name"
+msgid "タトージャ"
+msgstr ""
+
+#. A serpent monster with many
+#. heads, each acting separately.
+#. Each head competes to feast on
+#. prey, eating even the bones.
+msgctxt "#124 desc"
+msgid ""
+"無数の頭を持つ蛇型魔獣。\n"
+"それぞれが知能を持ち、\n"
+"取り合うように獲物を貪るため\n"
+"あとには骨すら残らない。"
+msgstr ""
+
+#. Thunder Hydra
+msgctxt "#125 name"
+msgid "サンダーハイドラ"
+msgstr ""
+
+#. A serpent fiend with many
+#. heads. Sprays lightning 
+#. breath by generating 
+#. electricity in its body.
+msgctxt "#125 desc"
+msgid ""
+"無数の頭を持つ大蛇の魔物。\n"
+"体内で雷を発生させることで\n"
+"稲妻のブレスを吐く。"
+msgstr ""
+
+#. Thunder Loach
+msgctxt "#126 name"
+msgid "サンダーローチ"
+msgstr ""
+
+#. An infant fish capable of
+#. producing electricity with its
+#. feelers. It may be young, but
+#. it is still deadly.
+msgctxt "#126 desc"
+msgid ""
+"帯電する魚型魔獣の幼生だが、\n"
+"触角を使った電撃は侮れない。"
+msgstr ""
+
+#. Grunoja
+msgctxt "#127 name"
+msgid "グルノージャ"
+msgstr ""
+
+#. Ruler of Lunaria Nature Park,
+#. it attacks those who enter
+#. its territory. Smashes all 
+#. who oppose it to pieces.
+msgctxt "#127 desc"
+msgid ""
+"縄張りを荒らすものを許さない\n"
+"ルナリア自然公園のヌシ。\n"
+"その巨体からの凄まじい連打で\n"
+"敵を木っ端微塵に叩き潰す。"
+msgstr ""
+
+#. Crocodark
+msgctxt "#128 name"
+msgid "サメゲーター"
+msgstr ""
+
+#. An amphibian monster that 
+#. lives near water. Its appetite
+#. is ferocious, and its jaw is
+#. strong enough to pierce steel.
+msgctxt "#128 desc"
+msgid ""
+"水辺に生息している両棲魔獣。\n"
+"鋼鉄さえをも引き千切る顎で\n"
+"獰猛な食欲を満たす。"
+msgstr ""
+
+#. Hippogriff
+msgctxt "#129 name"
+msgid "ヒポグリフ"
+msgstr ""
+
+#. A large bird that hunts on
+#. the highlands. Its talons
+#. contain deadly poison, and it
+#. can spew burning-hot breath.
+msgctxt "#129 desc"
+msgid ""
+"高原の獲物を狙う巨大な怪鳥。\n"
+"屍肉に塗れた爪には毒性があり、\n"
+"燃え盛る火炎の息まで吐く。"
+msgstr ""
+
+#. Roc
+msgctxt "#130 name"
+msgid "ルフ"
+msgstr ""
+
+#. A cunning, ferocious bird 
+#. that hunts on the mountain
+#. path. Freezes its prey before 
+#. carrying it back to its nest.
+msgctxt "#130 desc"
+msgid ""
+"山道を行く者をつけ狙う、\n"
+"極めて凶暴かつ狡猾な怪鳥。\n"
+"氷の息吹で獲物を凍てつかせ、\n"
+"巣に持ち帰って保存するという。"
+msgstr ""
+
+#. Tri-Attacker R2
+msgctxt "#131 name"
+msgid "トライアタッカーR2"
+msgstr ""
+
+#. A patrol archaism released by
+#. the Imperial Liberation Front.
+#. Very mobile, and capable of
+#. machine gun and missile fire.
+msgctxt "#131 desc"
+msgid ""
+"帝国解放戦線が放った\n"
+"制圧用小型人形兵器。\n"
+"小回りの利く哨戒タイプで\n"
+"機銃やミサイルも搭載している。"
+msgstr ""
+
+#. Tri-Attacker HG
+msgctxt "#132 name"
+msgid "トライアタッカーHG"
+msgstr ""
+
+#. A patrol archaism released by
+#. the Imperial Liberation Front.
+#. Reduces foes' movement and
+#. defense with electromagnetism.
+msgctxt "#132 desc"
+msgid ""
+"帝国解放戦線が放った\n"
+"哨戒タイプの小型人形兵器。\n"
+"広範囲に電磁波を拡散し\n"
+"敵の防御力と行動力を削ぐ。"
+msgstr ""
+
+#. Tri-Attacker R2
+msgctxt "#133 name"
+msgid "トライアタッカーR2"
+msgstr ""
+
+#. A patrol archaism released by
+#. the Imperial Liberation Front.
+#. Very mobile, and capable of
+#. machine gun and missile fire.
+msgctxt "#133 desc"
+msgid ""
+"帝国解放戦線が放った\n"
+"制圧用小型人形兵器。\n"
+"小回りの利く哨戒タイプで\n"
+"機銃やミサイルも搭載している。"
+msgstr ""
+
+#. Tri-Attacker HG
+msgctxt "#134 name"
+msgid "トライアタッカーHG"
+msgstr ""
+
+#. A patrol archaism released by
+#. the Imperial Liberation Front.
+#. Reduces foes' movement and
+#. defense with electromagnetism.
+msgctxt "#134 desc"
+msgid ""
+"帝国解放戦線が放った\n"
+"哨戒タイプの小型人形兵器。\n"
+"広範囲に電磁波を拡散し\n"
+"敵の防御力と行動力を削ぐ。"
+msgstr ""
+
+#. Tri-Attacker R2
+msgctxt "#135 name"
+msgid "トライアタッカーR2"
+msgstr ""
+
+#. A patrol archaism released by
+#. the Imperial Liberation Front.
+#. Very mobile, and capable of
+#. machine gun and missile fire.
+msgctxt "#135 desc"
+msgid ""
+"帝国解放戦線が放った\n"
+"制圧用小型人形兵器。\n"
+"小回りの利く哨戒タイプで\n"
+"機銃やミサイルも搭載している。"
+msgstr ""
+
+#. Tri-Attacker HG
+msgctxt "#136 name"
+msgid "トライアタッカーHG"
+msgstr ""
+
+#. A patrol archaism released by
+#. the Imperial Liberation Front.
+#. Reduces foes' movement and
+#. defense with electromagnetism.
+msgctxt "#136 desc"
+msgid ""
+"帝国解放戦線が放った\n"
+"哨戒タイプの小型人形兵器。\n"
+"広範囲に電磁波を拡散し\n"
+"敵の防御力と行動力を削ぐ。"
+msgstr ""
+
+#. Unsurtr
+msgctxt "#137 name"
+msgid "アンスルト"
+msgstr ""
+
+#. A giant beast with a body
+#. covered in ice. Freezes
+#. all with frigid blizzards.
+msgctxt "#137 desc"
+msgid ""
+"全身が氷に包まれた巨大獣。\n"
+"凍える吹雪を発生させて\n"
+"あらゆるものを凍てつかせる。"
+msgstr ""
+
+#. Durgnessa
+msgctxt "#138 name"
+msgid "ドゥルグネッサ"
+msgstr ""
+
+#. A massive, mountain-like
+#. fiend. Being trampled by
+#. its immense weight is enough
+#. to crush anything.
+msgctxt "#138 desc"
+msgid ""
+"山のような巨躯を誇る魔物。\n"
+"超重量にまかせた踏み付けは\n"
+"あらゆるものを潰してしまう。"
+msgstr ""
+
+#. Dancing Owl
+msgctxt "#139 name"
+msgid "ダンシングオゥル"
+msgstr ""
+
+#. Avian monster with beautiful
+#. wings. Those who witness its
+#. strange dance suffer various
+#. status abnormalities.
+msgctxt "#139 desc"
+msgid ""
+"艶やかな羽根を持つ鳥型魔獣。\n"
+"その不思議な踊りを見たものは\n"
+"様々な状態異常に陥る。"
+msgstr ""
+
+#. Gespard
+msgctxt "#140 name"
+msgid "ゲシュパード"
+msgstr ""
+
+#. An assault archaism. Can deal
+#. with foes in a wide area due
+#. to its elastic arms and 
+#. devastating main cannon.
+msgctxt "#140 desc"
+msgid ""
+"突撃型の人形兵器。\n"
+"伸縮自在のアームと\n"
+"高い威力を誇る主砲を備え\n"
+"広範囲の敵に対応できる。"
+msgstr ""
+
+#. Gespard G
+msgctxt "#141 name"
+msgid "ゲシュパードＧ"
+msgstr ""
+
+#. An assault archaism made 
+#. by Ouroboros. Charges 
+#. its enemies and unleashes 
+#. wide reaching destruction.
+msgctxt "#141 desc"
+msgid ""
+"謎の《結社》の突撃型人形兵器。\n"
+"途轍もない突破力を生かして\n"
+"敵陣に突っ込み、\n"
+"広範囲攻撃で一気に殲滅する。"
+msgstr ""
+
+#. Moon Mole
+msgctxt "#142 name"
+msgid "ツキノワモグラ"
+msgstr ""
+
+#. A mole monster that lives 
+#. in the sealed mine shaft. 
+#. Its claws are ideal both for 
+#. digging and cutting prey.
+msgctxt "#142 desc"
+msgid ""
+"閉鎖された坑道に棲みついた\n"
+"土竜型の魔獣。\n"
+"鋭い爪は土を掘り進む以外に、\n"
+"獲物を切り刻むのにも使う。"
+msgstr ""
+
+#. Jelly Shroom
+msgctxt "#143 name"
+msgid "クラゲダケ"
+msgstr ""
+
+#. A massively swollen fungus.
+#. Paralyzes organisms that
+#. approach it and slowly feeds
+#. on their nutrients.
+msgctxt "#143 desc"
+msgid ""
+"空中を漂う肥大化した菌類。\n"
+"近づいてくる生物を麻痺させて\n"
+"ゆっくりと養分を吸いとる。"
+msgstr ""
+
+#. Rose Shroom
+msgctxt "#144 name"
+msgid "ロゼリアキノコ"
+msgstr ""
+
+#. A mollusk formed from several
+#. pink spores. Possesses a 
+#. powerful neurotoxin. Touching
+#. it causes paralysis.
+msgctxt "#144 desc"
+msgid ""
+"ピンクの胞子が集合して\n"
+"生まれた軟体魔獣。\n"
+"強い神経毒を持ち、触れると\n"
+"麻痺した上に養分を吸われる。"
+msgstr ""
+
+#. Gold Fungus
+msgctxt "#145 name"
+msgid "ゴルドフングス"
+msgstr ""
+
+#. A spore monster that became 
+#. massively enlarged due to 
+#. eating high-quality ore. The 
+#. reason the shaft was closed.
+msgctxt "#145 desc"
+msgid ""
+"質のいい鉱物を食べ続けて\n"
+"超巨大に成長した胞子魔獣。\n"
+"坑道の一つを封鎖させる\n"
+"きっかけを作った。"
+msgstr ""
+
+#. Bomb Spider
+msgctxt "#146 name"
+msgid "ボムスパイダー"
+msgstr ""
+
+#. An arthropod monster that eats
+#. wreckage left by explosions. 
+#. Detonates the poison sac on 
+#. its back if it senses danger.
+msgctxt "#146 desc"
+msgid ""
+"発破の残骸を長きに渡って\n"
+"主食としてきた節足魔獣。\n"
+"危険を感じると毒液の詰まった\n"
+"背中の気嚢を破裂させる。"
+msgstr ""
+
+#. Lantern Spider
+msgctxt "#147 name"
+msgid "アンドングモ"
+msgstr ""
+
+#. An arthropod monster with an
+#. air sac that gives off a pale
+#. light on its back. This sac
+#. contains a poisonous liquid.
+msgctxt "#147 desc"
+msgid ""
+"青白くぼんやりと発光する\n"
+"不気味な気嚢を持つ節足魔獣。\n"
+"毒性の強い液体が詰まっており\n"
+"不用意に近づいてはいけない。"
+msgstr ""
+
+#. Ostrich
+msgctxt "#148 name"
+msgid "ダッチョーノ"
+msgstr ""
+
+#. A strange bird that races
+#. around on non-paved 
+#. plains. Its breath allows 
+#. it to petrify its prey.
+msgctxt "#148 desc"
+msgid ""
+"舗装されてない草原を\n"
+"縦横無尽に駆け回る怪鳥。\n"
+"その息吹で獲物を石化させる。"
+msgstr ""
+
+#. Stony Croaker
+msgctxt "#149 name"
+msgid "イシゲェロ"
+msgstr ""
+
+#. A large, frog-like monster with
+#. skin like rock. Draws in prey
+#. with its long tongue and 
+#. restrains it with mucus.
+msgctxt "#149 desc"
+msgid ""
+"石のような硬い皮膚を持つ\n"
+"巨大な蛙型魔獣。\n"
+"長い舌で遠くの獲物を引き寄せ、\n"
+"粘液を吐いて自由を奪う。"
+msgstr ""
+
+#. Rocky Croaker
+msgctxt "#150 name"
+msgid "オオイシゲェロ"
+msgstr ""
+
+#. A large, frog-like monster. 
+#. Its skin is as hard as iron,
+#. due to all the stones it eats.
+msgctxt "#150 desc"
+msgid ""
+"巨大な蛙型の魔獣。\n"
+"岩石を長い舌で日常的に\n"
+"食べているためか、\n"
+"皮膚は鉄の鎧のように硬い。"
+msgstr ""
+
+#. Zephyranthes
+msgctxt "#151 name"
+msgid "ゼフィランサス"
+msgstr ""
+
+#. A large archaism designed for
+#. defending strongholds. Reduces
+#. enemy numbers with lasers and
+#. immense firepower.
+msgctxt "#151 desc"
+msgid ""
+"拠点防衛用の大型人形兵器。\n"
+"特殊なレーザーで敵戦力を削り、\n"
+"搭載した大火力で攻撃してくる。"
+msgstr ""
+
+#. G-Zephyranthes
+msgctxt "#152 name"
+msgid "Ｇ・ゼフィランサス"
+msgstr ""
+
+#. A large, golden archaism. 
+#. Supports C with powerful 
+#. laser beams and wide-range
+#. shockwaves.
+msgctxt "#152 desc"
+msgid ""
+"金色の大型人形兵器。\n"
+"強力なサイクロンレーザーと\n"
+"広範囲を攻撃する衝撃波で\n"
+"《Ｃ》を護衛する。"
+msgstr ""
+
+#. B-Zephyranthes
+msgctxt "#153 name"
+msgid "Ｂ・ゼフィランサス"
+msgstr ""
+
+#. A large archaism designed 
+#. for defending strongholds. 
+#. This improved blue model 
+#. has incredible firepower.
+msgctxt "#153 desc"
+msgid ""
+"帝国解放戦線が放った\n"
+"拠点防衛用の大型人形兵器。\n"
+"改良された青色の機体で\n"
+"凄まじい火力を誇る。"
+msgstr ""
+
+#. R-Zephyranthes
+msgctxt "#154 name"
+msgid "Ｒ・ゼフィランサス"
+msgstr ""
+
+#. A red archaism strengthened
+#. to support the ILF's leaders.
+#. Even more powerful and deadly
+#. than standard models.
+msgctxt "#154 desc"
+msgid ""
+"真紅の大型人形兵器。\n"
+"幹部護衛用に改良が施された、\n"
+"より高性能・高火力の機体。"
+msgstr ""
+
+#. Zephyranthes
+msgctxt "#155 name"
+msgid "ゼフィランサス"
+msgstr ""
+
+#. A large archaism designed for
+#. defending strongholds. Reduces
+#. enemy numbers with lasers and
+#. immense firepower.
+msgctxt "#155 desc"
+msgid ""
+"拠点防衛用の大型人形兵器。\n"
+"特殊なレーザーで敵戦力を削り、\n"
+"搭載した大火力で攻撃してくる。"
+msgstr ""
+
+#. Combat Shell
+msgctxt "#156 name"
+msgid "戦術殻α"
+msgstr ""
+
+#. A combat dummy that didn't 
+#. get used in the game.
+#. Poor Combat Shell-kun...
+#. your day will come, eventually.
+msgctxt "#156 desc"
+msgid ""
+"実技テスト用の戦闘傀儡。\n"
+"不思議な質感をしており、\n"
+"プログラムされた攻撃を行う。"
+msgstr ""
+
+#. Winged Snake
+msgctxt "#157 name"
+msgid "戦術殻β"
+msgstr ""
+
+#. A winged snake that flies
+#. around on the Nord Highlands.
+#. The people of Nord fear the
+#. poison in its fangs.
+msgctxt "#157 desc"
+msgid ""
+"謎の機構で動く戦闘傀儡。\n"
+"変形したことでより強力な\n"
+"攻撃を行えるようになった。"
+msgstr ""
+
+#. Diving Ananta
+msgctxt "#158 name"
+msgid "戦術殻γ"
+msgstr ""
+
+#. A serpent monster containing
+#. deadly poison. Plunges its
+#. fangs into its prey from the
+#. air using its bat-like wings.
+msgctxt "#158 desc"
+msgid ""
+"不思議な金属製の戦闘傀儡。\n"
+"実戦レベルの戦闘を想定した\n"
+"高い防御と攻撃を誇る形態。"
+msgstr ""
+
+#. Stone Golem
+msgctxt "#159 name"
+msgid "戦術殻β"
+msgstr ""
+
+#. A golem created from stone
+#. which appears in Erebonian
+#. legends. Can cause earthquakes
+#. by stamping on the ground.
+msgctxt "#159 desc"
+msgid ""
+"謎の機構で動く戦闘傀儡。\n"
+"変形したことでより強力な\n"
+"攻撃を行えるようになった。"
+msgstr ""
+
+#. Steel Golem
+msgctxt "#160 name"
+msgid "ウィングスネイク"
+msgstr ""
+
+#. A magical golem born by
+#. giving life to steel. Causes 
+#. powerful earthquakes at will.
+msgctxt "#160 desc"
+msgid ""
+"ノルド高原を飛び回る\n"
+"翼の生えた蛇型魔獣。\n"
+"その牙には毒があり\n"
+"集落の人間も注意している。"
+msgstr ""
+
+#. Dissolution Slug
+msgctxt "#161 name"
+msgid "デプスアナンタ"
+msgstr ""
+
+#. A mollusk monster with
+#. countless feelers. Uses 
+#. acid stored in its body to 
+#. dissolve and devour its prey.
+msgctxt "#161 desc"
+msgid ""
+"猛毒を持つ蛇型魔獣。\n"
+"蝙蝠のような羽根を用いて\n"
+"中空から牙を突き立てる。"
+msgstr ""
+
+#. Diglem
+msgctxt "#162 name"
+msgid "ストーンゴーレム"
+msgstr ""
+
+#. A stone statue allowed to move
+#. because of the strange force
+#. active in the quarry. Lowers
+#. foes' abilities with beams.
+msgctxt "#162 desc"
+msgid ""
+"帝国の伝承にも存在する、\n"
+"岩石から生まれたゴーレム。\n"
+"大地を踏みつけて巨大な地震を\n"
+"起こすことが出来る。"
+msgstr ""
+
+#. Star Lambda
+msgctxt "#163 name"
+msgid "アイアンゴーレム"
+msgstr ""
+
+#. A stone statue granted life by
+#. a mysterious power. Lowers 
+#. the abilities of its foes with
+#. cursed beams of light.
+msgctxt "#163 desc"
+msgid ""
+"鋼鉄に生命が吹き込まれ、\n"
+"生み出された魔導のゴーレム。\n"
+"地盤を揺るがせるほどの\n"
+"大激震を引き起こす。"
+msgstr ""
+
+#. Stone Stalker
+msgctxt "#164 name"
+msgid "ディゾルスラッグ"
+msgstr ""
+
+#. A four-legged stone creature.
+#. When it sees an enemy, it
+#. approaches them, then attacks
+#. with its weight from above.
+msgctxt "#164 desc"
+msgid ""
+"無数の触角を持つ軟体魔獣。\n"
+"強酸性の液体を蓄えており\n"
+"獲物をじわじわ溶かして食べる。"
+msgstr ""
+
+#. Ghoul Frog
+msgctxt "#165 name"
+msgid "ディグレム"
+msgstr ""
+
+#. A mass of dead monsters. 
+#. Has exceptional regenerative
+#. abilities.
+msgctxt "#165 desc"
+msgid ""
+"不可思議な“場”の影響で\n"
+"動き出した太古の石像。\n"
+"宝玉から身体能力を低下させる\n"
+"不気味な光線を放つ。"
+msgstr ""
+
+#. Polyjelly
+msgctxt "#166 name"
+msgid "スターラムダ"
+msgstr ""
+
+#. A floating spore creature from
+#. another world. Those who touch
+#. it turn to stone.
+msgctxt "#166 desc"
+msgid ""
+"謎の力で生命を宿した石像。\n"
+"呪いの力が込められた光線で\n"
+"敵対者の身体能力を低下させる。"
+msgstr ""
+
+#. Hell Rabbit
+msgctxt "#167 name"
+msgid "ストークス"
+msgstr ""
+
+#. A monster said to have come
+#. from the underworld. Those
+#. pierced by its spines are 
+#. believed to lose their souls.
+msgctxt "#167 desc"
+msgid ""
+"四本足で歩き回る石の人形。\n"
+"敵を発見すると近づいていき、\n"
+"その重量を頭上から叩きつける。"
+msgstr ""
+
+#. Ramon
+msgctxt "#168 name"
+msgid "グールフロッグ"
+msgstr ""
+
+#. A fiend with black fur, said
+#. to be a servant of Gehenna.
+#. Appears before those who have
+#. little time left to live.
+msgctxt "#168 desc"
+msgid ""
+"魔獣の屍肉の集合体。\n"
+"自己再生能力に優れている。"
+msgstr ""
+
+#. Glaceron
+msgctxt "#169 name"
+msgid "ポリプルン"
+msgstr ""
+
+#. A large turtle with a stone-
+#. like carapace. Sprays rocks
+#. from its back to repel foes.
+msgctxt "#169 desc"
+msgid ""
+"宙を漂う異界の胞子生物。\n"
+"触れたものを石と化してしまう。"
+msgstr ""
+
+#. Lunar Bee
+msgctxt "#170 name"
+msgid "ヘルラビット"
+msgstr ""
+
+#. A bee-like fiend capable
+#. of crossing dimensions. Its
+#. highly lethal poison makes it
+#. incredibly dangerous.
+msgctxt "#170 desc"
+msgid ""
+"冥界の獣と伝えられる魔獣。\n"
+"トゲを突き立てられた者は\n"
+"たちまちその魂を失うという。"
+msgstr ""
+
+#. Purple Ooze
+msgctxt "#171 name"
+msgid "ラモン"
+msgstr ""
+
+#. A strange lifeform from
+#. another world. Can drain large
+#. amounts of HP, EP, and CP,
+#. making it a difficult foe.
+msgctxt "#171 desc"
+msgid ""
+"黒いたてがみを持つ魔物。\n"
+"煉獄の使いと言い伝えられ、\n"
+"死期が近づく者の前に現れる。"
+msgstr ""
+
+#. Hinomikoto
+msgctxt "#172 name"
+msgid "グラケロン"
+msgstr ""
+
+#. A beast with boiling hot 
+#. blood. Deified by some.
+#. Charges foes with its burning
+#. horns and uses fire arts.
+msgctxt "#172 desc"
+msgid ""
+"岩のような甲羅を持つ巨亀。\n"
+"背中から無数の岩石を\n"
+"噴出して外敵を退ける。"
+msgstr ""
+
+#. Rup Kamuy
+msgctxt "#173 name"
+msgid "ムーンザビー"
+msgstr ""
+
+#. A beast that roams places
+#. that are extremely cold. Said
+#. to rule over ice and snow. Its
+#. antlers freeze foes on contact.
+msgctxt "#173 desc"
+msgid ""
+"異次元を飛ぶ蜂の魔物。\n"
+"凄まじく致死性の高い\n"
+"猛毒を持っており、非常に危険。"
+msgstr ""
+
+#. Minos Demon
+msgctxt "#174 name"
+msgid "パープルウーズ"
+msgstr ""
+
+#. A powerful, two-horned, evil
+#. creature. Obscures foes' 
+#. vision with dark breath and
+#. then pulverizes them.
+msgctxt "#174 desc"
+msgid ""
+"異界より現れた謎の生命体。\n"
+"大量のHP、EP、CPを吸収する\n"
+"厄介な能力を備えている。"
+msgstr ""
+
+#. Minos Demon
+msgctxt "#175 name"
+msgid "ヒノミコト"
+msgstr ""
+
+#. A powerful, two-horned, evil
+#. creature. Obscures foes' 
+#. vision with dark breath and
+#. then pulverizes them.
+msgctxt "#175 desc"
+msgid ""
+"灼熱の血が流れると言われ、\n"
+"神聖視されることもある獣。\n"
+"燃え盛る角で突進攻撃を行い、\n"
+"火のアーツまで使用する。"
+msgstr ""
+
+#. Surtr
+msgctxt "#176 name"
+msgid "ルプカムイ"
+msgstr ""
+
+#. A demi-human fiend that
+#. governs fire. Its sword is
+#. made of fire so hot, it can
+#. boil steel.
+msgctxt "#176 desc"
+msgid ""
+"極寒の地を渡り歩く獣。\n"
+"氷雪を司ると言い伝えられ、\n"
+"枝分かれした角に触れると\n"
+"骨の髄まで凍りつく。"
+msgstr ""
+
+#. Ashen Fragment
+msgctxt "#177 name"
+msgid "ミノスデーモン"
+msgstr ""
+
+#. Fragment of the Ashen Power.
+#. Lulls would-be intruders of
+#. the realm to sleep, where they
+#. experience nightmares.
+msgctxt "#177 desc"
+msgid ""
+"強靭な膂力を誇る２本角の悪鬼。\n"
+"暗闇の息吹で視界を奪い、\n"
+"恐怖に怯える獲物を叩き潰す。"
+msgstr ""
+
+#. Loa Erebonius
+msgctxt "#178 name"
+msgid "ミノスデーモン"
+msgstr ""
+
+#. A shadow of the Great Power
+#. which appeared on the 
+#. Otherworldly Battlefield.
+#. Carries out the Final Trial.
+msgctxt "#178 desc"
+msgid ""
+"強靭な膂力を誇る２本角の悪鬼。\n"
+"暗闇の息吹で視界を奪い、\n"
+"恐怖に怯える獲物を叩き潰す。"
+msgstr ""
+
+#. Patrick
+msgctxt "#179 name"
+msgid "スルト"
+msgstr ""
+
+#. Third son of Marquis Hyarms.
+#. Exceptionally skilled with a
+#. sword thanks to his high-
+#. quality education.
+msgctxt "#179 desc"
+msgid ""
+"炎を司る亜人の魔物。\n"
+"超高熱の火で作り出した剣は\n"
+"鋼鉄すら沸騰させるほど。"
+msgstr ""
+
+#. G (Gideon)
+msgctxt "#180 name"
+msgid "ピースオブパワー"
+msgstr ""
+
+#. A man belonging to an unknown
+#. organization who hired the
+#. jaeger dropouts. Supports
+#. allies with high-level arts.
+msgctxt "#180 desc"
+msgid ""
+"“灰色のチカラ”の断片。\n"
+"領域に侵入した者たちを\n"
+"悪夢へと誘う。"
+msgstr ""
+
+#. S (Scarlet)
+msgctxt "#181 name"
+msgid "ロア・エレボニウス"
+msgstr ""
+
+#. A bewitching Imperial 
+#. Liberation Front executive.
+#. Torments and slaughters 
+#. foes with a templar sword.
+msgctxt "#181 desc"
+msgid ""
+"異界の戦場に顕現した\n"
+"“巨いなる力”の影。\n"
+"その圧倒的な存在を以って\n"
+"『最後の試し』を執行する。"
+msgstr ""
+
+#. V (Vulcan)
+msgctxt "#182 name"
+msgid "パトリック"
+msgstr ""
+
+#. One of the Imperial Liberation
+#. Front's executives. Consumed
+#. by hatred as he slaughters
+#. foes with a huge gatling gun.
+msgctxt "#182 desc"
+msgid ""
+"四大名門ハイアームズ家の三男。\n"
+"幼少より受けた英才教育により\n"
+"侮れない剣の実力を備える。"
+msgstr ""
+
+#. Viscount Arseid
+msgctxt "#183 name"
+msgid "《Ｃ》"
+msgstr ""
+
+#. The Arseid school's foremost
+#. practitioner known as the
+#. Radiant Blademaster. Wields a
+#. sword with inhuman strength.
+msgctxt "#183 desc"
+msgid ""
+"テロリストを率いる、\n"
+"謎に包まれた仮面の男。\n"
+"双刃剣を巧みに操り\n"
+"数々の技を繰り出す。"
+msgstr ""
+
+#. Butler Klaus
+msgctxt "#184 name"
+msgid "《Ｃ》"
+msgstr ""
+
+#. An elderly butler who serves
+#. Viscount Arseid. Serves as 
+#. acting master of the Arseid
+#. school.
+msgctxt "#184 desc"
+msgid ""
+"帝国解放戦線を率いる、\n"
+"謎に包まれた仮面の男。\n"
+"双刃剣を巧みに操り\n"
+"数々の技を繰り出す。"
+msgstr ""
+
+#. Fake Park Ranger
+msgctxt "#185 name"
+msgid "Ｇ－ギデオン"
+msgstr ""
+
+#. A fake park ranger at Lunaria
+#. Nature Park, responsible for
+#. the burglary at the market.
+#. Equipped with a rifle.
+msgctxt "#185 desc"
+msgid ""
+"何らかの組織に身を置く\n"
+"猟兵崩れたちの雇い主。\n"
+"拳銃と高位アーツを操って\n"
+"後方からの支援攻撃を行う。"
+msgstr ""
+
+#. Noble Student
+msgctxt "#186 name"
+msgid "Ｓ－スカーレット"
+msgstr ""
+
+#. A member of Class I who spends
+#. time around Patrick. Seeks to
+#. demonstrate the spirit and
+#. dignity of the nobility.
+msgctxt "#186 desc"
+msgid ""
+"帝国解放戦線の妖艶なる幹部。\n"
+"《法剣》を自由自在に操り、\n"
+"敵を翻弄して血祭りにあげる。"
+msgstr ""
+
+#. Noble Student
+msgctxt "#187 name"
+msgid "Ｖ－ヴァルカン"
+msgstr ""
+
+#. A member of Class I who spends
+#. time around Patrick. Seeks to
+#. demonstrate the spirit and
+#. dignity of the nobility.
+msgctxt "#187 desc"
+msgid ""
+"帝国解放戦線の巨漢の幹部。\n"
+"憎悪の焔に任せるままに、\n"
+"巨大なガトリング砲による\n"
+"苛烈な殲滅攻撃を行う。"
+msgstr ""
+
+#. Noble Student
+msgctxt "#188 name"
+msgid "アルゼイド子爵"
+msgstr ""
+
+#. A member of Class I who spends
+#. time around Patrick. Seeks to
+#. demonstrate the spirit and
+#. dignity of the nobility.
+msgctxt "#188 desc"
+msgid ""
+"アルゼイド流の筆頭にして\n"
+"《光の剣匠》と呼ばれる剣士。\n"
+"宝剣ガランシャールを振るい\n"
+"人の域を超えた絶技を繰り出す。"
+msgstr ""
+
+#. Alan
+msgctxt "#189 name"
+msgid "執事クラウス"
+msgstr ""
+
+#. A first-year student belonging
+#. to the Fencing Club. What he
+#. lacks in skill he makes up for
+#. with determination.
+msgctxt "#189 desc"
+msgid ""
+"子爵邸に仕える老執事。\n"
+"アルゼイド流の師範代として\n"
+"老いを凌駕する剣技を魅せる。"
+msgstr ""
+
+#. P. Army Soldier
+msgctxt "#190 name"
+msgid "偽管理員"
+msgstr ""
+
+#. An elite soldier belonging to
+#. the Kreuzen Provincial Army.
+#. Well trained and proud.
+msgctxt "#190 desc"
+msgid ""
+"大市で盗難事件を起こした\n"
+"ルナリア自然公園の偽管理人。\n"
+"ライフルで武装している。"
+msgstr ""
+
+#. P. Army Soldier
+msgctxt "#191 name"
+msgid "貴族生徒"
+msgstr ""
+
+#. An elite soldier belonging to
+#. the Kreuzen Provincial Army.
+#. Well trained and proud.
+msgctxt "#191 desc"
+msgid ""
+"パトリックと行動を共にする\n"
+"Ⅰ組の貴族生徒。\n"
+"その剣で帝国貴族の気風を示す。"
+msgstr ""
+
+#. Terrorist - Gun
+msgctxt "#192 name"
+msgid "貴族生徒"
+msgstr ""
+
+#. An Imperial Liberation Front
+#. member equipped with a small
+#. automatic rifle. Believes that
+#. the end justifies the means.
+msgctxt "#192 desc"
+msgid ""
+"パトリックと行動を共にする\n"
+"Ⅰ組の貴族生徒。\n"
+"その剣で帝国貴族の気風を示す。"
+msgstr ""
+
+#. Terrorist - Sword
+msgctxt "#193 name"
+msgid "貴族生徒"
+msgstr ""
+
+#. An Imperial Liberation Front
+#. member. Driven by loathing for
+#. Chancellor Osborne, and fights
+#. using a sword.
+msgctxt "#193 desc"
+msgid ""
+"パトリックと行動を共にする\n"
+"Ⅰ組の貴族生徒。\n"
+"その剣で帝国貴族の気風を示す。"
+msgstr ""
+
+#. Terrorist - Gun
+msgctxt "#194 name"
+msgid "アラン"
+msgstr ""
+
+#. An Imperial Liberation Front
+#. member equipped with a small
+#. automatic rifle. Believes that
+#. the end justifies the means.
+msgctxt "#194 desc"
+msgid ""
+"フェンシング部の１年生。\n"
+"実力はまだまだ未熟だが\n"
+"瞳の奥に強い意志をたたえる。"
+msgstr ""
+
+#. Terrorist - Sword
+msgctxt "#195 name"
+msgid "領邦軍兵士"
+msgstr ""
+
+#. An Imperial Liberation Front
+#. member. Driven by loathing for
+#. Chancellor Osborne, and fights
+#. using a sword.
+msgctxt "#195 desc"
+msgid ""
+"クロイツェン州領邦軍の兵士。\n"
+"詰所の精兵として練度は高く、\n"
+"誇りを以って侵入者を撃退する。"
+msgstr ""
+
+#. Jaeger Dropout
+msgctxt "#196 name"
+msgid "領邦軍兵士"
+msgstr ""
+
+#. An armed former jaeger hired
+#. by Gideon. Lives the lifestyle
+#. of a mercenary, risking his
+#. life for mira.
+msgctxt "#196 desc"
+msgid ""
+"クロイツェン州領邦軍の兵士。\n"
+"詰所の精兵として練度は高く、\n"
+"誇りを以って侵入者を撃退する。"
+msgstr ""
+
+#. Azure Knight
+msgctxt "#197 name"
+msgid "帝国解放戦線・小銃"
+msgstr ""
+
+#. Knight by the name of Ordine, 
+#. with Crow as its Awakener. 
+#. Fights with a double saber,
+#. completely free of hesitation.
+msgctxt "#197 desc"
+msgid ""
+"自動小銃を装備した\n"
+"帝国解放戦線のメンバー。\n"
+"目的のためならば\n"
+"どんな犠牲をも厭わない。"
+msgstr ""
+
+#. Drakkhen
+msgctxt "#198 name"
+msgid "帝国解放戦線・剣"
+msgstr ""
+
+#. A giant humanoid weapon made
+#. by Reinford's 5th Development
+#. Division. Mobile and strong,
+#. it revolutionizes warfare.
+msgctxt "#198 desc"
+msgid ""
+"帝国解放戦線のメンバー。\n"
+"《鉄血宰相》への強い憎しみを\n"
+"原動力として剣を振るう。"
+msgstr ""
+
+#. Drakkhen
+msgctxt "#199 name"
+msgid "帝国解放戦線・小銃"
+msgstr ""
+
+#. A giant humanoid weapon made
+#. by Reinford's 5th Development
+#. Division. Mobile and strong,
+#. it revolutionizes warfare.
+msgctxt "#199 desc"
+msgid ""
+"自動小銃を装備した\n"
+"帝国解放戦線のメンバー。\n"
+"目的のためならば\n"
+"どんな犠牲をも厭わない。"
+msgstr ""
+
+#. Drakkhen
+msgctxt "#200 name"
+msgid "帝国解放戦線・剣"
+msgstr ""
+
+#. A giant humanoid weapon made
+#. by Reinford's 5th Development
+#. Division. Mobile and strong,
+#. it revolutionizes warfare.
+msgctxt "#200 desc"
+msgid ""
+"帝国解放戦線のメンバー。\n"
+"《鉄血宰相》への強い憎しみを\n"
+"原動力として剣を振るう。"
+msgstr ""
+
+#. Spiegel
+msgctxt "#201 name"
+msgid "猟兵崩れ"
+msgstr ""
+
+#. A special Soldat operated by
+#. Scarlet. Uses reactive armor
+#. to nullify enemy attacks.
+msgctxt "#201 desc"
+msgid ""
+"ギデオンに雇われた武装集団。\n"
+"ミラのために命を賭ける\n"
+"傭兵稼業に明け暮れている。"
+msgstr ""
+
+#. Spiegel
+msgctxt "#202 name"
+msgid "蒼の騎神"
+msgstr ""
+
+#. A special Soldat operated by
+#. Scarlet. Equipped with heavy
+#. weaponry designed to be able
+#. to destroy tanks.
+msgctxt "#202 desc"
+msgid ""
+"クロウを起動者とする\n"
+"オルディーネと呼ばれる機体。\n"
+"《Ｃ》として目的を果たすため\n"
+"一片の迷いなく双刃剣を振るう。"
+msgstr ""
+
+#. Spiegel
+msgctxt "#203 name"
+msgid "ドラッケン"
+msgstr ""
+
+#. A special Soldat operated by
+#. Scarlet. Equipped with heavy
+#. weaponry designed to be able
+#. to destroy tanks.
+msgctxt "#203 desc"
+msgid ""
+"ラインフォルト第五開発部が\n"
+"完成させた人型有人兵器。\n"
+"機動力と攻撃力を兼ね備え、\n"
+"戦場に革命をもたらす。"
+msgstr ""
+
+#. Spiegel
+msgctxt "#204 name"
+msgid "ドラッケン"
+msgstr ""
+
+#. A special Soldat operated by
+#. Scarlet. Uses reactive armor
+#. to nullify enemy attacks.
+msgctxt "#204 desc"
+msgid ""
+"ラインフォルト第五開発部が\n"
+"完成させた人型有人兵器。\n"
+"機動力と攻撃力を兼ね備え、\n"
+"\n"
+"戦場に革命をもたらす。"
+msgstr ""
+
+#. Enemy
+msgctxt "#205 name"
+msgid "ドラッケン"
+msgstr ""
+
+#. A generic enemy for debug
+#. purposes. Completely average.
+msgctxt "#205 desc"
+msgid ""
+"ラインフォルト第五開発部が\n"
+"完成させた人型有人兵器。\n"
+"機動力と攻撃力を兼ね備え、\n"
+"\n"
+"戦場に革命をもたらす。"
+msgstr ""
+
+#. Strong Enemy
+msgctxt "#206 name"
+msgid "シュピーゲル"
+msgstr ""
+
+#. A generic strong enemy for
+#. debug purposes. Reckless type.
+msgctxt "#206 desc"
+msgid ""
+"スカーレットが操縦する\n"
+"《機甲兵》の隊長専用機体。\n"
+"リアクティブアーマーを搭載し\n"
+"あらゆる攻撃を無効化する。"
+msgstr ""
+
+#. Boss
+msgctxt "#207 name"
+msgid "シュピーゲル"
+msgstr ""
+
+#. A generic boss enemy for debug
+#. purposes. A mass of bones that
+#. would make dogs happy.
+msgctxt "#207 desc"
+msgid ""
+"スカーレットが操縦する\n"
+"《機甲兵》の隊長専用機体。\n"
+"対戦車用の強力な装備を搭載する。"
+msgstr ""
+
+#. Parts Test (Body)
+msgctxt "#208 name"
+msgid "シュピーゲル"
+msgstr ""
+
+#. Body parts test character
+#. (body)
+msgctxt "#208 desc"
+msgid ""
+"スカーレットが操縦する\n"
+"《機甲兵》の隊長専用機体。\n"
+"対戦車用の強力な装備を搭載する。"
+msgstr ""
+
+#. MXA
+msgctxt "#209 name"
+msgid "シュピーゲル"
+msgstr ""
+
+#. Parts Test (Part)
+msgctxt "#209 desc"
+msgid ""
+"スカーレットが操縦する\n"
+"《機甲兵》の隊長専用機体。\n"
+"リアクティブアーマーを搭載し\n"
+"あらゆる攻撃を無効化する。"
+msgstr ""
+
+#. Drome
+msgctxt "#210 name"
+msgid "ザコ"
+msgstr ""
+
+#. A mollusk known for its cold
+#. body. Freezes small animals
+#. with cold air before feeding
+#. on them.
+msgctxt "#210 desc"
+msgid ""
+"デバッグ用ザコモンスター。\n"
+"平均的な奴。"
+msgstr ""
+
+#. Crop Muncher
+msgctxt "#211 name"
+msgid "強ザコ"
+msgstr ""
+
+#. A monster that devours 
+#. crops in large groups.
+msgctxt "#211 desc"
+msgid ""
+"デバッグ用強ザコモンスター。\n"
+"猪突猛進型。"
+msgstr ""
+
+#. Aldovoss
+msgctxt "#212 name"
+msgid "ボス"
+msgstr ""
+
+#. A hard-shelled fiend that
+#. appeared from deep in a mine.
+#. Pulverizes all those who come
+#. near with its powerful arms.
+msgctxt "#212 desc"
+msgid ""
+"デバッグ用ボスモンスター。\n"
+"犬が喜ぶ骨っこ集合体。"
+msgstr ""
+
+#. Bozuonga
+msgctxt "#213 name"
+msgid "ドローメ"
+msgstr ""
+
+#. Leader of a group of primates.
+#. Swings its axe with incredible
+#. force, summoning minions by 
+#. roaring.
+msgctxt "#213 desc"
+msgid ""
+"冷たい体が特徴の軟体\n"
+"魔獣。冷気を噴出して\n"
+"小さな動物を凍結させ\n"
+"てから捕食する。"
+msgstr ""
+
+msgctxt "#214 name"
+msgid "アルドヴォス"
+msgstr ""
+
+msgctxt "#214 desc"
+msgid ""
+"鉱山の奥深くから現れた、\n"
+"硬い甲殻に覆われた魔物。\n"
+"豪腕を振り回して近づく者を\n"
+"完膚なきまでに叩き潰す。"
+msgstr ""
+
+msgctxt "#215 name"
+msgid "ボズオンガ"
+msgstr ""
+
+msgctxt "#215 desc"
+msgid ""
+"群れのリーダー格たる大猿の魔物\n"
+"凄まじい膂力から石斧を\n"
+"繰り出すほか、咆哮を轟かせて\n"
+"手下のコボンガを呼ぶ。"
+msgstr ""
+
+msgctxt "#216 name"
+msgid "アルドヴォス"
+msgstr ""
+
+msgctxt "#216 desc"
+msgid ""
+"鉱山の奥深くから現れた、\n"
+"硬い甲殻に覆われた魔物。\n"
+"豪腕を振り回して近づく者を\n"
+"完膚なきまでに叩き潰す。"
+msgstr ""
+
+msgctxt "#217 name"
+msgid "ボズオンガ"
+msgstr ""
+
+msgctxt "#217 desc"
+msgid ""
+"群れのリーダー格たる大猿の魔物\n"
+"凄まじい膂力から石斧を\n"
+"繰り出すほか、咆哮を轟かせて\n"
+"手下のコボンガを呼ぶ。"
+msgstr ""
