@@ -251,7 +251,7 @@ msgid ""
 " と書かれているようだが。"
 msgstr ""
 "Hừm, nó đề là\n"
-"'Công Viên Tự Nhiên Lunaria'."
+"'Công viên Tự nhiên Lunaria'."
 
 #. Wow. This farmhouse is huge.
 msgctxt "[Alisa] #30"
@@ -270,7 +270,7 @@ msgid ""
 "大陸横断鉄道…\n"
 " 外国に通じているんだったな。"
 msgstr ""
-"Tuyến Đường Sắt Xuyên Lục Địa...\n"
+"Đường sắt Xuyên lục địa...\n"
 "nó thông với cả các quốc gia khác nhỉ."
 
 #. Yeah. If you keep on heading east, you'd
@@ -281,7 +281,7 @@ msgid ""
 " 東の国境、ガレリア要塞があるわ。"
 msgstr ""
 "Ừ, nếu tiếp tục tiến về phía đông,\n"
-"chúng ta sẽ đến Căn Cứ Địa Garrelia."
+"chúng ta sẽ đến Căn cứ địa Garrelia."
 
 #. We should take a right here
 #.  to reach the nature park.
@@ -394,7 +394,7 @@ msgctxt "[Emma] #48"
 msgid ""
 "聖女ヴェロニカの像、\n"
 " みたいですね。"
-msgstr "Có vẻ như là tượng của Thánh Nữ Veronica."
+msgstr "Có vẻ như là tượng của Thánh nữ Veronica."
 
 #. Oh? You know of her?
 msgctxt "[Gaius] #49"
@@ -485,7 +485,7 @@ msgid ""
 "職人通り…\n"
 " 様々な店が軒を連ねているな。"
 msgstr ""
-"Nơi này là Phố Nghệ Nhân,\n"
+"Nơi này là Phố Nghệ nhân,\n"
 "ở đây có đủ các loại cửa tiệm."
 
 #. Oh, a lake.
@@ -604,7 +604,7 @@ msgid ""
 "領邦軍の詰所は西だ。\n"
 " …とにかく急ぐぞ。"
 msgstr ""
-"Trạm gác của Quân Đội Lãnh Bang nằm ở\n"
+"Trạm gác của Quân đội Lãnh Bang nằm ở\n"
 "phía tây. Chúng ta khẩn trương nào."
 
 #. *pant* Why is this ladder so long?
@@ -725,7 +725,7 @@ msgctxt "[Alisa] #95"
 msgid ""
 "あはは、ちょっと\n"
 " ハイになってるみたい。"
-msgstr "Ahaha, tớ phán khích hơi quá ấy mà."
+msgstr "Ahaha, tớ phấn khích hơi quá ấy mà."
 
 #. The sun's almost down...
 msgctxt "[Gaius] #96"
@@ -1007,7 +1007,7 @@ msgid ""
 " 軍用飛行艇だわ…"
 msgstr ""
 "Đó là phi thuyền quân sự\n"
-"của Quân Đội Đế Quốc…"
+"của Quân đội Đế Quốc…"
 
 #. This situation is looking
 #.  worse by the minute.
@@ -1028,7 +1028,7 @@ msgctxt "[Emma] #137"
 msgid "帝国軍の導力装甲車…！"
 msgstr ""
 "Chúng là xe thiết giáp dẫn lực\n"
-"của Quân Đội Đế Quốc...!"
+"của Quân đội Đế Quốc...!"
 
 #. Damn... This isn't looking good...
 msgctxt "[Rean] #138"
@@ -1198,7 +1198,7 @@ msgid ""
 "《帝国時報》──\n"
 " おなじみの新聞社だね。"
 msgstr ""
-"Tòa soạn <Thời Báo Đế Quốc>.\n"
+"Tòa soạn <Thời báo Đế Quốc>.\n"
 "Nghe thấy quen thuộc chứ?"
 
 #. So this is the opera house, huh?
@@ -1250,7 +1250,7 @@ msgid ""
 "獅子心皇帝…\n"
 " 威風堂々としたお姿だな。"
 msgstr ""
-"Hoàng Đế Tim Sư Tử...\n"
+"Hoàng đế Tim Sư tử...\n"
 "Dáng vẻ oai phong lẫm liệt."
 
 #. Weird to think he's the one
@@ -1445,7 +1445,7 @@ msgid ""
 "こういう仕掛けって、\n"
 " 何時ごろ造られたのかな？"
 msgstr ""
-"Không biến cơ quan này\n"
+"Không biết cơ quan này\n"
 "được tạo ra từ khi nào nhỉ?"
 
 #. I'm guessing a few hundred years ago
@@ -1456,7 +1456,7 @@ msgid ""
 " 中世の暗黒時代じゃないか？"
 msgstr ""
 "Ít nhất cũng phải vài trăm năm...\n"
-"có khi là từ Thời Kỳ Đen Tối cũng nên?"
+"có khi là từ Thời kỳ Tăm tối cũng nên?"
 
 #. Those were difficult times back then.
 msgctxt "[Laura] #195"
@@ -1537,7 +1537,7 @@ msgid ""
 " パレード目当てだろうね。"
 msgstr ""
 "Ahaha, chắc họ đến xem cuộc diễu hành\n"
-"của Hoàng Tộc đấy."
+"của hoàng tộc đấy."
 
 #. Grr... Those damn terrorists...
 msgctxt "[Machias] #206"
@@ -1551,7 +1551,7 @@ msgid ""
 "（エリゼ、皇女殿下も…\n"
 "  無事でいてくれ…！）"
 msgstr ""
-"(Elise, Công Chúa điện hạ...\n"
+"(Elise, Công chúa điện hạ...\n"
 "xin cả hai hãy bình an vô sự...!)"
 
 #. Monsters!
@@ -1656,8 +1656,8 @@ msgid ""
 "この建物が、遊撃士協会、\n"
 " レグラム支部になる。"
 msgstr ""
-"Tòa nhà này là chi bộ Legarm \n"
-"của Hiệp Hội Du Kích Sĩ."
+"Tòa nhà này là chi nhánh Legram \n"
+"của Hiệp hội Du kích sĩ."
 
 #. Wow. I didn't think that door
 #.  led out here.
@@ -1699,7 +1699,7 @@ msgid ""
 "エベル支線…\n"
 " 俺たちが通ってきた路線か。"
 msgstr ""
-"Tuyến Nhánh Ebel... đây cũng là tuyến\n"
+"Tuyến nhánh Ebel... đây cũng là tuyến\n"
 "mà chúng ta đã dùng để đến đây."
 
 #. Oh, wow. There's a river out here.
@@ -1778,8 +1778,8 @@ msgid ""
 "ローエングリン城…\n"
 " 救国の聖女の古城か。"
 msgstr ""
-"Vậy ra đây là pháo đài của Thánh Nữ,\n"
-"Lâu Đài Lohengrin..."
+"Vậy ra đây là pháo đài của Thánh nữ,\n"
+"Lâu đài Lohengrin..."
 
 #. This is the first time I've come here
 #.  at night. Be careful of your footing.
@@ -1833,7 +1833,7 @@ msgid ""
 " …それらしい物を探してみましょう。"
 msgstr ""
 "Chúng ta cần 'chìa khóa' để giải kết giới.\n"
-"Mau tìm  thứ trông giống như thế thôi."
+"Mau tìm thứ trông giống như thế thôi."
 
 #. An external corridor. We must be
 #.  on the north side of the castle.
@@ -2034,7 +2034,7 @@ msgstr ""
 #. Yeah. May Aidios be with us both.
 msgctxt "[Sara] #267"
 msgid "お互い女神の加護を…！"
-msgstr "Ừ, cầu cho Nữ Thần phù hộ chúng ta...!"
+msgstr "Ừ, cầu cho Nữ thần phù hộ chúng ta...!"
 
 #. Is Group B almost there?
 msgctxt "[Rean] #268"
@@ -2113,7 +2113,7 @@ msgid ""
 " ログナー侯爵家の敷地ね。"
 msgstr ""
 "Phía trước là dinh thự của\n"
-"gia tộc Hầu Tước Rogner nhỉ."
+"gia tộc Hầu tước Rogner nhỉ."
 
 #. So that's where Gelica's stubborn
 #.  old man lives, huh? Better stay away.
@@ -2249,7 +2249,7 @@ msgid ""
 "領邦軍…\n"
 " 相変わらず横柄な連中だな。"
 msgstr ""
-"Quân Đội Lãng Bang...\n"
+"Quân đội Lãnh Bang...\n"
 "Những kẻ đó vẫn hống hách như mọi khi."
 
 #. Hmm... Wonder what they're
@@ -2397,7 +2397,7 @@ msgctxt "[Rean] #311"
 msgid "（ああ…鉄道憲兵隊絡みか？）"
 msgstr ""
 "(Ừ... có lẽ liên quan gì đó đến\n"
-"Đội Hiến Binh Đường Sắt?)"
+"Đội Hiến binh Đường sắt?)"
 
 #. This was some kind of
 #.  classy bar, I think?
@@ -2451,7 +2451,7 @@ msgid ""
 "そうだね…\n"
 " 鉄道憲兵隊も急行してるし。"
 msgstr ""
-"Phải đấy. Đội Hiến Binh Đường Sắt \n"
+"Phải đấy. Đội Hiến binh Đường sắt \n"
 "cũng đang cấp tốc đến đây rồi."
 
 #. Let's at least try and get
@@ -2639,7 +2639,7 @@ msgid ""
 " 人形兵器が放たれているようだな…"
 msgstr ""
 "Ở đây cũng có đám binh khí hình nhân\n"
-"giống như lúc ở Căn Cứ Địa Garrelia…"
+"giống như lúc ở Căn cứ địa Garrelia…"
 
 #. There's some monsters I didn't see
 #.  when we were here yesterday, too.
@@ -2678,7 +2678,7 @@ msgid ""
 "この向こうで、領邦軍と\n"
 " 鉄道憲兵隊が睨み合ってるのか…"
 msgstr ""
-"Quân Lãnh Bang và Đội Hiến Binh\n"
+"Quân đội Lãnh Bang và Đội Hiến binh\n"
 "gầm ghè nhau ở ngoài kia nhỉ…"
 
 #. Let's just leave them to it.
@@ -3194,3 +3194,4 @@ msgid "なんだぁ、あの光ってやがるのは…！？"
 msgstr ""
 "Ôi chà, cái thứ phát sáng đằng kia\n"
 "là gì thế?"
+
