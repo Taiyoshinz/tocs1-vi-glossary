@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-21 10:53+0000\n"
+"PO-Revision-Date: 2026-07-03 14:47+0000\n"
 "Last-Translator: Weblate Admin <weblate@example.com>\n"
 "Language-Team: Vietnamese <http://localhost:8080/projects/sen-no-kiseki-1/"
 "t_active_vi/vi/>\n"
@@ -604,7 +604,7 @@ msgid ""
 "領邦軍の詰所は西だ。\n"
 " …とにかく急ぐぞ。"
 msgstr ""
-"Trạm gác của Quân đội Lãnh Bang nằm ở\n"
+"Trạm gác của Quân đội Lãnh địa nằm ở\n"
 "phía tây. Chúng ta khẩn trương nào."
 
 #. *pant* Why is this ladder so long?
@@ -2249,7 +2249,7 @@ msgid ""
 "領邦軍…\n"
 " 相変わらず横柄な連中だな。"
 msgstr ""
-"Quân đội Lãnh Bang...\n"
+"Quân đội Lãnh địa...\n"
 "Những kẻ đó vẫn hống hách như mọi khi."
 
 #. Hmm... Wonder what they're
@@ -2678,7 +2678,7 @@ msgid ""
 "この向こうで、領邦軍と\n"
 " 鉄道憲兵隊が睨み合ってるのか…"
 msgstr ""
-"Quân đội Lãnh Bang và Đội Hiến binh\n"
+"Quân đội Lãnh địa và Đội Hiến binh\n"
 "gầm ghè nhau ở ngoài kia nhỉ…"
 
 #. Let's just leave them to it.
@@ -3194,4 +3194,3 @@ msgid "なんだぁ、あの光ってやがるのは…！？"
 msgstr ""
 "Ôi chà, cái thứ phát sáng đằng kia\n"
 "là gì thế?"
-
