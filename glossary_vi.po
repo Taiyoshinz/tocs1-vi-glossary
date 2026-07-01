@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-01 04:21+0000\n"
+"PO-Revision-Date: 2026-07-03 14:47+0000\n"
 "Last-Translator: Weblate Admin <weblate@example.com>\n"
 "Language-Team: Vietnamese <http://localhost:8080/projects/sen-no-kiseki-1/"
 "glossary/vi/>\n"
@@ -642,7 +642,7 @@ msgid "みっしぃ"
 msgstr "Mishy"
 
 msgid "ルナリア自然公園"
-msgstr "Công Viên Tự Nhiên Lunaria"
+msgstr "Công viên Tự nhiên Lunaria"
 
 msgid "大陸横断鉄道"
 msgstr "Đường Sắt Xuyên Lục Địa"
@@ -669,7 +669,7 @@ msgid "ザール橋"
 msgstr "Cầu Saar"
 
 msgid "領邦軍"
-msgstr "Quân Đội Lãnh Bang"
+msgstr "Quân đội Lãnh địa"
 
 msgid "集落"
 msgstr "bộ lạc"
@@ -1366,3 +1366,6 @@ msgstr "Kẻ giữ tầng "
 msgctxt "Testaments"
 msgid "聖典"
 msgstr "Thánh Điển"
+
+msgid "平民院"
+msgstr "Viện Thứ dân"
