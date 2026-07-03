@@ -3146,15 +3146,15 @@ msgstr ""
 "Nó vô hiệu kẻ địch bằng tia\n"
 "laser và hỏa lực bất tận."
 
-#. Combat Shell
+#. Combat Shell α
 msgctxt "#156 name"
 msgid "戦術殻α"
 msgstr "Vỏ Chiến Thuật α"
 
-#. A combat dummy that didn't 
-#. get used in the game.
-#. Poor Combat Shell-kun...
-#. your day will come, eventually.
+#.A combat dummy set up 
+#.for practical exams. Feels 
+#.strange to the touch, and 
+#.fights as programmed.
 msgctxt "#156 desc"
 msgid ""
 "実技テスト用の戦闘傀儡。\n"
@@ -3166,15 +3166,15 @@ msgstr ""
 "hình mẫu lý tưởng của tao. \n"
 "- Ayanokouji"
 
-#. Winged Snake
+#. Combat Shell β
 msgctxt "#157 name"
 msgid "戦術殻β"
 msgstr "Vỏ Chiến Thuật β"
 
-#. A winged snake that flies
-#. around on the Nord Highlands.
-#. The people of Nord fear the
-#. poison in its fangs.
+#. A combat dummy that operates
+#. by some unknown means. Its
+#. change of form allows it to
+#. use more powerful attacks.
 msgctxt "#157 desc"
 msgid ""
 "謎の機構で動く戦闘傀儡。\n"
@@ -3186,15 +3186,15 @@ msgstr ""
 "Sau khi chuyển đổi hình thái,\n"
 "nó đã trở nên mạnh hơn."
 
-#. Diving Ananta
+#. Combat Shell γ
 msgctxt "#158 name"
 msgid "戦術殻γ"
 msgstr "戦術殻 γ"
 
-#. A serpent monster containing
-#. deadly poison. Plunges its
-#. fangs into its prey from the
-#. air using its bat-like wings.
+#. A combat dummy made of a 
+#. mysterious metal. Has high
+#.attack and defense power 
+#.to simulate real battle.
 msgctxt "#158 desc"
 msgid ""
 "不思議な金属製の戦闘傀儡。\n"
@@ -3206,15 +3206,15 @@ msgstr ""
 "Nó được thiết kế cho các tình\n"
 "huống chiến đấu thực tế."
 
-#. Stone Golem
+#. Combat Shell β
 msgctxt "#159 name"
 msgid "戦術殻β"
 msgstr "Vỏ Chiến Thuật β"
 
-#. A golem created from stone
-#. which appears in Erebonian
-#. legends. Can cause earthquakes
-#. by stamping on the ground.
+#. A combat dummy that operates
+#. by some unknown means. Its
+#. change of form allows it to
+#. use more powerful attacks.
 msgctxt "#159 desc"
 msgid ""
 "謎の機構で動く戦闘傀儡。\n"
@@ -3226,14 +3226,15 @@ msgstr ""
 "Sau khi chuyển đổi hình thái,\n"
 "nó đã trở nên mạnh hơn."
 
-#. Steel Golem
+#. Winged Snake
 msgctxt "#160 name"
 msgid "ウィングスネイク"
 msgstr ""
 
-#. A magical golem born by
-#. giving life to steel. Causes 
-#. powerful earthquakes at will.
+#. A winged snake that flies
+#. around on the Nord Highlands.
+#. The people of Nord fear the
+#. poison in its fangs.
 msgctxt "#160 desc"
 msgid ""
 "ノルド高原を飛び回る\n"
@@ -3242,15 +3243,15 @@ msgid ""
 "集落の人間も注意している。"
 msgstr ""
 
-#. Dissolution Slug
+#. Diving Ananta
 msgctxt "#161 name"
 msgid "デプスアナンタ"
 msgstr ""
 
-#. A mollusk monster with
-#. countless feelers. Uses 
-#. acid stored in its body to 
-#. dissolve and devour its prey.
+#. A serpent monster containing
+#. deadly poison. Plunges its
+#. fangs into its prey from the
+#. air using its bat-like wings.
 msgctxt "#161 desc"
 msgid ""
 "猛毒を持つ蛇型魔獣。\n"
@@ -3258,15 +3259,15 @@ msgid ""
 "中空から牙を突き立てる。"
 msgstr ""
 
-#. Diglem
+#. Stone Golem
 msgctxt "#162 name"
 msgid "ストーンゴーレム"
 msgstr ""
 
-#. A stone statue allowed to move
-#. because of the strange force
-#. active in the quarry. Lowers
-#. foes' abilities with beams.
+#. A golem created from stone
+#. which appears in Erebonian
+#. legends. Can cause earthquakes
+#. by stamping on the ground.
 msgctxt "#162 desc"
 msgid ""
 "帝国の伝承にも存在する、\n"
@@ -3275,15 +3276,14 @@ msgid ""
 "起こすことが出来る。"
 msgstr ""
 
-#. Star Lambda
+#. Steel Golem
 msgctxt "#163 name"
 msgid "アイアンゴーレム"
 msgstr ""
 
-#. A stone statue granted life by
-#. a mysterious power. Lowers 
-#. the abilities of its foes with
-#. cursed beams of light.
+#. A magical golem born by
+#. giving life to steel. Causes 
+#. powerful earthquakes at will.
 msgctxt "#163 desc"
 msgid ""
 "鋼鉄に生命が吹き込まれ、\n"
@@ -3292,15 +3292,15 @@ msgid ""
 "大激震を引き起こす。"
 msgstr ""
 
-#. Stone Stalker
+#. Dissolution Slug
 msgctxt "#164 name"
 msgid "ディゾルスラッグ"
 msgstr ""
 
-#. A four-legged stone creature.
-#. When it sees an enemy, it
-#. approaches them, then attacks
-#. with its weight from above.
+#. A mollusk monster with
+#. countless feelers. Uses 
+#. acid stored in its body to 
+#. dissolve and devour its prey.
 msgctxt "#164 desc"
 msgid ""
 "無数の触角を持つ軟体魔獣。\n"
@@ -3308,14 +3308,15 @@ msgid ""
 "獲物をじわじわ溶かして食べる。"
 msgstr ""
 
-#. Ghoul Frog
+#. Diglem
 msgctxt "#165 name"
 msgid "ディグレム"
 msgstr ""
 
-#. A mass of dead monsters. 
-#. Has exceptional regenerative
-#. abilities.
+#. A stone statue allowed to move
+#. because of the strange force
+#. active in the quarry. Lowers
+#. foes' abilities with beams.
 msgctxt "#165 desc"
 msgid ""
 "不可思議な“場”の影響で\n"
@@ -3324,14 +3325,15 @@ msgid ""
 "不気味な光線を放つ。"
 msgstr ""
 
-#. Polyjelly
+#. Star Lambda
 msgctxt "#166 name"
 msgid "スターラムダ"
 msgstr ""
 
-#. A floating spore creature from
-#. another world. Those who touch
-#. it turn to stone.
+#. A stone statue granted life by
+#. a mysterious power. Lowers 
+#. the abilities of its foes with
+#. cursed beams of light.
 msgctxt "#166 desc"
 msgid ""
 "謎の力で生命を宿した石像。\n"
@@ -3339,15 +3341,15 @@ msgid ""
 "敵対者の身体能力を低下させる。"
 msgstr ""
 
-#. Hell Rabbit
+#. Stone Stalker
 msgctxt "#167 name"
 msgid "ストークス"
 msgstr ""
 
-#. A monster said to have come
-#. from the underworld. Those
-#. pierced by its spines are 
-#. believed to lose their souls.
+#. A four-legged stone creature.
+#. When it sees an enemy, it
+#. approaches them, then attacks
+#. with its weight from above.
 msgctxt "#167 desc"
 msgid ""
 "四本足で歩き回る石の人形。\n"
@@ -3355,44 +3357,43 @@ msgid ""
 "その重量を頭上から叩きつける。"
 msgstr ""
 
-#. Ramon
+#. Ghoul Frog
 msgctxt "#168 name"
 msgid "グールフロッグ"
 msgstr ""
 
-#. A fiend with black fur, said
-#. to be a servant of Gehenna.
-#. Appears before those who have
-#. little time left to live.
+#. A mass of dead monsters. 
+#. Has exceptional regenerative
+#. abilities.
 msgctxt "#168 desc"
 msgid ""
 "魔獣の屍肉の集合体。\n"
 "自己再生能力に優れている。"
 msgstr ""
 
-#. Glaceron
+#. Polyjelly
 msgctxt "#169 name"
 msgid "ポリプルン"
 msgstr ""
 
-#. A large turtle with a stone-
-#. like carapace. Sprays rocks
-#. from its back to repel foes.
+#. A floating spore creature from
+#. another world. Those who touch
+#. it turn to stone.
 msgctxt "#169 desc"
 msgid ""
 "宙を漂う異界の胞子生物。\n"
 "触れたものを石と化してしまう。"
 msgstr ""
 
-#. Lunar Bee
+#. Hell Rabbit
 msgctxt "#170 name"
 msgid "ヘルラビット"
 msgstr ""
 
-#. A bee-like fiend capable
-#. of crossing dimensions. Its
-#. highly lethal poison makes it
-#. incredibly dangerous.
+#. A monster said to have come
+#. from the underworld. Those
+#. pierced by its spines are 
+#. believed to lose their souls.
 msgctxt "#170 desc"
 msgid ""
 "冥界の獣と伝えられる魔獣。\n"
