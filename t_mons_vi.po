@@ -8,7 +8,7 @@ msgstr ""
 #. Grass Drome
 msgctxt "#0 name"
 msgid "グラスドローメ"
-msgstr ""
+msgstr "Quái Nhầy Cỏ"
 
 #. A kind of spongy mollusk that
 #. likes areas with high humidity.
@@ -21,11 +21,15 @@ msgid ""
 "体内から導力を生み出し\n"
 "風属性のアーツを発動する。"
 msgstr ""
+"Ma thú chất nhầy sinh trưởng\n"
+"tại những nơi có độ ẩm cao.\n"
+"Nó tạo năng lượng dẫn lực\n"
+"và sử dụng art hệ băng."
 
 #. Ice Drome
 msgctxt "#1 name"
 msgid "アイスドローメ"
-msgstr ""
+msgstr "Quái Nhầy Băng"
 
 #. An icy cold mollusk that 
 #. breeds in areas with lots of 
@@ -38,11 +42,15 @@ msgid ""
 "体内から導力を生み出し\n"
 "水属性のアーツを発動する。"
 msgstr ""
+"Ma thú chất nhầy sinh trưởng\n"
+"tại những nơi có nhiều nước.\n"
+"Nó tạo năng lượng dẫn lực\n"
+"và sử dụng art hệ băng."
 
 #. Black Drome
 msgctxt "#2 name"
 msgid "ブラックドローメ"
-msgstr ""
+msgstr "Quái Nhầy Đen"
 
 #. A mollusk as dark as the
 #. abyss. Produces orbal 
@@ -55,11 +63,15 @@ msgid ""
 "体内から導力を生み出し\n"
 "時属性のアーツを発動する。"
 msgstr ""
+"Ma thú chất nhầy mang\n"
+"sắc đen của vực thẳm.\n"
+"Nó tạo năng lượng dẫn lực\n"
+"và sử dụng art hệ thời gian."
 
 #. Flash Drome
 msgctxt "#3 name"
 msgid "フラッシュドローメ"
-msgstr ""
+msgstr "Quái Nhầy Chói Lóa"
 
 #. Mollusk that gives off light 
 #. and stores it as a nutrient. 
@@ -72,11 +84,15 @@ msgid ""
 "体内から導力を生み出し\n"
 "空属性のアーツを発動する。"
 msgstr ""
+"Ma thú chất nhầy lấy ánh\n"
+"sáng làm nguồn dinh dướng.\n"
+"Nó tạo năng lượng dẫn lực\n"
+"và sử dụng art hệ ánh sáng."
 
 #. Magma Drome
 msgctxt "#4 name"
 msgid "マグマドローメ"
-msgstr ""
+msgstr "Quái Nhầy Dung Nham"
 
 #. A mollusk which draws in 
 #. heat as a nutrient. Creates 
@@ -89,11 +105,15 @@ msgid ""
 "体内から導力を生み出し\n"
 "火属性のアーツを発動する。"
 msgstr ""
+"Ma thú chất nhầy sử dụng\n"
+"nhiệt làm nguồn dinh dưỡng.\n"
+"Nó tạo năng lượng dẫn lực\n"
+"và sử dụng art hệ hỏa."
 
 #. Giant Drome
 msgctxt "#5 name"
 msgid "ビッグドローメ"
-msgstr ""
+msgstr "Quái Nhầy Khổng Lồ"
 
 #. A giant mollusk which inhabits
 #. Heimdallr's underground. 
@@ -106,11 +126,15 @@ msgid ""
 "空間を振動させて\n"
 "周囲全てへの攻撃を行う。"
 msgstr ""
+"Ma thú chất nhầy khổng lồ\n"
+"sống dưới lòng Đế Quốc.\n"
+"Nó rung chuyển không gian\n"
+"để tấn công mọi thứ."
 
 #. Egg Snake
 msgctxt "#6 name"
 msgid "エッグスネーク"
-msgstr ""
+msgstr "Trứng Rắn"
 
 #. A reptilian monster that has
 #. taken up living in the egg of
@@ -122,11 +146,14 @@ msgid ""
 "爬虫類型の魔獣。\n"
 "その牙には猛毒がある。"
 msgstr ""
+"Ma thú dạng bò sát sống trong\n"
+"trứng của các loài chim lớn.\n"
+"Răng nanh của chúng rất độc."
 
 #. Rock Serpent
 msgctxt "#7 name"
 msgid "ロックサーペント"
-msgstr ""
+msgstr "Rắn Đá"
 
 #. A serpent monster that lives
 #. in an exceptionally hard egg
@@ -138,11 +165,14 @@ msgid ""
 "住み着いている蛇型魔獣。\n"
 "牙には石化毒が含まれている。"
 msgstr ""
+"Rắn ma thú sống ký sinh bên trong\n"
+"những quả trứng chim cứng như đá.\n"
+"Nanh của nó có thể hóa đá kẻ địch."
 
 #. Rhinocider
 msgctxt "#8 name"
 msgid "ライノサイダー"
-msgstr ""
+msgstr "Tê Giác Thiết Giáp"
 
 #. A monster covered by 
 #. hardened skin. Its powerful 
@@ -155,11 +185,15 @@ msgid ""
 "強烈かつ強靭な突進攻撃は\n"
 "導力車をもひっくり返す。"
 msgstr ""
+"Ma thú với lớp giáp cứng rắn\n"
+"bao phủ toàn thân.\n"
+"Những đòn húc của nó có thể\n"
+"hất tung cả xe dẫn lực."
 
 #. Goldcider
 msgctxt "#9 name"
 msgid "ゴルドサイダー"
-msgstr ""
+msgstr "Tê Giác Vàng"
 
 #. A monster covered in a golden,
 #. armor-like shell. Its immense
@@ -172,11 +206,15 @@ msgid ""
 "その超重量を叩きつけるような\n"
 "突進攻撃は何者をも退ける。"
 msgstr ""
+"Ma thú với lớp vỏ tựa như\n"
+"một bộ giáp hoàng kim.\n"
+"Cú húc trời giáng của nó\n"
+"có thể đẩy lui bất kỳ ai."
 
 #. Crop Muncher
 msgctxt "#10 name"
 msgid "畑あらし"
-msgstr ""
+msgstr "Kẻ Phá Ruộng"
 
 #. A small monster that attacks
 #. granaries. Be cautious of its
@@ -186,11 +224,15 @@ msgid ""
 "穀倉地帯の畑を狙う小型魔獣。\n"
 "砂の目潰しを行うため要注意。"
 msgstr ""
+"Ma thú nhỏ chuyên tấn công\n"
+"các cánh đồng ngũ cốc.\n"
+"Cần chú ý trước cán đòn\n"
+"phun cát vào mắt của chúng."
 
 #. Grass Hopper
 msgctxt "#11 name"
 msgid "グラスホッパー"
-msgstr ""
+msgstr "Quái Cỏ Nhảy"
 
 #. A relatively docile monster
 #. that subsists off grass.
@@ -203,11 +245,14 @@ msgid ""
 "……と見せかけて、突然\n"
 "砂を投げつけてきたりする。"
 msgstr ""
+"Sinh vật gặm cỏ khá lành tính.\n"
+"...Cho đến khi nó nổi hứng\n"
+"ném cát vô mặt bạn."
 
 #. Pom
 msgctxt "#12 name"
 msgid "ポム"
-msgstr ""
+msgstr "Pom"
 
 #. A dastardly fluff. Steals 
 #. EP and CP from those 
@@ -217,11 +262,14 @@ msgid ""
 "なにかしらポムっとした存在。\n"
 "触れた者からEPやCPを吸収する。"
 msgstr ""
+"Vẻ ngoài rất chi là pom.\n"
+"Chạm vào là mất EP và CP\n"
+"như chơi."
 
 #. Grass Pom
 msgctxt "#13 name"
 msgid "わかくさポム"
-msgstr ""
+msgstr "Pom Cỏ"
 
 #. A subspecies of Pom that 
 #. smells of fresh flowers. 
@@ -232,11 +280,15 @@ msgid ""
 "なにかしらポムっとした亜種。\n"
 "CPやEPを吸収する能力を持つ。"
 msgstr ""
+"Biến thể Pom mang hương thơm\n"
+"của cỏ cây và hoa lá.\n"
+"Chạm vào là mất EP với CP\n"
+"như chơi."
 
 #. Shining Pom
 msgctxt "#14 name"
 msgid "シャイニングポム"
-msgstr ""
+msgstr "Pom Phát Sáng"
 
 #. A shining, dastardly fluff 
 #. that absorbs CP and EP. 
@@ -249,11 +301,15 @@ msgid ""
 "CPやEPを吸収する能力を持ち、\n"
 "まばゆい光で敵を惑わす。"
 msgstr ""
+"Biến thể Pom tỏa sáng\n"
+"lấp lánh để mê hoặc kẻ địch.\n"
+"Chạm vào là mất CP với EP\n"
+"như chơi."
 
 #. Shining Pom
 msgctxt "#15 name"
 msgid "シャイニングポム"
-msgstr ""
+msgstr "Pom Lấp Lánh"
 
 #. A shining, dastardly fluff 
 #. that absorbs CP and EP. 
@@ -266,11 +322,15 @@ msgid ""
 "CPやEPを吸収する能力を持ち、\n"
 "まばゆい光で敵を惑わす。"
 msgstr ""
+"Biến thể Pom tỏa sáng\n"
+"lấp lánh để mê hoặc kẻ địch.\n"
+"Chạm vào là mất CP với EP\n"
+"như chơi."
 
 #. Shining Pom
 msgctxt "#16 name"
 msgid "シャイニングポム"
-msgstr ""
+msgstr "Pom Lấp Lánh"
 
 #. A shining, dastardly fluff 
 #. that absorbs CP and EP. 
@@ -283,11 +343,15 @@ msgid ""
 "CPやEPを吸収する能力を持ち、\n"
 "まばゆい光で敵を惑わす。"
 msgstr ""
+"Biến thể Pom tỏa sáng\n"
+"lấp lánh để mê hoặc kẻ địch.\n"
+"Chạm vào là mất CP với EP\n"
+"như chơi."
 
 #. Shining Pom
 msgctxt "#17 name"
 msgid "シャイニングポム"
-msgstr ""
+msgstr "Pom Lấp Lánh"
 
 #. A shining, dastardly fluff 
 #. that absorbs CP and EP. 
@@ -300,11 +364,15 @@ msgid ""
 "CPやEPを吸収する能力を持ち、\n"
 "まばゆい光で敵を惑わす。"
 msgstr ""
+"Biến thể Pom tỏa sáng\n"
+"lấp lánh để mê hoặc kẻ địch.\n"
+"Chạm vào là mất CP với EP\n"
+"như chơi."
 
 #. Shining Pom
 msgctxt "#18 name"
 msgid "シャイニングポム"
-msgstr ""
+msgstr "Pom Lấp Lánh"
 
 #. A shining, dastardly fluff 
 #. that absorbs CP and EP. 
@@ -317,11 +385,15 @@ msgid ""
 "CPやEPを吸収する能力を持ち、\n"
 "まばゆい光で敵を惑わす。"
 msgstr ""
+"Biến thể Pom tỏa sáng\n"
+"lấp lánh để mê hoặc kẻ địch.\n"
+"Chạm vào là mất CP với EP\n"
+"như chơi."
 
 #. Shining Pom
 msgctxt "#19 name"
 msgid "シャイニングポム"
-msgstr ""
+msgstr "Pom Lấp Lánh"
 
 #. A shining, dastardly fluff 
 #. that absorbs CP and EP. 
@@ -334,11 +406,15 @@ msgid ""
 "CPやEPを吸収する能力を持ち、\n"
 "まばゆい光で敵を惑わす。"
 msgstr ""
+"Biến thể Pom tỏa sáng\n"
+"lấp lánh để mê hoặc kẻ địch.\n"
+"Chạm vào là mất CP với EP\n"
+"như chơi."
 
 #. Shining Pom
 msgctxt "#20 name"
 msgid "シャイニングポム"
-msgstr ""
+msgstr "Pom Lấp Lánh"
 
 #. A shining, dastardly fluff 
 #. that absorbs CP and EP. 
@@ -351,11 +427,15 @@ msgid ""
 "CPやEPを吸収する能力を持ち、\n"
 "まばゆい光で敵を惑わす。"
 msgstr ""
+"Biến thể Pom tỏa sáng\n"
+"lấp lánh để mê hoặc kẻ địch.\n"
+"Chạm vào là mất CP với EP\n"
+"như chơi."
 
 #. Shining Pom
 msgctxt "#21 name"
 msgid "シャイニングポム"
-msgstr ""
+msgstr "Pom Lấp Lánh"
 
 #. A shining, dastardly fluff 
 #. that absorbs CP and EP. 
@@ -368,11 +448,15 @@ msgid ""
 "CPやEPを吸収する能力を持ち、\n"
 "まばゆい光で敵を惑わす。"
 msgstr ""
+"Biến thể Pom tỏa sáng\n"
+"lấp lánh để mê hoặc kẻ địch.\n"
+"Chạm vào là mất CP với EP\n"
+"như chơi."
 
 #. Shining Pom
 msgctxt "#22 name"
 msgid "シャイニングポム"
-msgstr ""
+msgstr "Pom Lấp Lánh"
 
 #. A shining, dastardly fluff 
 #. that absorbs CP and EP. 
@@ -385,11 +469,15 @@ msgid ""
 "CPやEPを吸収する能力を持ち、\n"
 "まばゆい光で敵を惑わす。"
 msgstr ""
+"Biến thể Pom tỏa sáng\n"
+"lấp lánh để mê hoặc kẻ địch.\n"
+"Chạm vào là mất CP với EP\n"
+"như chơi."
 
 #. Shining Pom
 msgctxt "#23 name"
 msgid "シャイニングポム"
-msgstr ""
+msgstr "Pom Lấp Lánh"
 
 #. A shining, dastardly fluff 
 #. that absorbs CP and EP. 
@@ -402,11 +490,15 @@ msgid ""
 "CPやEPを吸収する能力を持ち、\n"
 "まばゆい光で敵を惑わす。"
 msgstr ""
+"Biến thể Pom tỏa sáng\n"
+"lấp lánh để mê hoặc kẻ địch.\n"
+"Chạm vào là mất CP với EP\n"
+"như chơi."
 
 #. Shining Pom
 msgctxt "#24 name"
 msgid "シャイニングポム"
-msgstr ""
+msgstr "Pom Lấp Lánh"
 
 #. A shining, dastardly fluff 
 #. that absorbs CP and EP. 
@@ -419,11 +511,15 @@ msgid ""
 "CPやEPを吸収する能力を持ち、\n"
 "まばゆい光で敵を惑わす。"
 msgstr ""
+"Biến thể Pom tỏa sáng\n"
+"lấp lánh để mê hoặc kẻ địch.\n"
+"Chạm vào là mất CP với EP\n"
+"như chơi."
 
 #. Shining Pom
 msgctxt "#25 name"
 msgid "シャイニングポム"
-msgstr ""
+msgstr "Pom Lấp Lánh"
 
 #. A shining, dastardly fluff 
 #. that absorbs CP and EP. 
@@ -436,11 +532,15 @@ msgid ""
 "CPやEPを吸収する能力を持ち、\n"
 "まばゆい光で敵を惑わす。"
 msgstr ""
+"Biến thể Pom tỏa sáng\n"
+"lấp lánh để mê hoặc kẻ địch.\n"
+"Chạm vào là mất CP với EP\n"
+"như chơi."
 
 #. Shining Pom
 msgctxt "#26 name"
 msgid "シャイニングポム"
-msgstr ""
+msgstr "Pom Lấp Lánh"
 
 #. A shining, dastardly fluff 
 #. that absorbs CP and EP. 
@@ -453,11 +553,15 @@ msgid ""
 "CPやEPを吸収する能力を持ち、\n"
 "まばゆい光で敵を惑わす。"
 msgstr ""
+"Biến thể Pom tỏa sáng\n"
+"lấp lánh để mê hoặc kẻ địch.\n"
+"Chạm vào là mất CP với EP\n"
+"như chơi."
 
 #. Shining Pom
 msgctxt "#27 name"
 msgid "シャイニングポム"
-msgstr ""
+msgstr "Pom Lấp Lánh"
 
 #. A shining, dastardly fluff 
 #. that absorbs CP and EP. 
@@ -470,11 +574,15 @@ msgid ""
 "CPやEPを吸収する能力を持ち、\n"
 "まばゆい光で敵を惑わす。"
 msgstr ""
+"Biến thể Pom tỏa sáng\n"
+"lấp lánh để mê hoặc kẻ địch.\n"
+"Chạm vào là mất CP với EP\n"
+"như chơi."
 
 #. Cryon Bit
 msgctxt "#28 name"
 msgid "クリオンビット"
-msgstr ""
+msgstr "Ấu Trùng Băng"
 
 #. A rare infant monster. Has the
 #. unusual habit of freezing its
@@ -485,11 +593,15 @@ msgid ""
 "獲物を凍らせてから頂くという\n"
 "変わった食性を持つ。"
 msgstr ""
+"Loài ma thú ấu trùng\n"
+"cực kỳ quý hiếm.\n"
+"Chúng đóng băng con mồi\n"
+"rồi mới thưởng thức chúng."
 
 #. Shadow Spirit
 msgctxt "#29 name"
 msgid "シャドウスピリッツ"
-msgstr ""
+msgstr "Oán Linh Hắc Ám"
 
 #. An eerie spirit that lacks
 #. a solid body. Gives those who
@@ -501,11 +613,15 @@ msgid ""
 "声を聞いた人間を悪夢に誘い、\n"
 "その正気を失わせる。"
 msgstr ""
+"Khối linh hồn không mang \n"
+"hình dạng hữu hình.\n"
+"Những người nghe thấy nó\n"
+"sẽ rơi vào ác mộng."
 
 #. Ghost Soul
 msgctxt "#30 name"
 msgid "ゴーストソウル"
-msgstr ""
+msgstr "Hồn Ma"
 
 #. A spirit formed from grudges.
 #. Its ominous voice beckons all
@@ -517,11 +633,15 @@ msgid ""
 "人間を終わりなき悪夢に誘う\n"
 "禍々しく邪悪な声を持つ。"
 msgstr ""
+"Khối linh hồn oán niệm.\n"
+"Giọng nói của nó sẽ đưa\n"
+"con người vào cơn ác mộng\n"
+"không hồi kết."
 
 #. Dirty Rat
 msgctxt "#31 name"
 msgid "ダーティラッチュウ"
-msgstr ""
+msgstr "Chuột Dơ Dáy"
 
 #. A rat monster which lives in
 #. dark underground areas. 
@@ -533,11 +653,14 @@ msgid ""
 "闇に紛れて飛び掛かり、\n"
 "敵の行動を遅らせる。"
 msgstr ""
+"Ma thú sống dưới lòng đất.\n"
+"Nó len lỏi vào bóng tối\n"
+"và gây rối loạn cho kẻ địch."
 
 #. Jewel Rat
 msgctxt "#32 name"
 msgid "ジュエルラッチュウ"
-msgstr ""
+msgstr "Chuột Đá Quý"
 
 #. A quick-witted rat monster
 #. with horns as hard as jewels. 
@@ -548,11 +671,15 @@ msgid ""
 "俊敏な鼠型魔獣。\n"
 "飛び掛り攻撃には注意。"
 msgstr ""
+"Loài ma thú vô cùng nhanh nhẹn\n"
+"với chiếc sừng cứng như đá quý.\n"
+"Hãy cẩn thận những đòn vồ\n"
+"của chúng."
 
 #. Coco Panda
 msgctxt "#33 name"
 msgid "ココパンダー"
-msgstr ""
+msgstr "Coco Panda"
 
 #. An intelligent, bipedal 
 #. monster. Beats humans who 
@@ -564,11 +691,14 @@ msgid ""
 "木の実を加工した棍棒で\n"
 "通りかかる人間を殴りつける。"
 msgstr ""
+"Loài ma thú hai chân thông minh.\n"
+"Nó tấn công người đi đường\n"
+"bằng cây gậy gỗ."
 
 #. Sasa Panda
 msgctxt "#34 name"
 msgid "ササパンダー"
-msgstr ""
+msgstr "Sasa Panda"
 
 #. A surprisingly ferocious panda
 #. monster. Wields a piece of
@@ -580,11 +710,14 @@ msgid ""
 "笹を武器のように扱って\n"
 "外敵を退ける。"
 msgstr ""
+"Loài ma thú vô cùng hung hãn.\n"
+"Nó sử dụng cây tre để làm\n"
+"vũ khí và xua đuổi kẻ thù."
 
 #. Green Raccoon
 msgctxt "#35 name"
 msgid "グマーライ"
-msgstr ""
+msgstr "Chồn Xanh"
 
 #. A small and extremely 
 #. cautious raccoon. The stick it
@@ -596,11 +729,15 @@ msgid ""
 "常に持っている曲がった杖は\n"
 "毒性の強い植物からとったもの。"
 msgstr ""
+"Ma thú nhỏ vô cùng cảnh giác.\n"
+"Cây gậy mà nó mang theo\n"
+"được bẻ từ một loại cây có\n"
+"độc tố cao."
 
 #. Orderbelisk
 msgctxt "#36 name"
 msgid "オーデルベリスク"
-msgstr ""
+msgstr "Cột Lệnh Obelisk"
 
 #. A mysterious, floating pillar.
 #. Uses powerful space arts to 
@@ -611,11 +748,15 @@ msgid ""
 "強力な空属性のアーツを操り\n"
 "侵入者を光の彼方に消し去る。"
 msgstr ""
+"Cột trụ bí ẩn có ý chí riêng.\n"
+"Chúng thao túng art không gian\n"
+"để xóa sổ những kẻ xâm nhập\n"
+"vào cõi hư vô của ánh sáng."
 
 #. Judge Pillar
 msgctxt "#37 name"
 msgid "ディザードジャッジ"
-msgstr ""
+msgstr "Cột Phán Quyết"
 
 #. A heavenly pillar which acts
 #. as a judge. Stops those who 
@@ -627,11 +768,15 @@ msgid ""
 "触れた者の動きを止め、\n"
 "強力な回復アーツを発動する。"
 msgstr ""
+"Cột trụ cai quản sự phán xét.\n"
+"Chúng làm bất động những\n"
+"kẻ chạm phải, đồng thời kích\n"
+"hoạt art hồi phục cực mạnh."
 
 #. Sharkodile
 msgctxt "#38 name"
 msgid "ワニシャーク"
-msgstr ""
+msgstr "Cá Sập Mấu"
 
 #. An aquatic monster that lives
 #. in underground waterways. 
@@ -643,11 +788,15 @@ msgid ""
 "巨大な口で獲物に噛み付き\n"
 "その肉を食い千切る。"
 msgstr ""
+"Ma thú sinh sống dưới đường\n"
+"nước ngầm.\n"
+"Chiếc miệng khổng lồ của nó\n"
+"có thể xé xác con mồi."
 
 #. Great Sharkodile
 msgctxt "#39 name"
 msgid "グレートワッシャー"
-msgstr ""
+msgstr "Cá Sập Mấu Siêu To"
 
 #. An aquatic monster that rules
 #. the capital's underground
@@ -660,11 +809,15 @@ msgid ""
 "獲物を骨ごと粉々に噛み砕く\n"
 "あまりにも強靭な顎を持つ。"
 msgstr ""
+"Loài ma thú thống trị đường\n"
+"nước ngầm của Đế Đô.\n"
+"Hàm của nó có thể cắn\n"
+"nát xương của con mồi."
 
 #. Creepy Sheep
 msgctxt "#40 name"
 msgid "ヒツジン"
-msgstr ""
+msgstr "Cừu Gớm"
 
 #. A dynamic sheep monster. 
 #. Capable of using an unusual
@@ -676,11 +829,15 @@ msgid ""
 "相手を眠らせる能力を持つ\n"
 "独自の拳法を操る。"
 msgstr ""
+"Loài ma thú hình cừu.\n"
+"Nó có thể đi những đường\n"
+"quyền khiến đối phương\n"
+"rơi vào giấc ngủ."
 
 #. Cherubic Gate
 msgctxt "#41 name"
 msgid "ケルビムゲイト"
-msgstr ""
+msgstr "Cổng Bệ Thần Cherubim"
 
 #. A floor guardian that has 
 #. merged with a door. Fires
@@ -692,11 +849,15 @@ msgid ""
 "中心の宝玉から認識を乱して\n"
 "人を狂わせる怪光線を放つ。"
 msgstr ""
+"Kẻ giữ tầng đã hợp nhất với\n"
+"cánh cửa.\n"
+"Chúng bắn ra luồng sáng từ\n"
+"tâm thạch làm rối trí kẻ thù."
 
 #. Seraphic Gate
 msgctxt "#42 name"
 msgid "セラフィムゲイト"
-msgstr ""
+msgstr "Cổng Luyến Thần Seraphim"
 
 #. A glistening floor guardian.
 #. Unleashes rays of light and
@@ -709,11 +870,15 @@ msgid ""
 "動きを鈍らせる\n"
 "呪いの雄叫びを上げる。"
 msgstr ""
+"Kẻ giữ tầng tỏa ánh chói lòa.\n"
+"Chúng phóng ra tia sáng\n"
+"quái dị và cất tiếng hú làm\n"
+"chậm chân kẻ địch."
 
 #. Gordi Chief
 msgctxt "#43 name"
 msgid "ゴーディオッサー"
-msgstr ""
+msgstr "Gordi Bố Già"
 
 #. A primate that dwells in
 #. the forest. Its blows are so
@@ -725,11 +890,15 @@ msgid ""
 "怪力にモノを言わせた一撃は、\n"
 "意識を保てなくなるほど強力。"
 msgstr ""
+"Chủng linh trưởng sinh sống\n"
+"trong rừng rậm.\n"
+"Chúng mạnh đến mức có thể\n"
+"một đấm làm ngất kẻ địch."
 
 #. Gordi Schnarr
 msgctxt "#44 name"
 msgid "ゴーディシュナー"
-msgstr ""
+msgstr "Gordi Quái Kiệt"
 
 #. A large monkey monster 
 #. that lives deep in the forest. 
@@ -741,11 +910,15 @@ msgid ""
 "圧倒的な膂力に任せて振るわれる\n"
 "豪腕の一撃は凄まじい威力。"
 msgstr ""
+"Loài ma thú sống sâu trong\n"
+"rừng rậm. Cú đấm của nó có thể\n"
+"khiến một người không biết trời\n"
+"đất trăng sao là gì."
 
 #. War Mantis
 msgctxt "#45 name"
 msgid "ワーマンティス"
-msgstr ""
+msgstr "Bọ Ngựa Hiếu Chiến"
 
 #. A large mantis monster. 
 #. Wields an incredibly sharp
@@ -757,11 +930,15 @@ msgid ""
 "一振りで獲物の首を刈り取る\n"
 "強烈な切れ味のカマを持つ。"
 msgstr ""
+"Ma thú bọ ngựa khổng lồ.\n"
+"Đôi càng của chúng sắc đến\n"
+"mức có thể gặt lấy thủ cấp\n"
+"của kẻ địch trong nháy mắt."
 
 #. Death Sickle
 msgctxt "#46 name"
 msgid "デスシックル"
-msgstr ""
+msgstr "Bọ Ngựa Tử Liềm"
 
 #. A bipedal mantis monster. Has
 #. sharp sickles on its forelegs
@@ -774,11 +951,15 @@ msgid ""
 "人間の急所である\n"
 "首を狙って振り下ろす。"
 msgstr ""
+"Ma thú bọ ngựa khổng lồ.\n"
+"Cặp càng của chúng có thể\n"
+"lấy đầu kẻ địch chỉ trong\n"
+"nháy mắt."
 
 #. Fanged Wolf
 msgctxt "#47 name"
 msgid "バイトウルフ"
-msgstr ""
+msgstr "Sói Hung Hãn"
 
 #. A wolf monster that moves in
 #. packs. Attacks prey with its
@@ -788,11 +969,15 @@ msgid ""
 "群れをなして、強靭な牙で\n"
 "獲物に襲い掛かる狼型の魔獣。"
 msgstr ""
+"Sói ma thú sống theo bầy.\n"
+"Chúng lao vào tấn công\n"
+"con mồi bằng cặp nanh\n"
+"rắn chắc."
 
 #. Greedy Wolf
 msgctxt "#48 name"
 msgid "グリードウルフ"
-msgstr ""
+msgstr "Sói Tham Lam"
 
 #. A greedy wolf that came from
 #. the mountains in search of 
@@ -805,11 +990,15 @@ msgid ""
 "執拗に獲物を追いまわし\n"
 "喉笛を食いちぎる。"
 msgstr ""
+"Sói ma thú tham lam xuống\n"
+"núi để tìm món ngon mới.\n"
+"Chúng truy sát và cắn đứt\n"
+"cuống họng của con mồi."
 
 #. White Fang
 msgctxt "#49 name"
 msgid "ホワイトファング"
-msgstr ""
+msgstr "Nanh Trắng"
 
 #. A wolf monster with white
 #. fur. Roams the highlands
@@ -821,11 +1010,14 @@ msgid ""
 "存在する白い体毛の狼型魔獣。\n"
 "集団で獲物を狩る習性がある。"
 msgstr ""
+"Loài sói ma thú lông trắng.\n"
+"Chúng sống theo bầy và săn\n"
+"mồi ở Cao nguyên Nord."
 
 #. Mad Penguin
 msgctxt "#50 name"
 msgid "マッドペングー"
-msgstr ""
+msgstr "Cánh Cụt Điên Loạn"
 
 #. An avian monster that lives in
 #. bogs and throws small fish.
@@ -837,11 +1029,15 @@ msgid ""
 "川魚を投げつけてくる。\n"
 "飛べないことは気にしていない。"
 msgstr ""
+"Ma thú cánh cụt sống tại\n"
+"đầm lầy và ném cá...?\n"
+"Chúng không quan tâm\n"
+"mình không biết bay."
 
 #. Ball Bat
 msgctxt "#51 name"
 msgid "ボールバット"
-msgstr ""
+msgstr "Dơi Tròn Trịa"
 
 #. An exceptionally heavy bat
 #. monster. Tackles enemies from
@@ -853,11 +1049,15 @@ msgid ""
 "中空から勢いをつけて体当たりし\n"
 "敵を強烈に吹き飛ばす。"
 msgstr ""
+"Ma thú dơi với trọng lượng\n"
+"thuộc cấp vũ trụ thiên hà.\n"
+"Chúng lao xuống và đánh\n"
+"bay kẻ địch."
 
 #. Metal Bat
 msgctxt "#52 name"
 msgid "メタルバット"
-msgstr ""
+msgstr "Dơi Sắt"
 
 #. A large bat monster. A steady 
 #. diet of ore has made its fur 
@@ -868,11 +1068,15 @@ msgid ""
 "鉱物を食べ続けたことによって\n"
 "鋼のような硬度の体毛を持った。"
 msgstr ""
+"Ma thú dơi khổng lồ.\n"
+"Do ăn quá nhiều khoáng sản\n"
+"mà lông cuả chúng đã trở\n"
+"nên cứng như sắt."
 
 #. Death Slugger
 msgctxt "#53 name"
 msgid "デススラッガー"
-msgstr ""
+msgstr "Pháo Chết Chóc"
 
 #. A purgatorial tank that mows
 #. down sinners in its wake. 
@@ -885,11 +1089,15 @@ msgid ""
 "縦横無尽に駆け回り、\n"
 "大砲を撃ちまくる。"
 msgstr ""
+"Chiến xa luyện ngục sẽ\n"
+"càn quét những kẻ tội lỗi.\n"
+"Chúng lăn xả mọi nơi và\n"
+"xả đại bác liên hồi."
 
 #. Demon Rider
 msgctxt "#54 name"
 msgid "デーモンライダー"
-msgstr ""
+msgstr "Chiến Xa Quỷ"
 
 #. Tank made by alchemy, it
 #. can pulverize anything with
@@ -901,11 +1109,15 @@ msgid ""
 "その砲から打ち出される無限回転の鉄球は、如何なる物をも粉砕する。\n"
 "突進技チャリオッツ・ダッシャーで、一撃で屈強な戦士の息の根をも止める。"
 msgstr ""
+"Cỗ chiến xa sinh ra từ thuật\n"
+"giả kim. Đòn xung kích của\n"
+"nó có thể càn quét cả một\n"
+"toán chiến binh hùng mạnh."
 
 #. Phalanx J9
 msgctxt "#55 name"
 msgid "ファランクスJ9"
-msgstr ""
+msgstr "Phalanx J9"
 
 #. A mechanical monster. Has
 #. immense firepower, but all
@@ -916,11 +1128,15 @@ msgid ""
 "高い火力を備えており、\n"
 "その正体は全くの不明。"
 msgstr ""
+"Ma thú máy móc.\n"
+"Sở hữu hỏa lực mạnh mẽ,\n"
+"song lai lịch vẫn còn là\n"
+"một ẩn số."
 
 #. Phalanx J9
 msgctxt "#56 name"
 msgid "ファランクスJ9"
-msgstr ""
+msgstr "Phalanx J9"
 
 #. An archaism designed to aid in
 #. conquering enemy strongholds.
@@ -932,11 +1148,15 @@ msgid ""
 "密集した敵を殲滅する\n"
 "小型ミサイルを積んでいる。"
 msgstr ""
+"Binh khí hình nhân chuyên\n"
+"dùng để trấn áp cứ điểm.\n"
+"Tên lửa nhỏ giúp chúng\n"
+"tiêu diệt kẻ thù co cụm."
 
 #. Phalanx J9
 msgctxt "#57 name"
 msgid "ファランクスJ9"
-msgstr ""
+msgstr "Phalanx J9"
 
 #. An archaism designed to aid in
 #. conquering enemy strongholds.
@@ -948,11 +1168,15 @@ msgid ""
 "密集した敵を殲滅する\n"
 "小型ミサイルを積んでいる。"
 msgstr ""
+"Binh khí hình nhân chuyên\n"
+"dùng để trấn áp cứ điểm.\n"
+"Tên lửa nhỏ giúp chúng\n"
+"tiêu diệt kẻ thù co cụm."
 
 #. Phalanx J9
 msgctxt "#58 name"
 msgid "ファランクスJ9"
-msgstr ""
+msgstr "Phalanx J9"
 
 #. An archaism designed to aid in
 #. conquering enemy strongholds.
@@ -964,11 +1188,15 @@ msgid ""
 "密集した敵を殲滅する\n"
 "小型ミサイルを積んでいる。"
 msgstr ""
+"Binh khí hình nhân chuyên\n"
+"dùng để trấn áp cứ điểm.\n"
+"Tên lửa nhỏ giúp chúng\n"
+"tiêu diệt kẻ thù co cụm."
 
 #. Fate Spinner
 msgctxt "#59 name"
 msgid "フェイトスピナー"
-msgstr ""
+msgstr "Nhện Dệt Mệnh"
 
 #. A menacing monster with two
 #. sharp claws. Attacks with a
@@ -981,11 +1209,15 @@ msgid ""
 "幻覚・発火作用のある\n"
 "凶悪な毒液を吐く。"
 msgstr ""
+"Loài ma thú tà ác sở\n"
+"hữu đôi vuốt sắc bén.\n"
+"Độc của chúng có thể\n"
+"gây cháy và ảo giác."
 
 #. Fate Spinner
 msgctxt "#60 name"
 msgid "フェイトスピナー"
-msgstr ""
+msgstr "Nhện Dệt Mệnh"
 
 #. A menacing monster with two
 #. sharp claws. Attacks with a
@@ -998,11 +1230,15 @@ msgid ""
 "幻覚・発火作用のある\n"
 "凶悪な毒液を吐く。"
 msgstr ""
+"Loài ma thú tà ác sở\n"
+"hữu đôi vuốt sắc bén.\n"
+"Độc của chúng có thể\n"
+"gây cháy và ảo giác."
 
 #. Acerbic Tomartian
 msgctxt "#61 name"
 msgid "にがトマトマン"
-msgstr ""
+msgstr "Cà Chua Đắng Dị"
 
 #. A living acerbic tomato, born
 #. from a sudden mutation. Its
@@ -1015,11 +1251,15 @@ msgid ""
 "途轍もなく苦い果汁は\n"
 "思わず正気を失うほど。"
 msgstr ""
+"Thể đột biến của giống\n"
+"cà chua đắng.\n"
+"Vị của nó đắng đến mức\n"
+"khiến người ta loạn trí."
 
 #. Hellish Tomartian
 msgctxt "#62 name"
 msgid "かれにがトマトマン"
-msgstr ""
+msgstr "Cà Chua Đắng Héo"
 
 #. A mutation of a mutation,
 #. with an obscenely hellish
@@ -1031,11 +1271,15 @@ msgid ""
 "地獄のような辛さまでも\n"
 "兼ね備えてしまった魔獣。"
 msgstr ""
+"Thể siêu biến dị của giống\n"
+"cà chua đắng, nó có thêm\n"
+"vị cay xé lưỡi đến từ địa\n"
+"ngục."
 
 #. Thunder Quaker
 msgctxt "#63 name"
 msgid "サンダークエイク"
-msgstr ""
+msgstr "Cá Lôi Chấn"
 
 #. An ancient fish capable of
 #. producing electricity in its
@@ -1047,11 +1291,15 @@ msgid ""
 "広範囲に激しい放電を行い、\n"
 "すべてを黒コゲにしてしまう。"
 msgstr ""
+"Loài cá cổ đại tích trữ\n"
+"điện trong cơ thể.\n"
+"Nó phóng điện và thiêu\n"
+"rụi mọi thứ trong tầm."
 
 #. Wandering Armor
 msgctxt "#64 name"
 msgid "ワンダーアーマー"
-msgstr ""
+msgstr "Bộ Giáp Lang Thang"
 
 #. A suit of armor from the
 #. Middle Ages that gained the
@@ -1063,11 +1311,15 @@ msgid ""
 "ひとりでに動き出した中世の鎧。\n"
 "相当な防御力を誇っている。"
 msgstr ""
+"Bộ giáp thời Trung Cổ\n"
+"bỗng di chuyển được khi ở\n"
+"trong môi trường đặc thù.\n"
+"Rất chi là cứng cáp."
 
 #. Wandering Sword
 msgctxt "#65 name"
 msgid "ワンダーソード"
-msgstr ""
+msgstr "Kiếm Lang Thang"
 
 #. A sword from the Middle Ages
 #. capable of fighting by itself.
@@ -1079,11 +1331,15 @@ msgid ""
 "侵入者の命を刈り取る\n"
 "必殺の一撃を繰り出す。"
 msgstr ""
+"Thanh kiếm Trung Cổ sở hữu\n"
+"ý chí của riêng mình\n"
+"Chúng có thể lấy mạng kẻ\n"
+"xâm nhập chỉ với một chém."
 
 #. Nosferatu
 msgctxt "#66 name"
 msgid "ノスフェラトゥ"
-msgstr ""
+msgstr "Nosferatu"
 
 #. An immortal king from ancient
 #. legends with authority over
@@ -1096,11 +1352,15 @@ msgid ""
 "生者をその身に取り込み\n"
 "罪なき魂を喰らい尽くす。"
 msgstr ""
+"Vua Bất Tử huyền thoại\n"
+"từ thời Đế Quốc cổ đại.\n"
+"Nó hấp thụ và ngấu nghiến\n"
+"linh hồn của kẻ xấu số."
 
 #. NT-I
 msgctxt "#67 name"
 msgid "ＮＴ－Ⅰ"
-msgstr ""
+msgstr "NT-I"
 
 #. A self-detonating mine set 
 #. by C. Causes a large-scale
@@ -1110,11 +1370,15 @@ msgid ""
 "《Ｃ》の設置した自動機雷。\n"
 "周囲を巻き込んで爆発を起こす。"
 msgstr ""
+"Mìn tự phát nổ được\n"
+"thiết lập bởi C.\n"
+"Nó sẽ gây ra một vụ\n"
+"nổ lớn trong phạm vi."
 
 #. Cursed Sculpture
 msgctxt "#68 name"
 msgid "ガースカルプチュア"
-msgstr ""
+msgstr "Tượng Nguyền Rủa"
 
 #. A devil said to have existed
 #. since the Dark Ages. With its
@@ -1125,11 +1389,15 @@ msgid ""
 "暗黒時代にいたと言われる悪魔。\n"
 "羽根を広げた姿は恐怖の象徴。"
 msgstr ""
+"Ác ma đã từng xuất hiện\n"
+"tại Thời Kỳ Tăm Tối.\n"
+"Đôi cánh dang rộng của nó\n"
+"tượng trưng cho nỗi sợ hãi."
 
 #. Pit Demon
 msgctxt "#69 name"
 msgid "ピットデーモン"
-msgstr ""
+msgstr "Ác Quỷ Hố Sâu"
 
 #. A devil's minion, mentioned in
 #. the Testaments. Charms foes
@@ -1142,11 +1410,15 @@ msgid ""
 "二度と覚めることのない\n"
 "深淵の眠りへと誘う。"
 msgstr ""
+"Kẻ sai dịch của ác ma xuất\n"
+"hiện trong Thánh Điển.\n"
+"Chúng dẫn dụ loài người\n"
+"vào giấc ngủ sâu thẳm."
 
 #. Flying Feline
 msgctxt "#70 name"
 msgid "飛び猫"
-msgstr ""
+msgstr "Mèo Bay"
 
 #. A winged feline monster. 
 #. Relentlessly pursues its
@@ -1158,11 +1430,15 @@ msgid ""
 "執拗に獲物を追いかけ\n"
 "空から連続キックを繰り出す。"
 msgstr ""
+"Ma thú có cánh dạng mèo.\n"
+"Chúng bất chấp săn đuổi\n"
+"con mồi và tấn công liên\n"
+"hoàn từ trên cao."
 
 #. White Feline
 msgctxt "#71 name"
 msgid "白飛び猫"
-msgstr ""
+msgstr "Mèo Trắng Bay"
 
 #. A subspecies of flying feline
 #. with white fur. Once raised 
@@ -1174,11 +1450,15 @@ msgid ""
 "貴族が愛玩用に飼っていたが\n"
 "地下に捨てられて野性化した。"
 msgstr ""
+"Một chủng khác của mèo bay\n"
+"với bộ lông trắng muốt.\n"
+"Chúng từng được quý tộc nuôi,\n"
+"nhưng sau này bị vứt bỏ."
 
 #. Dastardly Amalgam
 msgctxt "#72 name"
 msgid "ダスタードグミ"
-msgstr ""
+msgstr "Kẹo Dẻo Hèn Nhát"
 
 #. A mollusk monster that covers
 #. itself with broken stones and
@@ -1188,11 +1468,14 @@ msgid ""
 "崩れた石材などを身にまとい\n"
 "高い防御力を得た軟体の魔獣。"
 msgstr ""
+"Loài ma thú thân mềm\n"
+"sử dụng những tảng đá vỡ\n"
+"để bao bọc bản thân."
 
 #. Frost Biter
 msgctxt "#73 name"
 msgid "フロストバイター"
-msgstr ""
+msgstr "Kẹo Dẻo Đớp Lạnh"
 
 #. A mollusk monster covered
 #. with very cold minerals. All
@@ -1202,11 +1485,15 @@ msgid ""
 "超低温の鉱物を身に纏う軟体魔獣。\n"
 "触れるもの全てを凍てつかせる。"
 msgstr ""
+"Loài ma thú thân mềm được\n"
+"bao bọc bởi các loại khoáng\n"
+"sản lạnh lẽo.\n"
+"Chạm vào là đông đá như chơi."
 
 #. Coin Beetle
 msgctxt "#74 name"
 msgid "コインビートル"
-msgstr ""
+msgstr "Bọ Đồng Xu"
 
 #. A golden-colored beetle. Its 
 #. carapace is hard like a coin.
@@ -1215,11 +1502,14 @@ msgid ""
 "硬貨のように固い皮膚を持つ。\n"
 "黄金色の甲虫型魔獣。"
 msgstr ""
+"Loài ma thú có màu vàng kim.\n"
+"Lớp vỏ của nó cứng không\n"
+"khác gì một đồng xu."
 
 #. Metal Beetle
 msgctxt "#75 name"
 msgid "メタルビートル"
-msgstr ""
+msgstr "Bọ Thép"
 
 #. A beetle with a metallic
 #. shell. Was once frequently
@@ -1232,11 +1522,15 @@ msgid ""
 "よく鉄鉱石と間違われて\n"
 "発掘されていたという。"
 msgstr ""
+"Loài ma thú với lớp vỏ\n"
+"như được làm bằng thép.\n"
+"Các thợ mỏ thường nhằm\n"
+"chúng với mấy quặng sắt."
 
 #. Attack Dog
 msgctxt "#76 name"
 msgid "アタックドッグ"
-msgstr ""
+msgstr "Chó Hung Hãn"
 
 #. A canine monster with a 
 #. violent temperament. Known
@@ -1247,11 +1541,15 @@ msgid ""
 "気性の荒い犬型魔獣。\n"
 "全身から生えたトゲが特徴。"
 msgstr ""
+"Loài ma thú với\n"
+"tính khí hung hãn.\n"
+"Đặc điểm của chúng là\n"
+"có gai mọc toàn thân."
 
 #. Dark Canine
 msgctxt "#77 name"
 msgid "ドッグザダーク"
-msgstr ""
+msgstr "Chó Săn Bóng Đêm"
 
 #. A nocturnal canine monster
 #. that made its way into the
@@ -1263,11 +1561,15 @@ msgid ""
 "夜行性の犬型魔獣。\n"
 "凶暴な性格で爪には猛毒がある。"
 msgstr ""
+"Loài ma thú hoạt động về đêm\n"
+"đã xâm nhập vào lâu đài cổ.\n"
+"Chúng rất hung hãn với bộ\n"
+"móng vuốt chứa độc tố."
 
 #. Attack Dog G
 msgctxt "#78 name"
 msgid "アタックドッグＧ"
-msgstr ""
+msgstr "Chó Hung Hãn G"
 
 #. The name given to especially
 #. large attack dogs. They are
@@ -1279,11 +1581,15 @@ msgid ""
 "特に巨大な個体をこう呼ぶ。\n"
 "危険度も一回り上。"
 msgstr ""
+"Tên gọi được đặt cho\n"
+"Sói Hung Hãn lớn nhất,\n"
+"và cũng là cá thể\n"
+"nguy hiểm nhất."
 
 #. Blade Horn
 msgctxt "#79 name"
 msgid "ブレードホーン"
-msgstr ""
+msgstr "Bọ Sừng Kiếm"
 
 #. A large insect monster with a
 #. horn resembling a blade. Uses
@@ -1294,11 +1600,15 @@ msgid ""
 "大型の昆虫魔獣。\n"
 "勢いに任せて敵を叩き割る。"
 msgstr ""
+"Loài ma thú hình bọ với\n"
+"chiếc sừng tựa như lưỡi kiếm.\n"
+"Chúng mượn đà lao tới\n"
+"để bổ đôi kẻ địch."
 
 #. Blue Horn
 msgctxt "#80 name"
 msgid "ブルブーン"
-msgstr ""
+msgstr "Bọ Sừng Xanh"
 
 #. A beetle covered with a hard
 #. shell. Knocks prey unconscious
@@ -1309,11 +1619,15 @@ msgid ""
 "自慢の巨角で獲物を\n"
 "突き飛ばし気絶させる。"
 msgstr ""
+"Ma thú bọ với\n"
+"lớp vỏ ngoài cứng cáp.\n"
+"Chúng húc sừng để\n"
+"đánh ngất kẻ địch."
 
 #. Blade Pincer
 msgctxt "#81 name"
 msgid "ハッシムゥ"
-msgstr ""
+msgstr "Bọ Càng Kiếm"
 
 #. An arthropod monster with a 
 #. pair of sharp pincers and a 
@@ -1326,11 +1640,15 @@ msgid ""
 "畑の穀物を食い荒らすため\n"
 "人々に忌み嫌われている。"
 msgstr ""
+"Ma thú cứng cáp với\n"
+"bộ càng kiếm sắc bén.\n"
+"Chúng bị ghét vì phá\n"
+"hoại mùa màng."
 
 #. Steel Ladybug
 msgctxt "#82 name"
 msgid "スティルレディバー"
-msgstr ""
+msgstr "Bọ Bọc Thép"
 
 #. A beetle monster with a shell
 #. of steel. Its sharp claws can
@@ -1341,11 +1659,15 @@ msgid ""
 "鋭いハサミを使って\n"
 "大木をもなぎ倒してしまう。"
 msgstr ""
+"Loài ma thú hình bọ\n"
+"với lớp vỏ thép.\n"
+"Cặp càng của nó có thể\n"
+"đốn cả một cái cây to."
 
 #. Claydoll
 msgctxt "#83 name"
 msgid "ドグドール"
-msgstr ""
+msgstr "Rối Đất Sét"
 
 #. An ancient humanoid that
 #. roams the old schoolhouse's
@@ -1356,11 +1678,14 @@ msgid ""
 "地下を徘徊し侵入者を退ける、\n"
 "正体不明の古代人形。"
 msgstr ""
+"Con rối cổ đại lang thang\n"
+"dưới lòng đất với mục đích\n"
+"đánh đuổi kẻ xâm nhập."
 
 #. Iglute Garmr
 msgctxt "#84 name"
 msgid "イグルートガルム"
-msgstr ""
+msgstr "Iglute Garmr"
 
 #. A stone gargoyle spoken of in
 #. Erebonian legends. Repels
@@ -1373,11 +1698,15 @@ msgid ""
 "強烈な突風を巻き起こして\n"
 "侵入者を吹き飛ばす。"
 msgstr ""
+"Kẻ canh giữ bằng đá từng\n"
+"xuất hiện trong truyền thuyết.\n"
+"Nó tạo ra cơn cuồng phong\n"
+"để thổi bay kẻ địch."
 
 #. Iglute Garmr
 msgctxt "#85 name"
 msgid "イグルートガルム"
-msgstr ""
+msgstr "Iglute Garmr"
 
 #. A stone gargoyle spoken of in
 #. Erebonian legends. Its sturdy
@@ -1389,11 +1718,15 @@ msgid ""
 "凄まじい硬度の体は\n"
 "物理攻撃を弾いてしまう。"
 msgstr ""
+"Kẻ canh giữ bằng đá từng\n"
+"xuất hiện trong truyền thuyết.\n"
+"Cơ thể cứng cáp của nó\n"
+"có thể phản đòn vật lý."
 
 #. Iglute GarmrEVNeck
 msgctxt "#86 name"
 msgid "イグルートガルムEV首"
-msgstr ""
+msgstr "Iglute GarmrEV - Cổ"
 
 #. Guardian of the ruins, 
 #. designed to repel intruders.
@@ -1402,11 +1735,15 @@ msgstr ""
 msgctxt "#86 desc"
 msgid "侵入者撃退用の遺跡の番人。物理攻撃が効きづらい。"
 msgstr ""
+"Kẻ canh giữ có nhiệm vụ\n"
+"đánh đuổi kẻ xâm nhập.\n"
+"Nó chống chọi rất tốt trước\n"
+"các đòn tấn công vật lý."
 
 #. Obsidian Garmr
 msgctxt "#87 name"
 msgid "ネグロガルム"
-msgstr ""
+msgstr "Hắc Garmr"
 
 #. A jet-black stone guardian.
 #. Its powerful tail strikes are
@@ -1418,11 +1755,14 @@ msgid ""
 "圧倒的な巨躯から繰り出される\n"
 "尾の一撃は、全てをなぎ払う。"
 msgstr ""
+"Kẻ canh giữ bằng đá đen tuyền.\n"
+"Những đòn quật đuôi của nó\n"
+"có thể đánh bay mọi thứ."
 
 #. Mantrap
 msgctxt "#88 name"
 msgid "マントラップ"
-msgstr ""
+msgstr "Cây Ăn Thịt"
 
 #. A plant-like monster that
 #. roams highways. Draws 
@@ -1434,11 +1774,15 @@ msgid ""
 "深層から汲み上げられた\n"
 "大地の穢れを敵に吹きかける。"
 msgstr ""
+"Ma thú thực vật lảng\n"
+"vảng trên đường lộ.\n"
+"Chúng hút chất ô nhiễm\n"
+"từ đất và phóng vào kẻ địch."
 
 #. Mad Weed
 msgctxt "#89 name"
 msgid "マッドウィード"
-msgstr ""
+msgstr "Cỏ Điên"
 
 #. A mysterious plant said to
 #. bloom in the abyss. Produces
@@ -1450,11 +1794,15 @@ msgid ""
 "生命力を著しく低下させる\n"
 "穢れた瘴気を無尽蔵に発生させる。"
 msgstr ""
+"Thực vật bí ẩn được cho là\n"
+"sinh ra từ vực thẳm.\n"
+"Chúng phóng ra khí độc\n"
+"gây hại đến sức sống."
 
 #. Venus Mantrap
 msgctxt "#90 name"
 msgid "ヴィナスマントラ"
-msgstr ""
+msgstr "Cây Ăn Thịt Quỷ Dị"
 
 #. A three-headed plant monster.
 #. Stores impurities within its
@@ -1467,11 +1815,15 @@ msgid ""
 "敵対するものには\n"
 "容赦なく吹きつける。"
 msgstr ""
+"Ma thú thực vật ba đầu.\n"
+"Chúng tích tụ chất ô nhiễm\n"
+"trong cơ thể và phóng chúng\n"
+"về phía kẻ địch."
 
 #. Pit Cerberus
 msgctxt "#91 name"
 msgid "ピットケルベロ"
-msgstr ""
+msgstr "Cerberus Hố Sâu"
 
 #. A plant-like monster that
 #. roams the darkness. Blows a
@@ -1483,11 +1835,15 @@ msgid ""
 "獲物の視界を瞬く間に奪う\n"
 "凶悪な瘴気を吹きつける。"
 msgstr ""
+"Ma thú thực vật lảng vảng\n"
+"tại những nơi tăm tối.\n"
+"Chúng phóng ra chướng khí\n"
+"làm mù lòa kẻ địch."
 
 #. Ol-Gadia
 msgctxt "#92 name"
 msgid "オル・ガディア"
-msgstr ""
+msgstr "Thủ Hộ Cổ Đại"
 
 #. A headless knight that 
 #. emerged from within the 
@@ -1500,11 +1856,15 @@ msgid ""
 "何らかの試練として\n"
 "立ちはだかっている。"
 msgstr ""
+"Kỵ sĩ không đầu xuất hiện\n"
+"cùng với cánh cửa đỏ.\n"
+"Nó đóng vai trò như\n"
+"một kẻ thách thức."
 
 #. Ol-Gadia
 msgctxt "#93 name"
 msgid "オル・ガディア"
-msgstr ""
+msgstr "Thủ Hộ Cổ Đại"
 
 #. A headless knight that 
 #. emerged from within the 
@@ -1517,11 +1877,15 @@ msgid ""
 "何らかの試練として\n"
 "立ちはだかっている。"
 msgstr ""
+"Kỵ sĩ không đầu xuất hiện\n"
+"cùng với cánh cửa đỏ.\n"
+"Nó đóng vai trò như\n"
+"một kẻ thách thức."
 
 #. Og-Jior
 msgctxt "#94 name"
 msgid "オグ・ジオール"
-msgstr ""
+msgstr "Og-Giol"
 
 #. Keeper of an ancient ruin,
 #. it forcibly repels intruders. 
@@ -1533,11 +1897,15 @@ msgid ""
 "巨大な鉄の剣でもって、\n"
 "侵入者を砕き散らす。"
 msgstr ""
+"Kẻ canh giữ tan tàn tích cổ.\n"
+"Nó sử dụng thanh kiếm sắt\n"
+"khổng lồ để đánh tan kẻ\n"
+"xâm nhập."
 
 #. Stealth Turtle
 msgctxt "#95 name"
 msgid "ドゴドゴ"
-msgstr ""
+msgstr "Rùa Mai Phục"
 
 #. A ferocious turtle monster.
 #. Hides itself in the shadows
@@ -1549,11 +1917,15 @@ msgid ""
 "茂みの影などに潜み、\n"
 "通りかかる獲物に襲い掛かる。"
 msgstr ""
+"Ma thú rùa hung bạo.\n"
+"Chúng trốn tại những nơi\n"
+"khuất bóng và phục kích\n"
+"những con mồi xấu số."
 
 #. Zaurtoise
 msgctxt "#96 name"
 msgid "ザウタス"
-msgstr ""
+msgstr "Rùa Dữ Dằn"
 
 #. A turtle monster with a hard
 #. shell. It being on the slow
@@ -1566,11 +1938,15 @@ msgid ""
 "獲物を狩って生きてきた\n"
 "凶暴な魔獣の一つ。"
 msgstr ""
+"Một trong những loài\n"
+"ma thú hung bạo nhất.\n"
+"Dù chậm chạp, nhưng chúng\n"
+"vẫn sống tốt tại cao nguyên."
 
 #. Elvavria
 msgctxt "#97 name"
 msgid "エルヴァヴリア"
-msgstr ""
+msgstr "Elvavria"
 
 #. An archaism from the Middle
 #. Ages, armed with numerous
@@ -1583,11 +1959,15 @@ msgid ""
 "戦域全体にビームを照射し\n"
 "全ての敵を麻痺させる。"
 msgstr ""
+"Binh khí hình nhân hùng mạnh\n"
+"tồn tại từ thời Trung Cổ.\n"
+"Chúng làm tê liệt kẻ địch\n"
+"bằng chùm tia sáng dữ dội."
 
 #. Kazakh Doven B
 msgctxt "#98 name"
 msgid "カザックドーベンＢ"
-msgstr ""
+msgstr "Ma Khuyển Cossack B"
 
 #. A military monster trained 
 #. by the provincial army. 
@@ -1599,11 +1979,15 @@ msgid ""
 "統率のとれた連携攻撃で\n"
 "獲物を決して逃がしはしない。"
 msgstr ""
+"Ma thú quân sự được huấn luyện\n"
+"bởi Quân đội Lãnh địa.\n"
+"Không con mồi nào có thể thoát\n"
+"khỏi sự phối hợp của chúng."
 
 #. Kazakh Doven R
 msgctxt "#99 name"
 msgid "カザックドーベンＲ"
-msgstr ""
+msgstr "Ma Khuyển Cossack R"
 
 #. A military monster used by the
 #. provincial army. Rouses allies
@@ -1615,11 +1999,15 @@ msgid ""
 "遠吠えで仲間を奮い立たせ、\n"
 "凄まじい連携攻撃を繰り出す。"
 msgstr ""
+"Ma thú quân sự được huấn luyện\n"
+"bởi Quân đội Lãnh địa.\n"
+"Nó cất tiếng hú để khích lệ\n"
+"đồng đội."
 
 #. Kazakh Doven G
 msgctxt "#100 name"
 msgid "カザックドーベンＧ"
-msgstr ""
+msgstr "Ma Khuyển Cossack G"
 
 #. A military monster released by
 #. the Imperial Liberation Front.
@@ -1631,11 +2019,15 @@ msgid ""
 "固い装甲を破壊するほどの\n"
 "強靭な力を持っている。"
 msgstr ""
+"Ma thú quân sự được thả bởi\n"
+"Trận Tuyến Giải Phóng Đế Quốc.\n"
+"Cú đớp của chúng có thể\n"
+"xuyên thủng cả giáp cứng."
 
 #. Zesvia
 msgctxt "#101 name"
 msgid "ゼスウィア"
-msgstr ""
+msgstr "Zesvia"
 
 #. A spider monster that has
 #. existed since antiquity. 
@@ -1647,11 +2039,15 @@ msgid ""
 "様々な疫病の発生源となり、\n"
 "人々に恐れられた。"
 msgstr ""
+"Ma thú nhện đã tồn tại\n"
+"từ thuở chí kim.\n"
+"Nó là căn nguyên của rất nhiều\n"
+"loại bệnh tật."
 
 #. Ginosha-Zanak
 msgctxt "#102 name"
 msgid "ギノシャ・ザナク"
-msgstr ""
+msgstr "Ginosha-Zanak"
 
 #. Sealed away as an 'evil djinn'
 #. in ancient times. Binds prey 
@@ -1664,11 +2060,15 @@ msgid ""
 "鋼の硬度の糸で生物を縛り、\n"
 "我が子の餌としてしまう。"
 msgstr ""
+"Ma thú cổ xưa đã bị phong\n"
+"ấn dưới dạng Ác Tinh Linh.\n"
+"Nó săn các con mồi để làm\n"
+"thức ăn cho con non."
 
 #. Deathcargot
 msgctxt "#103 name"
 msgid "デスカルゴ"
-msgstr ""
+msgstr "Ốc Sên Quỷ"
 
 #. A land-dwelling mollusk 
 #. monster with a hard shell. 
@@ -1680,11 +2080,15 @@ msgid ""
 "獲物の体力を奪い取り、\n"
 "水のアーツでとどめを刺す。"
 msgstr ""
+"Ma thú thân mềm sống\n"
+"trong lớp vỏ cứng.\n"
+"Chúng hút cạn sức sống và\n"
+"kết liễu con mồi bằng art thủy."
 
 #. Time Snail
 msgctxt "#104 name"
 msgid "ジャークマイマイ"
-msgstr ""
+msgstr "Ốc Sên Tà Ác"
 
 #. A mollusk monster with a
 #. hard shell. Stops prey in 
@@ -1696,11 +2100,15 @@ msgid ""
 "時のアーツで獲物を仕留め\n"
 "ゆっくりと養分を吸い取る。"
 msgstr ""
+"Ma thú thân mềm sống\n"
+"trong lớp vỏ siêu cứng.\n"
+"Nó ra tay bằng art thời gian\n"
+"và hút lấy sức sống kẻ địch."
 
 #. Evil Crow
 msgctxt "#105 name"
 msgid "バドクロウ"
-msgstr ""
+msgstr "Quạ Tàn Ác"
 
 #. An unpleasant bird with a 
 #. distinctive large beak. Has a
@@ -1712,11 +2120,15 @@ msgid ""
 "食欲旺盛で小型の動物なら\n"
 "丸呑みにしてしまうほど。"
 msgstr ""
+"Loài chim quái dị với\n"
+"chiếc mỏ siêu lớn.\n"
+"Chúng loài phàm ăn\n"
+"nuốt trọn các sinh vật nhỏ."
 
 #. Scavenger Crow
 msgctxt "#106 name"
 msgid "ルータークロウ"
-msgstr ""
+msgstr "Quạ Lùng Sục"
 
 #. A strange kind of bird that
 #. lives underground. Spends 
@@ -1728,11 +2140,15 @@ msgid ""
 "珍しい鳥型魔獣。\n"
 "普段は水路の餌を漁っている。"
 msgstr ""
+"Ma thú chim hiếm thấy\n"
+"sống dưới lòng đất.\n"
+"Chúng thường săn cá ở khu\n"
+"vực đường nước ngầm."
 
 #. Ripper Squirrel
 msgctxt "#107 name"
 msgid "リッパースクロウ"
-msgstr ""
+msgstr "Sóc Rạch Mồi"
 
 #. An adorable but deadly 
 #. monster with a sharp tail. 
@@ -1744,11 +2160,15 @@ msgid ""
 "鋭い刃物のような尾を持つ魔獣。\n"
 "その回転攻撃は脅威の一言。"
 msgstr ""
+"Trái ngược với vẻ ngoài\n"
+"đáng yêu, loài ma thú này\n"
+"sở hữu chiếc đuôi sắc như\n"
+"dao cạo."
 
 #. King Dragonfly
 msgctxt "#108 name"
 msgid "ダイオウヤンマ"
-msgstr ""
+msgstr "Chuồn Chuồn Đại Vương"
 
 #. A large dragonfly monster 
 #. that flies around near fields. 
@@ -1760,11 +2180,15 @@ msgid ""
 "巨大な蜻蛉型の魔獣。\n"
 "体内の毒袋からの体液を飛ばす。"
 msgstr ""
+"Ma thú chuồn chuồn bay quanh\n"
+"tại những nơi đồng ruộng.\n"
+"Chúng phun độc trong cơ thể\n"
+"về phía kẻ địch."
 
 #. Crimson Dragonfly
 msgctxt "#109 name"
 msgid "オニアカネ"
-msgstr ""
+msgstr "Chuồn Chuồn Quỷ"
 
 #. A large, red dragonfly 
 #. monster. Sprays lethal 
@@ -1777,11 +2201,14 @@ msgid ""
 "猛毒の飛沫を飛ばすため\n"
 "注意が必要。"
 msgstr ""
+"Ma thú chuồn chuồn đỏ thẫm.\n"
+"Cần cẩn trọng trước những đòn\n"
+"phun độc chết người của nó."
 
 #. Scary Dinosaur
 msgctxt "#110 name"
 msgid "スケイリーダイナ"
-msgstr ""
+msgstr "Khủng Long Kinh Hoàng"
 
 #. A ferocious lizard monster.
 #. Releases sound waves by
@@ -1793,11 +2220,15 @@ msgid ""
 "背びれを震わせて怪音波を発し\n"
 "弱った獲物を噛み砕く。"
 msgstr ""
+"Ma thú khủng long hung tàn.\n"
+"Chúng rung vây lưng để phát ra\n"
+"sóng âm kỳ lạ, sau đó nghiền\n"
+"nát con mồi bằng bộ hàm khủng."
 
 #. Turtle Bug
 msgctxt "#111 name"
 msgid "タートルバグ"
-msgstr ""
+msgstr "Bọ Rùa"
 
 #. An arthropod monster with a 
 #. hard shell. Stores high
@@ -1809,11 +2240,15 @@ msgid ""
 "固い甲殻を持つ節足魔獣。\n"
 "外敵には容赦なくガスを噴く。"
 msgstr ""
+"Loài ma thú chân đốt sở hữu\n"
+"lớp vỏ cứng cáp.\n"
+"Nó sẽ phun khí gas tích tụ\n"
+"trong cơ thể lên kẻ địch."
 
 #. Platinum Bug
 msgctxt "#112 name"
 msgid "プラティナバグ"
-msgstr ""
+msgstr "Bọ Bạch Kim"
 
 #. An arthropod with a carapace 
 #. as hard as stone. Secretes a
@@ -1825,11 +2260,15 @@ msgid ""
 "凄まじい臭気の体液を分泌し\n"
 "外敵を気絶させてしまう。"
 msgstr ""
+"Loài ma thú chân đốt\n"
+"sở hữu lớp vỏ cứng như đá.\n"
+"Chúng tiết ra dịch thối kinh\n"
+"hồn khiến kẻ địch ngất lịm."
 
 #. Hornteater
 msgctxt "#113 name"
 msgid "ホーンティータ"
-msgstr ""
+msgstr "Thú Sừng Ăn Kiến"
 
 #. A monster with a hard carapace
 #. over its back. Impales prey
@@ -1841,11 +2280,15 @@ msgid ""
 "２本のツノを獲物に突き刺して、\n"
 "ゆっくりと長い舌で食らう。"
 msgstr ""
+"Loài ma thú với lớp vỏ cứng.\n"
+"Chúng đâm phập hai chiếc sừng\n"
+"vào con mồi, rôi thong thả\n"
+"đánh chén bằng chiếc lưỡi dài."
 
 #. Brutal Buffa
 msgctxt "#114 name"
 msgid "ブルートバファル"
-msgstr ""
+msgstr "Trâu Tàn Bạo"
 
 #. A buffalo monster that is
 #. always on the move across 
@@ -1857,11 +2300,15 @@ msgid ""
 "住処を転々とする牛型魔獣。\n"
 "温和だが縄張り意識は強い。"
 msgstr ""
+"Ma thú trâu liên tục di chuyển\n"
+"trên cao nguyên rộng lớn.\n"
+"Tuy tính tình hiền hòa, nhưng\n"
+"có tính lãnh thổ rất cao."
 
 #. Anteater
 msgctxt "#115 name"
 msgid "アンティータ"
-msgstr ""
+msgstr "Thú Ăn Kiến"
 
 #. An infant Hornteater. When it
 #. becomes older, it grows horns
@@ -1873,11 +2320,15 @@ msgid ""
 "成長すると巨大な角が生え、\n"
 "硬い甲殻に覆われる。"
 msgstr ""
+"Con non của Thú Sừng Ăn Kiến.\n"
+"Khi trưởng thành, chúng sẽ\n"
+"mọc sừng và hình thành một\n"
+"lớp vỏ cứng sau lưng."
 
 #. Brutal Infant
 msgctxt "#116 name"
 msgid "コブルート"
-msgstr ""
+msgstr "Thú Nhi Tàn Bạo"
 
 #. An infant buffalo monster. 
 #. Gains the ability to move
@@ -1889,11 +2340,15 @@ msgid ""
 "生まれて数時間で立ち上がり\n"
 "群れの移動に自力でついていく。"
 msgstr ""
+"Con non của ma thú trâu.\n"
+"Ngay khi chào đời, nó đã có thể\n"
+"di chuyển cùng bầy đàn và\n"
+"hoạt động suốt nhiều giờ."
 
 #. Infant Drango
 msgctxt "#117 name"
 msgid "コドモドランゴ"
-msgstr ""
+msgstr "Drango Non"
 
 #. A monster that resembles the
 #. dragons in legend. Small in
@@ -1906,11 +2361,15 @@ msgid ""
 "あたりを焼け野原にするだけの\n"
 "ポテンシャルを秘めている。"
 msgstr ""
+"Ma thú có hình tượng rất giống\n"
+"với loài rồng trong truyền thuyết.\n"
+"Tuy còn nhỏ, nhưng nó có thể\n"
+"phun lửa thiêu rụi cả một vùng."
 
 #. Zoro-Agruga
 msgctxt "#118 name"
 msgid "ゾロ・アグルーガ"
-msgstr ""
+msgstr "Zoro-Agruga"
 
 #. A dragon-like fiend from the
 #. Dark Ages made of bone. Sprays
@@ -1923,11 +2382,15 @@ msgid ""
 "闇の息吹を吐き、空間を揺らす\n"
 "絶大な力を持つとされる。"
 msgstr ""
+"Ma thú huyền thoại dưới dạng\n"
+"xương thuộc Thời Kỳ Tăm Tối.\n"
+"Nó phun ra hơi thở bóng đêm\n"
+"và làm rung chuyển không gian."
 
 #. Zwordar
 msgctxt "#119 name"
 msgid "ズウォーダー"
-msgstr ""
+msgstr "Zwordar"
 
 #. A ferocious bird of prey.
 #. Pulls prey upwards with a
@@ -1939,11 +2402,15 @@ msgid ""
 "竜巻を起こして獲物を巻き上げ、\n"
 "鋭い爪で鷲掴みにする。"
 msgstr ""
+"Ma thú săn mồi hung hãn.\n"
+"Nó tạo ra cơn lốc để nâng\n"
+"con mồi lên và tóm lấy\n"
+"chúng bằng bộ vuốt sắc bén."
 
 #. Great Grouse
 msgctxt "#120 name"
 msgid "オオライチョウ"
-msgstr ""
+msgstr "Đại Lôi Điểu"
 
 #. A giant avian monster that
 #. lives in mountainous regions.
@@ -1956,11 +2423,15 @@ msgid ""
 "翼によって起こされる竜巻は\n"
 "生物を八つ裂きにする。"
 msgstr ""
+"Ma thú chim khổng lồ trú ngụ\n"
+"tại những vùng núi cao.\n"
+"Cơn lốc được tạo ra từ đôi cánh\n"
+"có thể băm nhỏ mọi sinh vật."
 
 #. Zwordar
 msgctxt "#121 name"
 msgid "ズウォーダー"
-msgstr ""
+msgstr "Zwordar"
 
 #. A ferocious bird of prey.
 #. Pulls prey upwards with a
@@ -1972,11 +2443,15 @@ msgid ""
 "竜巻を起こして獲物を巻き上げ、\n"
 "鋭い爪で鷲掴みにする。"
 msgstr ""
+"Ma thú săn mồi hung hãn.\n"
+"Nó tạo ra cơn lốc để nâng\n"
+"con mồi lên và tóm lấy\n"
+"chúng bằng bộ vuốt sắc bén."
 
 #. Vampiric Thorn
 msgctxt "#122 name"
 msgid "ヴァンパイアソーン"
-msgstr ""
+msgstr "Gai Hấp Huyết"
 
 #. A strange plant monster. 
 #. Usually lurks underground,
@@ -1989,11 +2464,15 @@ msgid ""
 "捕らえた獲物の血を\n"
 "一滴残らず飲み干す。"
 msgstr ""
+"Ma thú thực vật kỳ dị.\n"
+"Chúng thường ẩn dưới\n"
+"lòng đất, tóm lấy con mồi\n"
+"và hút cạn máu."
 
 #. Greedy Reaper
 msgctxt "#123 name"
 msgid "グリードリーパー"
-msgstr ""
+msgstr "Hấp Huyết Tham Lam"
 
 #. A worm monster that lurks
 #. underground. Its body is
@@ -2005,11 +2484,15 @@ msgid ""
 "硬い装甲に覆われた体を持ち、\n"
 "噛み付いた獲物のHPを吸収する。"
 msgstr ""
+"Ma thú ẩn mình dưới lòng đất.\n"
+"Cơ thể của chúng được bao bọc\n"
+"trong một lớp giáp cứng.\n"
+"Chúng cắn và hút HP con mồi."
 
 #. Hydra
 msgctxt "#124 name"
 msgid "タトージャ"
-msgstr ""
+msgstr "Hydra"
 
 #. A serpent monster with many
 #. heads, each acting separately.
@@ -2022,11 +2505,15 @@ msgid ""
 "取り合うように獲物を貪るため\n"
 "あとには骨すら残らない。"
 msgstr ""
+"Ma thú rắn nhiều đầu.\n"
+"Mỗi cái đầu đều có nhận thức\n"
+"riêng, chúng xâu xé con mồi\n"
+"đến mức không còn gì."
 
 #. Thunder Hydra
 msgctxt "#125 name"
 msgid "サンダーハイドラ"
-msgstr ""
+msgstr "Hydra Sấm Sét"
 
 #. A serpent fiend with many
 #. heads. Sprays lightning 
@@ -2038,11 +2525,15 @@ msgid ""
 "体内で雷を発生させることで\n"
 "稲妻のブレスを吐く。"
 msgstr ""
+"Ma thú rắn nhiều đầu.\n"
+"Nó tích điện trong cơ thể\n"
+"và phun ra những luồng\n"
+"hơi thở sấm sét."
 
 #. Thunder Loach
 msgctxt "#126 name"
 msgid "サンダーローチ"
-msgstr ""
+msgstr "Lôi Chạch"
 
 #. An infant fish capable of
 #. producing electricity with its
@@ -2053,11 +2544,15 @@ msgid ""
 "帯電する魚型魔獣の幼生だが、\n"
 "触角を使った電撃は侮れない。"
 msgstr ""
+"Con non của loài cá tích điện.\n"
+"Dù chỉ là con non, nhưng vẫn\n"
+"không thể xem thường những\n"
+"đòn phóng điện từ nó."
 
 #. Grunoja
 msgctxt "#127 name"
 msgid "グルノージャ"
-msgstr ""
+msgstr "Grunoja"
 
 #. Ruler of Lunaria Nature Park,
 #. it attacks those who enter
@@ -2070,11 +2565,15 @@ msgid ""
 "その巨体からの凄まじい連打で\n"
 "敵を木っ端微塵に叩き潰す。"
 msgstr ""
+"Kẻ thống trị Công viên.\n"
+"Tự nhiên Lunaria\n"
+"Bấy kỳ ai xâm phạm lãnh thổ\n"
+"đều sẽ bị nghiền nát."
 
 #. Crocodark
 msgctxt "#128 name"
 msgid "サメゲーター"
-msgstr ""
+msgstr "Cá Mập Sấu"
 
 #. An amphibian monster that 
 #. lives near water. Its appetite
@@ -2086,11 +2585,15 @@ msgid ""
 "鋼鉄さえをも引き千切る顎で\n"
 "獰猛な食欲を満たす。"
 msgstr ""
+"Ma thú lưỡng cư sống\n"
+"tại vùng sông nước.\n"
+"Bộ hàm của nó có thể\n"
+"xé toạc cả sắt thép."
 
 #. Hippogriff
 msgctxt "#129 name"
 msgid "ヒポグリフ"
-msgstr ""
+msgstr "Bằng Mã"
 
 #. A large bird that hunts on
 #. the highlands. Its talons
@@ -2102,11 +2605,15 @@ msgid ""
 "屍肉に塗れた爪には毒性があり、\n"
 "燃え盛る火炎の息まで吐く。"
 msgstr ""
+"Một loài chim lớn chuyên\n"
+"săn mồi trên cao nguyên.\n"
+"Chúng sở hữu bộ vuốt\n"
+"độc tố và có thể phun lửa."
 
 #. Roc
 msgctxt "#130 name"
 msgid "ルフ"
-msgstr ""
+msgstr "Roc"
 
 #. A cunning, ferocious bird 
 #. that hunts on the mountain
@@ -2119,11 +2626,15 @@ msgid ""
 "氷の息吹で獲物を凍てつかせ、\n"
 "巣に持ち帰って保存するという。"
 msgstr ""
+"Loài quái điểu chuyên\n"
+"rình rập trên đường núi.\n"
+"Chúng đóng băng con mồi,\n"
+"tha về tổ để tích trữ thức ăn."
 
 #. Tri-Attacker R2
 msgctxt "#131 name"
 msgid "トライアタッカーR2"
-msgstr ""
+msgstr "Tri-Attacker R2"
 
 #. A patrol archaism released by
 #. the Imperial Liberation Front.
@@ -2136,11 +2647,15 @@ msgid ""
 "小回りの利く哨戒タイプで\n"
 "機銃やミサイルも搭載している。"
 msgstr ""
+"Binh khí hình nhân do Trận\n"
+"Tuyến Giải Phóng tung ra.\n"
+"Chúng rất cơ động, được trang\n"
+"bị súng máy lẫn tên lửa."
 
 #. Tri-Attacker HG
 msgctxt "#132 name"
 msgid "トライアタッカーHG"
-msgstr ""
+msgstr "Tri-Attacker HG"
 
 #. A patrol archaism released by
 #. the Imperial Liberation Front.
@@ -2153,11 +2668,15 @@ msgid ""
 "広範囲に電磁波を拡散し\n"
 "敵の防御力と行動力を削ぐ。"
 msgstr ""
+"Binh khí hình nhân do Trận\n"
+"Tuyến Giải Phóng tung ra.\n"
+"Chúng làm suy giảm phòng ngự\n"
+"và tốc độ của kẻ địch."
 
 #. Tri-Attacker R2
 msgctxt "#133 name"
 msgid "トライアタッカーR2"
-msgstr ""
+msgstr "Tri-Attacker R2"
 
 #. A patrol archaism released by
 #. the Imperial Liberation Front.
@@ -2170,11 +2689,15 @@ msgid ""
 "小回りの利く哨戒タイプで\n"
 "機銃やミサイルも搭載している。"
 msgstr ""
+"Binh khí hình nhân do Trận\n"
+"Tuyến Giải Phóng tung ra.\n"
+"Chúng rất cơ động, được trang\n"
+"bị súng máy lẫn tên lửa."
 
 #. Tri-Attacker HG
 msgctxt "#134 name"
 msgid "トライアタッカーHG"
-msgstr ""
+msgstr "Tri-Attacker HG"
 
 #. A patrol archaism released by
 #. the Imperial Liberation Front.
@@ -2187,11 +2710,15 @@ msgid ""
 "広範囲に電磁波を拡散し\n"
 "敵の防御力と行動力を削ぐ。"
 msgstr ""
+"Binh khí hình nhân do Trận\n"
+"Tuyến Giải Phóng tung ra.\n"
+"Chúng làm suy giảm phòng ngự\n"
+"và tốc độ của kẻ địch."
 
 #. Tri-Attacker R2
 msgctxt "#135 name"
 msgid "トライアタッカーR2"
-msgstr ""
+msgstr "Tri-Attacker R2"
 
 #. A patrol archaism released by
 #. the Imperial Liberation Front.
@@ -2204,11 +2731,15 @@ msgid ""
 "小回りの利く哨戒タイプで\n"
 "機銃やミサイルも搭載している。"
 msgstr ""
+"Binh khí hình nhân do Trận\n"
+"Tuyến Giải Phóng tung ra.\n"
+"Chúng rất cơ động, được trang\n"
+"bị súng máy lẫn tên lửa."
 
 #. Tri-Attacker HG
 msgctxt "#136 name"
 msgid "トライアタッカーHG"
-msgstr ""
+msgstr "Tri-Attacker HG"
 
 #. A patrol archaism released by
 #. the Imperial Liberation Front.
@@ -2221,11 +2752,15 @@ msgid ""
 "広範囲に電磁波を拡散し\n"
 "敵の防御力と行動力を削ぐ。"
 msgstr ""
+"Binh khí hình nhân do Trận\n"
+"Tuyến Giải Phóng tung ra.\n"
+"Chúng làm suy giảm phòng ngự\n"
+"và tốc độ của kẻ địch."
 
 #. Unsurtr
 msgctxt "#137 name"
 msgid "アンスルト"
-msgstr ""
+msgstr "Unsurtr"
 
 #. A giant beast with a body
 #. covered in ice. Freezes
@@ -2236,11 +2771,15 @@ msgid ""
 "凍える吹雪を発生させて\n"
 "あらゆるものを凍てつかせる。"
 msgstr ""
+"Quái thú khổng lồ được\n"
+"bao bọc trong băng giá.\n"
+"Nó tạo ra bão buyết đóng\n"
+"băng tất thảy mọi thứ."
 
 #. Durgnessa
 msgctxt "#138 name"
 msgid "ドゥルグネッサ"
-msgstr ""
+msgstr "Durgnessa"
 
 #. A massive, mountain-like
 #. fiend. Being trampled by
@@ -2252,11 +2791,15 @@ msgid ""
 "超重量にまかせた踏み付けは\n"
 "あらゆるものを潰してしまう。"
 msgstr ""
+"Ma vật với kích cỡ không\n"
+"thua kém gì một ngọn núi.\n"
+"Nó dựa vào trọng lượng để\n"
+"nghiền nát mọi thứ."
 
 #. Dancing Owl
 msgctxt "#139 name"
 msgid "ダンシングオゥル"
-msgstr ""
+msgstr "Cú Nhảy"
 
 #. Avian monster with beautiful
 #. wings. Those who witness its
@@ -2268,11 +2811,15 @@ msgid ""
 "その不思議な踊りを見たものは\n"
 "様々な状態異常に陥る。"
 msgstr ""
+"Ma thú chim với đôi cánh sặc sỡ.\n"
+"Những kẻ trông thấy điệu nhảy\n"
+"của nó sẽ phải hứng chịu những\n"
+"trạng thái bất ổn."
 
 #. Gespard
 msgctxt "#140 name"
 msgid "ゲシュパード"
-msgstr ""
+msgstr "Gespard"
 
 #. An assault archaism. Can deal
 #. with foes in a wide area due
@@ -2285,11 +2832,15 @@ msgid ""
 "高い威力を誇る主砲を備え\n"
 "広範囲の敵に対応できる。"
 msgstr ""
+"Binh khí hình nhân xung kích.\n"
+"Chúng sở hữu cánh tay máy\n"
+"linh hoạt cùng pháo chính\n"
+"mang sức công phá vượt trội."
 
 #. Gespard G
 msgctxt "#141 name"
 msgid "ゲシュパードＧ"
-msgstr ""
+msgstr "Gespard G"
 
 #. An assault archaism made 
 #. by Ouroboros. Charges 
@@ -2302,11 +2853,15 @@ msgid ""
 "敵陣に突っ込み、\n"
 "広範囲攻撃で一気に殲滅する。"
 msgstr ""
+"Binh khí hình nhân được\n"
+"chế tạo bởi Tổ Chức.\n"
+"Chúng lao thẳng vào kẻ địch\n"
+"và càn quét mọi thứ."
 
 #. Moon Mole
 msgctxt "#142 name"
 msgid "ツキノワモグラ"
-msgstr ""
+msgstr "Chuột Trăng"
 
 #. A mole monster that lives 
 #. in the sealed mine shaft. 
@@ -2319,11 +2874,15 @@ msgid ""
 "鋭い爪は土を掘り進む以外に、\n"
 "獲物を切り刻むのにも使う。"
 msgstr ""
+"Ma thú chuột chũi sống trong\n"
+"hầm mỏ bị phong tỏa.\n"
+"Ngoài đào đất, chúng còn sử\n"
+"dụng móng để xé xác con mồi."
 
 #. Jelly Shroom
 msgctxt "#143 name"
 msgid "クラゲダケ"
-msgstr ""
+msgstr "Sứa Nấm"
 
 #. A massively swollen fungus.
 #. Paralyzes organisms that
@@ -2335,11 +2894,15 @@ msgid ""
 "近づいてくる生物を麻痺させて\n"
 "ゆっくりと養分を吸いとる。"
 msgstr ""
+"Chủng nấm khổng lồ lơ lửng.\n"
+"Nó sẽ làm tê liệt sinh vật đến\n"
+"gần và hút chầm chậm hút lấy\n"
+"dinh dưỡng từ chúng."
 
 #. Rose Shroom
 msgctxt "#144 name"
 msgid "ロゼリアキノコ"
-msgstr ""
+msgstr "Nấm Hoa Hồng"
 
 #. A mollusk formed from several
 #. pink spores. Possesses a 
@@ -2352,11 +2915,15 @@ msgid ""
 "強い神経毒を持ち、触れると\n"
 "麻痺した上に養分を吸われる。"
 msgstr ""
+"Ma thú thân mềm hình thành\n"
+"từ bào tử nấm hồng.\n"
+"Chất động thần kinh của chúng\n"
+"gây tê liệt mạnh khi chạm vào."
 
 #. Gold Fungus
 msgctxt "#145 name"
 msgid "ゴルドフングス"
-msgstr ""
+msgstr "Nấm Vàng"
 
 #. A spore monster that became 
 #. massively enlarged due to 
@@ -2369,11 +2936,15 @@ msgid ""
 "坑道の一つを封鎖させる\n"
 "きっかけを作った。"
 msgstr ""
+"Ma thú bào tử đã phát triển\n"
+"thành thể khổng lồ.\n"
+"Đây cũng là một trong những\n"
+"lý do mà hầm mỏ bị phong tỏa."
 
 #. Bomb Spider
 msgctxt "#146 name"
 msgid "ボムスパイダー"
-msgstr ""
+msgstr "Nhện Bom"
 
 #. An arthropod monster that eats
 #. wreckage left by explosions. 
@@ -2386,11 +2957,15 @@ msgid ""
 "危険を感じると毒液の詰まった\n"
 "背中の気嚢を破裂させる。"
 msgstr ""
+"Ma thú chân đốt ăn những\n"
+"mảnh vỡ còn sót lại sau vụ nổ.\n"
+"Khi cảm thấy nguy hiểm, chúng\n"
+"sẽ giải phóng chất độc trên lưng."
 
 #. Lantern Spider
 msgctxt "#147 name"
 msgid "アンドングモ"
-msgstr ""
+msgstr "Nhện Đèn"
 
 #. An arthropod monster with an
 #. air sac that gives off a pale
@@ -2403,11 +2978,15 @@ msgid ""
 "毒性の強い液体が詰まっており\n"
 "不用意に近づいてはいけない。"
 msgstr ""
+"Ma thú chân đốt sở hữu túi khí\n"
+"phát sáng trắng xanh kỳ lạ.\n"
+"Túi khí này tích tụ chất độc\n"
+"cực mạnh."
 
 #. Ostrich
 msgctxt "#148 name"
 msgid "ダッチョーノ"
-msgstr ""
+msgstr "Đà Đểu"
 
 #. A strange bird that races
 #. around on non-paved 
@@ -2419,11 +2998,15 @@ msgid ""
 "縦横無尽に駆け回る怪鳥。\n"
 "その息吹で獲物を石化させる。"
 msgstr ""
+"Loài chim dị liên tục chạy nhảy\n"
+"trên đồng cỏ cao nguyên.\n"
+"Hơi thở của chúng có thể\n"
+"hóa đá con mồi."
 
 #. Stony Croaker
 msgctxt "#149 name"
 msgid "イシゲェロ"
-msgstr ""
+msgstr "Ếch Đá Ộp Ộp"
 
 #. A large, frog-like monster with
 #. skin like rock. Draws in prey
@@ -2436,11 +3019,15 @@ msgid ""
 "長い舌で遠くの獲物を引き寄せ、\n"
 "粘液を吐いて自由を奪う。"
 msgstr ""
+"Ma thú ếch khổng lồ\n"
+"sở hữu lớp da cứng như đá.\n"
+"Nó dùng lưỡi để kéo con mồi\n"
+"và khống chế chúng."
 
 #. Rocky Croaker
 msgctxt "#150 name"
 msgid "オオイシゲェロ"
-msgstr ""
+msgstr "Ếch Đá Siêu To"
 
 #. A large, frog-like monster. 
 #. Its skin is as hard as iron,
@@ -2452,11 +3039,15 @@ msgid ""
 "食べているためか、\n"
 "皮膚は鉄の鎧のように硬い。"
 msgstr ""
+"Ma thú ếch khổng lồ.\n"
+"Do ăn đá tảng thay cơm,\n"
+"nên da của nó đã trở nên\n"
+"cứng như sắt."
 
 #. Zephyranthes
 msgctxt "#151 name"
 msgid "ゼフィランサス"
-msgstr ""
+msgstr "Zephyranthes"
 
 #. A large archaism designed for
 #. defending strongholds. Reduces
@@ -2468,11 +3059,15 @@ msgid ""
 "特殊なレーザーで敵戦力を削り、\n"
 "搭載した大火力で攻撃してくる。"
 msgstr ""
+"Binh khí hình nhân chuyên\n"
+"dùng để phòng thủ cứ điểm.\n"
+"Nó vô hiệu kẻ địch bằng tia\n"
+"laser và hỏa lực bất tận."
 
 #. G-Zephyranthes
 msgctxt "#152 name"
 msgid "Ｇ・ゼフィランサス"
-msgstr ""
+msgstr "G-Zephyranthes"
 
 #. A large, golden archaism. 
 #. Supports C with powerful 
@@ -2485,11 +3080,15 @@ msgid ""
 "広範囲を攻撃する衝撃波で\n"
 "《Ｃ》を護衛する。"
 msgstr ""
+"Binh khí hình nhân hoàng kim.\n"
+"Nó hỗ trợ C bằng các đòn sóng\n"
+"kích diện rộng và tia laser\n"
+"áp đảo."
 
 #. B-Zephyranthes
 msgctxt "#153 name"
 msgid "Ｂ・ゼフィランサス"
-msgstr ""
+msgstr "B-Zephyranthes"
 
 #. A large archaism designed 
 #. for defending strongholds. 
@@ -2502,11 +3101,15 @@ msgid ""
 "改良された青色の機体で\n"
 "凄まじい火力を誇る。"
 msgstr ""
+"Binh khí hình nhân chuyên\n"
+"dùng để phòng thủ cứ điểm.\n"
+"Bản cải tiến này sở hữu\n"
+"hỏa lực khôn lường."
 
 #. R-Zephyranthes
 msgctxt "#154 name"
 msgid "Ｒ・ゼフィランサス"
-msgstr ""
+msgstr "R-Zephyranthes"
 
 #. A red archaism strengthened
 #. to support the ILF's leaders.
@@ -2518,11 +3121,15 @@ msgid ""
 "幹部護衛用に改良が施された、\n"
 "より高性能・高火力の機体。"
 msgstr ""
+"Binh khí hình nhân đỏ thẫm.\n"
+"Nó được cải tiến về nhiều mặt,\n"
+"bao gồm phòng ngự và hỏa\n"
+"lực chết người."
 
 #. Zephyranthes
 msgctxt "#155 name"
 msgid "ゼフィランサス"
-msgstr ""
+msgstr "Zephyranthes"
 
 #. A large archaism designed for
 #. defending strongholds. Reduces
@@ -2534,11 +3141,15 @@ msgid ""
 "特殊なレーザーで敵戦力を削り、\n"
 "搭載した大火力で攻撃してくる。"
 msgstr ""
+"Binh khí hình nhân chuyên\n"
+"dùng để phòng thủ cứ điểm.\n"
+"Nó vô hiệu kẻ địch bằng tia\n"
+"laser và hỏa lực bất tận."
 
 #. Combat Shell
 msgctxt "#156 name"
 msgid "戦術殻α"
-msgstr ""
+msgstr "Vỏ Chiến Thuật α"
 
 #. A combat dummy that didn't 
 #. get used in the game.
@@ -2550,11 +3161,15 @@ msgid ""
 "不思議な質感をしており、\n"
 "プログラムされた攻撃を行う。"
 msgstr ""
+"Cuối cùng mới có một bộ anime\n"
+"mà nhân vật chính đúng chuẩn\n"
+"hình mẫu lý tưởng của tao. \n"
+"- Ayanokouji"
 
 #. Winged Snake
 msgctxt "#157 name"
 msgid "戦術殻β"
-msgstr ""
+msgstr "Vỏ Chiến Thuật β"
 
 #. A winged snake that flies
 #. around on the Nord Highlands.
@@ -2566,11 +3181,15 @@ msgid ""
 "変形したことでより強力な\n"
 "攻撃を行えるようになった。"
 msgstr ""
+"Rối chiến đấu vận hành\n"
+"bằng cơ chế bí ẩn.\n"
+"Sau khi chuyển đổi hình thái,\n"
+"nó đã trở nên mạnh hơn."
 
 #. Diving Ananta
 msgctxt "#158 name"
 msgid "戦術殻γ"
-msgstr ""
+msgstr "戦術殻 γ"
 
 #. A serpent monster containing
 #. deadly poison. Plunges its
@@ -2582,11 +3201,15 @@ msgid ""
 "実戦レベルの戦闘を想定した\n"
 "高い防御と攻撃を誇る形態。"
 msgstr ""
+"Rối chiến đấu vận hành\n"
+"bằng cơ chế bí ẩn.\n"
+"Nó được thiết kế cho các tình\n"
+"huống chiến đấu thực tế."
 
 #. Stone Golem
 msgctxt "#159 name"
 msgid "戦術殻β"
-msgstr ""
+msgstr "Vỏ Chiến Thuật β"
 
 #. A golem created from stone
 #. which appears in Erebonian
@@ -2598,6 +3221,10 @@ msgid ""
 "変形したことでより強力な\n"
 "攻撃を行えるようになった。"
 msgstr ""
+"Rối chiến đấu vận hành\n"
+"bằng cơ chế bí ẩn.\n"
+"Sau khi chuyển đổi hình thái,\n"
+"nó đã trở nên mạnh hơn."
 
 #. Steel Golem
 msgctxt "#160 name"
@@ -3461,10 +4088,15 @@ msgid ""
 "てから捕食する。"
 msgstr ""
 
+#. Aldovoss
 msgctxt "#214 name"
 msgid "アルドヴォス"
 msgstr ""
 
+#. A hard-shelled fiend that
+#. appeared from deep in a mine.
+#. Pulverizes all those who come
+#. near with its powerful arms.
 msgctxt "#214 desc"
 msgid ""
 "鉱山の奥深くから現れた、\n"
@@ -3473,10 +4105,15 @@ msgid ""
 "完膚なきまでに叩き潰す。"
 msgstr ""
 
+#. Bozuonga
 msgctxt "#215 name"
 msgid "ボズオンガ"
 msgstr ""
 
+#. Leader of a group of primates.
+#. Swings its axe with incredible
+#. force, summoning minions by
+#. roaring.
 msgctxt "#215 desc"
 msgid ""
 "群れのリーダー格たる大猿の魔物\n"
@@ -3485,10 +4122,15 @@ msgid ""
 "手下のコボンガを呼ぶ。"
 msgstr ""
 
+#. Aldovoss
 msgctxt "#216 name"
 msgid "アルドヴォス"
 msgstr ""
 
+#. A hard-shelled fiend that
+#. appeared from deep in a mine.
+#. Pulverizes all those who come
+#. near with its powerful arms.
 msgctxt "#216 desc"
 msgid ""
 "鉱山の奥深くから現れた、\n"
@@ -3497,10 +4139,15 @@ msgid ""
 "完膚なきまでに叩き潰す。"
 msgstr ""
 
+#. Bozuonga
 msgctxt "#217 name"
 msgid "ボズオンガ"
 msgstr ""
 
+#. Leader of a group of primates.
+#. Swings its axe with incredible
+#. force, summoning minions by
+#. roaring.
 msgctxt "#217 desc"
 msgid ""
 "群れのリーダー格たる大猿の魔物\n"
