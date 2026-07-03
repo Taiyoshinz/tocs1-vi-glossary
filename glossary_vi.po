@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-03 14:47+0000\n"
+"PO-Revision-Date: 2026-07-04 09:09+0000\n"
 "Last-Translator: Weblate Admin <weblate@example.com>\n"
 "Language-Team: Vietnamese <http://localhost:8080/projects/sen-no-kiseki-1/"
 "glossary/vi/>\n"
@@ -1369,3 +1369,6 @@ msgstr "Thánh Điển"
 
 msgid "平民院"
 msgstr "Viện Thứ dân"
+
+msgid "冥界"
+msgstr "minh giới"
