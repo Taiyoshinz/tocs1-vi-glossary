@@ -3229,7 +3229,7 @@ msgstr ""
 #. Winged Snake
 msgctxt "#160 name"
 msgid "ウィングスネイク"
-msgstr ""
+msgstr "Rắn Bay"
 
 #. A winged snake that flies
 #. around on the Nord Highlands.
@@ -3242,11 +3242,15 @@ msgid ""
 "その牙には毒があり\n"
 "集落の人間も注意している。"
 msgstr ""
+"Ma thú rắn có cắn sinh sống\n"
+"tại Cao Nguyên Nord.\n"
+"Người của bộ lạc rất cẩn trọng\n"
+"trước cặp nanh độc của nó."
 
 #. Diving Ananta
 msgctxt "#161 name"
 msgid "デプスアナンタ"
-msgstr ""
+msgstr "Ananta Vực Thẳm"
 
 #. A serpent monster containing
 #. deadly poison. Plunges its
@@ -3258,11 +3262,15 @@ msgid ""
 "蝙蝠のような羽根を用いて\n"
 "中空から牙を突き立てる。"
 msgstr ""
+"Ma thú rắn có độc chết người.\n"
+"Chúng dang chiếc cánh và lao\n"
+"xuống cắm phập răng nanh\n"
+"vào kẻ địch."
 
 #. Stone Golem
 msgctxt "#162 name"
 msgid "ストーンゴーレム"
-msgstr ""
+msgstr "Golem Đá"
 
 #. A golem created from stone
 #. which appears in Erebonian
@@ -3275,11 +3283,15 @@ msgid ""
 "大地を踏みつけて巨大な地震を\n"
 "起こすことが出来る。"
 msgstr ""
+"Golem truyền thuyết từng xuất\n"
+"hiện trong sử sách của Đế quốc.\n"
+"Nó có thể tạo ra những cơn địa\n"
+"chấn kinh hoàng."
 
 #. Steel Golem
 msgctxt "#163 name"
 msgid "アイアンゴーレム"
-msgstr ""
+msgstr "Golem Sắt"
 
 #. A magical golem born by
 #. giving life to steel. Causes 
@@ -3291,11 +3303,15 @@ msgid ""
 "地盤を揺るがせるほどの\n"
 "大激震を引き起こす。"
 msgstr ""
+"Golem dẫn lực sinh ra từ sắt\n"
+"thép được trao sự sống.\n"
+"Nó tạo ra cơn đại địa chấn\n"
+"làm rung chuyển một vùng."
 
 #. Dissolution Slug
 msgctxt "#164 name"
 msgid "ディゾルスラッグ"
-msgstr ""
+msgstr "Sên Ăn Mòn"
 
 #. A mollusk monster with
 #. countless feelers. Uses 
@@ -3307,11 +3323,14 @@ msgid ""
 "強酸性の液体を蓄えており\n"
 "獲物をじわじわ溶かして食べる。"
 msgstr ""
+"Ma thú với vô số xúc tu.\n"
+"Chúng dùng axit để hòa tan\n"
+"và ngấu nghiến con mồi."
 
 #. Diglem
 msgctxt "#165 name"
 msgid "ディグレム"
-msgstr ""
+msgstr "Diglem"
 
 #. A stone statue allowed to move
 #. because of the strange force
@@ -3324,11 +3343,15 @@ msgid ""
 "宝玉から身体能力を低下させる\n"
 "不気味な光線を放つ。"
 msgstr ""
+"Bức tượng cổ thức tỉnh dưới\n"
+"tác động từ môi trường bí ẩn.\n"
+"Nó phóng ra luồng sáng\n"
+"làm suy yếu kẻ địch."
 
 #. Star Lambda
 msgctxt "#166 name"
 msgid "スターラムダ"
-msgstr ""
+msgstr "Sao Lambda"
 
 #. A stone statue granted life by
 #. a mysterious power. Lowers 
@@ -3340,11 +3363,15 @@ msgid ""
 "呪いの力が込められた光線で\n"
 "敵対者の身体能力を低下させる。"
 msgstr ""
+"Bức tượng được trao sự sống\n"
+"bởi thứ sức mạnh bí ẩn.\n"
+"Chúng sử dụng tia sáng nguyền\n"
+"rủa để làm suy yếu kẻ địch."
 
 #. Stone Stalker
 msgctxt "#167 name"
 msgid "ストークス"
-msgstr ""
+msgstr "Đá Theo Đuổi"
 
 #. A four-legged stone creature.
 #. When it sees an enemy, it
@@ -3356,11 +3383,15 @@ msgid ""
 "敵を発見すると近づいていき、\n"
 "その重量を頭上から叩きつける。"
 msgstr ""
+"Sinh vật đá bốn chân.\n"
+"Chúng sẽ tiếp cận kẻ địch khi\n"
+"phát hiện và dùng trọng lượng\n"
+"của mình để giáng xuống từ cao."
 
 #. Ghoul Frog
 msgctxt "#168 name"
 msgid "グールフロッグ"
-msgstr ""
+msgstr "Cóc Ngạ Quỷ"
 
 #. A mass of dead monsters. 
 #. Has exceptional regenerative
@@ -3370,11 +3401,15 @@ msgid ""
 "魔獣の屍肉の集合体。\n"
 "自己再生能力に優れている。"
 msgstr ""
+"Tập hợp xác chết của\n"
+"vô số ma thú.\n"
+"Sở hữu khả năng tái tạo\n"
+"siêu việt."
 
 #. Polyjelly
 msgctxt "#169 name"
 msgid "ポリプルン"
-msgstr ""
+msgstr "Sứa Đa Sắc"
 
 #. A floating spore creature from
 #. another world. Those who touch
@@ -3384,11 +3419,15 @@ msgid ""
 "宙を漂う異界の胞子生物。\n"
 "触れたものを石と化してしまう。"
 msgstr ""
+"Sinh vật bào tử đến từ\n"
+"thế giới khác.\n"
+"Những kẻ chạm vào nó\n"
+"sẽ bị hóa đá."
 
 #. Hell Rabbit
 msgctxt "#170 name"
 msgid "ヘルラビット"
-msgstr ""
+msgstr "Thỏ Địa Ngục"
 
 #. A monster said to have come
 #. from the underworld. Those
@@ -3400,16 +3439,20 @@ msgid ""
 "トゲを突き立てられた者は\n"
 "たちまちその魂を失うという。"
 msgstr ""
+"Ma thú đến từ minh giới.\n"
+"Kẻ nào bị những chiếc gai\n"
+"của nó đâm phải sẽ bị\n"
+"tước đi linh hồn."
 
-#. Purple Ooze
+#. Ramon
 msgctxt "#171 name"
 msgid "ラモン"
 msgstr ""
 
-#. A strange lifeform from
-#. another world. Can drain large
-#. amounts of HP, EP, and CP,
-#. making it a difficult foe.
+#. A fiend with black fur, said
+#. to be a servant of Gehenna.
+#. Appears before those who have
+#. little time left to live.
 msgctxt "#171 desc"
 msgid ""
 "黒いたてがみを持つ魔物。\n"
@@ -3417,15 +3460,14 @@ msgid ""
 "死期が近づく者の前に現れる。"
 msgstr ""
 
-#. Hinomikoto
+#. Glaceron
 msgctxt "#172 name"
 msgid "グラケロン"
 msgstr ""
 
-#. A beast with boiling hot 
-#. blood. Deified by some.
-#. Charges foes with its burning
-#. horns and uses fire arts.
+#. A large turtle with a stone-
+#. like carapace. Sprays rocks
+#. from its back to repel foes.
 msgctxt "#172 desc"
 msgid ""
 "岩のような甲羅を持つ巨亀。\n"
@@ -3433,15 +3475,15 @@ msgid ""
 "噴出して外敵を退ける。"
 msgstr ""
 
-#. Rup Kamuy
+#. Lunar Bee
 msgctxt "#173 name"
 msgid "ムーンザビー"
 msgstr ""
 
-#. A beast that roams places
-#. that are extremely cold. Said
-#. to rule over ice and snow. Its
-#. antlers freeze foes on contact.
+#. A bee-like fiend capable
+#. of crossing dimensions. Its
+#. highly lethal poison makes it
+#. incredibly dangerous.
 msgctxt "#173 desc"
 msgid ""
 "異次元を飛ぶ蜂の魔物。\n"
@@ -3449,15 +3491,15 @@ msgid ""
 "猛毒を持っており、非常に危険。"
 msgstr ""
 
-#. Minos Demon
+#. Purple Ooze
 msgctxt "#174 name"
 msgid "パープルウーズ"
 msgstr ""
 
-#. A powerful, two-horned, evil
-#. creature. Obscures foes' 
-#. vision with dark breath and
-#. then pulverizes them.
+#. A strange lifeform from
+#. another world. Can drain large
+#. amounts of HP, EP, and CP,
+#. making it a difficult foe.
 msgctxt "#174 desc"
 msgid ""
 "異界より現れた謎の生命体。\n"
@@ -3465,15 +3507,15 @@ msgid ""
 "厄介な能力を備えている。"
 msgstr ""
 
-#. Minos Demon
+#. Hinomikoto
 msgctxt "#175 name"
 msgid "ヒノミコト"
 msgstr ""
 
-#. A powerful, two-horned, evil
-#. creature. Obscures foes' 
-#. vision with dark breath and
-#. then pulverizes them.
+#. A beast with boiling hot 
+#. blood. Deified by some.
+#. Charges foes with its burning
+#. horns and uses fire arts.
 msgctxt "#175 desc"
 msgid ""
 "灼熱の血が流れると言われ、\n"
@@ -3482,15 +3524,15 @@ msgid ""
 "火のアーツまで使用する。"
 msgstr ""
 
-#. Surtr
+#. Rup Kamuy
 msgctxt "#176 name"
 msgid "ルプカムイ"
 msgstr ""
 
-#. A demi-human fiend that
-#. governs fire. Its sword is
-#. made of fire so hot, it can
-#. boil steel.
+#. A beast that roams places
+#. that are extremely cold. Said
+#. to rule over ice and snow. Its
+#. antlers freeze foes on contact.
 msgctxt "#176 desc"
 msgid ""
 "極寒の地を渡り歩く獣。\n"
@@ -3499,15 +3541,15 @@ msgid ""
 "骨の髄まで凍りつく。"
 msgstr ""
 
-#. Ashen Fragment
+#. Minos Demon
 msgctxt "#177 name"
 msgid "ミノスデーモン"
 msgstr ""
 
-#. Fragment of the Ashen Power.
-#. Lulls would-be intruders of
-#. the realm to sleep, where they
-#. experience nightmares.
+#. A powerful, two-horned, evil
+#. creature. Obscures foes' 
+#. vision with dark breath and
+#. then pulverizes them.
 msgctxt "#177 desc"
 msgid ""
 "強靭な膂力を誇る２本角の悪鬼。\n"
@@ -3515,15 +3557,15 @@ msgid ""
 "恐怖に怯える獲物を叩き潰す。"
 msgstr ""
 
-#. Loa Erebonius
+#. Minos Demon
 msgctxt "#178 name"
 msgid "ミノスデーモン"
 msgstr ""
 
-#. A shadow of the Great Power
-#. which appeared on the 
-#. Otherworldly Battlefield.
-#. Carries out the Final Trial.
+#. A powerful, two-horned, evil
+#. creature. Obscures foes' 
+#. vision with dark breath and
+#. then pulverizes them.
 msgctxt "#178 desc"
 msgid ""
 "強靭な膂力を誇る２本角の悪鬼。\n"
@@ -3531,15 +3573,15 @@ msgid ""
 "恐怖に怯える獲物を叩き潰す。"
 msgstr ""
 
-#. Patrick
+#. Surtr
 msgctxt "#179 name"
 msgid "スルト"
 msgstr ""
 
-#. Third son of Marquis Hyarms.
-#. Exceptionally skilled with a
-#. sword thanks to his high-
-#. quality education.
+#. A demi-human fiend that
+#. governs fire. Its sword is
+#. made of fire so hot, it can
+#. boil steel.
 msgctxt "#179 desc"
 msgid ""
 "炎を司る亜人の魔物。\n"
@@ -3547,15 +3589,15 @@ msgid ""
 "鋼鉄すら沸騰させるほど。"
 msgstr ""
 
-#. G (Gideon)
+#. Ashen Fragment
 msgctxt "#180 name"
 msgid "ピースオブパワー"
 msgstr ""
 
-#. A man belonging to an unknown
-#. organization who hired the
-#. jaeger dropouts. Supports
-#. allies with high-level arts.
+#. Fragment of the Ashen Power.
+#. Lulls would-be intruders of
+#. the realm to sleep, where they
+#. experience nightmares.
 msgctxt "#180 desc"
 msgid ""
 "“灰色のチカラ”の断片。\n"
@@ -3563,15 +3605,15 @@ msgid ""
 "悪夢へと誘う。"
 msgstr ""
 
-#. S (Scarlet)
+#. Loa Erebonius
 msgctxt "#181 name"
 msgid "ロア・エレボニウス"
 msgstr ""
 
-#. A bewitching Imperial 
-#. Liberation Front executive.
-#. Torments and slaughters 
-#. foes with a templar sword.
+#. A shadow of the Great Power
+#. which appeared on the 
+#. Otherworldly Battlefield.
+#. Carries out the Final Trial.
 msgctxt "#181 desc"
 msgid ""
 "異界の戦場に顕現した\n"
@@ -3580,15 +3622,15 @@ msgid ""
 "『最後の試し』を執行する。"
 msgstr ""
 
-#. V (Vulcan)
+#. Patrick
 msgctxt "#182 name"
 msgid "パトリック"
 msgstr ""
 
-#. One of the Imperial Liberation
-#. Front's executives. Consumed
-#. by hatred as he slaughters
-#. foes with a huge gatling gun.
+#. Third son of Marquis Hyarms.
+#. Exceptionally skilled with a
+#. sword thanks to his high-
+#. quality education.
 msgctxt "#182 desc"
 msgid ""
 "四大名門ハイアームズ家の三男。\n"
@@ -3596,15 +3638,15 @@ msgid ""
 "侮れない剣の実力を備える。"
 msgstr ""
 
-#. Viscount Arseid
+#. G (Gideon)
 msgctxt "#183 name"
 msgid "《Ｃ》"
 msgstr ""
 
-#. The Arseid school's foremost
-#. practitioner known as the
-#. Radiant Blademaster. Wields a
-#. sword with inhuman strength.
+#. A man belonging to an unknown
+#. organization who hired the
+#. jaeger dropouts. Supports
+#. allies with high-level arts.
 msgctxt "#183 desc"
 msgid ""
 "テロリストを率いる、\n"
