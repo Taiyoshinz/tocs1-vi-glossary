@@ -3638,15 +3638,15 @@ msgid ""
 "侮れない剣の実力を備える。"
 msgstr ""
 
-#. G (Gideon)
+#. C
 msgctxt "#183 name"
 msgid "《Ｃ》"
 msgstr ""
 
-#. A man belonging to an unknown
-#. organization who hired the
-#. jaeger dropouts. Supports
-#. allies with high-level arts.
+#. A mysterious masked man who
+#. leads the terrorists. Wields
+#. a double saber with immense
+#. skill, using varied attacks.
 msgctxt "#183 desc"
 msgid ""
 "テロリストを率いる、\n"
@@ -3655,7 +3655,7 @@ msgid ""
 "数々の技を繰り出す。"
 msgstr ""
 
-#. Butler Klaus
+#. C
 msgctxt "#184 name"
 msgid "《Ｃ》"
 msgstr ""
@@ -3666,21 +3666,21 @@ msgstr ""
 #. school.
 msgctxt "#184 desc"
 msgid ""
-"帝国解放戦線を率いる、\n"
-"謎に包まれた仮面の男。\n"
-"双刃剣を巧みに操り\n"
-"数々の技を繰り出す。"
+#. A mysterious masked man who
+#. leads the terrorists. Wields
+#. a double saber with immense
+#. skill, using varied attacks.
 msgstr ""
 
-#. Fake Park Ranger
+#. G (Gideon)
 msgctxt "#185 name"
 msgid "Ｇ－ギデオン"
 msgstr ""
 
-#. A fake park ranger at Lunaria
-#. Nature Park, responsible for
-#. the burglary at the market.
-#. Equipped with a rifle.
+#. A man belonging to an unknown
+#. organization who hired the
+#. jaeger dropouts. Supports
+#. allies with high-level arts.
 msgctxt "#185 desc"
 msgid ""
 "何らかの組織に身を置く\n"
@@ -3689,15 +3689,15 @@ msgid ""
 "後方からの支援攻撃を行う。"
 msgstr ""
 
-#. Noble Student
+#. S (Scarlet)
 msgctxt "#186 name"
 msgid "Ｓ－スカーレット"
 msgstr ""
 
-#. A member of Class I who spends
-#. time around Patrick. Seeks to
-#. demonstrate the spirit and
-#. dignity of the nobility.
+#. A bewitching Imperial 
+#. Liberation Front executive.
+#. Torments and slaughters 
+#. foes with a templar sword.
 msgctxt "#186 desc"
 msgid ""
 "帝国解放戦線の妖艶なる幹部。\n"
@@ -3705,15 +3705,15 @@ msgid ""
 "敵を翻弄して血祭りにあげる。"
 msgstr ""
 
-#. Noble Student
+#. V (Vulcan)
 msgctxt "#187 name"
 msgid "Ｖ－ヴァルカン"
 msgstr ""
 
-#. A member of Class I who spends
-#. time around Patrick. Seeks to
-#. demonstrate the spirit and
-#. dignity of the nobility.
+#. One of the Imperial Liberation
+#. Front's executives. Consumed
+#. by hatred as he slaughters
+#. foes with a huge gatling gun. 
 msgctxt "#187 desc"
 msgid ""
 "帝国解放戦線の巨漢の幹部。\n"
@@ -3722,15 +3722,15 @@ msgid ""
 "苛烈な殲滅攻撃を行う。"
 msgstr ""
 
-#. Noble Student
+#. Viscount Arseid
 msgctxt "#188 name"
 msgid "アルゼイド子爵"
 msgstr ""
 
-#. A member of Class I who spends
-#. time around Patrick. Seeks to
-#. demonstrate the spirit and
-#. dignity of the nobility.
+#. The Arseid school's foremost
+#. practitioner known as the
+#. Radiant Blademaster. Wields a
+#. sword with inhuman strength.
 msgctxt "#188 desc"
 msgid ""
 "アルゼイド流の筆頭にして\n"
@@ -3739,15 +3739,15 @@ msgid ""
 "人の域を超えた絶技を繰り出す。"
 msgstr ""
 
-#. Alan
+#. Butler Klaus
 msgctxt "#189 name"
 msgid "執事クラウス"
 msgstr ""
 
-#. A first-year student belonging
-#. to the Fencing Club. What he
-#. lacks in skill he makes up for
-#. with determination.
+#. An elderly butler who serves
+#. Viscount Arseid. Serves as 
+#. acting master of the Arseid
+#. school.
 msgctxt "#189 desc"
 msgid ""
 "子爵邸に仕える老執事。\n"
@@ -3755,14 +3755,15 @@ msgid ""
 "老いを凌駕する剣技を魅せる。"
 msgstr ""
 
-#. P. Army Soldier
+#. Fake Park Ranger
 msgctxt "#190 name"
 msgid "偽管理員"
 msgstr ""
 
-#. An elite soldier belonging to
-#. the Kreuzen Provincial Army.
-#. Well trained and proud.
+#. A fake park ranger at Lunaria
+#. Nature Park, responsible for
+#. the burglary at the market.
+#. Equipped with a rifle.
 msgctxt "#190 desc"
 msgid ""
 "大市で盗難事件を起こした\n"
@@ -3770,14 +3771,15 @@ msgid ""
 "ライフルで武装している。"
 msgstr ""
 
-#. P. Army Soldier
+#. Noble Student
 msgctxt "#191 name"
 msgid "貴族生徒"
 msgstr ""
 
-#. An elite soldier belonging to
-#. the Kreuzen Provincial Army.
-#. Well trained and proud.
+#. A member of Class I who spends
+#. time around Patrick. Seeks to
+#. demonstrate the spirit and
+#. dignity of the nobility.
 msgctxt "#191 desc"
 msgid ""
 "パトリックと行動を共にする\n"
@@ -3785,15 +3787,15 @@ msgid ""
 "その剣で帝国貴族の気風を示す。"
 msgstr ""
 
-#. Terrorist - Gun
+#. Noble Student
 msgctxt "#192 name"
 msgid "貴族生徒"
 msgstr ""
 
-#. An Imperial Liberation Front
-#. member equipped with a small
-#. automatic rifle. Believes that
-#. the end justifies the means.
+#. A member of Class I who spends
+#. time around Patrick. Seeks to
+#. demonstrate the spirit and
+#. dignity of the nobility.
 msgctxt "#192 desc"
 msgid ""
 "パトリックと行動を共にする\n"
@@ -3801,15 +3803,15 @@ msgid ""
 "その剣で帝国貴族の気風を示す。"
 msgstr ""
 
-#. Terrorist - Sword
+#. Noble Student
 msgctxt "#193 name"
 msgid "貴族生徒"
 msgstr ""
 
-#. An Imperial Liberation Front
-#. member. Driven by loathing for
-#. Chancellor Osborne, and fights
-#. using a sword.
+#. A member of Class I who spends
+#. time around Patrick. Seeks to
+#. demonstrate the spirit and
+#. dignity of the nobility.
 msgctxt "#193 desc"
 msgid ""
 "パトリックと行動を共にする\n"
@@ -3817,15 +3819,15 @@ msgid ""
 "その剣で帝国貴族の気風を示す。"
 msgstr ""
 
-#. Terrorist - Gun
+#. Alan
 msgctxt "#194 name"
 msgid "アラン"
 msgstr ""
 
-#. An Imperial Liberation Front
-#. member equipped with a small
-#. automatic rifle. Believes that
-#. the end justifies the means.
+#. A first-year student belonging
+#. to the Fencing Club. What he
+#. lacks in skill he makes up for
+#. with determination.
 msgctxt "#194 desc"
 msgid ""
 "フェンシング部の１年生。\n"
@@ -3833,15 +3835,14 @@ msgid ""
 "瞳の奥に強い意志をたたえる。"
 msgstr ""
 
-#. Terrorist - Sword
+#. P. Army Soldier
 msgctxt "#195 name"
 msgid "領邦軍兵士"
 msgstr ""
 
-#. An Imperial Liberation Front
-#. member. Driven by loathing for
-#. Chancellor Osborne, and fights
-#. using a sword.
+#. An elite soldier belonging to
+#. the Kreuzen Provincial Army.
+#. Well trained and proud.
 msgctxt "#195 desc"
 msgid ""
 "クロイツェン州領邦軍の兵士。\n"
@@ -3849,15 +3850,14 @@ msgid ""
 "誇りを以って侵入者を撃退する。"
 msgstr ""
 
-#. Jaeger Dropout
+#. P. Army Soldier
 msgctxt "#196 name"
 msgid "領邦軍兵士"
 msgstr ""
 
-#. An armed former jaeger hired
-#. by Gideon. Lives the lifestyle
-#. of a mercenary, risking his
-#. life for mira.
+#. An elite soldier belonging to
+#. the Kreuzen Provincial Army.
+#. Well trained and proud.
 msgctxt "#196 desc"
 msgid ""
 "クロイツェン州領邦軍の兵士。\n"
@@ -3865,15 +3865,15 @@ msgid ""
 "誇りを以って侵入者を撃退する。"
 msgstr ""
 
-#. Azure Knight
+#. Terrorist - Gun
 msgctxt "#197 name"
 msgid "帝国解放戦線・小銃"
 msgstr ""
 
-#. Knight by the name of Ordine, 
-#. with Crow as its Awakener. 
-#. Fights with a double saber,
-#. completely free of hesitation.
+#. An Imperial Liberation Front
+#. member equipped with a small
+#. automatic rifle. Believes that
+#. the end justifies the means.
 msgctxt "#197 desc"
 msgid ""
 "自動小銃を装備した\n"
@@ -3882,15 +3882,15 @@ msgid ""
 "どんな犠牲をも厭わない。"
 msgstr ""
 
-#. Drakkhen
+#. Terrorist - Sword
 msgctxt "#198 name"
 msgid "帝国解放戦線・剣"
 msgstr ""
 
-#. A giant humanoid weapon made
-#. by Reinford's 5th Development
-#. Division. Mobile and strong,
-#. it revolutionizes warfare.
+#. An Imperial Liberation Front
+#. member. Driven by loathing for
+#. Chancellor Osborne, and fights
+#. using a sword.
 msgctxt "#198 desc"
 msgid ""
 "帝国解放戦線のメンバー。\n"
@@ -3898,15 +3898,15 @@ msgid ""
 "原動力として剣を振るう。"
 msgstr ""
 
-#. Drakkhen
+#. Terrorist - Gun
 msgctxt "#199 name"
 msgid "帝国解放戦線・小銃"
 msgstr ""
 
-#. A giant humanoid weapon made
-#. by Reinford's 5th Development
-#. Division. Mobile and strong,
-#. it revolutionizes warfare.
+#. An Imperial Liberation Front
+#. member equipped with a small
+#. automatic rifle. Believes that
+#. the end justifies the means.
 msgctxt "#199 desc"
 msgid ""
 "自動小銃を装備した\n"
@@ -3915,15 +3915,15 @@ msgid ""
 "どんな犠牲をも厭わない。"
 msgstr ""
 
-#. Drakkhen
+#. Terrorist - Sword
 msgctxt "#200 name"
 msgid "帝国解放戦線・剣"
 msgstr ""
 
-#. A giant humanoid weapon made
-#. by Reinford's 5th Development
-#. Division. Mobile and strong,
-#. it revolutionizes warfare.
+#. An Imperial Liberation Front
+#. member. Driven by loathing for
+#. Chancellor Osborne, and fights
+#. using a sword.
 msgctxt "#200 desc"
 msgid ""
 "帝国解放戦線のメンバー。\n"
@@ -3931,14 +3931,15 @@ msgid ""
 "原動力として剣を振るう。"
 msgstr ""
 
-#. Spiegel
+#. Jaeger Dropout
 msgctxt "#201 name"
 msgid "猟兵崩れ"
 msgstr ""
 
-#. A special Soldat operated by
-#. Scarlet. Uses reactive armor
-#. to nullify enemy attacks.
+#. An armed former jaeger hired
+#. by Gideon. Lives the lifestyle
+#. of a mercenary, risking his
+#. life for mira.
 msgctxt "#201 desc"
 msgid ""
 "ギデオンに雇われた武装集団。\n"
@@ -3946,15 +3947,15 @@ msgid ""
 "傭兵稼業に明け暮れている。"
 msgstr ""
 
-#. Spiegel
+#. Azure Knight
 msgctxt "#202 name"
 msgid "蒼の騎神"
 msgstr ""
 
-#. A special Soldat operated by
-#. Scarlet. Equipped with heavy
-#. weaponry designed to be able
-#. to destroy tanks.
+#. Knight by the name of Ordine, 
+#. with Crow as its Awakener. 
+#. Fights with a double saber,
+#. completely free of hesitation.
 msgctxt "#202 desc"
 msgid ""
 "クロウを起動者とする\n"
@@ -3963,15 +3964,15 @@ msgid ""
 "一片の迷いなく双刃剣を振るう。"
 msgstr ""
 
-#. Spiegel
+#. Drakkhen
 msgctxt "#203 name"
 msgid "ドラッケン"
 msgstr ""
 
-#. A special Soldat operated by
-#. Scarlet. Equipped with heavy
-#. weaponry designed to be able
-#. to destroy tanks.
+#. A giant humanoid weapon made
+#. by Reinford's 5th Development
+#. Division. Mobile and strong,
+#. it revolutionizes warfare.
 msgctxt "#203 desc"
 msgid ""
 "ラインフォルト第五開発部が\n"
@@ -3980,14 +3981,15 @@ msgid ""
 "戦場に革命をもたらす。"
 msgstr ""
 
-#. Spiegel
+#. Drakkhen
 msgctxt "#204 name"
 msgid "ドラッケン"
 msgstr ""
 
-#. A special Soldat operated by
-#. Scarlet. Uses reactive armor
-#. to nullify enemy attacks.
+#. A giant humanoid weapon made
+#. by Reinford's 5th Development
+#. Division. Mobile and strong,
+#. it revolutionizes warfare.
 msgctxt "#204 desc"
 msgid ""
 "ラインフォルト第五開発部が\n"
@@ -3997,13 +3999,15 @@ msgid ""
 "戦場に革命をもたらす。"
 msgstr ""
 
-#. Enemy
+#. Drakkhen
 msgctxt "#205 name"
 msgid "ドラッケン"
 msgstr ""
 
-#. A generic enemy for debug
-#. purposes. Completely average.
+#. A giant humanoid weapon made
+#. by Reinford's 5th Development
+#. Division. Mobile and strong,
+#. it revolutionizes warfare.
 msgctxt "#205 desc"
 msgid ""
 "ラインフォルト第五開発部が\n"
@@ -4013,13 +4017,14 @@ msgid ""
 "戦場に革命をもたらす。"
 msgstr ""
 
-#. Strong Enemy
+#. Spiegel
 msgctxt "#206 name"
 msgid "シュピーゲル"
 msgstr ""
 
-#. A generic strong enemy for
-#. debug purposes. Reckless type.
+#. A special Soldat operated by
+#. Scarlet. Uses reactive armor
+#. to nullify enemy attacks.
 msgctxt "#206 desc"
 msgid ""
 "スカーレットが操縦する\n"
@@ -4028,14 +4033,14 @@ msgid ""
 "あらゆる攻撃を無効化する。"
 msgstr ""
 
-#. Boss
+#. Spiegel
 msgctxt "#207 name"
 msgid "シュピーゲル"
 msgstr ""
 
-#. A generic boss enemy for debug
-#. purposes. A mass of bones that
-#. would make dogs happy.
+#. A special Soldat operated by
+#. Scarlet. Uses reactive armor
+#. to nullify enemy attacks.
 msgctxt "#207 desc"
 msgid ""
 "スカーレットが操縦する\n"
@@ -4043,13 +4048,14 @@ msgid ""
 "対戦車用の強力な装備を搭載する。"
 msgstr ""
 
-#. Parts Test (Body)
+#. Spiegel
 msgctxt "#208 name"
 msgid "シュピーゲル"
 msgstr ""
 
-#. Body parts test character
-#. (body)
+#. A special Soldat operated by
+#. Scarlet. Uses reactive armor
+#. to nullify enemy attacks.
 msgctxt "#208 desc"
 msgid ""
 "スカーレットが操縦する\n"
@@ -4057,12 +4063,14 @@ msgid ""
 "対戦車用の強力な装備を搭載する。"
 msgstr ""
 
-#. MXA
+#. Spiegel
 msgctxt "#209 name"
 msgid "シュピーゲル"
 msgstr ""
 
-#. Parts Test (Part)
+#. A special Soldat operated by
+#. Scarlet. Uses reactive armor
+#. to nullify enemy attacks.
 msgctxt "#209 desc"
 msgid ""
 "スカーレットが操縦する\n"
@@ -4071,58 +4079,55 @@ msgid ""
 "あらゆる攻撃を無効化する。"
 msgstr ""
 
-#. Drome
+#. Enemy
 msgctxt "#210 name"
 msgid "ザコ"
 msgstr ""
 
-#. A mollusk known for its cold
-#. body. Freezes small animals
-#. with cold air before feeding
-#. on them.
+#. A generic enemy for debug
+#. purposes. Completely average.
 msgctxt "#210 desc"
 msgid ""
 "デバッグ用ザコモンスター。\n"
 "平均的な奴。"
 msgstr ""
 
-#. Crop Muncher
+#. Strong Enemy
 msgctxt "#211 name"
 msgid "強ザコ"
 msgstr ""
 
-#. A monster that devours 
-#. crops in large groups.
+#  A generic strong enemy for
+#. debug purposes. Reckless type.
 msgctxt "#211 desc"
 msgid ""
 "デバッグ用強ザコモンスター。\n"
 "猪突猛進型。"
 msgstr ""
 
-#. Aldovoss
+#. Boss
 msgctxt "#212 name"
 msgid "ボス"
 msgstr ""
 
-#. A hard-shelled fiend that
-#. appeared from deep in a mine.
-#. Pulverizes all those who come
-#. near with its powerful arms.
+#. A generic boss enemy for debug
+#. purposes. A mass of bones that
+#. would make dogs happy.
 msgctxt "#212 desc"
 msgid ""
 "デバッグ用ボスモンスター。\n"
 "犬が喜ぶ骨っこ集合体。"
 msgstr ""
 
-#. Bozuonga
+#. Drome
 msgctxt "#213 name"
 msgid "ドローメ"
 msgstr ""
 
-#. Leader of a group of primates.
-#. Swings its axe with incredible
-#. force, summoning minions by 
-#. roaring.
+#. A mollusk known for its cold
+#. body. Freezes small animals
+#. with cold air before feeding
+#. on them.
 msgctxt "#213 desc"
 msgid ""
 "冷たい体が特徴の軟体\n"
