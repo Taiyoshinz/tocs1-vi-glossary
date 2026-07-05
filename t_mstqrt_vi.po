@@ -8,929 +8,929 @@ msgstr ""
 #. Killing enemies restores CP
 msgctxt "#0 memo"
 msgid "敵に止めを刺すとCP上昇"
-msgstr ""
+msgstr "Hồi CP khi đánh bại kẻ địch"
 
 #. CP+%g per enemy killed
 msgctxt "#1 memo"
 msgid "１体ごとにCP+%g"
-msgstr ""
+msgstr "CP+%g với mỗi kẻ địch bị đánh bại"
 
 #. Restores CP when HP is low
 msgctxt "#2 memo"
 msgid "ピンチ時にCP上昇"
-msgstr ""
+msgstr "Hồi CP khi HP thấp"
 
 #. CP+%g
 msgctxt "#3 memo"
 msgid "CP+%g"
-msgstr ""
+msgstr "CP+%g"
 
 #. Once per fight when below 20%% HP
 msgctxt "#4 memo"
 msgid "HP20％以下で発動(戦闘中１度)"
-msgstr ""
+msgstr "Phát động khi HP dưới 20%% (chỉ một lần)"
 
 #. Raises STR when HP is low
 msgctxt "#5 memo"
 msgid "ピンチ時に｢ＳＴＲアップ｣"
-msgstr ""
+msgstr "Tăng SM khi HP thấp"
 
 #. %g turns of STR+%g％
 msgctxt "#6 memo"
 msgid "%gターンの間、STR+%g％"
-msgstr ""
+msgstr "Trong %g lượt, SM +%g％"
 
 #. Once per fight when below 20%% HP
 msgctxt "#7 memo"
 msgid "HP20％以下で発動(戦闘中１度)"
-msgstr ""
+msgstr "Phát động khi HP dưới 20%% (chỉ một lần)"
 
 #. Increases potency of healing arts
 msgctxt "#8 memo"
 msgid "ＨＰ回復アーツの効果がアップ"
-msgstr ""
+msgstr "Tăng hiệu quả của art hồi phục"
 
 #. Amount healed multiplied by %g
 msgctxt "#9 memo"
 msgid "回復量%g倍"
-msgstr ""
+msgstr "Lượng hồi phục tăng %g lần"
 
 #. Begin battle with gradual HP regen
 msgctxt "#10 memo"
 msgid "戦闘開始時に｢HP徐々に回復｣"
-msgstr ""
+msgstr "Hồi dần HP khi bắt đầu trận chiến"
 
 #. Recover 30%% of max HP for %g turns
 msgctxt "#11 memo"
 msgid "%gターンの間、HP30％回復"
-msgstr ""
+msgstr "Hồi 30%% HP trong %g lượt"
 
 #. Gradual HP regen when HP is low
 msgctxt "#12 memo"
 msgid "ピンチ時に｢HP徐々に回復｣"
-msgstr ""
+msgstr "Hồi HP theo thời gian khi gặp nguy"
 
 #. Recover 30%% of max HP for %g turns
 msgctxt "#13 memo"
 msgid "%gターンの間、HP30％回復"
-msgstr ""
+msgstr "Hồi 30%% HP trong %g lượt"
 
 #. Once per fight when below 20%% HP
 msgctxt "#14 memo"
 msgid "HP20％以下で発動(戦闘中１度)"
-msgstr ""
+msgstr "Phát động khi HP dưới 20%% (chỉ một lần)"
 
 #. Begin battle with insight status
 msgctxt "#15 memo"
 msgid "戦闘開始時に｢心眼｣"
-msgstr ""
+msgstr "Nhận Tâm Nhãn khi bắt đầu trận chiến"
 
 #. Lasts for %g turns
 msgctxt "#16 memo"
 msgid "効果時間、%gターン"
-msgstr ""
+msgstr "Tồn tại trong %g lượt"
 
 #. Evasion up
 msgctxt "#17 memo"
 msgid "回避率アップ"
-msgstr ""
+msgstr "Tăng Né Tránh"
 
 #. Evasion+%g％
 msgctxt "#18 memo"
 msgid "回避率+%g％"
-msgstr ""
+msgstr "Né Tránh +%g％"
 
 #. Attacks/crafts deal critical damage
 msgctxt "#19 memo"
 msgid "通常攻撃･クラフトが｢クリティカル｣"
-msgstr ""
+msgstr "Tấn công/craft gây trí mạng"
 
 #. %g％ chance
 msgctxt "#20 memo"
 msgid "発生確率%g％"
-msgstr ""
+msgstr "%g％ tỉ lệ"
 
 #. Automatically recover from K.O.
 msgctxt "#21 memo"
 msgid "戦闘不能の直前に｢起死回生｣"
-msgstr ""
+msgstr "Hồi sinh sau Gục Ngã"
 
 #. Recover %g％ HP, CP+%g
 msgctxt "#22 memo"
 msgid "HP%g％回復 CP+%g"
-msgstr ""
+msgstr "Hồi %g％ HP, CP+%g"
 
 #. Activates once per battle
 msgctxt "#23 memo"
 msgid "戦闘中１度のみ発動"
-msgstr ""
+msgstr "Phát động một lần mỗi trận"
 
 #. Recover %g％ HP/EP, CP+%g
 msgctxt "#24 memo"
 msgid "HP･EP%g％回復 CP+%g"
-msgstr ""
+msgstr "Hồi %g％ HP/EP, CP+%g"
 
 #. Activates twice per battle
 msgctxt "#25 memo"
 msgid "戦闘中２度発動"
-msgstr ""
+msgstr "Phát động hai lần mỗi trận"
 
 #. Gradual HP regen when HP is low
 msgctxt "#26 memo"
 msgid "ピンチ時に｢HP徐々に回復｣"
-msgstr ""
+msgstr "Hồi HP theo thời gian khi gặp nguy"
 
 #. Lasts for %g turns
 msgctxt "#27 memo"
 msgid "効果時間、%gターン"
-msgstr ""
+msgstr "Tồn tại trong %g lượt"
 
 #. Once per fight when under 20%% HP
 msgctxt "#28 memo"
 msgid "HP20％以下で発動(戦闘中１度)"
-msgstr ""
+msgstr "Phát động khi HP dưới 20%% (chỉ một lần)"
 
 #. Delay after space arts reduced
 msgctxt "#29 memo"
 msgid "空属性アーツ発動後の硬直時間減少"
-msgstr ""
+msgstr "Giảm thời gian chờ sau khi sử dụng art thời gian"
 
 #. Delay reduced by %g％
 msgctxt "#30 memo"
 msgid "硬直時間%g％カット"
-msgstr ""
+msgstr "Thời gian chờ giảm %g％"
 
 #. Begin battle with STR raised
 msgctxt "#31 memo"
 msgid "戦闘開始時に｢STRアップ｣"
-msgstr ""
+msgstr "Tăng SM khi bắt đầu trận chiến"
 
 #. %g turns of STR+%g％
 msgctxt "#32 memo"
 msgid "%gターンの間、STR+%g％"
-msgstr ""
+msgstr "Trong %g lượt, SM +%g％"
 
 #. Raises STR when HP is low
 msgctxt "#33 memo"
 msgid "ピンチ時に｢STRアップ｣"
-msgstr ""
+msgstr "Tăng SM khi gặp nguy"
 
 #. %g turns of STR+%g％
 msgctxt "#34 memo"
 msgid "%gターンの間、STR+%g％"
-msgstr ""
+msgstr "Trong %g lượt, SM +%g％"
 
 #. Once per fight when below 20%% HP
 msgctxt "#35 memo"
 msgid "HP20％以下で発動(戦闘中１度)"
-msgstr ""
+msgstr "Phát động khi HP dưới 20%% (chỉ một lần)"
 
 #. Attacks/crafts deal critical damage
 msgctxt "#36 memo"
 msgid "通常攻撃･クラフトが｢クリティカル｣"
-msgstr ""
+msgstr "Tấn công/craft gây trí mạng"
 
 #. %g％ chance
 msgctxt "#37 memo"
 msgid "発生確率%g％"
-msgstr ""
+msgstr "%g％ tỉ lệ"
 
 #. Obtain sepith from attacks/crafts
 msgctxt "#38 memo"
 msgid "通常攻撃･クラフトでセピス入手"
-msgstr ""
+msgstr "Nhận sepith từ tấn công/craft"
 
 #. %g％ chance
 msgctxt "#39 memo"
 msgid "発生確率%g％"
-msgstr ""
+msgstr "%g％ tỉ lệ"
 
 #. Obtain sepith from offensive arts
 msgctxt "#40 memo"
 msgid "攻撃アーツでセピス入手"
-msgstr ""
+msgstr "Nhận sepith từ art tấn công"
 
 #. %g％ chance
 msgctxt "#41 memo"
 msgid "発生確率%g％"
-msgstr ""
+msgstr "%g％ tỉ lệ"
 
 #. Increases obtained EXP
 msgctxt "#42 memo"
 msgid "経験値アップ"
-msgstr ""
+msgstr "Tăng EXP nhận"
 
 #. Obtained EXP multiplied by %g
 msgctxt "#43 memo"
 msgid "経験値入手量%g倍"
-msgstr ""
+msgstr "Tăng EXP nhận lên %g lần"
 
 #. Begin battle with DEF/ADF raised
 msgctxt "#44 memo"
 msgid "戦闘開始時に｢DEF･ADFアップ｣"
-msgstr ""
+msgstr "Tăng PT/PA khi bắt đầu trận chiến"
 
 #. %g turns of DEF/ADF+%g％
 msgctxt "#45 memo"
 msgid "%gターンの間、DEF･ADF+%g％"
-msgstr ""
+msgstr "Trong %g lượt, PT/PA +%g％"
 
 #. Raises DEF/ADF when HP is low
 msgctxt "#46 memo"
 msgid "ピンチ時に｢DEF･ADFアップ｣"
-msgstr ""
+msgstr "Tăng PT/PA khi gặp nguy"
 
 #. %g turns of DEF/ADF+%g％
 msgctxt "#47 memo"
 msgid "%gターンの間、DEF･ADF+%g％"
-msgstr ""
+msgstr "Trong %g lượt, PT/PA +%g％"
 
 #. Once per fight when below 20%% HP
 msgctxt "#48 memo"
 msgid "HP20％以下で発動(戦闘中１度)"
-msgstr ""
+msgstr "Phát động khi HP dưới 20%% (chỉ một lần)"
 
 #. Automatically recover from K.O.
 msgctxt "#49 memo"
 msgid "戦闘不能の直前に｢起死回生｣"
-msgstr ""
+msgstr "Hồi sinh sau Gục Ngã"
 
 #. Recover %g％ HP, CP+%g
 msgctxt "#50 memo"
 msgid "HP%g％回復 CP+%g"
-msgstr ""
+msgstr "Hồi %g％ HP, CP+%g"
 
 #. Activates once per battle
 msgctxt "#51 memo"
 msgid "戦闘中１度のみ発動"
-msgstr ""
+msgstr "Phát động một lần mỗi trận"
 
 #. Begin battle with ATS raised
 msgctxt "#52 memo"
 msgid "戦闘開始時に｢ATSアップ｣"
-msgstr ""
+msgstr "Tăng PL khi bắt đầu trận chiến"
 
 #. %g turns of ATS+%g％
 msgctxt "#53 memo"
 msgid "%gターンの間、ATS+%g％"
-msgstr ""
+msgstr "Trong %g lượt, PL +%g％"
 
 #. Raises ATS when HP is low
 msgctxt "#54 memo"
 msgid "ピンチ時に｢ATSアップ｣"
-msgstr ""
+msgstr "Tăng PL khi gặp nguy"
 
 #. %g turns of ATS+%g％
 msgctxt "#55 memo"
 msgid "%gターンの間、ATS+%g％"
-msgstr ""
+msgstr "Trong %g lượt, PL +%g％"
 
 #. Once per fight when below 20%% HP
 msgctxt "#56 memo"
 msgid "HP20％以下で発動(戦闘中１度)"
-msgstr ""
+msgstr "Phát động khi HP dưới 20%% (chỉ một lần)"
 
 #. Offensive arts deal critical damage
 msgctxt "#57 memo"
 msgid "攻撃アーツが｢クリティカル｣"
-msgstr ""
+msgstr "Tấn công/craft gây trí mạng"
 
 #. %g％ chance
 msgctxt "#58 memo"
 msgid "発生確率%g％"
-msgstr ""
+msgstr "%g％ tỉ lệ"
 
 #. Begin battle with SPD raised
 msgctxt "#59 memo"
 msgid "戦闘開始時に｢SPDアップ｣"
-msgstr ""
+msgstr "Tăng Tốc Độ khi bắt đầu trận chiến"
 
 #. %g turns of SPD+%g％
 msgctxt "#60 memo"
 msgid "%gターンの間、SPD+%g％"
-msgstr ""
+msgstr "Trong %g lượt, TĐ +%g％"
 
 #. Raises SPD when HP is low
 msgctxt "#61 memo"
 msgid "ピンチ時に｢SPDアップ｣"
-msgstr ""
+msgstr "Tăng Tốc Độ khi gặp nguy"
 
 #. Once per fight when below 20%% HP
 msgctxt "#62 memo"
 msgid "HP20％以下で発動(戦闘中１度)"
-msgstr ""
+msgstr "Phát động khi HP dưới 20%% (chỉ một lần)"
 
 #. %g turns of SPD+%g％
 msgctxt "#63 memo"
 msgid "%gターンの間、SPD+%g％"
-msgstr ""
+msgstr "Trong %g lượt, Tốc Độ +%g％"
 
 #. Evasion up
 msgctxt "#64 memo"
 msgid "回避率アップ"
-msgstr ""
+msgstr "Tăng Né Tránh"
 
 #. Evasion+%g％
 msgctxt "#65 memo"
 msgid "回避率+%g％"
-msgstr ""
+msgstr "Né Tránh +%g％"
 
 #. Killing enemies restores EP
 msgctxt "#66 memo"
 msgid "敵に止めを刺すとEP回復"
-msgstr ""
+msgstr "Hồi EP khi đánh bại kẻ địch"
 
 #. EP+%g per enemy killed
 msgctxt "#67 memo"
 msgid "１体ごとにEP%g回復"
-msgstr ""
+msgstr "EP+%g với mỗi kẻ địch bị đánh bại"
 
 #. Evades magic attacks
 msgctxt "#68 memo"
 msgid "魔法攻撃を回避"
-msgstr ""
+msgstr "Né các đòn tấn công ma pháp"
 
 #. %g％ chance
 msgctxt "#69 memo"
 msgid "発生確率%g％"
-msgstr ""
+msgstr "%g％ tỉ lệ"
 
 #. ※Can counter evaded magic
 msgctxt "#70 memo"
 msgid "※射程範囲内ならカウンター有効"
-msgstr ""
+msgstr "Có thể phản đòn né tránh ma pháp"
 
 #. Raises ATS when HP is low
 msgctxt "#71 memo"
 msgid "ピンチ時に｢ATSアップ｣"
-msgstr ""
+msgstr "Tăng PL khi gặp nguy"
 
 #. %g turns of ATS+%g％
 msgctxt "#72 memo"
 msgid "%gターンの間、ATS+%g％"
-msgstr ""
+msgstr "Trong %g lượt, PL +%g％"
 
 #. Once per fight when below 20%% HP
 msgctxt "#73 memo"
 msgid "HP20％以下で発動(戦闘中１度)"
-msgstr ""
+msgstr "Phát động khi HP dưới 20%% (chỉ một lần)"
 
 #. Prevents abnormal status/stat down
 msgctxt "#74 memo"
 msgid "｢全状態異常･能力低下｣無効"
-msgstr ""
+msgstr "Vô hiệu Trạng Thái Dị Thường/Suy Giảm"
 
 #. %g％ chance
 msgctxt "#75 memo"
 msgid "発生確率%g％"
-msgstr ""
+msgstr "%g％ tỉ lệ"
 
 #. Evasion up
 msgctxt "#76 memo"
 msgid "回避率アップ"
-msgstr ""
+msgstr "Tăng Né Tránh"
 
 #. Evasion+%g％
 msgctxt "#77 memo"
 msgid "回避率+%g％"
-msgstr ""
+msgstr "Né Tránh +%g％"
 
 #. Reduced AT Delay after wind arts
 msgctxt "#78 memo"
 msgid "風属性アーツ発動後の硬直時間減少"
-msgstr ""
+msgstr "Giảm thời gian chờ sau khi sử dụng art phong"
 
 #. AT Delay reduced by %g％
 msgctxt "#79 memo"
 msgid "硬直時間%g％カット"
-msgstr ""
+msgstr "Thời gian chờ giảm %g％"
 
 #. Begin battle with Immunity/Reflect
 msgctxt "#80 memo"
 msgid "戦闘開始時に｢物理防御・魔法反射｣"
-msgstr ""
+msgstr "Nhận Phản Phép/Miễn Vật Lý"
 
 #. Immunity/Reflect when HP is low
 msgctxt "#81 memo"
 msgid "ピンチ時に｢物理防御・魔法反射｣"
-msgstr ""
+msgstr "Nhận Miễn Vật Lý/Phản Phép khi gặp nguy"
 
 #. Once per fight when below 20%% HP
 msgctxt "#82 memo"
 msgid "HP20％以下で発動(戦闘中１度)"
-msgstr ""
+msgstr "Phát động khi HP dưới 20%% (chỉ một lần)"
 
 #. Reduced AT Delay after earth arts
 msgctxt "#83 memo"
 msgid "地属性アーツ発動後の硬直時間減少"
-msgstr ""
+msgstr "Giảm thời gian chờ sau khi sử dụng art thổ"
 
 #. AT Delay reduced by %g％
 msgctxt "#84 memo"
 msgid "硬直時間%g％カット"
-msgstr ""
+msgstr "Thời gian chờ giảm %g％"
 
 #. Recover HP through offensive arts
 msgctxt "#85 memo"
 msgid "攻撃アーツでHP回復"
-msgstr ""
+msgstr "Hồi HP khi sử dụng art tấn công"
 
 #. Recover %g％ of damage as HP
 msgctxt "#86 memo"
 msgid "与えたダメージの%g％回復"
-msgstr ""
+msgstr "Hồi %g％ HP dựa trên sát thương gây ra"
 
 #. Recover EP through offensive arts
 msgctxt "#87 memo"
 msgid "攻撃アーツでEP回復"
-msgstr ""
+msgstr "Hồi EP khi sử dụng art tấn công"
 
 #. Recover %g％ of damage as EP
 msgctxt "#88 memo"
 msgid "与えたダメージの%g％回復"
-msgstr ""
+msgstr "Hồi %g％ EP dựa trên sát thương gây ra"
 
 #. Reduced AT Delay after water arts
 msgctxt "#89 memo"
 msgid "水属性アーツ発動後の硬直時間減少"
-msgstr ""
+msgstr "Giảm thời gian chờ sau khi sử dụng art thủy"
 
 #. AT Delay reduced by %g％
 msgctxt "#90 memo"
 msgid "硬直時間%g％カット"
-msgstr ""
+msgstr "Thời gian chờ giảm %g％"
 
 #. Increases potency of healing items
 msgctxt "#91 memo"
 msgid "回復アイテムの効果アップ"
-msgstr ""
+msgstr "Tăng hiệu quả của vật phẩm hồi phục"
 
 #. Multiplied by %g (HP/EP/battle only)
 msgctxt "#92 memo"
 msgid "HP･EP回復量%g倍(戦闘中のみ)"
-msgstr ""
+msgstr "Tăng %g lần (HP/EP/chỉ trong chiến đấu)"
 
 #. Increases item range
 msgctxt "#93 memo"
 msgid "アイテムの射程距離アップ"
-msgstr ""
+msgstr "Tăng phạm vi vật phẩm"
 
 #. RNG+%g
 msgctxt "#94 memo"
 msgid "RNG+%g"
-msgstr ""
+msgstr "Phạm Vi+%g"
 
 #. Healing items affect a wider area
 msgctxt "#95 memo"
 msgid "回復アイテムの効果が範囲化"
-msgstr ""
+msgstr "Tăng phạm vi của vật phẩm hồi phục"
 
 #. Area: M
 msgctxt "#96 memo"
 msgid "範囲・円Ｍ"
-msgstr ""
+msgstr "Phạm vi: M"
 
 #. Damage of regular attacks raised
 msgctxt "#97 memo"
 msgid "通常攻撃のダメージアップ"
-msgstr ""
+msgstr "Tăng sát thương tấn công thường"
 
 #. Damage multiplied by %g
 msgctxt "#98 memo"
 msgid "与ダメージ%g倍"
-msgstr ""
+msgstr "Tăng sát thương %g lần"
 
 #. Delay after attack multiplied by %g
 msgctxt "#99 memo"
 msgid "硬直時間%g倍"
-msgstr ""
+msgstr "Thời gian chờ sau tấn công tăng %g lần"
 
 #. Accuracy up
 msgctxt "#100 memo"
 msgid "命中率アップ"
-msgstr ""
+msgstr "Tăng Chính Xác"
 
 #. Accuracy+%g％
 msgctxt "#101 memo"
 msgid "命中率+%g％"
-msgstr ""
+msgstr "Chính Xác +%g％"
 
 #. Attacks/crafts deal critical damage
 msgctxt "#102 memo"
 msgid "通常攻撃･クラフトが｢クリティカル｣"
-msgstr ""
+msgstr "Tấn công/craft gây trí mạng"
 
 #. %g％ chance
 msgctxt "#103 memo"
 msgid "発生確率%g％"
-msgstr ""
+msgstr "%g％ tỉ lệ"
 
 #. Offensive arts deal critical damage
 msgctxt "#104 memo"
 msgid "攻撃アーツが｢クリティカル｣"
-msgstr ""
+msgstr "Tấn công/craft gây trí mạng"
 
 #. %g％ chance
 msgctxt "#105 memo"
 msgid "発生確率%g％"
-msgstr ""
+msgstr "%g％ tỉ lệ"
 
 #. Restores EP when HP is low
 msgctxt "#106 memo"
 msgid "ピンチ時にEP回復"
-msgstr ""
+msgstr "Hồi EP khi gặp nguy"
 
 #. EP+%g%%
 msgctxt "#107 memo"
 msgid "回復量%g％"
-msgstr ""
+msgstr "EP+%g%%"
 
 #. Once per fight when below 20%% HP
 msgctxt "#108 memo"
 msgid "HP20％以下で発動(戦闘中１度)"
-msgstr ""
+msgstr "Phát động khi HP dưới 20%% (chỉ một lần)"
 
 #. Reduced AT Delay after fire arts
 msgctxt "#109 memo"
 msgid "火属性アーツ発動後の硬直時間減少"
-msgstr ""
+msgstr "Giảm thời gian chờ sau khi sử dụng art hỏa"
 
 #. AT Delay reduced by %g％
 msgctxt "#110 memo"
 msgid "硬直時間%g％カット"
-msgstr ""
+msgstr "Thời gian chờ giảm %g％"
 
 #. Attacks/crafts inflict abnormalities
 msgctxt "#111 memo"
 msgid "通常攻撃･クラフトで｢状態異常｣"
-msgstr ""
+msgstr "Tấn công/craft gây Trạng Thái Dị Thường"
 
 #. %g％ chance (random abnormality)
 msgctxt "#112 memo"
 msgid "発生確率%g％(効果はランダム)"
-msgstr ""
+msgstr "%g％ tỉ lệ (hiệu quả ngẫu nhiên)"
 
 #. Offensive arts inflict abnormalities
 msgctxt "#113 memo"
 msgid "攻撃アーツで｢状態異常｣"
-msgstr ""
+msgstr "Art tấn công gây Trạng Thái Dị Thường"
 
 #. %g％ chance (random abnormality)
 msgctxt "#114 memo"
 msgid "発生確率%g％(効果はランダム)"
-msgstr ""
+msgstr "%g％ tỉ lệ (hiệu quả ngẫu nhiên)"
 
 #. Attacks/crafts inflict nightmare
 msgctxt "#115 memo"
 msgid "通常攻撃･クラフトで｢悪夢｣"
-msgstr ""
+msgstr "Tấn công/craft gây Ác Mộng"
 
 #. %g％ chance
 msgctxt "#116 memo"
 msgid "発生確率%g％"
-msgstr ""
+msgstr "%g％ tỉ lệ"
 
 #. Attacks/crafts cause status down
 msgctxt "#117 memo"
 msgid "通常攻撃･クラフトで｢能力低下｣"
-msgstr ""
+msgstr "Tấn công/craft gây Suy Giảm"
 
 #. %g％ chance (effect is random)
 msgctxt "#118 memo"
 msgid "発生確率%g％(効果はランダム)"
-msgstr ""
+msgstr "%g％ tỉ lệ (hiệu quả ngẫu nhiên)"
 
 #. Offensive arts cause status down
 msgctxt "#119 memo"
 msgid "攻撃アーツで｢能力低下｣"
-msgstr ""
+msgstr "Art tấn công gây Suy Giảm"
 
 #. %g％ chance (effect is random)
 msgctxt "#120 memo"
 msgid "発生確率%g％ (効果はランダム)"
-msgstr ""
+msgstr "%g％ tỉ lệ (hiệu quả ngẫu nhiên)"
 
 #. Attacks/crafts kill enemy
 msgctxt "#121 memo"
 msgid "通常攻撃･クラフトで｢即死｣"
-msgstr ""
+msgstr "Tấn công/craft gây Tức Tử"
 
 #. %g％ chance
 msgctxt "#122 memo"
 msgid "発生確率%g％"
-msgstr ""
+msgstr "%g％ tỉ lệ"
 
 #. Damage of offensive arts raised
 msgctxt "#123 memo"
 msgid "攻撃アーツのダメージアップ"
-msgstr ""
+msgstr "Tăng sát thương của art tấn công"
 
 #. Multiplied by a maximum of %g
 msgctxt "#124 memo"
 msgid "与ダメージ%g倍"
-msgstr ""
+msgstr "%g lần sát thương gây ra"
 
 #. Consumed EP multiplied by %g
 msgctxt "#125 memo"
 msgid "消費EP%g倍"
-msgstr ""
+msgstr "%g lần EP tiêu hao"
 
 #. Arts affect a wider area
 msgctxt "#126 memo"
 msgid "アーツの範囲がアップ"
-msgstr ""
+msgstr "Tăng phạm vi của art"
 
 #. Area+%g
 msgctxt "#127 memo"
 msgid "範囲+%g"
-msgstr ""
+msgstr "Phạm Vi+%g"
 
 #. Reduced AT Delay after mirage arts
 msgctxt "#128 memo"
 msgid "幻属性アーツ発動後の硬直時間減少"
-msgstr ""
+msgstr "Giảm thời gian chờ sau khi sử dụng art ảo ảnh"
 
 #. AT Delay reduced by %g％
 msgctxt "#129 memo"
 msgid "硬直時間%g％カット"
-msgstr ""
+msgstr "Thời gian chờ giảm %g％"
 
 #. Absorb magic attacks
 msgctxt "#130 memo"
 msgid "魔法攻撃を吸収"
-msgstr ""
+msgstr "Hấp thụ ma pháp tấn công"
 
 #. %g％ chance
 msgctxt "#131 memo"
 msgid "発生確率%g％"
-msgstr ""
+msgstr "%g％ tỉ lệ"
 
 #. Restores EP at start of battle
 msgctxt "#132 memo"
 msgid "戦闘開始時にEP回復"
-msgstr ""
+msgstr "Hồi phục EP khi bắt đầu trận chiến"
 
 #. %g％ restored.
 msgctxt "#133 memo"
 msgid "回復量%g％"
-msgstr ""
+msgstr "đã hồi %g％"
 
 #. Reduced AT Delay after time arts
 msgctxt "#134 memo"
 msgid "時属性アーツ発動後の硬直時間減少"
-msgstr ""
+msgstr "Giảm thời gian chờ sau khi sử dụng art thời gian"
 
 #. AT Delay reduced by %g％
 msgctxt "#135 memo"
 msgid "硬直時間%g％カット"
-msgstr ""
+msgstr "Thời gian chờ giảm %g％"
 
 #. Physical damage up as HP drops
 msgctxt "#136 memo"
 msgid "HPが少ないほど物理ダメージアップ"
-msgstr ""
+msgstr "Gây thêm sát thương vật lý khi HP thấp"
 
 #. Multiplied by a maximum of %g
 msgctxt "#137 memo"
 msgid "与ダメージ最大%g倍"
-msgstr ""
+msgstr "%g lần sát thương tối đa"
 
 #. Attracts enemies' attention
 msgctxt "#138 memo"
 msgid "敵を引き付ける"
-msgstr ""
+msgstr "Thu hút kẻ địch"
 
 #. %g％ chance of activating in battle
 msgctxt "#139 memo"
 msgid "戦闘中%g％の確率で発生"
-msgstr ""
+msgstr "%g％ tỉ lệ phát động trong chiến đấu"
 
 #. Raises STR/DEF when HP is low
 msgctxt "#140 memo"
 msgid "ピンチ時に｢STR･DEFアップ｣"
-msgstr ""
+msgstr "Tăng SM/PT khi gặp nguy"
 
 #. %g turns of STR/DEF+%g％
 msgctxt "#141 memo"
 msgid "%gターンの間、STR･DEF+%g％"
-msgstr ""
+msgstr "Trong %g lượt, SM/DEF +%g％"
 
 #. Once per fight when below 20%% HP
 msgctxt "#142 memo"
 msgid "HP20％以下で発動(戦闘中１度)"
-msgstr ""
+msgstr "Phát động khi HP dưới 20%% (chỉ một lần)"
 
 #. Arts damage up as HP drops
 msgctxt "#143 memo"
 msgid "HPが少ないほど魔法ダメージアップ"
-msgstr ""
+msgstr "Gây thêm sát thương phép khi HP thấp"
 
 #. Multiplied by a maximum of %g
 msgctxt "#144 memo"
 msgid "与ダメージ最大%g倍"
-msgstr ""
+msgstr "%g lần sát thương tối đa"
 
 #. Arts affect a wider area
 msgctxt "#145 memo"
 msgid "アーツの範囲がアップ"
-msgstr ""
+msgstr "Tăng phạm vi của art"
 
 #. Area+%g
 msgctxt "#146 memo"
 msgid "範囲+%g"
-msgstr ""
+msgstr "Phạm Vi+%g"
 
 #. Raises ATS/ADF when HP is low
 msgctxt "#147 memo"
 msgid "ピンチ時に｢ATS･ADFアップ｣"
-msgstr ""
+msgstr "Tăng PL/PA khi gặp nguy"
 
 #. %g turns of ATS/ADF+%g％
 msgctxt "#148 memo"
 msgid "%gターンの間、ATS･ADF+%g％"
-msgstr ""
+msgstr "Trong %g lượt, PL/PA +%g％"
 
 #. Once per fight when under 20%% HP
 msgctxt "#149 memo"
 msgid "HP20％以下で発動(戦闘中１度)"
-msgstr ""
+msgstr "Phát động khi HP dưới 20%% (chỉ một lần)"
 
 #. Increases obtained EXP
 msgctxt "#150 memo"
 msgid "経験値アップ"
-msgstr ""
+msgstr "Tăng EXP nhận được"
 
 #. Obtained EXP multiplied by %g
 msgctxt "#151 memo"
 msgid "経験値入手量%g倍"
-msgstr ""
+msgstr "EXP nhận được tăng %g lần"
 
 #. HP/EP/CP regenerate on field
 msgctxt "#152 memo"
 msgid "フィールドでHP･EP･CPが回復・上昇"
-msgstr ""
+msgstr "Hồi phục HP/EP/CP khi ở ngoài bản đồ"
 
 #. Effect - Small
 msgctxt "#153 memo"
 msgid "効果・小"
-msgstr ""
+msgstr "Hiệu quả - Tiểu"
 
 #. Effect - Large
 msgctxt "#154 memo"
 msgid "効果・大"
-msgstr ""
+msgstr "Hiểu quả - Đại"
 
 #. Enemies less likely to notice you
 msgctxt "#155 memo"
 msgid "フィールドで敵に気付かれにくくなる"
-msgstr ""
+msgstr "Kẻ địch sẽ khó phát hiện hơn"
 
 #. Randomly increases physical damage
 msgctxt "#156 memo"
 msgid "ランダムで物理ダメージアップ"
-msgstr ""
+msgstr "Ngẫu nhiên tăng sát thương vật lý"
 
 #. Multiplied by a maximum of %g
 msgctxt "#157 memo"
 msgid "与ダメージ最大%g倍"
-msgstr ""
+msgstr "%g lần sát thương tối đa"
 
 #. Randomly increases magic damage
 msgctxt "#158 memo"
 msgid "ランダムで魔法ダメージアップ"
-msgstr ""
+msgstr "Ngẫu nhiên tăng sát thương phép"
 
 #. Multiplied by a maximum of %g
 msgctxt "#159 memo"
 msgid "与ダメージ最大%g倍"
-msgstr ""
+msgstr "%g lần sát thương tối đa"
 
 #. Attacks/crafts inflict poison
 msgctxt "#160 memo"
 msgid "通常攻撃･クラフトで｢毒｣"
-msgstr ""
+msgstr "Tấn công/craft gây Độc"
 
 #. %g％ chance
 msgctxt "#161 memo"
 msgid "発生確率%g％"
-msgstr ""
+msgstr "%g％ tỉ lệ"
 
 #. High HP increases physical damage
 msgctxt "#162 memo"
 msgid "ＨＰが高いほど物理ダメージアップ"
-msgstr ""
+msgstr "Gây thêm sát thương vật lý khi HP cao"
 
 #. Multiplied by a maximum of %g
 msgctxt "#163 memo"
 msgid "与ダメージ最大%g倍"
-msgstr ""
+msgstr "%g lần sát thương tối đa"
 
 #. Killing enemies recovers HP
 msgctxt "#164 memo"
 msgid "敵に止めを刺すとHP回復"
-msgstr ""
+msgstr "Hồi HP khi đánh bại kẻ địch"
 
 #. HP+%g per enemy killed
 msgctxt "#165 memo"
 msgid "１体ごとにHP+%g"
-msgstr ""
+msgstr "HP+%g với mỗi kẻ địch bị đánh bại"
 
 #. Attacks/crafts inflict burn
 msgctxt "#166 memo"
 msgid "通常攻撃･クラフトで｢炎傷｣"
-msgstr ""
+msgstr "Tấn công/craft gây Thiêu Đốt"
 
 #. %g％ chance
 msgctxt "#167 memo"
 msgid "発生確率%g％"
-msgstr ""
+msgstr "%g％ tỉ lệ"
 
 #. Attacks/crafts deal critical damage
 msgctxt "#168 memo"
 msgid "通常攻撃･クラフトが｢クリティカル｣"
-msgstr ""
+msgstr "Tấn công/craft gây trí mạng"
 
 #. %g％ chance
 msgctxt "#169 memo"
 msgid "発生確率%g％"
-msgstr ""
+msgstr "%g％ tỉ lệ"
 
 #. Accuracy up
 msgctxt "#170 memo"
 msgid "命中率アップ"
-msgstr ""
+msgstr "Tăng Chính Xác"
 
 #. Accuracy+%g％
 msgctxt "#171 memo"
 msgid "命中率+%g％"
-msgstr ""
+msgstr "Chính Xác +%g％"
 
 #. Increases damage dealt by criticals
 msgctxt "#172 memo"
 msgid "｢クリティカル｣のダメージアップ"
-msgstr ""
+msgstr "Tăng sát thương trí mạng gây ra"
 
 #. Multiplied by %g (usually 1.5)
 msgctxt "#173 memo"
 msgid "ダメージ量%g倍(通常1.5倍)"
-msgstr ""
+msgstr "Gấp %g lần sát thương (trung bình 1.5 lần)"
 
 #. Low HP decreases received damage
 msgctxt "#174 memo"
 msgid "ＨＰが少ないほど、ダメージ軽減"
-msgstr ""
+msgstr "Giảm sát thương nhận khi HP thấp"
 
 #. Reduced by a maximum of %g％
 msgctxt "#175 memo"
 msgid "最大%g％カット"
-msgstr ""
+msgstr "Giảm tối đa %g％"
 
 #. Increases item drop rate
 msgctxt "#176 memo"
 msgid "ドロップアイテム入手率アップ"
-msgstr ""
+msgstr "Tăng tỉ lệ vật phẩm rơi"
 
 #. Drop rate+%g％
 msgctxt "#177 memo"
 msgid "入手率+%g％"
-msgstr ""
+msgstr "Tỉ lệ rơi +%g％"
 
 #. Increases number of dropped items
 msgctxt "#178 memo"
 msgid "ドロップアイテム増加"
-msgstr ""
+msgstr "Tăng số lượng vật phẩm rơi"
 
 #. Number multiplied by %g
 msgctxt "#179 memo"
 msgid "入手アイテム数%g倍"
-msgstr ""
+msgstr "Vật phẩm rơi tăng %g lần"
 
 #. Recover HP through attacks/crafts
 msgctxt "#180 memo"
 msgid "通常攻撃･クラフトでＨＰ回復"
-msgstr ""
+msgstr "Tấn công/craft sẽ hồi phục HP"
 
 #. Recover %g％ of damage as HP
 msgctxt "#181 memo"
 msgid "与えたダメージの%g％回復"
-msgstr ""
+msgstr "Hồi phục %g％ sát thương gây ra"
 
 #. Recover EP through attacks/crafts
 msgctxt "#182 memo"
 msgid "通常攻撃･クラフトでＥＰ回復"
-msgstr ""
+msgstr "Tấn công/craft sẽ hồi HP"
 
 #. Recover %g％ of damage as EP
 msgctxt "#183 memo"
 msgid "与えたダメージの%g％回復"
-msgstr ""
+msgstr "Hồi %g％ dựa trên sát thương gây ra"
 
 #. Evasion up
 msgctxt "#184 memo"
 msgid "回避率アップ"
-msgstr ""
+msgstr "Tăng Né Tránh"
 
 #. Evasion+%g％
 msgctxt "#185 memo"
 msgid "回避率+%g％"
-msgstr ""
+msgstr "Né Tránh +%g％"
