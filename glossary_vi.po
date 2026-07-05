@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-04 09:09+0000\n"
+"PO-Revision-Date: 2026-07-05 14:21+0000\n"
 "Last-Translator: Weblate Admin <weblate@example.com>\n"
 "Language-Team: Vietnamese <http://localhost:8080/projects/sen-no-kiseki-1/"
 "glossary/vi/>\n"
@@ -1372,3 +1372,28 @@ msgstr "Viện Thứ dân"
 
 msgid "冥界"
 msgstr "minh giới"
+
+msgid "宝剣ガランシャール"
+msgstr "Bảo kiếm Galanshar"
+
+msgid "フェンシング"
+msgstr "đấu kiếm"
+
+msgid "起動者"
+msgstr "Kẻ thức tỉnh"
+
+msgid "開発部"
+msgstr "Bộ phận Phát triển"
+
+msgid "リアクティブアーマー"
+msgstr "giáp phản ứng"
+
+msgid "ピンチ時"
+msgstr "khi gặp nguy"
+
+msgid "物理防御"
+msgstr "Miễn Vật Lý"
+
+msgctxt "phạm vi tầm đánh"
+msgid "RNG"
+msgstr "PV"
