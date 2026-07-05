@@ -1,0 +1,936 @@
+#
+msgid ""
+msgstr ""
+"Language: vi\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Killing enemies restores CP
+msgctxt "#0 memo"
+msgid "敵に止めを刺すとCP上昇"
+msgstr ""
+
+#. CP+%g per enemy killed
+msgctxt "#1 memo"
+msgid "１体ごとにCP+%g"
+msgstr ""
+
+#. Restores CP when HP is low
+msgctxt "#2 memo"
+msgid "ピンチ時にCP上昇"
+msgstr ""
+
+#. CP+%g
+msgctxt "#3 memo"
+msgid "CP+%g"
+msgstr ""
+
+#. Once per fight when below 20%% HP
+msgctxt "#4 memo"
+msgid "HP20％以下で発動(戦闘中１度)"
+msgstr ""
+
+#. Raises STR when HP is low
+msgctxt "#5 memo"
+msgid "ピンチ時に｢ＳＴＲアップ｣"
+msgstr ""
+
+#. %g turns of STR+%g％
+msgctxt "#6 memo"
+msgid "%gターンの間、STR+%g％"
+msgstr ""
+
+#. Once per fight when below 20%% HP
+msgctxt "#7 memo"
+msgid "HP20％以下で発動(戦闘中１度)"
+msgstr ""
+
+#. Increases potency of healing arts
+msgctxt "#8 memo"
+msgid "ＨＰ回復アーツの効果がアップ"
+msgstr ""
+
+#. Amount healed multiplied by %g
+msgctxt "#9 memo"
+msgid "回復量%g倍"
+msgstr ""
+
+#. Begin battle with gradual HP regen
+msgctxt "#10 memo"
+msgid "戦闘開始時に｢HP徐々に回復｣"
+msgstr ""
+
+#. Recover 30%% of max HP for %g turns
+msgctxt "#11 memo"
+msgid "%gターンの間、HP30％回復"
+msgstr ""
+
+#. Gradual HP regen when HP is low
+msgctxt "#12 memo"
+msgid "ピンチ時に｢HP徐々に回復｣"
+msgstr ""
+
+#. Recover 30%% of max HP for %g turns
+msgctxt "#13 memo"
+msgid "%gターンの間、HP30％回復"
+msgstr ""
+
+#. Once per fight when below 20%% HP
+msgctxt "#14 memo"
+msgid "HP20％以下で発動(戦闘中１度)"
+msgstr ""
+
+#. Begin battle with insight status
+msgctxt "#15 memo"
+msgid "戦闘開始時に｢心眼｣"
+msgstr ""
+
+#. Lasts for %g turns
+msgctxt "#16 memo"
+msgid "効果時間、%gターン"
+msgstr ""
+
+#. Evasion up
+msgctxt "#17 memo"
+msgid "回避率アップ"
+msgstr ""
+
+#. Evasion+%g％
+msgctxt "#18 memo"
+msgid "回避率+%g％"
+msgstr ""
+
+#. Attacks/crafts deal critical damage
+msgctxt "#19 memo"
+msgid "通常攻撃･クラフトが｢クリティカル｣"
+msgstr ""
+
+#. %g％ chance
+msgctxt "#20 memo"
+msgid "発生確率%g％"
+msgstr ""
+
+#. Automatically recover from K.O.
+msgctxt "#21 memo"
+msgid "戦闘不能の直前に｢起死回生｣"
+msgstr ""
+
+#. Recover %g％ HP, CP+%g
+msgctxt "#22 memo"
+msgid "HP%g％回復 CP+%g"
+msgstr ""
+
+#. Activates once per battle
+msgctxt "#23 memo"
+msgid "戦闘中１度のみ発動"
+msgstr ""
+
+#. Recover %g％ HP/EP, CP+%g
+msgctxt "#24 memo"
+msgid "HP･EP%g％回復 CP+%g"
+msgstr ""
+
+#. Activates twice per battle
+msgctxt "#25 memo"
+msgid "戦闘中２度発動"
+msgstr ""
+
+#. Gradual HP regen when HP is low
+msgctxt "#26 memo"
+msgid "ピンチ時に｢HP徐々に回復｣"
+msgstr ""
+
+#. Lasts for %g turns
+msgctxt "#27 memo"
+msgid "効果時間、%gターン"
+msgstr ""
+
+#. Once per fight when under 20%% HP
+msgctxt "#28 memo"
+msgid "HP20％以下で発動(戦闘中１度)"
+msgstr ""
+
+#. Delay after space arts reduced
+msgctxt "#29 memo"
+msgid "空属性アーツ発動後の硬直時間減少"
+msgstr ""
+
+#. Delay reduced by %g％
+msgctxt "#30 memo"
+msgid "硬直時間%g％カット"
+msgstr ""
+
+#. Begin battle with STR raised
+msgctxt "#31 memo"
+msgid "戦闘開始時に｢STRアップ｣"
+msgstr ""
+
+#. %g turns of STR+%g％
+msgctxt "#32 memo"
+msgid "%gターンの間、STR+%g％"
+msgstr ""
+
+#. Raises STR when HP is low
+msgctxt "#33 memo"
+msgid "ピンチ時に｢STRアップ｣"
+msgstr ""
+
+#. %g turns of STR+%g％
+msgctxt "#34 memo"
+msgid "%gターンの間、STR+%g％"
+msgstr ""
+
+#. Once per fight when below 20%% HP
+msgctxt "#35 memo"
+msgid "HP20％以下で発動(戦闘中１度)"
+msgstr ""
+
+#. Attacks/crafts deal critical damage
+msgctxt "#36 memo"
+msgid "通常攻撃･クラフトが｢クリティカル｣"
+msgstr ""
+
+#. %g％ chance
+msgctxt "#37 memo"
+msgid "発生確率%g％"
+msgstr ""
+
+#. Obtain sepith from attacks/crafts
+msgctxt "#38 memo"
+msgid "通常攻撃･クラフトでセピス入手"
+msgstr ""
+
+#. %g％ chance
+msgctxt "#39 memo"
+msgid "発生確率%g％"
+msgstr ""
+
+#. Obtain sepith from offensive arts
+msgctxt "#40 memo"
+msgid "攻撃アーツでセピス入手"
+msgstr ""
+
+#. %g％ chance
+msgctxt "#41 memo"
+msgid "発生確率%g％"
+msgstr ""
+
+#. Increases obtained EXP
+msgctxt "#42 memo"
+msgid "経験値アップ"
+msgstr ""
+
+#. Obtained EXP multiplied by %g
+msgctxt "#43 memo"
+msgid "経験値入手量%g倍"
+msgstr ""
+
+#. Begin battle with DEF/ADF raised
+msgctxt "#44 memo"
+msgid "戦闘開始時に｢DEF･ADFアップ｣"
+msgstr ""
+
+#. %g turns of DEF/ADF+%g％
+msgctxt "#45 memo"
+msgid "%gターンの間、DEF･ADF+%g％"
+msgstr ""
+
+#. Raises DEF/ADF when HP is low
+msgctxt "#46 memo"
+msgid "ピンチ時に｢DEF･ADFアップ｣"
+msgstr ""
+
+#. %g turns of DEF/ADF+%g％
+msgctxt "#47 memo"
+msgid "%gターンの間、DEF･ADF+%g％"
+msgstr ""
+
+#. Once per fight when below 20%% HP
+msgctxt "#48 memo"
+msgid "HP20％以下で発動(戦闘中１度)"
+msgstr ""
+
+#. Automatically recover from K.O.
+msgctxt "#49 memo"
+msgid "戦闘不能の直前に｢起死回生｣"
+msgstr ""
+
+#. Recover %g％ HP, CP+%g
+msgctxt "#50 memo"
+msgid "HP%g％回復 CP+%g"
+msgstr ""
+
+#. Activates once per battle
+msgctxt "#51 memo"
+msgid "戦闘中１度のみ発動"
+msgstr ""
+
+#. Begin battle with ATS raised
+msgctxt "#52 memo"
+msgid "戦闘開始時に｢ATSアップ｣"
+msgstr ""
+
+#. %g turns of ATS+%g％
+msgctxt "#53 memo"
+msgid "%gターンの間、ATS+%g％"
+msgstr ""
+
+#. Raises ATS when HP is low
+msgctxt "#54 memo"
+msgid "ピンチ時に｢ATSアップ｣"
+msgstr ""
+
+#. %g turns of ATS+%g％
+msgctxt "#55 memo"
+msgid "%gターンの間、ATS+%g％"
+msgstr ""
+
+#. Once per fight when below 20%% HP
+msgctxt "#56 memo"
+msgid "HP20％以下で発動(戦闘中１度)"
+msgstr ""
+
+#. Offensive arts deal critical damage
+msgctxt "#57 memo"
+msgid "攻撃アーツが｢クリティカル｣"
+msgstr ""
+
+#. %g％ chance
+msgctxt "#58 memo"
+msgid "発生確率%g％"
+msgstr ""
+
+#. Begin battle with SPD raised
+msgctxt "#59 memo"
+msgid "戦闘開始時に｢SPDアップ｣"
+msgstr ""
+
+#. %g turns of SPD+%g％
+msgctxt "#60 memo"
+msgid "%gターンの間、SPD+%g％"
+msgstr ""
+
+#. Raises SPD when HP is low
+msgctxt "#61 memo"
+msgid "ピンチ時に｢SPDアップ｣"
+msgstr ""
+
+#. Once per fight when below 20%% HP
+msgctxt "#62 memo"
+msgid "HP20％以下で発動(戦闘中１度)"
+msgstr ""
+
+#. %g turns of SPD+%g％
+msgctxt "#63 memo"
+msgid "%gターンの間、SPD+%g％"
+msgstr ""
+
+#. Evasion up
+msgctxt "#64 memo"
+msgid "回避率アップ"
+msgstr ""
+
+#. Evasion+%g％
+msgctxt "#65 memo"
+msgid "回避率+%g％"
+msgstr ""
+
+#. Killing enemies restores EP
+msgctxt "#66 memo"
+msgid "敵に止めを刺すとEP回復"
+msgstr ""
+
+#. EP+%g per enemy killed
+msgctxt "#67 memo"
+msgid "１体ごとにEP%g回復"
+msgstr ""
+
+#. Evades magic attacks
+msgctxt "#68 memo"
+msgid "魔法攻撃を回避"
+msgstr ""
+
+#. %g％ chance
+msgctxt "#69 memo"
+msgid "発生確率%g％"
+msgstr ""
+
+#. ※Can counter evaded magic
+msgctxt "#70 memo"
+msgid "※射程範囲内ならカウンター有効"
+msgstr ""
+
+#. Raises ATS when HP is low
+msgctxt "#71 memo"
+msgid "ピンチ時に｢ATSアップ｣"
+msgstr ""
+
+#. %g turns of ATS+%g％
+msgctxt "#72 memo"
+msgid "%gターンの間、ATS+%g％"
+msgstr ""
+
+#. Once per fight when below 20%% HP
+msgctxt "#73 memo"
+msgid "HP20％以下で発動(戦闘中１度)"
+msgstr ""
+
+#. Prevents abnormal status/stat down
+msgctxt "#74 memo"
+msgid "｢全状態異常･能力低下｣無効"
+msgstr ""
+
+#. %g％ chance
+msgctxt "#75 memo"
+msgid "発生確率%g％"
+msgstr ""
+
+#. Evasion up
+msgctxt "#76 memo"
+msgid "回避率アップ"
+msgstr ""
+
+#. Evasion+%g％
+msgctxt "#77 memo"
+msgid "回避率+%g％"
+msgstr ""
+
+#. Reduced AT Delay after wind arts
+msgctxt "#78 memo"
+msgid "風属性アーツ発動後の硬直時間減少"
+msgstr ""
+
+#. AT Delay reduced by %g％
+msgctxt "#79 memo"
+msgid "硬直時間%g％カット"
+msgstr ""
+
+#. Begin battle with Immunity/Reflect
+msgctxt "#80 memo"
+msgid "戦闘開始時に｢物理防御・魔法反射｣"
+msgstr ""
+
+#. Immunity/Reflect when HP is low
+msgctxt "#81 memo"
+msgid "ピンチ時に｢物理防御・魔法反射｣"
+msgstr ""
+
+#. Once per fight when below 20%% HP
+msgctxt "#82 memo"
+msgid "HP20％以下で発動(戦闘中１度)"
+msgstr ""
+
+#. Reduced AT Delay after earth arts
+msgctxt "#83 memo"
+msgid "地属性アーツ発動後の硬直時間減少"
+msgstr ""
+
+#. AT Delay reduced by %g％
+msgctxt "#84 memo"
+msgid "硬直時間%g％カット"
+msgstr ""
+
+#. Recover HP through offensive arts
+msgctxt "#85 memo"
+msgid "攻撃アーツでHP回復"
+msgstr ""
+
+#. Recover %g％ of damage as HP
+msgctxt "#86 memo"
+msgid "与えたダメージの%g％回復"
+msgstr ""
+
+#. Recover EP through offensive arts
+msgctxt "#87 memo"
+msgid "攻撃アーツでEP回復"
+msgstr ""
+
+#. Recover %g％ of damage as EP
+msgctxt "#88 memo"
+msgid "与えたダメージの%g％回復"
+msgstr ""
+
+#. Reduced AT Delay after water arts
+msgctxt "#89 memo"
+msgid "水属性アーツ発動後の硬直時間減少"
+msgstr ""
+
+#. AT Delay reduced by %g％
+msgctxt "#90 memo"
+msgid "硬直時間%g％カット"
+msgstr ""
+
+#. Increases potency of healing items
+msgctxt "#91 memo"
+msgid "回復アイテムの効果アップ"
+msgstr ""
+
+#. Multiplied by %g (HP/EP/battle only)
+msgctxt "#92 memo"
+msgid "HP･EP回復量%g倍(戦闘中のみ)"
+msgstr ""
+
+#. Increases item range
+msgctxt "#93 memo"
+msgid "アイテムの射程距離アップ"
+msgstr ""
+
+#. RNG+%g
+msgctxt "#94 memo"
+msgid "RNG+%g"
+msgstr ""
+
+#. Healing items affect a wider area
+msgctxt "#95 memo"
+msgid "回復アイテムの効果が範囲化"
+msgstr ""
+
+#. Area: M
+msgctxt "#96 memo"
+msgid "範囲・円Ｍ"
+msgstr ""
+
+#. Damage of regular attacks raised
+msgctxt "#97 memo"
+msgid "通常攻撃のダメージアップ"
+msgstr ""
+
+#. Damage multiplied by %g
+msgctxt "#98 memo"
+msgid "与ダメージ%g倍"
+msgstr ""
+
+#. Delay after attack multiplied by %g
+msgctxt "#99 memo"
+msgid "硬直時間%g倍"
+msgstr ""
+
+#. Accuracy up
+msgctxt "#100 memo"
+msgid "命中率アップ"
+msgstr ""
+
+#. Accuracy+%g％
+msgctxt "#101 memo"
+msgid "命中率+%g％"
+msgstr ""
+
+#. Attacks/crafts deal critical damage
+msgctxt "#102 memo"
+msgid "通常攻撃･クラフトが｢クリティカル｣"
+msgstr ""
+
+#. %g％ chance
+msgctxt "#103 memo"
+msgid "発生確率%g％"
+msgstr ""
+
+#. Offensive arts deal critical damage
+msgctxt "#104 memo"
+msgid "攻撃アーツが｢クリティカル｣"
+msgstr ""
+
+#. %g％ chance
+msgctxt "#105 memo"
+msgid "発生確率%g％"
+msgstr ""
+
+#. Restores EP when HP is low
+msgctxt "#106 memo"
+msgid "ピンチ時にEP回復"
+msgstr ""
+
+#. EP+%g%%
+msgctxt "#107 memo"
+msgid "回復量%g％"
+msgstr ""
+
+#. Once per fight when below 20%% HP
+msgctxt "#108 memo"
+msgid "HP20％以下で発動(戦闘中１度)"
+msgstr ""
+
+#. Reduced AT Delay after fire arts
+msgctxt "#109 memo"
+msgid "火属性アーツ発動後の硬直時間減少"
+msgstr ""
+
+#. AT Delay reduced by %g％
+msgctxt "#110 memo"
+msgid "硬直時間%g％カット"
+msgstr ""
+
+#. Attacks/crafts inflict abnormalities
+msgctxt "#111 memo"
+msgid "通常攻撃･クラフトで｢状態異常｣"
+msgstr ""
+
+#. %g％ chance (random abnormality)
+msgctxt "#112 memo"
+msgid "発生確率%g％(効果はランダム)"
+msgstr ""
+
+#. Offensive arts inflict abnormalities
+msgctxt "#113 memo"
+msgid "攻撃アーツで｢状態異常｣"
+msgstr ""
+
+#. %g％ chance (random abnormality)
+msgctxt "#114 memo"
+msgid "発生確率%g％(効果はランダム)"
+msgstr ""
+
+#. Attacks/crafts inflict nightmare
+msgctxt "#115 memo"
+msgid "通常攻撃･クラフトで｢悪夢｣"
+msgstr ""
+
+#. %g％ chance
+msgctxt "#116 memo"
+msgid "発生確率%g％"
+msgstr ""
+
+#. Attacks/crafts cause status down
+msgctxt "#117 memo"
+msgid "通常攻撃･クラフトで｢能力低下｣"
+msgstr ""
+
+#. %g％ chance (effect is random)
+msgctxt "#118 memo"
+msgid "発生確率%g％(効果はランダム)"
+msgstr ""
+
+#. Offensive arts cause status down
+msgctxt "#119 memo"
+msgid "攻撃アーツで｢能力低下｣"
+msgstr ""
+
+#. %g％ chance (effect is random)
+msgctxt "#120 memo"
+msgid "発生確率%g％ (効果はランダム)"
+msgstr ""
+
+#. Attacks/crafts kill enemy
+msgctxt "#121 memo"
+msgid "通常攻撃･クラフトで｢即死｣"
+msgstr ""
+
+#. %g％ chance
+msgctxt "#122 memo"
+msgid "発生確率%g％"
+msgstr ""
+
+#. Damage of offensive arts raised
+msgctxt "#123 memo"
+msgid "攻撃アーツのダメージアップ"
+msgstr ""
+
+#. Multiplied by a maximum of %g
+msgctxt "#124 memo"
+msgid "与ダメージ%g倍"
+msgstr ""
+
+#. Consumed EP multiplied by %g
+msgctxt "#125 memo"
+msgid "消費EP%g倍"
+msgstr ""
+
+#. Arts affect a wider area
+msgctxt "#126 memo"
+msgid "アーツの範囲がアップ"
+msgstr ""
+
+#. Area+%g
+msgctxt "#127 memo"
+msgid "範囲+%g"
+msgstr ""
+
+#. Reduced AT Delay after mirage arts
+msgctxt "#128 memo"
+msgid "幻属性アーツ発動後の硬直時間減少"
+msgstr ""
+
+#. AT Delay reduced by %g％
+msgctxt "#129 memo"
+msgid "硬直時間%g％カット"
+msgstr ""
+
+#. Absorb magic attacks
+msgctxt "#130 memo"
+msgid "魔法攻撃を吸収"
+msgstr ""
+
+#. %g％ chance
+msgctxt "#131 memo"
+msgid "発生確率%g％"
+msgstr ""
+
+#. Restores EP at start of battle
+msgctxt "#132 memo"
+msgid "戦闘開始時にEP回復"
+msgstr ""
+
+#. %g％ restored.
+msgctxt "#133 memo"
+msgid "回復量%g％"
+msgstr ""
+
+#. Reduced AT Delay after time arts
+msgctxt "#134 memo"
+msgid "時属性アーツ発動後の硬直時間減少"
+msgstr ""
+
+#. AT Delay reduced by %g％
+msgctxt "#135 memo"
+msgid "硬直時間%g％カット"
+msgstr ""
+
+#. Physical damage up as HP drops
+msgctxt "#136 memo"
+msgid "HPが少ないほど物理ダメージアップ"
+msgstr ""
+
+#. Multiplied by a maximum of %g
+msgctxt "#137 memo"
+msgid "与ダメージ最大%g倍"
+msgstr ""
+
+#. Attracts enemies' attention
+msgctxt "#138 memo"
+msgid "敵を引き付ける"
+msgstr ""
+
+#. %g％ chance of activating in battle
+msgctxt "#139 memo"
+msgid "戦闘中%g％の確率で発生"
+msgstr ""
+
+#. Raises STR/DEF when HP is low
+msgctxt "#140 memo"
+msgid "ピンチ時に｢STR･DEFアップ｣"
+msgstr ""
+
+#. %g turns of STR/DEF+%g％
+msgctxt "#141 memo"
+msgid "%gターンの間、STR･DEF+%g％"
+msgstr ""
+
+#. Once per fight when below 20%% HP
+msgctxt "#142 memo"
+msgid "HP20％以下で発動(戦闘中１度)"
+msgstr ""
+
+#. Arts damage up as HP drops
+msgctxt "#143 memo"
+msgid "HPが少ないほど魔法ダメージアップ"
+msgstr ""
+
+#. Multiplied by a maximum of %g
+msgctxt "#144 memo"
+msgid "与ダメージ最大%g倍"
+msgstr ""
+
+#. Arts affect a wider area
+msgctxt "#145 memo"
+msgid "アーツの範囲がアップ"
+msgstr ""
+
+#. Area+%g
+msgctxt "#146 memo"
+msgid "範囲+%g"
+msgstr ""
+
+#. Raises ATS/ADF when HP is low
+msgctxt "#147 memo"
+msgid "ピンチ時に｢ATS･ADFアップ｣"
+msgstr ""
+
+#. %g turns of ATS/ADF+%g％
+msgctxt "#148 memo"
+msgid "%gターンの間、ATS･ADF+%g％"
+msgstr ""
+
+#. Once per fight when under 20%% HP
+msgctxt "#149 memo"
+msgid "HP20％以下で発動(戦闘中１度)"
+msgstr ""
+
+#. Increases obtained EXP
+msgctxt "#150 memo"
+msgid "経験値アップ"
+msgstr ""
+
+#. Obtained EXP multiplied by %g
+msgctxt "#151 memo"
+msgid "経験値入手量%g倍"
+msgstr ""
+
+#. HP/EP/CP regenerate on field
+msgctxt "#152 memo"
+msgid "フィールドでHP･EP･CPが回復・上昇"
+msgstr ""
+
+#. Effect - Small
+msgctxt "#153 memo"
+msgid "効果・小"
+msgstr ""
+
+#. Effect - Large
+msgctxt "#154 memo"
+msgid "効果・大"
+msgstr ""
+
+#. Enemies less likely to notice you
+msgctxt "#155 memo"
+msgid "フィールドで敵に気付かれにくくなる"
+msgstr ""
+
+#. Randomly increases physical damage
+msgctxt "#156 memo"
+msgid "ランダムで物理ダメージアップ"
+msgstr ""
+
+#. Multiplied by a maximum of %g
+msgctxt "#157 memo"
+msgid "与ダメージ最大%g倍"
+msgstr ""
+
+#. Randomly increases magic damage
+msgctxt "#158 memo"
+msgid "ランダムで魔法ダメージアップ"
+msgstr ""
+
+#. Multiplied by a maximum of %g
+msgctxt "#159 memo"
+msgid "与ダメージ最大%g倍"
+msgstr ""
+
+#. Attacks/crafts inflict poison
+msgctxt "#160 memo"
+msgid "通常攻撃･クラフトで｢毒｣"
+msgstr ""
+
+#. %g％ chance
+msgctxt "#161 memo"
+msgid "発生確率%g％"
+msgstr ""
+
+#. High HP increases physical damage
+msgctxt "#162 memo"
+msgid "ＨＰが高いほど物理ダメージアップ"
+msgstr ""
+
+#. Multiplied by a maximum of %g
+msgctxt "#163 memo"
+msgid "与ダメージ最大%g倍"
+msgstr ""
+
+#. Killing enemies recovers HP
+msgctxt "#164 memo"
+msgid "敵に止めを刺すとHP回復"
+msgstr ""
+
+#. HP+%g per enemy killed
+msgctxt "#165 memo"
+msgid "１体ごとにHP+%g"
+msgstr ""
+
+#. Attacks/crafts inflict burn
+msgctxt "#166 memo"
+msgid "通常攻撃･クラフトで｢炎傷｣"
+msgstr ""
+
+#. %g％ chance
+msgctxt "#167 memo"
+msgid "発生確率%g％"
+msgstr ""
+
+#. Attacks/crafts deal critical damage
+msgctxt "#168 memo"
+msgid "通常攻撃･クラフトが｢クリティカル｣"
+msgstr ""
+
+#. %g％ chance
+msgctxt "#169 memo"
+msgid "発生確率%g％"
+msgstr ""
+
+#. Accuracy up
+msgctxt "#170 memo"
+msgid "命中率アップ"
+msgstr ""
+
+#. Accuracy+%g％
+msgctxt "#171 memo"
+msgid "命中率+%g％"
+msgstr ""
+
+#. Increases damage dealt by criticals
+msgctxt "#172 memo"
+msgid "｢クリティカル｣のダメージアップ"
+msgstr ""
+
+#. Multiplied by %g (usually 1.5)
+msgctxt "#173 memo"
+msgid "ダメージ量%g倍(通常1.5倍)"
+msgstr ""
+
+#. Low HP decreases received damage
+msgctxt "#174 memo"
+msgid "ＨＰが少ないほど、ダメージ軽減"
+msgstr ""
+
+#. Reduced by a maximum of %g％
+msgctxt "#175 memo"
+msgid "最大%g％カット"
+msgstr ""
+
+#. Increases item drop rate
+msgctxt "#176 memo"
+msgid "ドロップアイテム入手率アップ"
+msgstr ""
+
+#. Drop rate+%g％
+msgctxt "#177 memo"
+msgid "入手率+%g％"
+msgstr ""
+
+#. Increases number of dropped items
+msgctxt "#178 memo"
+msgid "ドロップアイテム増加"
+msgstr ""
+
+#. Number multiplied by %g
+msgctxt "#179 memo"
+msgid "入手アイテム数%g倍"
+msgstr ""
+
+#. Recover HP through attacks/crafts
+msgctxt "#180 memo"
+msgid "通常攻撃･クラフトでＨＰ回復"
+msgstr ""
+
+#. Recover %g％ of damage as HP
+msgctxt "#181 memo"
+msgid "与えたダメージの%g％回復"
+msgstr ""
+
+#. Recover EP through attacks/crafts
+msgctxt "#182 memo"
+msgid "通常攻撃･クラフトでＥＰ回復"
+msgstr ""
+
+#. Recover %g％ of damage as EP
+msgctxt "#183 memo"
+msgid "与えたダメージの%g％回復"
+msgstr ""
+
+#. Evasion up
+msgctxt "#184 memo"
+msgid "回避率アップ"
+msgstr ""
+
+#. Evasion+%g％
+msgctxt "#185 memo"
+msgid "回避率+%g％"
+msgstr ""
