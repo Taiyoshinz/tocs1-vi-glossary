@@ -1,0 +1,856 @@
+#
+msgid ""
+msgstr ""
+"Language: vi\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Rean
+msgctxt "#0 name"
+msgid "リィン"
+msgstr ""
+
+#. Alisa
+msgctxt "#1 name"
+msgid "アリサ"
+msgstr ""
+
+#. Elliot
+msgctxt "#2 name"
+msgid "エリオット"
+msgstr ""
+
+#. Laura
+msgctxt "#3 name"
+msgid "ラウラ"
+msgstr ""
+
+#. Machias
+msgctxt "#4 name"
+msgid "マキアス"
+msgstr ""
+
+#. Emma
+msgctxt "#5 name"
+msgid "エマ"
+msgstr ""
+
+#. Jusis
+msgctxt "#6 name"
+msgid "ユーシス"
+msgstr ""
+
+#. Fie
+msgctxt "#7 name"
+msgid "フィー"
+msgstr ""
+
+#. Gaius
+msgctxt "#8 name"
+msgid "ガイウス"
+msgstr ""
+
+#. Millium
+msgctxt "#9 name"
+msgid "ミリアム"
+msgstr ""
+
+#. Crow
+msgctxt "#10 name"
+msgid "クロウ"
+msgstr ""
+
+#. Instructor Sara
+msgctxt "#11 name"
+msgid "サラ教官"
+msgstr ""
+
+#. Angelica
+msgctxt "#12 name"
+msgid "アンゼリカ"
+msgstr ""
+
+#. Rean 2 (Silver hair test)
+msgctxt "#13 name"
+msgid "リィン2(銀髪テスト)"
+msgstr ""
+
+#. Angelica Dress
+msgctxt "#14 name"
+msgid "アンゼリカドレス"
+msgstr ""
+
+#. Claire Casual Clothes Test
+msgctxt "#15 name"
+msgid "クレア私服テスト"
+msgstr ""
+
+#. Rean
+msgctxt "#16 name"
+msgid "リィン"
+msgstr ""
+
+#. Sharon
+msgctxt "#17 name"
+msgid "シャロン"
+msgstr ""
+
+#. Towa
+msgctxt "#18 name"
+msgid "トワ"
+msgstr ""
+
+#. George
+msgctxt "#19 name"
+msgid "ジョルジュ"
+msgstr ""
+
+#. Patrick
+msgctxt "#20 name"
+msgid "パトリック"
+msgstr ""
+
+#. Patrick - Stage Outfit
+msgctxt "#21 name"
+msgid "パトリック:舞台衣装"
+msgstr ""
+
+#. Principal Vandyck
+msgctxt "#22 name"
+msgid "ヴァンダイク学院長"
+msgstr ""
+
+#. Instructor Neithardt
+msgctxt "#23 name"
+msgid "ナイトハルト教官"
+msgstr ""
+
+#. Instructor Thomas
+msgctxt "#24 name"
+msgid "トマス教官"
+msgstr ""
+
+#. Claire
+msgctxt "#25 name"
+msgid "クレア"
+msgstr "Claire"
+
+#. Rufus
+msgctxt "#26 name"
+msgid "ルーファス"
+msgstr "Rufus"
+
+#. Elise (Casual Clothes)
+msgctxt "#27 name"
+msgid "エリゼ(私服)"
+msgstr "Elise (Thường phục)"
+
+#. Elise (School Uniform)
+msgctxt "#28 name"
+msgid "エリゼ(女学院制服)"
+msgstr "Elise (Đồng phục nữ sinh)"
+
+#. Alfin (Casual Clothes)
+msgctxt "#29 name"
+msgid "アルフィン(私服)"
+msgstr "Alfin (Thường phục)"
+
+#. Alfin (School Uniform)
+msgctxt "#30 name"
+msgid "アルフィン(女学院制服)"
+msgstr "Alfin (Đồng phục nữ sinh)"
+
+#. Cedric
+msgctxt "#31 name"
+msgid "セドリック"
+msgstr "Cedric"
+
+#. Eugent III
+msgctxt "#32 name"
+msgid "ユーゲントⅢ世"
+msgstr "Eugent Đệ Tam"
+
+#. Empress Priscilla
+msgctxt "#33 name"
+msgid "プリシラ皇妃"
+msgstr "Nữ Hoàng Priscilla"
+
+#. Clotilde (Dress)
+msgctxt "#34 name"
+msgid "クロチルダ(ドレス)"
+msgstr "Clotilde (Váy)"
+
+#. Clotilde (Radio)
+msgctxt "#35 name"
+msgid "クロチルダ(ラジオ)"
+msgstr "Clotilde (Radio)"
+
+#. C (Masked)
+msgctxt "#36 name"
+msgid "《Ｃ》仮面あり"
+msgstr "C (Mặt Nạ)"
+
+#. Gideon
+msgctxt "#37 name"
+msgid "ギデオン"
+msgstr "Gideon"
+
+#. Scarlet
+msgctxt "#38 name"
+msgid "スカーレット"
+msgstr "Scarlet"
+
+#. Vulcan
+msgctxt "#39 name"
+msgid "ヴァルカン"
+msgstr "Vulcan"
+
+#. Duke Cayenne
+msgctxt "#40 name"
+msgid "カイエン公爵"
+msgstr "Công tước Cayenne"
+
+#. Hazel Hair (Zephyr)
+msgctxt "#41 name"
+msgid "ヘイゼル髪(西風)"
+msgstr "Tóc Hazel (Gió tây)"
+
+#. Dreadlocks (Zephyr)
+msgctxt "#42 name"
+msgid "ドレッド(西風)"
+msgstr "Dreadlocks (Gió tây)"
+
+#. Teo
+msgctxt "#43 name"
+msgid "テオ"
+msgstr "Teo"
+
+#. Lucia
+msgctxt "#44 name"
+msgid "ルシア"
+msgstr "Lucia"
+
+#. Irina
+msgctxt "#45 name"
+msgid "イリーナ"
+msgstr "Irina"
+
+#. Gwyn
+msgctxt "#46 name"
+msgid "グエン"
+msgstr "Gwyn"
+
+#. Arseid
+msgctxt "#47 name"
+msgid "アルゼイド"
+msgstr "Arseid"
+
+#. Captain Arseid
+msgctxt "#48 name"
+msgid "アルゼイド艦長"
+msgstr "Thuyền trưởng Arseid"
+
+#. Butler Helmer
+msgctxt "#49 name"
+msgid "執事ヘルマー"
+msgstr "Quản gia Helmer"
+
+#. Regnitz
+msgctxt "#50 name"
+msgid "レーグニッツ"
+msgstr "Regnitz"
+
+#. Lieutenant General Craig
+msgctxt "#51 name"
+msgid "グレイグ中将"
+msgstr "Trung tướng Craig"
+
+#. Fiona
+msgctxt "#52 name"
+msgid "フィオナ"
+msgstr "Fiona"
+
+#. Duke Albarea
+msgctxt "#53 name"
+msgid "アルバレア公爵"
+msgstr "Công tước Albarea"
+
+#. Marquis Rogner
+msgctxt "#54 name"
+msgid "ログナー侯爵"
+msgstr "Bá tước Rogner"
+
+#. Marquis Hyarms
+msgctxt "#55 name"
+msgid "ハイアームズ侯爵"
+msgstr "Bá tước Hyarms"
+
+#. Gaius' Dad
+msgctxt "#56 name"
+msgid "ガイウス父"
+msgstr "Cha Gaius"
+
+#. Gaius' Mom
+msgctxt "#57 name"
+msgid "ガイウス母"
+msgstr "Mẹ Gaius"
+
+#. Thoma
+msgctxt "#58 name"
+msgid "トーマ"
+msgstr "Thoma"
+
+#. Gaius' Sister 1 - Sheeda
+msgctxt "#59 name"
+msgid "ガイウス妹①シーダ"
+msgstr "Em Gái Gaius 1 - Sheeda"
+
+#. Gaius' Sister 2 - Lily
+msgctxt "#60 name"
+msgid "ガイウス妹②リーリ"
+msgstr "Em Gái Gaius 2 - Lily"
+
+#. Osborne
+msgctxt "#61 name"
+msgid "オズボーン"
+msgstr "Osborne"
+
+#. Olivier (Red)
+msgctxt "#62 name"
+msgid "オリビエ(赤)"
+msgstr "Olivier (Đỏ)"
+
+#. Mueller
+msgctxt "#63 name"
+msgid "ミュラー"
+msgstr "Mueller"
+
+#. Zechs
+msgctxt "#64 name"
+msgid "ゼクス"
+msgstr "Zechs"
+
+#. Lechter
+msgctxt "#65 name"
+msgid "レクター"
+msgstr "Lechter"
+
+#. Bleublanc Noble
+msgctxt "#66 name"
+msgid "ブルブラン貴族"
+msgstr "Bleublanc Hoàng tộc"
+
+#. Bleublanc Masked
+msgctxt "#67 name"
+msgid "ブルブラン仮面"
+msgstr "Bleublanc Mặt nạ"
+
+#. Arianrhod
+msgctxt "#68 name"
+msgid "アリアンロード"
+msgstr "Arianrhod"
+
+#. Toval
+msgctxt "#69 name"
+msgid "トヴァル"
+msgstr "Toval"
+
+#. Airgetlam
+msgctxt "#70 name"
+msgid "アガートラム"
+msgstr "Airgetlam"
+
+#. Celine
+msgctxt "#71 name"
+msgid "セリーヌ"
+msgstr "Celine"
+
+#. Grianos
+msgctxt "#72 name"
+msgid "グリアノス"
+msgstr "Grianos"
+
+#. Burglar NPC
+msgctxt "#73 name"
+msgid "夜盗団雑魚"
+msgstr "NPC Cướp bóc"
+
+#. Alan
+msgctxt "#74 name"
+msgid "アラン"
+msgstr ""
+
+#. Hugo
+msgctxt "#75 name"
+msgid "ヒューゴ"
+msgstr ""
+
+#. Hibelle
+msgctxt "#76 name"
+msgid "ハイベル"
+msgstr ""
+
+#. Hibelle (arm in cast)
+msgctxt "#77 name"
+msgid "ハイベル(ギブス)"
+msgstr ""
+
+#. Casper
+msgctxt "#78 name"
+msgid "カスパル"
+msgstr ""
+
+#. Klein
+msgctxt "#79 name"
+msgid "クレイン"
+msgstr ""
+
+#. Loggins
+msgctxt "#80 name"
+msgid "ロギンス"
+msgstr ""
+
+#. Rex
+msgctxt "#81 name"
+msgid "レックス"
+msgstr ""
+
+#. Munk
+msgctxt "#82 name"
+msgid "ムンク"
+msgstr ""
+
+#. Nicholas
+msgctxt "#83 name"
+msgid "ニコラス"
+msgstr ""
+
+#. Stefan
+msgctxt "#84 name"
+msgid "ステファン"
+msgstr ""
+
+#. Vincent
+msgctxt "#85 name"
+msgid "ヴィンセント"
+msgstr ""
+
+#. Lambert
+msgctxt "#86 name"
+msgid "ランベルト"
+msgstr ""
+
+#. Fidelio
+msgctxt "#87 name"
+msgid "フィデリオ"
+msgstr ""
+
+#. Kenneth
+msgctxt "#88 name"
+msgid "ケネス"
+msgstr ""
+
+#. Colette
+msgctxt "#89 name"
+msgid "コレット"
+msgstr ""
+
+#. Monica
+msgctxt "#90 name"
+msgid "モニカ"
+msgstr ""
+
+#. Mint
+msgctxt "#91 name"
+msgid "ミント"
+msgstr ""
+
+#. Linde
+msgctxt "#92 name"
+msgid "リンデ"
+msgstr ""
+
+#. Linde (Apron)
+msgctxt "#93 name"
+msgid "リンデ(エプロン)"
+msgstr "Linde (Tạp dề)"
+
+#. Vivi
+msgctxt "#94 name"
+msgid "ヴィヴィ"
+msgstr ""
+
+#. Vivi (Apron)
+msgctxt "#95 name"
+msgid "ヴィヴィ(エプロン)"
+msgstr "Vivi (Tạp dề)"
+
+#. Becky
+msgctxt "#96 name"
+msgid "ベッキー"
+msgstr ""
+
+#. Emily
+msgctxt "#97 name"
+msgid "エミリー"
+msgstr ""
+
+#. Paula
+msgctxt "#98 name"
+msgid "ポーラ"
+msgstr ""
+
+#. Rosine
+msgctxt "#99 name"
+msgid "ロジーヌ"
+msgstr ""
+
+#. Rosine (Sister)
+msgctxt "#100 name"
+msgid "ロジーヌ(シスター)"
+msgstr "Rosine (Sơ)"
+
+#. Dorothee
+msgctxt "#101 name"
+msgid "ドロテ"
+msgstr ""
+
+#. Beryl
+msgctxt "#102 name"
+msgid "ベリル"
+msgstr ""
+
+#. Clara
+msgctxt "#103 name"
+msgid "クララ"
+msgstr ""
+
+#. Ferris
+msgctxt "#104 name"
+msgid "フェリス"
+msgstr ""
+
+#. Ferris (Noble)
+msgctxt "#105 name"
+msgid "フェリス(貴族風)"
+msgstr ""
+
+#. Bridget
+msgctxt "#106 name"
+msgid "ブリジット"
+msgstr ""
+
+#. Friedel
+msgctxt "#107 name"
+msgid "フリーデル"
+msgstr ""
+
+#. Theresia
+msgctxt "#108 name"
+msgid "テレジア"
+msgstr ""
+
+#. Edel
+msgctxt "#109 name"
+msgid "エーデル"
+msgstr ""
+
+#. Margarita
+msgctxt "#110 name"
+msgid "マルガリータ"
+msgstr ""
+
+#. Instructor Beatrix
+msgctxt "#111 name"
+msgid "ベアトリクス教官"
+msgstr ""
+
+#. Instructor Mary
+msgctxt "#112 name"
+msgid "メアリー教官"
+msgstr ""
+
+#. Instructor Makarov
+msgctxt "#113 name"
+msgid "マカロフ教官"
+msgstr ""
+
+#. Vice Principal Heinrich
+msgctxt "#114 name"
+msgid "ハインリヒ教頭"
+msgstr ""
+
+#. Radio Station Producer
+msgctxt "#115 name"
+msgid "ラジオ局プロデューサー"
+msgstr "NSX chương trình phát thanh"
+
+#. Cameraman
+msgctxt "#116 name"
+msgid "カメラマン"
+msgstr "Nhân viên quay phim"
+
+#. Ricky
+msgctxt "#117 name"
+msgid "リックス"
+msgstr "Ricky"
+
+#. Anton
+msgctxt "#118 name"
+msgid "アントン"
+msgstr "Anton"
+
+#. Lotte
+msgctxt "#119 name"
+msgid "ロッテ"
+msgstr ""
+
+#. Sariffa
+msgctxt "#120 name"
+msgid "サリファ"
+msgstr ""
+
+#. Butler Celestin
+msgctxt "#121 name"
+msgid "執事セレスタン"
+msgstr ""
+
+#. Male Commoner NPC1
+msgctxt "#122 name"
+msgid "モブ平民男子①"
+msgstr "Nam thường dân 1"
+
+#. Male Commoner NPC1 - Summer
+msgctxt "#123 name"
+msgid "モブ平民男子①:夏服"
+msgstr "Nam thường dân 1 - Hè"
+
+#. Male Commoner NPC2
+msgctxt "#124 name"
+msgid "モブ平民男子②"
+msgstr "Nam thường dân 2"
+
+#. Male Commoner NPC2 - Summer
+msgctxt "#125 name"
+msgid "モブ平民男子②:夏服"
+msgstr "Nam thường dân 2 - Hè"
+
+#. Female Commoner NPC1
+msgctxt "#126 name"
+msgid "モブ平民女子①"
+msgstr "Nữ thường dân 1"
+
+#. Female Commoner NPC1 - Summer
+msgctxt "#127 name"
+msgid "モブ平民女子①:夏服"
+msgstr "Nữ thường dân 1 - Hè"
+
+#. Female Commoner NPC2
+msgctxt "#128 name"
+msgid "モブ平民女子②"
+msgstr "Nữ thường dân 2 - Hè"
+
+#. Female Commoner NPC2 - Summer
+msgctxt "#129 name"
+msgid "モブ平民女子②:夏服"
+msgstr "Nữ thường dân 2 - Hè"
+
+#. Male Noble NPC1
+msgctxt "#130 name"
+msgid "モブ貴族男子①"
+msgstr "Nam quý tộc 1"
+
+#. Male Noble NPC2
+msgctxt "#131 name"
+msgid "モブ貴族男子②"
+msgstr "Nam quý tộc 2"
+
+#. Female Noble NPC1
+msgctxt "#132 name"
+msgid "モブ貴族女子①"
+msgstr "Nữ quý tộc 1"
+
+#. Female Noble NPC2
+msgctxt "#133 name"
+msgid "モブ貴族女子②"
+msgstr "Nữ quý tộc 2"
+
+#. Courageous Crew (Young Male Soldier 1)
+msgctxt "#134 name"
+msgid "カレイジャス乗組員・一般兵(青年)①"
+msgstr "Thuyền viên Courageous (Lính nam trẻ 1)"
+
+#. Courageous Crew (Young Male Soldier 2)
+msgctxt "#135 name"
+msgid "カレイジャス乗組員・一般兵(青年)②"
+msgstr "Thuyền viên Courageous (Lính nam trẻ 2)"
+
+#. Courageous Crew (Young Male Soldier 3)
+msgctxt "#136 name"
+msgid "カレイジャス乗組員・一般兵(青年)③"
+msgstr "Thuyền viên Courageous (Lính nam trẻ 3)"
+
+#. Courageous Crew (Female Soldier 1)
+msgctxt "#137 name"
+msgid "カレイジャス乗組員・一般兵(女性)①"
+msgstr "Thuyền viên Courageous (Lính nữ trẻ 1)"
+
+#. Owner Howard
+msgctxt "#138 name"
+msgid "ハワード・オーナー"
+msgstr "Chủ tiệm Howard"
+
+#. Harison (Suit)
+msgctxt "#139 name"
+msgid "【ハリソン】スーツ版"
+msgstr "Harison (Trang phục)"
+
+#. Payton
+msgctxt "#140 name"
+msgid "ペイトン"
+msgstr "Payton"
+
+#. Micht (Middle Aged Commoner 1)
+msgctxt "#141 name"
+msgid "【ミヒュト】平民・中年男①"
+msgstr "Micht (Nam thường dân trung niên 1)"
+
+#. Male Noble NPC1 (Stage Outfit)
+msgctxt "#142 name"
+msgid "モブ貴族男子①（舞台衣装）"
+msgstr "Nam quý tộc 1 (Trang phục sân khấu)"
+
+#. Male Noble NPC2 (Stage Outfit)
+msgctxt "#143 name"
+msgid "モブ貴族男子②（舞台衣装）"
+msgstr "Nam quý tộc 2 (Trang phục sân khấu)"
+
+#. Female Noble NPC1 (Stage Outfit)
+msgctxt "#144 name"
+msgid "モブ貴族女子①（舞台衣装）"
+msgstr "Nữ quý tộc 1 (Trang phục sân khấu)"
+
+#. Female Noble NPC2 (Stage Outfit)
+msgctxt "#145 name"
+msgid "モブ貴族女子②（舞台衣装）"
+msgstr "Nữ quý tộc 2 (Trang phục sân khấu)"
+
+#. Live Audience
+msgctxt "#146 name"
+msgid "ライブオーディエンス"
+msgstr "Khán giả trực tiếp"
+
+#. Students at Welcoming Ceremony
+msgctxt "#147 name"
+msgid "入学式の生徒たち"
+msgstr "Học sinh tại lễ nhập học"
+
+#. Horse
+msgctxt "#148 name"
+msgid "馬"
+msgstr "Ngựa"
+
+#. White Horse
+msgctxt "#149 name"
+msgid "馬白"
+msgstr "Ngựa trắng"
+
+#. Black Horse
+msgctxt "#150 name"
+msgid "馬黒"
+msgstr "Ngựa đen"
+
+#. Chestnut Horse
+msgctxt "#151 name"
+msgid "馬栗毛"
+msgstr "Ngựa hạt dẻ"
+
+#. Sheep
+msgctxt "#152 name"
+msgid "羊"
+msgstr "Cừu"
+
+#. Dog 1
+msgctxt "#153 name"
+msgid "犬1"
+msgstr "Chó 1"
+
+#. Dog 2
+msgctxt "#154 name"
+msgid "犬2"
+msgstr "Chó 2"
+
+#. Dog 3
+msgctxt "#155 name"
+msgid "犬3"
+msgstr "Chó 3"
+
+#. White Cat
+msgctxt "#156 name"
+msgid "白猫"
+msgstr "Mèo trắng"
+
+#. Gray Cat
+msgctxt "#157 name"
+msgid "グレーの猫"
+msgstr "Mèo xám"
+
+#. Brown Cat
+msgctxt "#158 name"
+msgid "茶色の猫"
+msgstr "Mèo nâu"
+
+#. Black and White Cat
+msgctxt "#159 name"
+msgid "白黒の猫"
+msgstr "Hắc bạch vô mèo"
+
+#. Light Brown Cat with Yellow Collar
+msgctxt "#160 name"
+msgid "白茶・黄色の首輪突き"
+msgstr "Mèo nâu sáng - Vòng cổ vàng"
+
+#. Striped Boss Cat
+msgctxt "#161 name"
+msgid "虎柄のボス猫"
+msgstr "Mèo vằn hổ đầu đàn"
+
+#. White Kitten
+msgctxt "#162 name"
+msgid "白い子猫"
+msgstr "Mèo con trắng"
+
+#. Brown Kitten
+msgctxt "#163 name"
+msgid "茶色の子猫"
+msgstr "Mèo con nâu"
+
+#. White Kitten with Red Collar
+msgctxt "#164 name"
+msgid "白い子猫・赤い首輪つき"
+msgstr "Mèo con trắng - Vòng cổ đỏ"
+
+#. Chicken
+msgctxt "#165 name"
+msgid "ニワトリ"
+msgstr "Gà"
+
+#. Pigeon
+msgctxt "#166 name"
+msgid "ハト"
+msgstr "Bồ câu"
+
+#. Black Kite
+msgctxt "#167 name"
+msgid "トンビ"
+msgstr "Diều"
+
+#. Ashen Knight
+msgctxt "#168 name"
+msgid "灰の騎神"
+msgstr ""
+
+#. Azure Knight
+msgctxt "#169 name"
+msgid "蒼の騎神"
+msgstr "Kỵ Thần Thương"
