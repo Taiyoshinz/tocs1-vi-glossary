@@ -1,0 +1,2970 @@
+#
+msgid ""
+msgstr ""
+"Language: vi\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Class VII Members
+msgctxt "#0 chapter"
+msgid "Ⅶ組メンバー"
+msgstr ""
+
+#. Y1 - Class I/II
+msgctxt "#1 chapter"
+msgid "１年生（ⅠⅡ組）"
+msgstr ""
+
+#. Y1 - Class III/IV/V
+msgctxt "#2 chapter"
+msgid "１年生（ⅢⅣⅤ組）"
+msgstr ""
+
+#. Y2 - Class I/II
+msgctxt "#3 chapter"
+msgid "２年生（ⅠⅡ組）"
+msgstr ""
+
+#. Y2 - Class III/IV/V
+msgctxt "#4 chapter"
+msgid "２年生（ⅢⅣⅤ組）"
+msgstr ""
+
+#. Instructors etc.
+msgctxt "#5 chapter"
+msgid "教官・その他"
+msgstr ""
+
+#. Rean
+msgctxt "#6 char_name"
+msgid "リィン"
+msgstr ""
+
+#. Rean Schwarzer
+msgctxt "#7 char_full"
+msgid "リィン・シュバルツァー"
+msgstr ""
+
+#. (Unaffiliated)
+msgctxt "#8 char_affil"
+msgid "【無所属】"
+msgstr ""
+
+#. Year 1 Class VII
+#. A young man who is part of Class VII.
+#. Easygoing, honest, polite, and sociable.
+msgctxt "#9 char_desc"
+msgid ""
+"１年Ⅶ組\n"
+"特科クラスⅦ組に所属する青年。\n"
+"芯のあるまっすぐな性格で、\n"
+"社交性と人の良さを備えている。"
+msgstr ""
+
+#. Secret
+msgctxt "#10 char_topic"
+msgid "隠し事"
+msgstr ""
+
+#. Achieved beginner rank in the Eight
+#. Leaves One Blade school. He is also the
+#. adopted son of Ymir's Baron Schwarzer.
+msgctxt "#10 desc"
+msgid ""
+"《八葉一刀流》の初伝を修めている。\n"
+"そして、帝国北部の《ユミル》を治める\n"
+"《シュバルツァー男爵家》に拾われた養子。"
+msgstr ""
+
+#. Devoted Brother
+msgctxt "#11 char_topic"
+msgid "兄妹想い"
+msgstr ""
+
+#. He has a non-blood-related younger 
+#. sister, Elise, who attends St.
+#. Astraia. Very dedicated to her.
+msgctxt "#11 desc"
+msgid ""
+"《聖アストライア女学院》に\n"
+"エリゼという可憐な義妹がいる。\n"
+"兄として心底大切に想っているようだ。"
+msgstr ""
+
+#. Power
+msgctxt "#12 char_topic"
+msgid "狂気の“力”"
+msgstr ""
+
+#. Rean occasionally exhibits a beast-like
+#. power when he loses control of himself.
+#. He has feared that since he was a child.
+msgctxt "#12 desc"
+msgid ""
+"何かのタガが外れたとき、\n"
+"変化して獣じみた“力”が発揮される。\n"
+"リィンは幼い頃からそれを畏れていた。"
+msgstr ""
+
+#. Alisa
+msgctxt "#13 char_name"
+msgid "アリサ"
+msgstr ""
+
+#. Alisa Reinford
+msgctxt "#14 char_full"
+msgid "アリサ・ラインフォルト"
+msgstr ""
+
+#. (Lacrosse Club)
+msgctxt "#15 char_affil"
+msgid "【ラクロス部】"
+msgstr ""
+
+#. Year 1 Class VII
+#. Looks like a reserved noble, but 
+#. says what she really thinks. 
+#. Surprisingly naive and meddling.
+msgctxt "#16 char_desc"
+msgid ""
+"１年Ⅶ組\n"
+"可憐なお嬢様風の見た目と裏腹に\n"
+"はっきりとした物言いをする。\n"
+"意外とお人好しでお節介なタイプ。"
+msgstr ""
+
+#. Reinford
+msgctxt "#17 char_topic"
+msgid "ＲＦ社の令嬢"
+msgstr ""
+
+#. Daughter of the chairman of the Reinford
+#. Company, the Empire's largest heavy 
+#. industry corporation.
+msgctxt "#17 desc"
+msgid ""
+"帝国最大の重工業メーカー、\n"
+"《ラインフォルト社》の令嬢だった。"
+msgstr ""
+
+#. A Present
+msgctxt "#18 char_topic"
+msgid "祖父への贈り物"
+msgstr ""
+
+#. Together with Rean, she 
+#. sent a hat as a present to 
+#. Gwyn in the Nord Highlands.
+msgctxt "#18 desc"
+msgid ""
+"ノルド高原のグエン老人に\n"
+"リィンと一所懸命に選んだ\n"
+"お洒落な帽子をプレゼントした。"
+msgstr ""
+
+#. Daughter
+msgctxt "#19 char_topic"
+msgid "母への想い"
+msgstr ""
+
+#. While opposed to her mother's
+#. ways, she still worries about her 
+#. as her daughter.
+msgctxt "#19 desc"
+msgid ""
+"イリーナ会長の生き方に反発しつつも、\n"
+"一人娘としての思いやりをもって\n"
+"アリサなりに心配していたようだ。"
+msgstr ""
+
+#. Elliot
+msgctxt "#20 char_name"
+msgid "エリオット"
+msgstr ""
+
+#. Elliot Craig
+msgctxt "#21 char_full"
+msgid "エリオット・クレイグ"
+msgstr ""
+
+#. (Wind Orchestra)
+msgctxt "#22 char_affil"
+msgid "【吹奏楽部】"
+msgstr ""
+
+#. Year 1 Class VII
+#. Belongs to the Wind Orchestra. 
+#. A meek, kind-natured boy with
+#. red hair. Dislikes conflict.
+msgctxt "#23 char_desc"
+msgid ""
+"１年Ⅶ組\n"
+"吹奏楽部に在籍する、\n"
+"紅茶色の髪が特徴の柔和な少年。\n"
+"争い事を好まない優しい性格。"
+msgstr ""
+
+#. Loves Music
+msgctxt "#24 char_topic"
+msgid "音楽系の進路"
+msgstr ""
+
+#. Has loved music since he was a child,
+#. and originally wanted to attend a music
+#. academy instead of Thors.
+msgctxt "#24 desc"
+msgid ""
+"子供の頃から音楽が好きで、\n"
+"もともとは音楽系の進路を目指していた。"
+msgstr ""
+
+#. General's Son
+msgctxt "#25 char_topic"
+msgid "クレイグ中将"
+msgstr ""
+
+#. His father is the famed general Craig 
+#. the Red, leader of the renowned 4th
+#. Armored Division.
+msgctxt "#25 desc"
+msgid ""
+"父親は猛将と名高い《紅毛のクレイグ》。\n"
+"帝国軍屈指の打撃力を誇ると言われている、\n"
+"第四機甲師団を率いている。"
+msgstr ""
+
+#. Music Mania
+msgctxt "#26 char_topic"
+msgid "音楽の鬼"
+msgstr ""
+
+#. While Elliot is usually meek, he accepts
+#. no compromises when it comes to music,
+#. working everyone hard with a smile.
+msgctxt "#26 desc"
+msgid ""
+"普段は温和なエリオットだが\n"
+"こと音楽に関しては一切の妥協を許さず、\n"
+"にこやかに無理難題を突きつける。"
+msgstr ""
+
+#. Laura
+msgctxt "#27 char_name"
+msgid "ラウラ"
+msgstr ""
+
+#. Laura S. Arseid
+msgctxt "#28 char_full"
+msgid "ラウラ・Ｓ・アルゼイド"
+msgstr ""
+
+#. (Swimming Club)
+msgctxt "#29 char_affil"
+msgid "【水泳部】"
+msgstr ""
+
+#. Year 1 Class VII
+#. Daughter of the viscount who rules over
+#. Legram. Practitioner of the Arseid
+#. school, and the strongest first year.
+msgctxt "#30 char_desc"
+msgid ""
+"１年Ⅶ組\n"
+"レグラムを治める子爵家の嫡女。\n"
+"騎士剣術の総本山《アルゼイド流》出身で、\n"
+"新入生の中でも最強の強さを誇る。"
+msgstr ""
+
+#. Lofty Goal
+msgctxt "#31 char_topic"
+msgid "遥かな目標"
+msgstr ""
+
+#. Laura seems to aspire to be like St.
+#. Sandlot, who fought valiantly during 
+#. the War of the Lions 250 years ago.
+msgctxt "#31 desc"
+msgid ""
+"２５０年前に《獅子戦役》を駆け抜けた\n"
+"《聖女サンドロット》こそ\n"
+"ラウラの目指すべき目標らしい。"
+msgstr ""
+
+#. Mishy
+msgctxt "#32 char_topic"
+msgid "みっしぃ"
+msgstr ""
+
+#. She seems surprisingly taken by Mishy,
+#. the mascot character she spotted at the
+#. general store.
+msgctxt "#32 desc"
+msgid ""
+"雑貨屋で見つけたマスコット\n"
+"“みっしぃ”を意外と気に入ったようだ。"
+msgstr ""
+
+#. Like Father...
+msgctxt "#33 char_topic"
+msgid "父娘の絆"
+msgstr ""
+
+#. Laura seems to have taken after her
+#. father, in both character and strength.
+msgctxt "#33 desc"
+msgid ""
+"ラウラの懐の広さや、その強さは\n"
+"やはりアルゼイド子爵から\n"
+"受け継いだところが大きいようだ。"
+msgstr ""
+
+#. Machias
+msgctxt "#34 char_name"
+msgid "マキアス"
+msgstr ""
+
+#. Machias Regnitz
+msgctxt "#35 char_full"
+msgid "マキアス・レーグニッツ"
+msgstr ""
+
+#. (Lower Class Chess Club)
+msgctxt "#36 char_affil"
+msgid "【第二チェス部】"
+msgstr ""
+
+#. Year 1 Class VII
+#. Class VII's vice president. Son 
+#. of Heimdallr's governor. He hates 
+#. the nobility with a passion.
+msgctxt "#37 char_desc"
+msgid ""
+"１年Ⅶ組\n"
+"Ⅶ組の副委員長を務めている男子。\n"
+"レーグニッツ帝都知事の息子で、\n"
+"貴族には強い対抗意識を持っている。"
+msgstr ""
+
+#. Top Grades
+msgctxt "#38 char_topic"
+msgid "トップの成績"
+msgstr ""
+
+#. Scored joint highest in the midterm
+#. examinations with Emma. His diligence 
+#. in studying for them paid off in the end.
+msgctxt "#38 desc"
+msgid ""
+"中間試験の結果は委員長と並んで１位。\n"
+"相当な努力が実った結果に。"
+msgstr ""
+
+#. Machias' Past
+msgctxt "#39 char_topic"
+msgid "マキアスの過去"
+msgstr ""
+
+#. Machias' hatred for nobility stems from
+#. a past event involving his cousin. That 
+#. hate seems to be fading over time, though.
+msgctxt "#39 desc"
+msgid ""
+"従姉と貴族にまつわる過去が\n"
+"マキアスが貴族を憎む原因だった。\n"
+"だが、それも少し和らいできたようだ。"
+msgstr ""
+
+#. Reconciliation
+msgctxt "#40 char_topic"
+msgid "チェス部の和解"
+msgstr ""
+
+#. The two chess clubs got past their 
+#. differences through chess. This seems 
+#. to have changed Machias' opinions, too.
+msgctxt "#40 desc"
+msgid ""
+"チェス部内の貴族生徒との対立は\n"
+"試合を通じてようやく解決したようだ。\n"
+"マキアスにも心境の変化があったらしい。"
+msgstr ""
+
+#. Emma
+msgctxt "#41 char_name"
+msgid "エマ"
+msgstr ""
+
+#. Emma Millstein
+msgctxt "#42 char_full"
+msgid "エマ・ミルスティン"
+msgstr ""
+
+#. (Literature Club)
+msgctxt "#43 char_affil"
+msgid "【文芸部】"
+msgstr ""
+
+#. Year 1 Class VII
+#. Intelligent, broad-minded girl who came 
+#. from a remote region of the Empire. 
+#. Class VII's class president.
+msgctxt "#44 char_desc"
+msgid ""
+"１年Ⅶ組\n"
+"帝国の辺境出身で成績優秀な優等生。\n"
+"包容力があり、Ⅶ組の委員長として\n"
+"みんなから頼りにされている。"
+msgstr ""
+
+#. Tutor
+msgctxt "#45 char_topic"
+msgid "勉強の先生"
+msgstr ""
+
+#. Considerate towards others, personally
+#. helping Fie with her studies.
+msgctxt "#45 desc"
+msgid ""
+"とても面倒見がよく、個人的に\n"
+"フィーに勉強を教えてあげている。"
+msgstr ""
+
+#. Celine
+msgctxt "#46 char_topic"
+msgid "セリーヌ"
+msgstr ""
+
+#. Emma gets along very well with a local 
+#. black cat, and seems to be caring for 
+#. her in private.
+msgctxt "#46 desc"
+msgid ""
+"黒猫セリーヌと仲が良く、\n"
+"こっそり世話をしているようだ。"
+msgstr ""
+
+#. Strange Power
+msgctxt "#47 char_topic"
+msgid "不思議な力"
+msgstr ""
+
+#. Emma's people seem to have a strange
+#. power, which she has always tried to
+#. keep secret.
+msgctxt "#47 desc"
+msgid ""
+"エマの一族は説明できない\n"
+"“不思議な力”を持っており、\n"
+"ずっとそれを秘密にしてきたらしい。"
+msgstr ""
+
+#. Jusis
+msgctxt "#48 char_name"
+msgid "ユーシス"
+msgstr ""
+
+#. Jusis Albarea
+msgctxt "#49 char_full"
+msgid "ユーシス・アルバレア"
+msgstr ""
+
+#. (Riding Club)
+msgctxt "#50 char_affil"
+msgid "【馬術部】"
+msgstr ""
+
+#. Year 1 Class VII
+#. The son of Duke Albarea who 
+#. tends to keep others at a distance. 
+#. Skilled at traditional court fencing.
+msgctxt "#51 char_desc"
+msgid ""
+"１年Ⅶ組\n"
+"大貴族アルバレア公爵家の子息で、\n"
+"他者をあまり寄せ付けない。\n"
+"伝統的な騎士剣術を嗜む実力者でもある。"
+msgstr ""
+
+#. Bastard Son
+msgctxt "#52 char_topic"
+msgid "妾腹の息子"
+msgstr ""
+
+#. Jusis' mother was a commoner, a 
+#. fact that soured the relationship with 
+#. his father, Duke Albarea.
+msgctxt "#52 desc"
+msgid ""
+"ユーシスの亡くなった母は平民出身で、\n"
+"父、アルバレア公爵とは昔から\n"
+"寒々しい関係が続いているらしい。"
+msgstr ""
+
+#. Horse Carer
+msgctxt "#53 char_topic"
+msgid "馬の世話"
+msgstr ""
+
+#. He cares for horses back at home, 
+#. and appears to get along well with 
+#. the horses at the academy as well.
+msgctxt "#53 desc"
+msgid ""
+"実家で自ら馬の世話をしていたらしく、\n"
+"学院の馬とも心を通じ合わせているようだ。"
+msgstr ""
+
+#. Oil and Water
+msgctxt "#54 char_topic"
+msgid "天敵はミリアム"
+msgstr ""
+
+#. While he seems to be liked by 
+#. children, he has difficulty dealing 
+#. with the overly-affectionate Millium.
+msgctxt "#54 desc"
+msgid ""
+"もともと子供に好かれる体質なのか、\n"
+"人懐っこいミリアムには\n"
+"どうも調子を狂わされてしまうようだ。"
+msgstr ""
+
+#. Fie
+msgctxt "#55 char_name"
+msgid "フィー"
+msgstr ""
+
+#. Fie Claussell
+msgctxt "#56 char_full"
+msgid "フィー・クラウゼル"
+msgstr ""
+
+#. (Gardening Club)
+msgctxt "#57 char_affil"
+msgid "【園芸部】"
+msgstr ""
+
+#. Year 1 Class VII
+#. A quiet, petite girl who somewhat
+#. resembles a cat and loves sleeping.
+#. Agile and skilled at combat.
+msgctxt "#58 char_desc"
+msgid ""
+"１年Ⅶ組\n"
+"物静かで猫のような雰囲気の小柄な少女。\n"
+"身軽で戦闘技術に優れているが、\n"
+"よく居眠りをしていることが多いようだ。"
+msgstr ""
+
+#. Jaeger Member
+msgctxt "#59 char_topic"
+msgid "猟兵団"
+msgstr ""
+
+#. When Fie was younger, she used 
+#. to be a member of a jaeger corps.
+msgctxt "#59 desc"
+msgid ""
+"士官学院に来る以前、フィーは\n"
+"幼い頃から《猟兵団》にいたという。"
+msgstr ""
+
+#. Sylphid
+msgctxt "#60 char_topic"
+msgid "西風の妖精"
+msgstr ""
+
+#. When she was a member of the Zephyr
+#. Corps, she went by the codename
+#. 'Sylphid' on the battlefield.
+msgctxt "#60 desc"
+msgid ""
+"猟兵団《西風の旅団》のメンバーだった頃、\n"
+"戦場では《西風の妖精》と呼ばれていた。"
+msgstr ""
+
+#. Fie's Flowers
+msgctxt "#61 char_topic"
+msgid "フィーの花"
+msgstr ""
+
+#. The flowers that Fie raised are herbs
+#. that symbolize familial love.
+msgctxt "#61 desc"
+msgid ""
+"一所懸命に園芸部で育てた花は、\n"
+"“家族愛”の花言葉を持つハーブだった。"
+msgstr ""
+
+#. Gaius
+msgctxt "#62 char_name"
+msgid "ガイウス"
+msgstr ""
+
+#. Gaius Worzel
+msgctxt "#63 char_full"
+msgid "ガイウス・ウォーゼル"
+msgstr ""
+
+#. (Art Club)
+msgctxt "#64 char_affil"
+msgid "【美術部】"
+msgstr ""
+
+#. Year 1 Class VII
+#. A tall exchange student. Soft-spoken,
+#. but has a strong sense of integrity.
+#. Can be relied on when it counts.
+msgctxt "#65 char_desc"
+msgid ""
+"１年Ⅶ組\n"
+"外国からやってきた長身の留学生。\n"
+"寡黙だが他者とは誠実に向き合い、\n"
+"ここぞと言う時に頼りになるタイプ。"
+msgstr ""
+
+#. Homeland
+msgctxt "#66 char_topic"
+msgid "故郷"
+msgstr ""
+
+#. Gaius' homeland, the Nord Highlands, 
+#. is where Emperor Dreichels rose his 
+#. army during the War of the Lions.
+msgctxt "#66 desc"
+msgid ""
+"ドライケルス帝が挙兵した\n"
+"帝国北東の《ノルド高原》が\n"
+"ガイウスの故郷だった。"
+msgstr ""
+
+#. Resolve
+msgctxt "#67 char_topic"
+msgid "ガイウスの決意"
+msgstr ""
+
+#. Gaius chose to enroll at the academy 
+#. to learn more about the outside 
+#. world and better protect his homeland.
+msgctxt "#67 desc"
+msgid ""
+"帝国の士官学院への入学を決意したのは、\n"
+"大切な故郷を守るために\n"
+"“外”を知ろうとする一心だった。"
+msgstr ""
+
+#. Painter
+msgctxt "#68 char_topic"
+msgid "願いの絵"
+msgstr ""
+
+#. Gaius was painting the scenery of the
+#. Nord Highlands, hoping to return there
+#. with his class one day.
+msgctxt "#68 desc"
+msgid ""
+"ガイウスは再びⅦ組メンバーで\n"
+"故郷を訪れる願いを込めて、\n"
+"ノルド高原の風景画を描いていた。"
+msgstr ""
+
+#. Millium
+msgctxt "#69 char_name"
+msgid "ミリアム"
+msgstr ""
+
+#. Millium Orion
+msgctxt "#70 char_full"
+msgid "ミリアム・オライオン"
+msgstr ""
+
+#. (Cooking Club)
+msgctxt "#71 char_affil"
+msgid "【調理部】"
+msgstr ""
+
+#. Year 1 Class VII
+#. Part of the Imperial Army's Intelligence
+#. Division. Generally carefree, but does
+#. act like an agent at times.
+msgctxt "#72 char_desc"
+msgid ""
+"１年Ⅶ組\n"
+"帝国軍情報局からⅦ組に編入してきた少女。\n"
+"能天気で無邪気な性格だが、宰相直属の\n"
+"《鉄血の子供たち》の顔も覗かせる。"
+msgstr ""
+
+#. Hates Ghosts
+msgctxt "#73 char_topic"
+msgid "オバケが苦手"
+msgstr ""
+
+#. She is terrified of ghosts and 
+#. other supernatural entities.
+msgctxt "#73 desc"
+msgid "幽霊やオバケの類は大の苦手。"
+msgstr ""
+
+#. Fun Times
+msgctxt "#74 char_topic"
+msgid "芽生えた楽しさ"
+msgstr ""
+
+#. She has adjusted quickly to academy 
+#. life and seems to be enjoying it greatly. 
+#. She has even joined a club already.
+msgctxt "#74 desc"
+msgid ""
+"学院生活にも慣れて、部活にも入部した。\n"
+"純粋に満喫できているようだ。"
+msgstr ""
+
+#. Her Missions
+msgctxt "#75 char_topic"
+msgid "ミリアムの任務"
+msgstr ""
+
+#. Millium was sent to the academy 
+#. to investigate two things -- the 
+#. old schoolhouse, and C.
+msgctxt "#75 desc"
+msgid ""
+"ミリアムの任務は旧校舎の異変の報告と、\n"
+"士官学院で潜伏している可能性があった\n"
+"《Ｃ》の調査をすることだった。"
+msgstr ""
+
+#. Crow
+msgctxt "#76 char_name"
+msgid "クロウ"
+msgstr ""
+
+#. Crow Armbrust
+msgctxt "#77 char_full"
+msgid "クロウ・アームブラスト"
+msgstr ""
+
+#. (Unaffiliated)
+msgctxt "#78 char_affil"
+msgid "【無所属】"
+msgstr ""
+
+#. Year 1 Class VII
+#. Technically a second-year student. 
+#. A bit of a playboy, but is caring 
+#. and dependable. Short on credits.
+msgctxt "#79 char_desc"
+msgid ""
+"１年Ⅶ組\n"
+"２年生の先輩で、遊び好きな所もあるが\n"
+"面倒見がよくて頼りになる兄貴分。\n"
+"単位不足によりⅦ組に編入することに。"
+msgstr ""
+
+#. Blade
+msgctxt "#80 char_topic"
+msgid "ブレード"
+msgstr ""
+
+#. He was the one responsible for 
+#. introducing Blade to Trista. He enjoys
+#. playing it with the local children, too.
+msgctxt "#80 desc"
+msgid ""
+"トリスタでブレードを広めた張本人。\n"
+"子供たちと遊んであげたりしているようだ。"
+msgstr ""
+
+#. Helper
+msgctxt "#81 char_topic"
+msgid "プロデューサー"
+msgstr ""
+
+#. He agreed to use his experience from 
+#. last year to help with the machinery, 
+#. outfits, etc. for the festival.
+msgctxt "#81 desc"
+msgid ""
+"昨年の経験を生かして、\n"
+"Ⅶ組の出し物の機材や衣装などの\n"
+"プロデュースを引き受けた。"
+msgstr ""
+
+#. C
+msgctxt "#82 char_topic"
+msgid "《Ｃ》"
+msgstr ""
+
+#. Crow's true identity is the Imperial
+#. Liberation Front's leader, C.
+msgctxt "#82 desc"
+msgid ""
+"《帝国解放戦線》のリーダー《Ｃ》──\n"
+"それがクロウの正体だった。"
+msgstr ""
+
+#. Patrick
+msgctxt "#83 char_name"
+msgid "パトリック"
+msgstr ""
+
+#. Patrick T. Hyarms
+msgctxt "#84 char_full"
+msgid "パトリック・Ｔ・ハイアームズ"
+msgstr ""
+
+#. (Fencing Club)
+msgctxt "#85 char_affil"
+msgid "【フェンシング部】"
+msgstr ""
+
+#. Year 1 Class I
+#. An arrogant upper class student. 
+#. Believes strongly in the class system,
+#. and looks down on commoners.
+msgctxt "#86 char_desc"
+msgid ""
+"１年Ⅰ組\n"
+"傲岸不遜な貴族クラスの生徒。\n"
+"身分の意識が強く、平民に対しては\n"
+"あくまで尊大な態度をとっている。"
+msgstr ""
+
+#. Hyarms Family
+msgctxt "#87 char_topic"
+msgid "ハイアームズ家"
+msgstr ""
+
+#. The third son of Marquis Hyarms, head of
+#. one of the Four Great Houses. One of 
+#. the highest-ranking first years.
+msgctxt "#87 desc"
+msgid ""
+"《四大名門》ハイアームズ侯爵家の三男で、\n"
+"１年生の中でもかなり家格が高い。"
+msgstr ""
+
+#. Surprise Side
+msgctxt "#88 char_topic"
+msgid "意外な一面"
+msgstr ""
+
+#. He seems to regret what he said, being
+#. strangely considerate towards Rean ever
+#. since. Perhaps he's not so bad after all.
+msgctxt "#88 desc"
+msgid ""
+"自分の口走った暴言を後悔したり、\n"
+"異様な“力”を使ったリィンを気遣うなど、\n"
+"意外と根は悪くないのかもしれない。"
+msgstr ""
+
+#. Celestin
+msgctxt "#89 char_topic"
+msgid "セレスタン"
+msgstr ""
+
+#. Thinks of his butler, Celestin, like a
+#. real brother -- strict yet kind.
+msgctxt "#89 desc"
+msgid ""
+"執事であるセレスタンのことは\n"
+"厳しくも優しい本当の兄のように\n"
+"思っているようだ。"
+msgstr ""
+
+#. Ferris
+msgctxt "#90 char_name"
+msgid "フェリス"
+msgstr ""
+
+#. Ferris Florald
+msgctxt "#91 char_full"
+msgid "フェリス・フロラルド"
+msgstr ""
+
+#. (Lacrosse Club)
+msgctxt "#92 char_affil"
+msgid "【ラクロス部】"
+msgstr ""
+
+#. Year 1 Class I
+#. Daughter of Count Florald. High-handed
+#. and hates losing. Strangely antagonistic
+#. towards Alisa.
+msgctxt "#93 char_desc"
+msgid ""
+"１年Ⅰ組\n"
+"フロラルド伯爵家の令嬢。\n"
+"高飛車で負けず嫌いな性格で、\n"
+"アリサには妙に対抗心を燃やす。"
+msgstr ""
+
+#. Worthy Rival
+msgctxt "#94 char_topic"
+msgid "良きライバル"
+msgstr ""
+
+#. Despite Ferris' previous animosity, 
+#. she and Alisa have come to recognize 
+#. one another as worthy rivals and friends.
+msgctxt "#94 desc"
+msgid ""
+"アリサとの行き違いがあったが、\n"
+"ラクロス部での勝負を重ねた末に\n"
+"良き好敵手として友情が芽生えた。"
+msgstr ""
+
+#. Kenneth
+msgctxt "#95 char_name"
+msgid "ケネス"
+msgstr ""
+
+#. Kenneth Lakelord
+msgctxt "#96 char_full"
+msgid "ケネス・レイクロード"
+msgstr ""
+
+#. (Imperial Fishing Club)
+msgctxt "#97 char_affil"
+msgid "【釣皇倶楽部】"
+msgstr ""
+
+#. Year 1 Class II
+#. Head of the Imperial Fishing Club. 
+#. Carefree, and loves to sit and fish 
+#. whenever he has the chance.
+msgctxt "#98 char_desc"
+msgid ""
+"１年Ⅱ組\n"
+"《釣皇倶楽部》の１年生部長。\n"
+"いつものほほんとしており、\n"
+"暇があれば気ままに釣りに出かけている。"
+msgstr ""
+
+#. Brother
+msgctxt "#99 char_topic"
+msgid "兄と釣皇倶楽部"
+msgstr ""
+
+#. The Imperial Fishing Club was set up by
+#. Kenneth's brother, a former student of
+#. Thors.
+msgctxt "#99 desc"
+msgid ""
+"釣皇倶楽部は士官学院のＯＢである\n"
+"彼の兄が立ち上げたらしい。"
+msgstr ""
+
+#. Bridget
+msgctxt "#100 char_name"
+msgid "ブリジット"
+msgstr ""
+
+#. Bridget
+msgctxt "#101 char_full"
+msgid "ブリジット"
+msgstr ""
+
+#. (Wind Orchestra)
+msgctxt "#102 char_affil"
+msgid "【吹奏楽部】"
+msgstr ""
+
+#. Year 1 Class II
+#. A sensible upper class student. Plays
+#. the piano in the Wind Orchestra.
+msgctxt "#103 char_desc"
+msgid ""
+"１年Ⅱ組\n"
+"良識を弁えた貴族クラスの女子生徒。\n"
+"吹奏楽部ではピアノを弾いている。"
+msgstr ""
+
+#. Made Friends
+msgctxt "#104 char_topic"
+msgid "幼馴染との和解"
+msgstr ""
+
+#. She went to the same Sunday School as
+#. Class IV's Alan. He was avoiding her for
+#. a while, but they were able to make up.
+msgctxt "#104 desc"
+msgid ""
+"Ⅳ組のアランとは日曜学校時代の幼馴染。\n"
+"何故か避けられてしまっていたが\n"
+"生徒会への依頼を機に和解した。"
+msgstr ""
+
+#. Margarita
+msgctxt "#105 char_name"
+msgid "マルガリータ"
+msgstr ""
+
+#. Margarita
+msgctxt "#106 char_full"
+msgid "マルガリータ"
+msgstr ""
+
+#. (Cooking Club)
+msgctxt "#107 char_affil"
+msgid "【調理部】"
+msgstr ""
+
+#. Year 1 Class II
+#. Daughter of a baron. Came to the academy
+#. to search for a future husband and
+#. become a better potential wife.
+msgctxt "#108 char_desc"
+msgid ""
+"１年Ⅱ組\n"
+"花嫁修業と将来の婿探しのため\n"
+"学院にやってきた男爵家の娘。"
+msgstr ""
+
+#. Grand Rose
+msgctxt "#109 char_topic"
+msgid "グランローゼ"
+msgstr ""
+
+#. She sent a grand rose, grown by her
+#. family, to Vincent. The grand rose
+#. symbolizes 'passionate romance.'
+msgctxt "#109 desc"
+msgid ""
+"実家の名産《グランローズ》を\n"
+"憧れのヴィンセントに贈り、\n"
+"花言葉どおり『熱烈な求愛』を行った。"
+msgstr ""
+
+#. Hugo
+msgctxt "#110 char_name"
+msgid "ヒューゴ"
+msgstr ""
+
+#. Hugo Kleist
+msgctxt "#111 char_full"
+msgid "ヒューゴ・クライスト"
+msgstr ""
+
+#. (Unaffiliated)
+msgctxt "#112 char_affil"
+msgid "【無所属】"
+msgstr ""
+
+#. Year 1 Class III
+#. A student who commutes from Heimdallr
+#. every day. Seems to get along well with
+#. the budding merchant Becky.
+msgctxt "#113 char_desc"
+msgid ""
+"１年Ⅲ組\n"
+"帝都にある実家から通っている男子生徒。\n"
+"商魂逞しいベッキーとは気が合う様子。"
+msgstr ""
+
+#. Kleist & Co.
+msgctxt "#114 char_topic"
+msgid "クライスト商会"
+msgstr ""
+
+#. Despite being a student, he helps run 
+#. his father's company, Kleist & Co.
+msgctxt "#114 desc"
+msgid ""
+"まだ学生の身でありながら、\n"
+"父の経営するクライスト商会を\n"
+"手伝っている。"
+msgstr ""
+
+#. Monica
+msgctxt "#115 char_name"
+msgid "モニカ"
+msgstr ""
+
+#. Monica
+msgctxt "#116 char_full"
+msgid "モニカ"
+msgstr ""
+
+#. (Swimming Club)
+msgctxt "#117 char_affil"
+msgid "【水泳部】"
+msgstr ""
+
+#. Year 1 Class III
+#. A quiet, reserved first year girl. 
+#. Not very good at sports.
+msgctxt "#118 char_desc"
+msgid ""
+"１年Ⅲ組\n"
+"大人しく、控えめな性格の１年生女子。\n"
+"運動はあまり得意ではないほう。"
+msgstr ""
+
+#. Work Pays Off
+msgctxt "#119 char_topic"
+msgid "努力の賜物"
+msgstr ""
+
+#. After intensive training with Laura, she
+#. was finally able to swim 50 arge.
+msgctxt "#119 desc"
+msgid ""
+"ラウラと日夜特訓を重ね、\n"
+"今まで泳げなかった５０アージュを\n"
+"ようやく泳げるようになった。"
+msgstr ""
+
+#. Mint
+msgctxt "#120 char_name"
+msgid "ミント"
+msgstr ""
+
+#. Mint
+msgctxt "#121 char_full"
+msgid "ミント"
+msgstr ""
+
+#. (Wind Orchestra)
+msgctxt "#122 char_affil"
+msgid "【吹奏楽部】"
+msgstr ""
+
+#. Year 1 Class III
+#. Plays the flute in the Wind Orchestra.
+#. An optimistic girl who doesn't dwell on
+#. things.
+msgctxt "#123 char_desc"
+msgid ""
+"１年Ⅲ組\n"
+"吹奏楽部でフルートを担当する女子生徒。\n"
+"楽天的であまりくよくよしないタイプ。"
+msgstr ""
+
+#. Cookery
+msgctxt "#124 char_topic"
+msgid "姪の手料理"
+msgstr ""
+
+#. She made a new kind of homemade food 
+#. for her uncle, Instructor Makarov. It 
+#. has a distinctive bitter taste.
+msgctxt "#124 desc"
+msgid ""
+"叔父のマカロフ教官のために\n"
+"手料理《ミントスペシャル》を作った。\n"
+"独特の苦味が特徴。"
+msgstr ""
+
+#. Beryl
+msgctxt "#125 char_name"
+msgid "ベリル"
+msgstr ""
+
+#. Beryl
+msgctxt "#126 char_full"
+msgid "ベリル"
+msgstr ""
+
+#. (Occult Research Society)
+msgctxt "#127 char_affil"
+msgid "【オカルト研究会】"
+msgstr ""
+
+#. Year 1 Class III
+#. A somewhat suspicious girl who acts as
+#. head of the Occult Research Society.
+msgctxt "#128 char_desc"
+msgid ""
+"１年Ⅲ組\n"
+"怪しげな雰囲気に包まれた\n"
+"オカルト部部長の１年生女子。"
+msgstr ""
+
+#. 7 Mysteries
+msgctxt "#129 char_topic"
+msgid "学院七不思議"
+msgstr ""
+
+#. She was investigating the academy's
+#. seven mysteries. It seems there are
+#. two sets of mysteries, though...
+msgctxt "#129 desc"
+msgid ""
+"噂の学院七不思議について調べていた。\n"
+"それとは別に“裏の七不思議”も\n"
+"知っているらしい……"
+msgstr ""
+
+#. Casper
+msgctxt "#130 char_name"
+msgid "カスパル"
+msgstr ""
+
+#. Casper
+msgctxt "#131 char_full"
+msgid "カスパル"
+msgstr ""
+
+#. (Swimming Club)
+msgctxt "#132 char_affil"
+msgid "【水泳部】"
+msgstr ""
+
+#. Year 1 Class IV
+#. A boy who joined the Swimming Club 
+#. because he looks up to its captain. 
+#. Tenacious and energetic.
+msgctxt "#133 char_desc"
+msgid ""
+"１年Ⅳ組\n"
+"部長に憧れて水泳部に入部した男子生徒。\n"
+"元気と根性で部活に励む。"
+msgstr ""
+
+#. Seaside Town
+msgctxt "#134 char_topic"
+msgid "海沿いの街"
+msgstr ""
+
+#. Comes from a seaside town in the Lamare
+#. Province, so he's used to swimming, but 
+#. he admires the more skilled Laura.
+msgctxt "#134 desc"
+msgid ""
+"ラマール州の海沿いの出身。\n"
+"海水浴には慣れ親しんでいたが、自分より\n"
+"さらに上手い部長やラウラを尊敬する。"
+msgstr ""
+
+#. Alan
+msgctxt "#135 char_name"
+msgid "アラン"
+msgstr ""
+
+#. Alan
+msgctxt "#136 char_full"
+msgid "アラン"
+msgstr ""
+
+#. (Fencing Club)
+msgctxt "#137 char_affil"
+msgid "【フェンシング部】"
+msgstr ""
+
+#. Year 1 Class IV
+#. A very competitive and stubborn boy.
+#. Spends his days training in pursuit of
+#. strength.
+msgctxt "#138 char_desc"
+msgid ""
+"１年Ⅳ組\n"
+"意地っ張りで負けん気が強い男子生徒。\n"
+"強くなろうと日々努力を重ねている。"
+msgstr ""
+
+#. Resolve
+msgctxt "#139 char_topic"
+msgid "強くなるまでは"
+msgstr ""
+
+#. The reason he avoided Bridget was that
+#. he didn't want her to see him at less
+#. than his best.
+msgctxt "#139 desc"
+msgid ""
+"ブリジットのことを避けていたのは、\n"
+"幼馴染に中途半端な姿を見せたくない\n"
+"彼なりの意地があったからだった。"
+msgstr ""
+
+#. Linde
+msgctxt "#140 char_name"
+msgid "リンデ"
+msgstr ""
+
+#. Linde
+msgctxt "#141 char_full"
+msgid "リンデ"
+msgstr ""
+
+#. (Art Club)
+msgctxt "#142 char_affil"
+msgid "【美術部】"
+msgstr ""
+
+#. Year 1 Class IV
+#. A polite girl who belongs to the Art
+#. Club. Somewhat timid, which leads to 
+#. her being used by others.
+msgctxt "#143 char_desc"
+msgid ""
+"１年Ⅳ組\n"
+"美術部に所属する礼儀正しい女子生徒。\n"
+"少々気が弱く、周囲に振り回されがち。"
+msgstr ""
+
+#. Twin Sister
+msgctxt "#144 char_topic"
+msgid "双子の姉妹"
+msgstr ""
+
+#. Vivi from the Gardening Club is her
+#. younger sister, and she is often a 
+#. victim to Vivi's pranks.
+msgctxt "#144 desc"
+msgid ""
+"園芸部のヴィヴィは双子の妹。\n"
+"悪戯ばかりされて受難の日々を送っている。"
+msgstr ""
+
+#. Protector
+msgctxt "#145 char_topic"
+msgid "妹は私が守る！"
+msgstr ""
+
+#. As Vivi's older sister, she has the
+#. inner strength to protect her when 
+#. it's needed.
+msgctxt "#145 desc"
+msgid ""
+"いざと言う時は姉として\n"
+"ヴィヴィを守ろうとする強さを見せる。"
+msgstr ""
+
+#. Vivi
+msgctxt "#146 char_name"
+msgid "ヴィヴィ"
+msgstr ""
+
+#. Vivi
+msgctxt "#147 char_full"
+msgid "ヴィヴィ"
+msgstr ""
+
+#. (Gardening Club)
+msgctxt "#148 char_affil"
+msgid "【園芸部】"
+msgstr ""
+
+#. Year 1 Class IV
+#. A girl who loves playing pranks 
+#. on people. Always searching for 
+#. something fun to do.
+msgctxt "#149 char_desc"
+msgid ""
+"１年Ⅳ組\n"
+"悪戯が大好きな女子生徒。\n"
+"いつも楽しいことを探している。"
+msgstr ""
+
+#. Twin Sister
+msgctxt "#150 char_topic"
+msgid "双子の姉妹"
+msgstr ""
+
+#. Younger sister of Linde from the Art
+#. Club. She enjoys changing places with
+#. her to play pranks.
+msgctxt "#150 desc"
+msgid ""
+"美術部のリンデは双子の姉。\n"
+"時々入れ替わって悪戯を楽しんでいる。"
+msgstr ""
+
+#. Trusting
+msgctxt "#151 char_topic"
+msgid "姉への信頼"
+msgstr ""
+
+#. She seems to trust her older sister to
+#. be there when she needs her to be.
+msgctxt "#151 desc"
+msgid ""
+"いざと言う時は頼りになる姉を\n"
+"なんだかんだで信頼しているようだ。"
+msgstr ""
+
+#. Colette
+msgctxt "#152 char_name"
+msgid "コレット"
+msgstr ""
+
+#. Colette
+msgctxt "#153 char_full"
+msgid "コレット"
+msgstr ""
+
+#. (Unaffiliated)
+msgctxt "#154 char_affil"
+msgid "【無所属】"
+msgstr ""
+
+#. Year 1 Class IV
+#. A shopaholic first year. Spends as
+#. much time as possible walking around
+#. the various shops in town.
+msgctxt "#155 char_desc"
+msgid ""
+"１年Ⅳ組\n"
+"買い物好きな１年生女子。\n"
+"商店街のあちこちに顔を出している。"
+msgstr ""
+
+#. New Things
+msgctxt "#156 char_topic"
+msgid "食べ歩き"
+msgstr ""
+
+#. While shopping is her main hobby, she
+#. also loves walking around food stalls
+#. and trying out new things.
+msgctxt "#156 desc"
+msgid ""
+"ショッピングが趣味のコレットは\n"
+"食べ歩きも大好きらしい。"
+msgstr ""
+
+#. Rex
+msgctxt "#157 char_name"
+msgid "レックス"
+msgstr ""
+
+#. Rex
+msgctxt "#158 char_full"
+msgid "レックス"
+msgstr ""
+
+#. (Photography Club)
+msgctxt "#159 char_affil"
+msgid "【写真部】"
+msgstr ""
+
+#. Year 1 Class V
+#. A member of the Photography Club who 
+#. has little interest in taking photographs 
+#. of anything but attractive girls.
+msgctxt "#160 char_desc"
+msgid ""
+"１年Ⅴ組\n"
+"パパラッチ根性まっしぐらの写真部部員。\n"
+"いつも導力カメラを持ち歩き、\n"
+"被写体になる可愛い女の子を探している。"
+msgstr ""
+
+#. Eccentric
+msgctxt "#161 char_topic"
+msgid "偏った才能"
+msgstr ""
+
+#. While he's not the best at taking
+#. photographs of scenery, he's an 
+#. expert at taking pictures of girls.
+msgctxt "#161 desc"
+msgid ""
+"景色を撮影するのは不得手だが、\n"
+"大好きな女の子を撮影するときは\n"
+"かなり良い写真が撮れるらしい。"
+msgstr ""
+
+#. Munk
+msgctxt "#162 char_name"
+msgid "ムンク"
+msgstr ""
+
+#. Munk
+msgctxt "#163 char_full"
+msgid "ムンク"
+msgstr ""
+
+#. (Unaffiliated)
+msgctxt "#164 char_affil"
+msgid "【無所属】"
+msgstr ""
+
+#. Year 1 Class V
+#. A boy who doesn't stand out very 
+#. much. Always looking for material 
+#. for something.
+msgctxt "#165 char_desc"
+msgid ""
+"１年Ⅴ組\n"
+"影が薄く、目立たない印象の男子生徒。\n"
+"いつも何かのネタ探しをしている。"
+msgstr ""
+
+#. Radio Addict
+msgctxt "#166 char_topic"
+msgid "ハガキ職人"
+msgstr ""
+
+#. He sends in lots of material to the 
+#. radio show Abend Time, and has a 
+#. lot of signed stickers for doing so.
+msgctxt "#166 desc"
+msgid ""
+"ひそかに《アーベントタイム》に\n"
+"ネタを投稿しているらしく、記念の\n"
+"サイン入りステッカーを沢山持っている。"
+msgstr ""
+
+#. Paula
+msgctxt "#167 char_name"
+msgid "ポーラ"
+msgstr ""
+
+#. Paula
+msgctxt "#168 char_full"
+msgid "ポーラ"
+msgstr ""
+
+#. (Riding Club)
+msgctxt "#169 char_affil"
+msgid "【馬術部】"
+msgstr ""
+
+#. Year 1 Class V
+#. A lively first year. Doesn't mince
+#. words, even when she's addressing 
+#. a member of the nobility.
+msgctxt "#170 char_desc"
+msgid ""
+"１年Ⅴ組\n"
+"活発な１年生女子。\n"
+"貴族相手にも決してたじろがず\n"
+"歯に衣着せない物言いをする。"
+msgstr ""
+
+#. Improving
+msgctxt "#171 char_topic"
+msgid "技術の上達"
+msgstr ""
+
+#. She was originally a beginner at horse
+#. riding, but has slowly improved to the
+#. point where she can ride unassisted.
+msgctxt "#171 desc"
+msgid ""
+"乗馬は初心者だったが、最近は上達して\n"
+"一人でも上手く乗れるようになってきた。"
+msgstr ""
+
+#. Becky
+msgctxt "#172 char_name"
+msgid "ベッキー"
+msgstr ""
+
+#. Becky
+msgctxt "#173 char_full"
+msgid "ベッキー"
+msgstr ""
+
+#. (Unaffiliated)
+msgctxt "#174 char_affil"
+msgid "【無所属】"
+msgstr ""
+
+#. Year 1 Class V
+#. A budding merchant who's always 
+#. looking for new ways to make a profit.
+msgctxt "#175 char_desc"
+msgid ""
+"１年Ⅴ組\n"
+"商売人気質の女子生徒。\n"
+"いつも儲けることを第一に考えている。"
+msgstr ""
+
+#. Sales Battle
+msgctxt "#176 char_topic"
+msgid "屋台勝負の行方"
+msgstr ""
+
+#. She and Hugo competed to see who
+#. could sell the most during the festival.
+#. In the end, both were skilled merchants.
+msgctxt "#176 desc"
+msgid ""
+"学院祭でヒューゴと売り上げ勝負を行い、\n"
+"お互いに商売の実力を認め合った。"
+msgstr ""
+
+#. Rosine
+msgctxt "#177 char_name"
+msgid "ロジーヌ"
+msgstr ""
+
+#. Rosine
+msgctxt "#178 char_full"
+msgid "ロジーヌ"
+msgstr ""
+
+#. (Unaffiliated)
+msgctxt "#179 char_affil"
+msgid "【無所属】"
+msgstr ""
+
+#. Year 1 Class V
+#. A deeply spiritual, noble-minded girl.
+#. Can get along with just about anyone.
+msgctxt "#180 char_desc"
+msgid ""
+"１年Ⅴ組\n"
+"信心深く清らかな印象の女子生徒。\n"
+"誰にでも分け隔てなく接する。"
+msgstr ""
+
+#. Slimming?
+msgctxt "#181 char_topic"
+msgid "着痩せ？"
+msgstr ""
+
+#. She gives off a different impression to
+#. people when she wears her habit, a fact
+#. she's concerned about.
+msgctxt "#181 desc"
+msgid ""
+"シスター服姿と制服姿で微妙に印象が違う。\n"
+"本人は何故か気にしているようだ。"
+msgstr ""
+
+#. Angelica
+msgctxt "#182 char_name"
+msgid "アンゼリカ"
+msgstr ""
+
+#. Angelica Rogner
+msgctxt "#183 char_full"
+msgid "アンゼリカ・ログナー"
+msgstr ""
+
+#. (Bike Club)
+msgctxt "#184 char_affil"
+msgid "【自動二輪部】"
+msgstr ""
+
+#. Year 2 Class I
+#. The daughter of Marquis Rogner, 
+#. head of one of the Four Great 
+#. Families. Loves her orbal bike.
+msgctxt "#185 char_desc"
+msgid ""
+"２年Ⅰ組\n"
+"《四大名門》ログナー侯爵家の息女にして\n"
+"導力バイクをこよなく愛する先輩。"
+msgstr ""
+
+#. Biking Trips
+msgctxt "#186 char_topic"
+msgid "ツーリング"
+msgstr ""
+
+#. Occasionally goes out riding on the 
+#. orbal bike with Towa, who she's good
+#. friends with.
+msgctxt "#186 desc"
+msgid ""
+"ときどき仲の良いトワ会長を乗せて\n"
+"導力バイクのツーリングに出かけている。"
+msgstr ""
+
+#. Taito
+msgctxt "#187 char_topic"
+msgid "泰斗流"
+msgstr ""
+
+#. Seven years ago, she learned 
+#. the Eastern martial art of Taito 
+#. from a foreign woman.
+msgctxt "#187 desc"
+msgid ""
+"７年ほど前に東方系の女性に師事し、\n"
+"《泰斗流》の武術を学んだ。"
+msgstr ""
+
+#. Teacher
+msgctxt "#188 char_topic"
+msgid "嗜みの師匠"
+msgstr ""
+
+#. She has long been friends with Gwyn,
+#. who taught her all kinds of things--
+#. including how to flirt with girls.
+msgctxt "#188 desc"
+msgid ""
+"グエン老人とは以前から親交があり、\n"
+"女性の口説き方などの様々な\n"
+"遊びの嗜みを教わっていた。"
+msgstr ""
+
+#. Vincent
+msgctxt "#189 char_name"
+msgid "ヴィンセント"
+msgstr ""
+
+#. Vincent Florald
+msgctxt "#190 char_full"
+msgid "ヴィンセント・フロラルド"
+msgstr ""
+
+#. (Unaffiliated)
+msgctxt "#191 char_affil"
+msgid "【無所属】"
+msgstr ""
+
+#. Year 2 Class I
+#. The eldest son of Count Florald. A typical
+#. narcissistic young nobleman who's 
+#. always accompanied by Sariffa the maid.
+msgctxt "#192 char_desc"
+msgid ""
+"２年Ⅰ組\n"
+"フロラルド伯爵家の長男。\n"
+"貴公子的な雰囲気のナルシストで、\n"
+"いつもメイドのサリファを従えている。"
+msgstr ""
+
+#. Poor Actor
+msgctxt "#193 char_topic"
+msgid "残念な貴公子"
+msgstr ""
+
+#. He performed in a play during last 
+#. year's academy festival, but when 
+#. his part came, everyone fell asleep.
+msgctxt "#193 desc"
+msgid ""
+"去年の学院祭で演劇をやったが、\n"
+"ヴィンセントの出番になると\n"
+"観客たちは寝てしまったらしい。"
+msgstr ""
+
+#. Friedel
+msgctxt "#194 char_name"
+msgid "フリーデル"
+msgstr ""
+
+#. Friedel
+msgctxt "#195 char_full"
+msgid "フリーデル"
+msgstr ""
+
+#. (Fencing Club)
+msgctxt "#196 char_affil"
+msgid "【フェンシング部】"
+msgstr ""
+
+#. Year 2 Class I
+#. The Fencing Club's calm and pleasant
+#. captain. Always supporting her club's
+#. members from the sidelines.
+msgctxt "#197 char_desc"
+msgid ""
+"２年Ⅰ組\n"
+"穏やかで楽しげなフェンシング部の部長。\n"
+"普段は裏方として部員たちを支えている。"
+msgstr ""
+
+#. Club No. 1
+msgctxt "#198 char_topic"
+msgid "部内最強の腕前"
+msgstr ""
+
+#. The strongest member of the Fencing
+#. Club, she was able to completely 
+#. overwhelm Patrick in a duel.
+msgctxt "#198 desc"
+msgid ""
+"実はフェンシング部最強の使い手で、\n"
+"パトリックに完全勝利を収めるほどの実力。"
+msgstr ""
+
+#. Lambert
+msgctxt "#199 char_name"
+msgid "ランベルト"
+msgstr ""
+
+#. Lambert
+msgctxt "#200 char_full"
+msgid "ランベルト"
+msgstr ""
+
+#. (Riding Club)
+msgctxt "#201 char_affil"
+msgid "【馬術部】"
+msgstr ""
+
+#. Year 2 Class II
+#. Always with his beloved horse and
+#. partner Whitcomb. Head of the Riding
+#. Club, and passionate about horses.
+msgctxt "#202 char_desc"
+msgid ""
+"２年Ⅱ組\n"
+"いつも愛馬《マッハ号》と共にいる、\n"
+"馬に全力で熱を上げる馬術部の部長。"
+msgstr ""
+
+#. True Partner
+msgctxt "#203 char_topic"
+msgid "真の相棒"
+msgstr ""
+
+#. Despite rising tensions in the Empire, 
+#. he swears to overcome any obstacle with
+#. Whitcomb at his side.
+msgctxt "#203 desc"
+msgid ""
+"帝国の緊張が高まっている中、\n"
+"どんなことがあっても\n"
+"マッハ号と共に乗り切ることを誓う。"
+msgstr ""
+
+#. Fidelio
+msgctxt "#204 char_name"
+msgid "フィデリオ"
+msgstr ""
+
+#. Fidelio
+msgctxt "#205 char_full"
+msgid "フィデリオ"
+msgstr ""
+
+#. (Photography Club)
+msgctxt "#206 char_affil"
+msgid "【写真部】"
+msgstr ""
+
+#. Year 2 Class II
+#. Kind, sensible head of the Photography 
+#. Club. While a noble, he doesn't place 
+#. importance on social class.
+msgctxt "#207 char_desc"
+msgid ""
+"２年Ⅱ組\n"
+"写真部部長の優しく良識ある先輩。\n"
+"貴族生徒ながらあまり身分に拘らない。"
+msgstr ""
+
+#. Responsible
+msgctxt "#208 char_topic"
+msgid "部長の責任"
+msgstr ""
+
+#. While usually pleasant, he's responsible
+#. as the Photography Club's head, and
+#. punished Rex for his transgressions.
+msgctxt "#208 desc"
+msgid ""
+"普段は優しいが、写真部の部長の責任として\n"
+"レックスを甘やかさず、厳しく罰を与えた。"
+msgstr ""
+
+#. Theresia
+msgctxt "#209 char_name"
+msgid "テレジア"
+msgstr ""
+
+#. Theresia
+msgctxt "#210 char_full"
+msgid "テレジア"
+msgstr ""
+
+#. (Lacrosse Club)
+msgctxt "#211 char_affil"
+msgid "【ラクロス部】"
+msgstr ""
+
+#. Year 2 Class II
+#. A refined second year noble. Second-in-
+#. command in the Lacrosse Club, supporting
+#. the club alongside Emily.
+msgctxt "#212 char_desc"
+msgid ""
+"２年Ⅱ組\n"
+"上品な２年生の貴族女子。\n"
+"ラクロス部の副部長として\n"
+"エミリーと共に部を支えている。"
+msgstr ""
+
+#. Good Team
+msgctxt "#213 char_topic"
+msgid "好対照コンビ"
+msgstr ""
+
+#. While Emily is better at sports, 
+#. Theresia is better at studying. She
+#. helped Emily study for the midterms.
+msgctxt "#213 desc"
+msgid ""
+"エミリーは運動能力は高いが、\n"
+"勉強はテレジアの方が得意。\n"
+"試験期間中は教えてあげている。"
+msgstr ""
+
+#. Edel
+msgctxt "#214 char_name"
+msgid "エーデル"
+msgstr ""
+
+#. Edel
+msgctxt "#215 char_full"
+msgid "エーデル"
+msgstr ""
+
+#. (Gardening Club)
+msgctxt "#216 char_affil"
+msgid "【園芸部】"
+msgstr ""
+
+#. Year 2 Class II
+#. The head of the Gardening Club, never
+#. seen without her straw hat. Open minded
+#. and easygoing.
+msgctxt "#217 char_desc"
+msgid ""
+"２年Ⅱ組\n"
+"麦わら帽子がトレードマークの園芸部部長。\n"
+"基本的にのんびりした性格で包容力がある。"
+msgstr ""
+
+#. Gardener
+msgctxt "#218 char_topic"
+msgid "園芸部の活動"
+msgstr ""
+
+#. Is raising vegetables in the 
+#. Gardening Club. Believes in biting 
+#. straight into acerbic tomatoes.
+msgctxt "#218 desc"
+msgid ""
+"園芸部では野菜も育てている。\n"
+"“にがトマト”はまるかじり派。"
+msgstr ""
+
+#. George
+msgctxt "#219 char_name"
+msgid "ジョルジュ"
+msgstr ""
+
+#. George Nome
+msgctxt "#220 char_full"
+msgid "ジョルジュ・ノーム"
+msgstr ""
+
+#. (Engineering Club)
+msgctxt "#221 char_affil"
+msgid "【技術部】"
+msgstr ""
+
+#. Year 2 Class III
+#. A good-natured second year who runs the
+#. Engineering Club. Loves tinkering with
+#. orbments and adept with technology.
+msgctxt "#222 char_desc"
+msgid ""
+"２年Ⅲ組\n"
+"技術部を取り仕切る、気のいい先輩。\n"
+"優秀な技術者で、導力器いじりもお手の物。"
+msgstr ""
+
+#. Tech Institute
+msgctxt "#223 char_topic"
+msgid "ルーレ工科大学"
+msgstr ""
+
+#. He stays in regular contact with the
+#. Roer Institute of Technology, sending
+#. them regular reports on the orbal bike.
+msgctxt "#223 desc"
+msgid ""
+"卒業後の誘いを受けているルーレ工科大学と\n"
+"定期的に連絡を取り合い、\n"
+"導力バイクのレポートなどを送っている。"
+msgstr ""
+
+#. Sweet Fan
+msgctxt "#224 char_topic"
+msgid "甘い物好き"
+msgstr ""
+
+#. Apparently eating helps him 
+#. work better. He especially
+#. likes sweet things.
+msgctxt "#224 desc"
+msgid ""
+"食べると作業が捗るらしく、\n"
+"甘い物にはとことん目が無い様子。"
+msgstr ""
+
+#. Bike Bonding
+msgctxt "#225 char_topic"
+msgid "導力バイクの絆"
+msgstr ""
+
+#. It was thanks to Angelica that he ended
+#. up studying the orbal bike, something 
+#. he's silently thankful for.
+msgctxt "#225 desc"
+msgid ""
+"元々はアンゼリカがきっかけで\n"
+"導力バイクの研究に没入することになり、\n"
+"口には出さないが感謝しているようだ。"
+msgstr ""
+
+#. Towa
+msgctxt "#226 char_name"
+msgid "トワ"
+msgstr ""
+
+#. Towa Herschel
+msgctxt "#227 char_full"
+msgid "トワ・ハーシェル"
+msgstr ""
+
+#. (Student Council)
+msgctxt "#228 char_affil"
+msgid "【生徒会】"
+msgstr ""
+
+#. Year 2 Class IV
+#. President of the Student Council. Very
+#. hard working, and trusted by students
+#. and instructors alike.
+msgctxt "#229 char_desc"
+msgid ""
+"２年Ⅳ組\n"
+"士官学院の生徒会長を務める先輩。\n"
+"かなりの頑張り屋で、生徒だけでなく\n"
+"教官たちからも信頼を寄せられている。"
+msgstr ""
+
+#. President
+msgctxt "#230 char_topic"
+msgid "優秀な生徒会長"
+msgstr ""
+
+#. Her skills draw the respect and support 
+#. of all of her classmates, regardless of 
+#. social class.
+msgctxt "#230 desc"
+msgid ""
+"その優秀さから生徒会には\n"
+"身分問わずメンバーが集まっており、\n"
+"絶大な支持を受けている。"
+msgstr ""
+
+#. Postwoman
+msgctxt "#231 char_topic"
+msgid "早朝の配達"
+msgstr ""
+
+#. Personally delivers Rean's tasks 
+#. to his dormitory first thing in the 
+#. morning on free days.
+msgctxt "#231 desc"
+msgid ""
+"生徒会の依頼はトワ会長が自ら\n"
+"第三学生寮に届けてくれていたらしい。"
+msgstr ""
+
+#. Entourage
+msgctxt "#232 char_topic"
+msgid "随行団への参加"
+msgstr ""
+
+#. Her work evacuating Heimdallr earned her
+#. both a spot in the trade conference and
+#. a number of post-graduation job offers.
+msgctxt "#232 desc"
+msgid ""
+"帝都での活躍が認められ、\n"
+"随行団の一員として通商会議へ行くことに。\n"
+"卒業後の進路も各所から誘われている。"
+msgstr ""
+
+#. Crow
+msgctxt "#233 char_name"
+msgid "クロウ"
+msgstr ""
+
+#. Crow Armbrust
+msgctxt "#234 char_full"
+msgid "クロウ・アームブラスト"
+msgstr ""
+
+#. (Unaffiliated)
+msgctxt "#235 char_affil"
+msgid "【無所属】"
+msgstr ""
+
+#. Year 2 Class V
+#. A carefree second-year student. A bit of
+#. a playboy, but can be relied on in times
+#. of need.
+msgctxt "#236 char_desc"
+msgid ""
+"２年Ⅴ組\n"
+"飄々とした雰囲気の２年生。\n"
+"遊び好きな所もあるが頼りになる兄貴分。"
+msgstr ""
+
+#. Blade
+msgctxt "#237 char_topic"
+msgid "ブレード"
+msgstr ""
+
+#. He was the one responsible for 
+#. introducing Blade to Trista. He enjoys
+#. playing it with the local children, too.
+msgctxt "#237 desc"
+msgid ""
+"トリスタでブレードを広めた張本人。\n"
+"子供たちと遊んであげたりしているようだ。"
+msgstr ""
+
+#. Helper
+msgctxt "#238 char_topic"
+msgid "プロデューサー"
+msgstr ""
+
+#. He agreed to use his experience from 
+#. last year to help with the machinery, 
+#. outfits, etc. for the festival.
+msgctxt "#238 desc"
+msgid ""
+"昨年の経験を生かして、\n"
+"Ⅶ組の出し物の機材や衣装などの\n"
+"プロデュースを引き受けた。"
+msgstr ""
+
+#. C
+msgctxt "#239 char_topic"
+msgid "《Ｃ》"
+msgstr ""
+
+#. Crow's true identity is the Imperial
+#. Liberation Front's leader, C.
+msgctxt "#239 desc"
+msgid ""
+"《帝国解放戦線》のリーダー《Ｃ》──\n"
+"それがクロウの正体だった。"
+msgstr ""
+
+#. Stefan
+msgctxt "#240 char_name"
+msgid "ステファン"
+msgstr ""
+
+#. Stefan
+msgctxt "#241 char_full"
+msgid "ステファン"
+msgstr ""
+
+#. (Lower Class Chess Club)
+msgctxt "#242 char_affil"
+msgid "【第二チェス部】"
+msgstr ""
+
+#. Year 2 Class III
+#. Head of the Lower Class Chess Club.
+#. Not the most skilled player, but he
+#. makes up for it with love for the game.
+msgctxt "#243 char_desc"
+msgid ""
+"２年Ⅲ組\n"
+"第二チェス部の部長。\n"
+"強くはないがチェスへの熱い愛なら\n"
+"誰にも負けない。"
+msgstr ""
+
+#. Hard Practice
+msgctxt "#244 char_topic"
+msgid "血の滲む努力"
+msgstr ""
+
+#. Practiced extensively with Machias,
+#. allowing him to be able to compete on
+#. equal terms with the Upper Class club.
+msgctxt "#244 desc"
+msgid ""
+"マキアスとの猛特訓を重ね、\n"
+"第一チェス部の貴族生徒とも\n"
+"互角の実力を手に入れた。"
+msgstr ""
+
+#. Clara
+msgctxt "#245 char_name"
+msgid "クララ"
+msgstr ""
+
+#. Clara
+msgctxt "#246 char_full"
+msgid "クララ"
+msgstr ""
+
+#. (Art Club)
+msgctxt "#247 char_affil"
+msgid "【美術部】"
+msgstr ""
+
+#. Year 2 Class III
+#. Head of the Art Club, and an artist in
+#. the purest sense. Usually found in the
+#. club room sculpting--her specialty.
+msgctxt "#248 char_desc"
+msgid ""
+"２年Ⅲ組\n"
+"生粋の芸術家気質を持つ美術部の部長。\n"
+"専門は彫刻で、いつも美術室に居座って\n"
+"作品を作り続けている。"
+msgstr ""
+
+#. Natural Talent
+msgctxt "#249 char_topic"
+msgid "天才肌"
+msgstr ""
+
+#. She seems to be able to score decently
+#. in exams without studying at all, and
+#. uses that time for art instead.
+msgctxt "#249 desc"
+msgid ""
+"勉強など全くしなくても\n"
+"平均点くらいは余裕で取れるらしい。\n"
+"その分、作品制作に時間をあてている。"
+msgstr ""
+
+#. Hibelle
+msgctxt "#250 char_name"
+msgid "ハイベル"
+msgstr ""
+
+#. Hibelle
+msgctxt "#251 char_full"
+msgid "ハイベル"
+msgstr ""
+
+#. (Wind Orchestra)
+msgctxt "#252 char_affil"
+msgid "【吹奏楽部】"
+msgstr ""
+
+#. Year 2 Class IV
+#. The second-year head of the Wind
+#. Orchestra. Plays violin. Skilled with
+#. the technical side of music, too.
+msgctxt "#253 char_desc"
+msgid ""
+"２年Ⅳ組\n"
+"吹奏楽部の部長を務める２年生。\n"
+"バイオリンを担当し、演奏技術は一流。"
+msgstr ""
+
+#. Concert
+msgctxt "#254 char_topic"
+msgid "吹奏楽部演奏会"
+msgstr ""
+
+#. He was injured in the run up to the 
+#. concert, meaning he couldn't take part.
+#. He was proud of the others, though.
+msgctxt "#254 desc"
+msgid ""
+"演奏会の直前に怪我をしてしまい、\n"
+"本番には参加できなかった。\n"
+"だが後輩たちの成長に満足した様子。"
+msgstr ""
+
+#. Loggins
+msgctxt "#255 char_name"
+msgid "ロギンス"
+msgstr ""
+
+#. Loggins
+msgctxt "#256 char_full"
+msgid "ロギンス"
+msgstr ""
+
+#. (Fencing Club)
+msgctxt "#257 char_affil"
+msgid "【フェンシング部】"
+msgstr ""
+
+#. Year 2 Class IV
+#. A scary-faced member of the Fencing
+#. Club. His most noticeable flaw is 
+#. being a little short tempered.
+msgctxt "#258 char_desc"
+msgid ""
+"２年Ⅳ組\n"
+"強面のフェンシング部の２年生。\n"
+"若干短気なところがタマにキズ。"
+msgstr ""
+
+#. Naughty Past
+msgctxt "#259 char_topic"
+msgid "やんちゃな過去"
+msgstr ""
+
+#. Apparently he was an uncontrollable
+#. delinquent in his first year, but 
+#. Friedel knocked him into shape.
+msgctxt "#259 desc"
+msgid ""
+"１年の頃は手の付けられない\n"
+"暴れん坊だったが、フリーデルに\n"
+"叩きのめされて心を入れ替えたらしい。"
+msgstr ""
+
+#. Emily
+msgctxt "#260 char_name"
+msgid "エミリー"
+msgstr ""
+
+#. Emily
+msgctxt "#261 char_full"
+msgid "エミリー"
+msgstr ""
+
+#. (Lacrosse Club)
+msgctxt "#262 char_affil"
+msgid "【ラクロス部】"
+msgstr ""
+
+#. Year 2 Class IV
+#. The passionate captain of the Lacrosse
+#. Club. Always encouraging the other
+#. members of the club.
+msgctxt "#263 char_desc"
+msgid ""
+"２年Ⅳ組\n"
+"ラクロス部リーダーとして熱いハートで\n"
+"みんなを引っ張る２年生の女子部長。"
+msgstr ""
+
+#. Friendship
+msgctxt "#264 char_topic"
+msgid "芽生えた友情"
+msgstr ""
+
+#. Emily and Theresia didn't get along at 
+#. first, but they eventually became best 
+#. friends--a fact that she's very proud of.
+msgctxt "#264 desc"
+msgid ""
+"１年前はテレジアと仲が悪かったが、\n"
+"それでも一番の親友になれたことを\n"
+"誇りに思っている。"
+msgstr ""
+
+#. Klein
+msgctxt "#265 char_name"
+msgid "クレイン"
+msgstr ""
+
+#. Klein
+msgctxt "#266 char_full"
+msgid "クレイン"
+msgstr ""
+
+#. (Swimming Club)
+msgctxt "#267 char_affil"
+msgid "【水泳部】"
+msgstr ""
+
+#. Year 2 Class V
+#. The eloquent captain of the Swimming
+#. Club. Always encouraging the club's
+#. members to excel.
+msgctxt "#268 char_desc"
+msgid ""
+"２年Ⅴ組\n"
+"水泳部の部長を務めている爽やかな２年生。\n"
+"リーダーとしてみんなを引っ張る。"
+msgstr ""
+
+#. Family Man
+msgctxt "#269 char_topic"
+msgid "家族想い"
+msgstr ""
+
+#. He's deeply devoted to his mother, who
+#. single-handedly raised him and his 
+#. younger siblings after his father died.
+msgctxt "#269 desc"
+msgid ""
+"父の死後、女手一つで育ててくれた母と、\n"
+"弟や妹たちをとても大切にしている。"
+msgstr ""
+
+#. Nicholas
+msgctxt "#270 char_name"
+msgid "ニコラス"
+msgstr ""
+
+#. Nicholas
+msgctxt "#271 char_full"
+msgid "ニコラス"
+msgstr ""
+
+#. (Cooking Club)
+msgctxt "#272 char_affil"
+msgid "【調理部】"
+msgstr ""
+
+#. Year 2 Class V
+#. The big-hearted head of the 
+#. Cooking Club. Never seems 
+#. to be fazed by anything.
+msgctxt "#273 char_desc"
+msgid ""
+"２年Ⅴ組\n"
+"調理部部長の２年生。\n"
+"何事にも動じない大らかな性格。"
+msgstr ""
+
+#. Cooking Master
+msgctxt "#274 char_topic"
+msgid "料理人のセンス"
+msgstr ""
+
+#. Has the unusual ability to tell what
+#. ingredients--and how much--are
+#. used in something simply by tasting it.
+msgctxt "#274 desc"
+msgid ""
+"一口食べれば、料理に入っている\n"
+"材料やその分量をピタリ当ててしまう、\n"
+"確かな味覚と知識を持ち合わせている。"
+msgstr ""
+
+#. Dorothee
+msgctxt "#275 char_name"
+msgid "ドロテ"
+msgstr ""
+
+#. Dorothee
+msgctxt "#276 char_full"
+msgid "ドロテ"
+msgstr ""
+
+#. (Literature Club)
+msgctxt "#277 char_affil"
+msgid "【文芸部】"
+msgstr ""
+
+#. Year 2 Class V
+#. The imaginative head of the Literature
+#. Club. Is often a little too excited over
+#. the stories she reads.
+msgctxt "#278 char_desc"
+msgid ""
+"２年Ⅴ組\n"
+"文学部の部長で、想像力豊かな女子生徒。\n"
+"興奮すると鼻血が出る癖がある。"
+msgstr ""
+
+#. Maidenly Hobby
+msgctxt "#279 char_topic"
+msgid "乙女の嗜み"
+msgstr ""
+
+#. She writes somewhat obscene stories 
+#. about romance between young men.
+msgctxt "#279 desc"
+msgid ""
+"執筆していたのは、ちょっと過激な\n"
+"男子たちの青春を描いた小説だった。"
+msgstr ""
+
+#. Instructor Sara
+msgctxt "#280 char_name"
+msgid "サラ教官"
+msgstr ""
+
+#. Instructor Sara Valestein
+msgctxt "#281 char_full"
+msgid "サラ・バレスタイン教官"
+msgstr ""
+
+#. Instructor (Combat, Practical Skills)
+#. Class VII's homeroom teacher. More 
+#. than a little slovenly, and is often seen
+#. drinking in the early afternoon.
+msgctxt "#282 char_desc"
+msgid ""
+"教官【武術・実践技術担当】\n"
+"Ⅶ組の担任で武術教官を務めている。\n"
+"少々だらしないところもあり、\n"
+"昼間からビールを飲んでいることも。"
+msgstr ""
+
+#. Odd Friendship
+msgctxt "#283 char_topic"
+msgid "謎の交友"
+msgstr ""
+
+#. She seems to be acquainted with Micht
+#. at the pawn shop, and they both seem to
+#. know one another's backgrounds.
+msgctxt "#283 desc"
+msgid ""
+"交換屋のミヒュトとは知り合いらしく、\n"
+"互いに相手の事情を知っているようだ。"
+msgstr ""
+
+#. Former Bracer
+msgctxt "#284 char_topic"
+msgid "元・遊撃士"
+msgstr ""
+
+#. She was formerly an A-rank bracer 
+#. belonging to the guild in Heimdallr.
+#. Was known as 'Purple Lightning.'
+msgctxt "#284 desc"
+msgid ""
+"以前は《紫電のバレスタイン》と呼ばれる\n"
+"Ａ級遊撃士として帝都のギルドに在籍した。"
+msgstr ""
+
+#. Comrade
+msgctxt "#285 char_topic"
+msgid "戦友"
+msgstr ""
+
+#. She becomes a little sentimental on the 
+#. anniversary of a comrade's death, but it
+#. doesn't seem that they were a bracer...
+msgctxt "#285 desc"
+msgid ""
+"“戦友”の命日には\n"
+"少し感傷的になってしまうらしい。\n"
+"遊撃士の頃の話ではなさそうだが……"
+msgstr ""
+
+#. Principal Vandyck
+msgctxt "#286 char_name"
+msgid "ヴァンダイク学院長"
+msgstr ""
+
+#. Principal Vandyck
+msgctxt "#287 char_full"
+msgid "ヴァンダイク学院長"
+msgstr ""
+
+#. Principal
+#. Thors Military Academy's principal. Used
+#. to be a general in the Imperial Army, 
+#. and still retains an aura of dignity.
+msgctxt "#288 char_desc"
+msgid ""
+"学院長\n"
+"トールズ士官学院の学院長。\n"
+"帝国正規軍の名誉元帥であり、\n"
+"退役した今もなお威厳を放つ。"
+msgstr ""
+
+#. Calligrapher
+msgctxt "#289 char_topic"
+msgid "書の嗜み"
+msgstr ""
+
+#. He's enjoyed calligraphy for almost ten 
+#. years, taking an interest after leaving
+#. the army. Uses a fine Eastern ink brush.
+msgctxt "#289 desc"
+msgid ""
+"軍を退役後、１０年近く書を嗜んでいた。\n"
+"立派な東方の筆を愛用している。"
+msgstr ""
+
+#. Instructor Neithardt
+msgctxt "#290 char_name"
+msgid "ナイトハルト教官"
+msgstr ""
+
+#. Instructor Neithardt
+msgctxt "#291 char_full"
+msgid "ナイトハルト教官"
+msgstr ""
+
+#. Instructor (Military Science)
+#. An active-duty major in the Imperial
+#. Army's 4th Armored Division. Serious 
+#. in nature and lacking in friendliness.
+msgctxt "#292 char_desc"
+msgid ""
+"教官【軍事学担当】\n"
+"軍事学教官として出向している、\n"
+"帝国軍第四機甲師団に所属する少佐。\n"
+"生真面目で愛想には欠けている。"
+msgstr ""
+
+#. Slave Driver
+msgctxt "#293 char_topic"
+msgid "スパルタ教官"
+msgstr ""
+
+#. Pushes his students to complete 
+#. Military-style training.
+msgctxt "#293 desc"
+msgid ""
+"軍隊式の訓練をリィンたちにも\n"
+"容赦なく課するほどのスパルタ。"
+msgstr ""
+
+#. Vice Principal Heinrich
+msgctxt "#294 char_name"
+msgid "ハインリッヒ教頭"
+msgstr ""
+
+#. Vice Principal Heinrich
+msgctxt "#295 char_full"
+msgid "ハインリッヒ教頭"
+msgstr ""
+
+#. Vice Principal (Political Economics)
+#. A baron who teaches political
+#. economics. A high-strung man who's a
+#. stickler for rules and complains often.
+msgctxt "#296 char_desc"
+msgid ""
+"教頭【政治経済担当】\n"
+"男爵位を持つ教頭で、\n"
+"授業では政治経済を担当している。\n"
+"神経質で規則に厳しく、小言が多い。"
+msgstr ""
+
+#. The Notebook
+msgctxt "#297 char_topic"
+msgid "秘密の手帳"
+msgstr ""
+
+#. He walks around with a private 
+#. notebook, guarding its contents 
+#. from prying eyes.
+msgctxt "#297 desc"
+msgid ""
+"あまり他人には見せられない\n"
+"プライベートな手帳を持ち歩いている。"
+msgstr ""
+
+#. Instructor Thomas
+msgctxt "#298 char_name"
+msgid "トマス教官"
+msgstr ""
+
+#. Instructor Thomas Lysander
+msgctxt "#299 char_full"
+msgid "トマス・ライサンダー教官"
+msgstr ""
+
+#. Instructor (History, Literature)
+#. The epitome of carefree. Well versed 
+#. in folklore and legends. Tends to get 
+#. overexcited while teaching.
+msgctxt "#300 char_desc"
+msgid ""
+"教官【帝国史・文学担当】\n"
+"いつものほほんとしている教官。\n"
+"各地の伝承などに造詣が深く、\n"
+"つい興奮して話し出すことも。"
+msgstr ""
+
+#. The Library
+msgctxt "#301 char_topic"
+msgid "図書館の管理者"
+msgstr ""
+
+#. Currently in charge of the academy's
+#. library. He enjoys spending all his free
+#. time there, looking through books.
+msgctxt "#301 desc"
+msgid ""
+"士官学院の図書館の現管理者。\n"
+"時間さえあれば図書館に篭って\n"
+"蔵書を読み漁っている。"
+msgstr ""
+
+#. Instructor Makarov
+msgctxt "#302 char_name"
+msgid "マカロフ教官"
+msgstr ""
+
+#. Instructor Makarov
+msgctxt "#303 char_full"
+msgid "マカロフ教官"
+msgstr ""
+
+#. Instructor (Orbal and Natural Sciences)
+#. Performs his job well, but always 
+#. seems to find it tedious. Year 1,
+#. Class III student Mint is his niece.
+msgctxt "#304 char_desc"
+msgid ""
+"教官【導力技術・自然科学担当】\n"
+"仕事はそつなくこなすが\n"
+"いつも気だるそうな雰囲気の男性教官。\n"
+"１年Ⅲ組のミントは姪にあたる。"
+msgstr ""
+
+#. Proud History
+msgctxt "#305 char_topic"
+msgid "華々しい過去"
+msgstr ""
+
+#. Graduated valedictorian from Roer Inst. 
+#. of Technology, and then took up a position 
+#. at the Imperial Institute of Science.
+msgctxt "#305 desc"
+msgid ""
+"ルーレ工科大学を主席で卒業後、\n"
+"《帝国科学院》に就職していた\n"
+"華々しい経歴を持っている。"
+msgstr ""
+
+#. Instructor Beatrix
+msgctxt "#306 char_name"
+msgid "ベアトリクス教官"
+msgstr ""
+
+#. Instructor Beatrix
+msgctxt "#307 char_full"
+msgid "ベアトリクス教官"
+msgstr ""
+
+#. Academy Nurse (Medical Science)
+#. A kindly instructor who is in charge of
+#. the infirmary. Has a mild bedside manner
+#. and is welcoming to all students.
+msgctxt "#308 char_desc"
+msgid ""
+"保険医【医学担当】\n"
+"心優しい士官学院の保険医。\n"
+"柔らかい物腰と深い懐で\n"
+"保健室に来る生徒たちを迎える。"
+msgstr ""
+
+#. Intimidating
+msgctxt "#309 char_topic"
+msgid "謎の威圧感"
+msgstr ""
+
+#. Usually kind, but capable of giving off
+#. such an aura of intimidation that even
+#. Vice Principal Heinrich fears her.
+msgctxt "#309 desc"
+msgid ""
+"普段は優しいが、時折ハインリッヒ教頭を\n"
+"畏まらせるほどの威圧感を発することも。"
+msgstr ""
+
+#. Instructor Mary
+msgctxt "#310 char_name"
+msgid "メアリー教官"
+msgstr ""
+
+#. Instructor Mary
+msgctxt "#311 char_full"
+msgid "メアリー教官"
+msgstr ""
+
+#. Instructor (Music, Art, Cookery)
+#. An instructor who joined the academy
+#. just this year. Completely devoted to 
+#. her students.
+msgctxt "#312 char_desc"
+msgid ""
+"教官【音楽・芸術・調理技術担当】\n"
+"今年から士官学院に勤める新任教官。\n"
+"生徒たちへの慈愛に溢れている。"
+msgstr ""
+
+#. Count Altheim
+msgctxt "#313 char_topic"
+msgid "伯爵令嬢"
+msgstr ""
+
+#. Daughter of Count Altheim, head of a 
+#. major noble family in the Sutherland 
+#. Province. Puts being a teacher first.
+msgctxt "#313 desc"
+msgid ""
+"サザーランド州の名門、\n"
+"アルトハイム伯爵家の令嬢。\n"
+"だが今は教官の仕事が第一のようだ。"
+msgstr ""
+
+#. Butler Celestin
+msgctxt "#314 char_name"
+msgid "執事セレスタン"
+msgstr ""
+
+#. Butler Celestin
+msgctxt "#315 char_full"
+msgid "執事セレスタン"
+msgstr ""
+
+#. Butler (Upper Class Dormitory)
+#. A butler sent by the Hyarms family. 
+#. Completes all of the tasks assigned 
+#. to him perfectly and completely.
+msgctxt "#316 char_desc"
+msgid ""
+"執事【第一学生寮】\n"
+"ハイアームズ家から出向している執事。\n"
+"あらゆる雑事をそつなく、完璧に片付ける。"
+msgstr ""
+
+#. Devoted
+msgctxt "#317 char_topic"
+msgid "坊ちゃまのため"
+msgstr ""
+
+#. He was ordered to return by the Hyarms
+#. family, but is doing all he can to stay
+#. in Trista for Patrick's sake.
+msgctxt "#317 desc"
+msgid ""
+"本家から帰還命令が出されたが、\n"
+"パトリックのためにトリスタに残れるよう\n"
+"様々な働きかけを行っていた。"
+msgstr ""
+
+#. Sariffa
+msgctxt "#318 char_name"
+msgid "サリファ"
+msgstr ""
+
+#. Sariffa
+msgctxt "#319 char_full"
+msgid "サリファ"
+msgstr ""
+
+#. Maid (Upper Class Dormitory)
+#. A maid sent by the Florald family. 
+#. Always accompanies Vincent wherever 
+#. he goes.
+msgctxt "#320 char_desc"
+msgid ""
+"メイド【第一学生寮】\n"
+"フロラルド家から出向しているメイド。\n"
+"いつもヴィンセントに付き従っている。"
+msgstr ""
+
+#. Odd Servant
+msgctxt "#321 char_topic"
+msgid "奇妙な主従"
+msgstr ""
+
+#. She has served Vincent and Ferris for so
+#. long because she finds them 'interesting
+#. and endearing people.'
+msgctxt "#321 desc"
+msgid ""
+"ヴィンセントやフェリスに\n"
+"長年仕えている理由は、何よりも\n"
+"“大変面白くて愛らしい方々”だから。"
+msgstr ""
+
+#. Lotte
+msgctxt "#322 char_name"
+msgid "ロッテ"
+msgstr ""
+
+#. Lotte
+msgctxt "#323 char_full"
+msgid "ロッテ"
+msgstr ""
+
+#. Maid (Upper Class Dormitory)
+#. A relatively plain maid who works at the
+#. upper class dormitory. Still very much
+#. in training.
+msgctxt "#324 char_desc"
+msgid ""
+"メイド【第一学生寮】\n"
+"第一学生寮に勤める素朴なメイド。\n"
+"まだまだメイドとしては修行中。"
+msgstr ""
+
+#. Cooking
+msgctxt "#325 char_topic"
+msgid "お料理の勉強"
+msgstr ""
+
+#. She's currently trying to expand her
+#. cooking repertoire so she can serve a 
+#. greater variety of food in the dorms.
+msgctxt "#325 desc"
+msgid ""
+"第一学生寮で出す\n"
+"料理のレパートリーを広げるため\n"
+"日夜料理の勉強中。"
+msgstr ""
+
+#. Sharon
+msgctxt "#326 char_name"
+msgid "シャロン"
+msgstr ""
+
+#. Sharon Kreuger
+msgctxt "#327 char_full"
+msgid "シャロン・クルーガー"
+msgstr ""
+
+#. Maid (Class VII Dormitory's Caretaker)
+#. An exceptionally skilled maid sent by 
+#. the Reinford family. Supports Class VII
+#. as their dormitory's caretaker.
+msgctxt "#328 char_desc"
+msgid ""
+"メイド【第三学生寮・管理人】\n"
+"ラインフォルト家に仕える優秀なメイド。\n"
+"第三学生寮の管理人としてⅦ組を支える。"
+msgstr ""
+
+#. Like Sisters
+msgctxt "#329 char_topic"
+msgid "姉妹のように"
+msgstr ""
+
+#. Alisa looks up to her like an older
+#. sister, while Sharon adores her like
+#. a younger sister.
+msgctxt "#329 desc"
+msgid ""
+"アリサからは姉のように慕われており、\n"
+"シャロンもまたアリサを\n"
+"妹のように想っているらしい。"
+msgstr ""
+
+#. Super Maid
+msgctxt "#330 char_topic"
+msgid "スーパーメイド"
+msgstr ""
+
+#. As Chairman Irina's maid, she even 
+#. helps to fulfill her duties as one of 
+#. the academy's board directors.
+msgctxt "#330 desc"
+msgid ""
+"イリーナ会長のメイドとして、\n"
+"士官学院の理事としての仕事までも\n"
+"手伝っているようだ。"
+msgstr ""
+
+#. Blade Master
+msgctxt "#331 char_topic"
+msgid "ブレードの達人"
+msgstr ""
+
+#. She was chosen by Crow to serve 
+#. as Blade Master at Gate of Avalon.
+msgctxt "#331 desc"
+msgid ""
+"クロウに見出されたブレードマスターとして\n"
+"《ゲート・オブ・アヴァロン》に君臨した。"
+msgstr ""
