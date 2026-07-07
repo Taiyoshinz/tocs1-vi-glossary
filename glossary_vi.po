@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-07 07:33+0000\n"
+"PO-Revision-Date: 2026-07-08 09:47+0000\n"
 "Last-Translator: Weblate Admin <weblate@example.com>\n"
 "Language-Team: Vietnamese <http://localhost:8080/projects/sen-no-kiseki-1/"
 "glossary/vi/>\n"
@@ -1445,3 +1445,9 @@ msgstr "tình yêu mãnh liệt"
 
 msgid "商会"
 msgstr "thương hội"
+
+msgid "オカルト研究会"
+msgstr "Hội Nghiên cứu Huyền bí"
+
+msgid "裏の七不思議"
+msgstr "bảy chuyện kỳ quái nơi góc khuất"
