@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-05 14:21+0000\n"
+"PO-Revision-Date: 2026-07-07 07:33+0000\n"
 "Last-Translator: Weblate Admin <weblate@example.com>\n"
 "Language-Team: Vietnamese <http://localhost:8080/projects/sen-no-kiseki-1/"
 "glossary/vi/>\n"
@@ -1061,7 +1061,7 @@ msgid "上位属性"
 msgstr "nguyên tố cấp cao"
 
 msgid "帝国軍情報局"
-msgstr "Cục Tình Báo Quân Đội Đế Quốc"
+msgstr "Cục Tình báo Quân đội Đế quốc"
 
 msgid "Scarecrow"
 msgstr "Bù Nhìn"
@@ -1136,7 +1136,7 @@ msgid "音楽院"
 msgstr "Học Viện Âm Nhạc"
 
 msgid "西風の旅団"
-msgstr "Lữ Đoàn Tây Phong"
+msgstr "Lữ đoàn Tây Phong"
 
 msgid "帝都憲兵隊"
 msgstr "Đội Hiến Binh Đế Đô"
@@ -1397,3 +1397,51 @@ msgstr "Miễn Vật Lý"
 msgctxt "phạm vi tầm đánh"
 msgid "RNG"
 msgstr "PV"
+
+msgid "幹部"
+msgstr "cán bộ"
+
+msgid "初伝"
+msgstr "sơ đẳng"
+
+msgid "狂気"
+msgstr "cuồng loạn"
+
+msgid "聖女サンドロット"
+msgstr "Thánh Nữ Sandlot"
+
+msgid "雑貨屋"
+msgstr "cửa hàng tạp hóa"
+
+msgid "馬術部"
+msgstr "CLB Cưỡi ngựa"
+
+msgid "園芸部"
+msgstr "CLB Làm vườn"
+
+msgid "西風の妖精"
+msgstr "Yêu Tinh Tây Phong"
+
+msgid "鉄血の子供たち"
+msgstr "Đứa Trẻ Sắt và Máu"
+
+msgid "ブレード"
+msgstr "bài Blade"
+
+msgid "釣皇倶楽部"
+msgstr "CLB Câu cá Hoàng gia"
+
+msgid "吹奏楽部"
+msgstr "CLB Nhạc khí"
+
+msgid "日曜学校"
+msgstr "trường Chủ nhật"
+
+msgid "調理部"
+msgstr "CLB Nấu ăn"
+
+msgid "熱烈な求愛"
+msgstr "tình yêu mãnh liệt"
+
+msgid "商会"
+msgstr "thương hội"
