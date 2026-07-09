@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-08 09:47+0000\n"
+"PO-Revision-Date: 2026-07-09 17:54+0000\n"
 "Last-Translator: Weblate Admin <weblate@example.com>\n"
 "Language-Team: Vietnamese <http://localhost:8080/projects/sen-no-kiseki-1/"
 "glossary/vi/>\n"
@@ -1296,7 +1296,7 @@ msgid "ノルティア州"
 msgstr "Tỉnh Nortia"
 
 msgid "工科大学"
-msgstr "trường dại học công nghệ"
+msgstr "Đại học Công nghệ Roer"
 
 msgid "下層の広場"
 msgstr "quảng trường tầng dưới"
@@ -1451,3 +1451,24 @@ msgstr "Hội Nghiên cứu Huyền bí"
 
 msgid "裏の七不思議"
 msgstr "bảy chuyện kỳ quái nơi góc khuất"
+
+msgid "写真部"
+msgstr "CLB Nhiếp ảnh"
+
+msgid "自動二輪部"
+msgstr "CLB Xe máy"
+
+msgid "泰斗流"
+msgstr "Phái Taito"
+
+msgid "マッハ"
+msgstr "Mach"
+
+msgid "第二チェス部"
+msgstr "CLB Cờ vua II"
+
+msgid "武術"
+msgstr "võ thuật"
+
+msgid "交換屋"
+msgstr "Tiệm thu đổi"
