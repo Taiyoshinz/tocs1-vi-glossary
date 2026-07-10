@@ -8,7 +8,7 @@ msgstr ""
 #. Swordtail
 msgctxt "#0 name"
 msgid "ソーディ"
-msgstr ""
+msgstr "Cá Đuôi Kiếm"
 
 #. A small fish known for its sharp, sword-like tail fin. 
 #. It's very aggressive by nature, and will try to 
@@ -21,11 +21,15 @@ msgid ""
 "撃をし追い払おうとする。体色が鮮やかで美しい見た目なので観\n"
 "賞魚として人気が高い。"
 msgstr ""
+"Loài cá nhỏ nổi bật với vây đuôi sắc nhọn tựa lưỡi kiếm.\n"
+"Vốn hung dữ, nó sẵn sàng xua đuổi cả những kẻ xâm nhập lớn\n"
+"hơn nhiều để bảo vệ lãnh thổ. Nhờ màu sắc rực rỡ, đây là\n"
+"loài cá cảnh được ưa chuộng."
 
 #. Gray Crab
 msgctxt "#1 name"
 msgid "シュラブ"
-msgstr ""
+msgstr "Cua Xám"
 
 #. A small crab with a gray carapace. Spends much of its time
 #. hidden in the shadows of rocks disguised as a small stone,
@@ -38,11 +42,15 @@ msgid ""
 "のは難しい。殻からとれる芳醇な出汁が絶品のため食材としての\n"
 "人気が高い。"
 msgstr ""
+"Loài cua nhỏ có mai màu xám, phần lớn thời gian ẩn mình\n"
+"trong bóng đá, ngụy trang như một hòn sỏi nên rất khó phát\n"
+"hiện. Mai cua còn được ưa chuộng làm nguyên liệu nấu ăn vì\n"
+"cho ra nước dùng đậm đà, thơm ngon."
 
 #. Kasagin
 msgctxt "#2 name"
 msgid "カサギン"
-msgstr ""
+msgstr "Kasagin"
 
 #. An attractive small fish with distinctive glistening
 #. scales. Able to adapt to a variety of water types and
@@ -55,11 +63,15 @@ msgid ""
 "る。針にかかると小気味のいい引きを味わえるため、釣り人たち\n"
 "から愛されている。"
 msgstr ""
+"Loài cá nhỏ xinh đẹp với lớp vảy óng ánh đặc trưng, có khả\n"
+"năng thích nghi với nhiều loại môi trường nước khác nhau.\n"
+"Được giới câu cá yêu thích vì cảm giác giật cần đầy thú\n"
+"vị."
 
 #. Crayfish
 msgctxt "#3 name"
 msgid "ザリーガ"
-msgstr ""
+msgstr "Tôm Càng"
 
 #. A crustacean with a distinctive red carapace. It rarely
 #. lets go of bait, making it an extremely easy fish to catch. 
@@ -72,11 +84,14 @@ msgid ""
 "杯くらい簡単に釣れる。帝国男子の多くは子供のころザリーガで\n"
 "遊んだ経験を持つ。"
 msgstr ""
+"Loài giáp xác có mai đỏ đặc trưng. Nó hiếm khi nhả mồi nên\n"
+"rất dễ câu. Hầu hết đàn ông Erebonia đều từng đi câu tôm\n"
+"càng ít nhất một lần thời niên thiếu."
 
 #. Anor Carp
 msgctxt "#4 name"
 msgid "アノールブナ"
-msgstr ""
+msgstr "Cá Chép Anor"
 
 #. A small fish said to be native to the Anor River. A
 #. tactical approach is needed to catch one, making it 
@@ -89,11 +104,15 @@ msgid ""
 "醐味を味わわせてくれる。もっとも釣るのが楽しい魚と評する釣\n"
 "り人も多い。"
 msgstr ""
+"Loài cá nhỏ được cho là có nguồn gốc từ sông Anor. Cần áp\n"
+"dụng chiến thuật khéo léo mới câu được, đem lại trải\n"
+"nghiệm thú vị cho cả người mới lẫn cần thủ lão luyện.\n"
+"Nhiều người đánh giá đây là loài cá thú vị nhất để câu."
 
 #. Rockeater
 msgctxt "#5 name"
 msgid "ロック"
-msgstr ""
+msgstr "Cá Ăn Đá"
 
 #. An overly cautious fish that requires a careful
 #. approach to catch. It is believed to swallow rocks 
@@ -105,11 +124,15 @@ msgid ""
 "増水時に体を安定させるため石を呑むと言われており、実際に釣\n"
 "ったロックの体内からは琥耀石が見つかることが多い。"
 msgstr ""
+"Loài cá vô cùng cảnh giác, đòi hỏi phải tiếp cận thật thận\n"
+"trọng mới câu được. Người ta tin rằng nó nuốt đá để giữ\n"
+"thăng bằng khi mực nước dâng cao — vì vậy khi bắt được,\n"
+"trong bụng nó thường có lẫn cả amberl."
 
 #. Carp
 msgctxt "#6 name"
 msgid "カルプ"
-msgstr ""
+msgstr "Cá Chép"
 
 #. A freshwater fish known for its longevity. There are 
 #. seven officially reported cases of carp living for over 
@@ -121,11 +144,15 @@ msgid ""
 "百年以上生きた個体が公式記録だけで七例もあり、未確認ながら\n"
 "中世の時代から生きている個体すら存在すると言われている。"
 msgstr ""
+"Loài cá nước ngọt nổi tiếng với tuổi thọ cao. Đã có bảy\n"
+"trường hợp được ghi nhận chính thức về cá chép sống hơn\n"
+"một trăm năm, cùng những tin đồn chưa kiểm chứng về cá\n"
+"chép còn sống từ thời Trung Cổ."
 
 #. Rainbow Trout
 msgctxt "#7 name"
 msgid "レインボウ"
-msgstr ""
+msgstr "Cá Hồi Cầu Vồng"
 
 #. A medium-sized fish that shines with all the colors of the
 #. rainbow when light reflects off it at the right angle. It
@@ -137,11 +164,14 @@ msgid ""
 "体内には七種のセピスが蓄えられており、大物を釣り上げれば一\n"
 "攫千金も夢ではない。"
 msgstr ""
+"Loài cá cỡ trung, ánh lên đủ sắc màu cầu vồng khi ánh sáng\n"
+"chiếu vào đúng góc. Trong cơ thể nó chứa đủ cả bảy loại\n"
+"sepith, nên nếu câu được một con thật to, có thể phát tài."
 
 #. Salamander
 msgctxt "#8 name"
 msgid "サンショ"
-msgstr ""
+msgstr "Kỳ Giông"
 
 #. A medium-sized amphibian that loves to live in stagnant 
 #. water. Some food connoisseurs praise its taste, but it 
@@ -153,11 +183,15 @@ msgid ""
 "一部の食通からは珍味として好まれているが、捕獲量も少なく見\n"
 "た目が不気味なため市場には流通していない。"
 msgstr ""
+"Loài lưỡng cư cỡ trung ưa sống ở vùng nước tù đọng. Một số\n"
+"người sành ăn khen ngợi hương vị của nó, nhưng vì khan\n"
+"hiếm và ngoại hình khó ưa nên chưa được đại chúng đón\n"
+"nhận."
 
 #. Gluttonous Bass
 msgctxt "#9 name"
 msgid "グラトンバス"
-msgstr ""
+msgstr "Cá Vược Phàm Ăn"
 
 #. A fish that feeds on other fish, and has a very large
 #. mouth relative to its body. Flails wildly when hooked on
@@ -170,11 +204,15 @@ msgid ""
 "に抵抗し続ける。魚とのやりとりを好むアングラーにとって最高\n"
 "の相手と言える魚。"
 msgstr ""
+"Loài cá ăn thịt các loài cá khác, sở hữu cái miệng to bất\n"
+"tương xứng với thân hình. Khi mắc câu, nó vùng vẫy dữ dội\n"
+"đến kiệt sức mới thôi, rất hợp với những cần thủ ưa thích\n"
+"cảm giác chinh phục."
 
 #. Trout
 msgctxt "#10 name"
 msgid "トラード"
-msgstr ""
+msgstr "Cá Hồi Vân"
 
 #. A medium-sized fish covered with steel-blue scales. 
 #. Some say that it is a subspecies of landlocked 
@@ -186,11 +224,15 @@ msgid ""
 "陸封されたサモーナの亜種と言われており、地域によって特徴が\n"
 "異なっているほか、稀に海に降りる個体も存在する。"
 msgstr ""
+"Loài cá cỡ trung với lớp vảy ánh xanh thép. Có ý kiến cho\n"
+"rằng đây là một phân loài của cá hồi nội địa. Đặc điểm của\n"
+"nó thay đổi tùy theo vùng sinh sống, thậm chí có cá còn\n"
+"tìm đường ra biển."
 
 #. Arowana
 msgctxt "#11 name"
 msgid "アローナ"
-msgstr ""
+msgstr "Cá Rồng"
 
 #. A beautiful medium-sized fish with a red and gold 
 #. coloring. Far more savage than its appearance would 
@@ -202,11 +244,14 @@ msgid ""
 "見た目に似合わず獰猛な性質をしており、水面の上を飛ぶ獲物を\n"
 "狙い、ダイナミックなジャンプを見せることもある。"
 msgstr ""
+"Loài cá cỡ trung xinh đẹp với sắc đỏ pha vàng óng. Hung dữ\n"
+"hơn nhiều so với vẻ ngoài, nó nhắm vào con mồi nhảy lên\n"
+"khỏi mặt nước rồi bật mình lao vút qua không trung để săn."
 
 #. Salmon
 msgctxt "#12 name"
 msgid "サモーナ"
-msgstr ""
+msgstr "Cá Hồi Di Cư"
 
 #. An anadromous fish that is born in a river and then 
 #. migrates to the ocean. When hooked, it uses the 
@@ -218,11 +263,14 @@ msgid ""
 "針にかかると、海で鍛えられた力を存分に生かし、重くパワフル\n"
 "な引きを味わわせてくれる。"
 msgstr ""
+"Loài cá di cư, sinh ra ở sông rồi bơi ra biển sinh sống.\n"
+"Khi mắc câu, nó tận dụng sức mạnh tích lũy được từ đời\n"
+"sống ngoài biển để giật cần với lực rất mạnh."
 
 #. Eel
 msgctxt "#13 name"
 msgid "イール"
-msgstr ""
+msgstr "Lươn"
 
 #. A rare fish with an unpleasant appearance that resembles
 #. a snake. It is covered in a mucous layer that makes it hard 
@@ -235,11 +283,15 @@ msgid ""
 "精気回復の薬効を持つ魚と言われており、夏の暑さに対する特効\n"
 "薬とされている。"
 msgstr ""
+"Loài cá hiếm có ngoại hình khó ưa, giống hệt loài rắn.\n"
+"Toàn thân phủ một lớp nhớt khiến việc cầm nắm bằng tay\n"
+"không trở nên khó khăn. Trong y học phương Đông, lươn được\n"
+"xem là có tác dụng bồi bổ và giải nhiệt hiệu quả."
 
 #. Gold Salmon
 msgctxt "#14 name"
 msgid "ゴルドサモーナ"
-msgstr ""
+msgstr "Cá Hồi Vàng"
 
 #. A subspecies of salmon with a glistening gold body. Its
 #. appearance symbolizes wealth and good fortune, making it
@@ -252,11 +304,16 @@ msgid ""
 "れている。味も最高と言われてはいるが、滅多に見つからない魚\n"
 "のため、その真偽を確かめた者はほとんどいない。"
 msgstr ""
+"Một phân loài cá hồi với thân mình ánh vàng lấp lánh. Vẻ\n"
+"ngoài của nó tượng trưng cho sự giàu sang và may mắn,\n"
+"khiến nó được nhiều người quý trọng chứ không riêng gì cần\n"
+"thủ. Tương truyền thịt cá rất ngon, nhưng vì quá hiếm nên\n"
+"ít ai kiểm chứng được."
 
 #. Queen Crab
 msgctxt "#15 name"
 msgid "クインシザー"
-msgstr ""
+msgstr "Cua Nữ Hoàng"
 
 #. A large crab with a pale red carapace. Far more agile than
 #. its appearance would suggest, it can catch swimming fish
@@ -269,11 +326,15 @@ msgid ""
 "で捕まえることができる。鋭いハサミは危険なため、捕獲した後\n"
 "も注意が必要とされる。"
 msgstr ""
+"Loài cua lớn có mai màu đỏ nhạt. Nhanh nhẹn hơn nhiều so\n"
+"với vẻ ngoài, nó có thể dùng càng bắt gọn cá đang bơi.\n"
+"Càng cua rất sắc bén, cần hết sức cẩn thận khi xử lý ngay\n"
+"cả sau khi đã bắt được."
 
 #. Pale Salamander
 msgctxt "#16 name"
 msgid "オオザンショ"
-msgstr ""
+msgstr "Kỳ Giông Nhợt"
 
 #. A large amphibian with a glistening pale blue body. Said
 #. to have healing powers due to its mystical appearance
@@ -286,11 +347,16 @@ msgid ""
 "力を体内に秘めていると言われている。サンショの変異種と考え\n"
 "られているが捕獲数が少ないため実態は謎に包まれている。"
 msgstr ""
+"Loài lưỡng cư lớn với thân mình ánh xanh nhạt lấp lánh.\n"
+"Tương truyền có khả năng chữa lành nhờ vẻ ngoài huyền bí\n"
+"và tốc độ hồi phục vết thương nhanh chóng. Có người cho\n"
+"rằng đây là kỳ giông đột biến, nhưng vì quá ít cá thể được\n"
+"bắt nên chưa thể khẳng định."
 
 #. Catfish
 msgctxt "#17 name"
 msgid "タイタン"
-msgstr ""
+msgstr "Cá Trê"
 
 #. A large, savage fish that inhabits stagnant waters. Its
 #. long whiskers act as sensors, allowing it to supposedly 
@@ -303,11 +369,15 @@ msgid ""
 "感じ取ることができると言われている。地震の前に騒ぎ出す習性\n"
 "を持つ魚としても有名。"
 msgstr ""
+"Loài cá lớn, hung dữ, sống ở vùng nước tù đọng. Cặp râu\n"
+"dài của nó hoạt động như giác quan, được cho là có thể cảm\n"
+"nhận dòng chảy mạch septium. Nổi tiếng vì thường gây náo\n"
+"động ngay trước khi động đất xảy ra."
 
 #. Invisible Crayfish
 msgctxt "#18 name"
 msgid "ブリザリーガ"
-msgstr ""
+msgstr "Tôm Càng Vô Hình"
 
 #. A large crustacean that looks like it has been frozen in
 #. ice. It is extremely difficult to spot in water, perhaps
@@ -320,11 +390,15 @@ msgid ""
 "能力を持っている。そのため、その巨体にもかかわらず発見は非\n"
 "常に困難で捕獲例は数えるほどしかない。"
 msgstr ""
+"Loài giáp xác lớn trông như bị đông cứng trong băng. Rất\n"
+"khó phát hiện dưới nước, có lẽ do sepith hệ nước trong cơ\n"
+"thể nó. Vì vậy, dù kích thước lớn, số lượng bắt được lại\n"
+"vô cùng ít ỏi."
 
 #. Giant Swordtail
 msgctxt "#19 name"
 msgid "ギガンソーディ"
-msgstr ""
+msgstr "Cá Đuôi Kiếm Khổng Lồ"
 
 #. A mutation of the swordtail which has grown larger from
 #. countless battles. So elusive most fishermen are lucky to
@@ -337,3 +411,8 @@ msgid ""
 "だのソーディが、戦い続け、勝ち続けることで流域のヌシに成長\n"
 "したという奇跡の体現者でもある。"
 msgstr ""
+"Một biến thể của cá đuôi kiếm, lớn lên qua vô số trận\n"
+"chiến. Vô cùng khó gặp, hầu hết cần thủ may mắn lắm mới\n"
+"chạm mặt được một lần trong đời. Được xem là biểu tượng\n"
+"cho những gì có thể đạt được khi không ngừng chiến đấu và\n"
+"giành chiến thắng."
