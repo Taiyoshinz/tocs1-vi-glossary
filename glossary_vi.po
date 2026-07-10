@@ -1,10 +1,10 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-09 17:54+0000\n"
+"PO-Revision-Date: 2026-07-10 17:41+0000\n"
 "Last-Translator: Weblate Admin <weblate@example.com>\n"
-"Language-Team: Vietnamese <http://localhost:8080/projects/sen-no-kiseki-1/"
-"glossary/vi/>\n"
+"Language-Team: Vietnamese <http://angel-guitars-empire-"
+"heath.trycloudflare.com/projects/sen-no-kiseki-1/glossary/vi/>\n"
 "Language: vi\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -88,7 +88,7 @@ msgstr "Loạn Trí"
 
 #. Stat Down
 msgid "能力低下"
-msgstr "Suy Giảm"
+msgstr "Suy Yếu"
 
 #. Abnormal Status
 msgid "状態異常"
@@ -1472,3 +1472,21 @@ msgstr "võ thuật"
 
 msgid "交換屋"
 msgstr "Tiệm thu đổi"
+
+msgid "名誉元帥"
+msgstr "Thống chế Danh dự"
+
+msgid "導力技術"
+msgstr "kỹ thuật dẫn lực"
+
+msgid "帝国科学院"
+msgstr "Viện Khoa học Đế quốc"
+
+msgid "保険医"
+msgstr "Y tá"
+
+msgid "第一学生寮"
+msgstr "KTX số 1"
+
+msgid "ブレードマスター"
+msgstr "Vua Bài"
