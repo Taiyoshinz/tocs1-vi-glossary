@@ -1,0 +1,339 @@
+#
+msgid ""
+msgstr ""
+"Language: vi\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Swordtail
+msgctxt "#0 name"
+msgid "ソーディ"
+msgstr ""
+
+#. A small fish known for its sharp, sword-like tail fin. 
+#. It's very aggressive by nature, and will try to 
+#. repel even the largest intruders from its territory.
+#. Popular in aquariums due to its beautiful color.
+msgctxt "#0 desc"
+msgid ""
+"鋭く伸びる尾びれが特徴の小魚。\n"
+"気性が荒く、他の魚が縄張りに入ってくると体格差があっても攻\n"
+"撃をし追い払おうとする。体色が鮮やかで美しい見た目なので観\n"
+"賞魚として人気が高い。"
+msgstr ""
+
+#. Gray Crab
+msgctxt "#1 name"
+msgid "シュラブ"
+msgstr ""
+
+#. A small crab with a gray carapace. Spends much of its time
+#. hidden in the shadows of rocks disguised as a small stone,
+#. making it difficult to find. Also popular as a cooking
+#. ingredient, as its shell makes a delicious, mellow stock.
+msgctxt "#1 desc"
+msgid ""
+"灰白色の甲羅を持つ小ガニ。\n"
+"普段は岩陰で小石に擬態しているため、普通に探しても発見する\n"
+"のは難しい。殻からとれる芳醇な出汁が絶品のため食材としての\n"
+"人気が高い。"
+msgstr ""
+
+#. Kasagin
+msgctxt "#2 name"
+msgid "カサギン"
+msgstr ""
+
+#. An attractive small fish with distinctive glistening
+#. scales. Able to adapt to a variety of water types and
+#. environments. Widely loved by fishermen for the pleasant
+#. way it tugs on the line.
+msgctxt "#2 desc"
+msgid ""
+"きらめく鱗が特徴の美しい小魚。\n"
+"水質や環境の変化に強いため、幅広い地域で繁殖が確認されてい\n"
+"る。針にかかると小気味のいい引きを味わえるため、釣り人たち\n"
+"から愛されている。"
+msgstr ""
+
+#. Crayfish
+msgctxt "#3 name"
+msgid "ザリーガ"
+msgstr ""
+
+#. A crustacean with a distinctive red carapace. It rarely
+#. lets go of bait, making it an extremely easy fish to catch. 
+#. Most Erebonian men have been crayfish fishing at least 
+#. once when they were younger.
+msgctxt "#3 desc"
+msgid ""
+"真っ赤な甲羅が特徴の小型甲殻類。\n"
+"一旦エサをつかむと滅多に離さないため、釣れる時にはバケツ一\n"
+"杯くらい簡単に釣れる。帝国男子の多くは子供のころザリーガで\n"
+"遊んだ経験を持つ。"
+msgstr ""
+
+#. Anor Carp
+msgctxt "#4 name"
+msgid "アノールブナ"
+msgstr ""
+
+#. A small fish said to be native to the Anor River. A
+#. tactical approach is needed to catch one, making it 
+#. a fun experience for both beginners and experts. 
+#. Many rate it as the most fun fish of all to catch.
+msgctxt "#4 desc"
+msgid ""
+"アノール河が原産と言われる小型の魚。\n"
+"釣るのにかけひきが必要なため、初心者にも熟練者にも釣りの醍\n"
+"醐味を味わわせてくれる。もっとも釣るのが楽しい魚と評する釣\n"
+"り人も多い。"
+msgstr ""
+
+#. Rockeater
+msgctxt "#5 name"
+msgid "ロック"
+msgstr ""
+
+#. An overly cautious fish that requires a careful
+#. approach to catch. It is believed to swallow rocks 
+#. to stabilize itself when water levels rise -- it is often 
+#. found with amberls in their stomachs when caught.
+msgctxt "#5 desc"
+msgid ""
+"警戒心が強く釣るにはコツが必要とされる魚。\n"
+"増水時に体を安定させるため石を呑むと言われており、実際に釣\n"
+"ったロックの体内からは琥耀石が見つかることが多い。"
+msgstr ""
+
+#. Carp
+msgctxt "#6 name"
+msgid "カルプ"
+msgstr ""
+
+#. A freshwater fish known for its longevity. There are 
+#. seven officially reported cases of carp living for over 
+#. a hundred years, and unconfirmed reports of some 
+#. having lived since the Middle Ages.
+msgctxt "#6 desc"
+msgid ""
+"長寿で知られる淡水魚。\n"
+"百年以上生きた個体が公式記録だけで七例もあり、未確認ながら\n"
+"中世の時代から生きている個体すら存在すると言われている。"
+msgstr ""
+
+#. Rainbow Trout
+msgctxt "#7 name"
+msgid "レインボウ"
+msgstr ""
+
+#. A medium-sized fish that shines with all the colors of the
+#. rainbow when light reflects off it at the right angle. It
+#. has all seven types of sepith in its body, making it
+#. possible to get rich by catching a really big one.
+msgctxt "#7 desc"
+msgid ""
+"光の角度によって体表が虹のようにきらめく中型魚。\n"
+"体内には七種のセピスが蓄えられており、大物を釣り上げれば一\n"
+"攫千金も夢ではない。"
+msgstr ""
+
+#. Salamander
+msgctxt "#8 name"
+msgid "サンショ"
+msgstr ""
+
+#. A medium-sized amphibian that loves to live in stagnant 
+#. water. Some food connoisseurs praise its taste, but it 
+#. hasn't caught on with the general population because 
+#. of its scarcity and unpleasant appearance.
+msgctxt "#8 desc"
+msgid ""
+"止水域を好む中型の両生類。\n"
+"一部の食通からは珍味として好まれているが、捕獲量も少なく見\n"
+"た目が不気味なため市場には流通していない。"
+msgstr ""
+
+#. Gluttonous Bass
+msgctxt "#9 name"
+msgid "グラトンバス"
+msgstr ""
+
+#. A fish that feeds on other fish, and has a very large
+#. mouth relative to its body. Flails wildly when hooked on
+#. a line, resisting until it has no strength to do so,
+#. making it ideal for fishermen who love a battle.
+msgctxt "#9 desc"
+msgid ""
+"体に対して大きな口を持つフィッシュイーター。\n"
+"針にかかると猛然と暴れまわり、体力が尽きるまで決して諦めず\n"
+"に抵抗し続ける。魚とのやりとりを好むアングラーにとって最高\n"
+"の相手と言える魚。"
+msgstr ""
+
+#. Trout
+msgctxt "#10 name"
+msgid "トラード"
+msgstr ""
+
+#. A medium-sized fish covered with steel-blue scales. 
+#. Some say that it is a subspecies of landlocked 
+#. salmon. Its features differ depending on the region 
+#. it lives in, and some even find their way to the sea.
+msgctxt "#10 desc"
+msgid ""
+"鋼色の鱗に覆われた中型魚。\n"
+"陸封されたサモーナの亜種と言われており、地域によって特徴が\n"
+"異なっているほか、稀に海に降りる個体も存在する。"
+msgstr ""
+
+#. Arowana
+msgctxt "#11 name"
+msgid "アローナ"
+msgstr ""
+
+#. A beautiful medium-sized fish with a red and gold 
+#. coloring. Far more savage than its appearance would 
+#. suggest, it targets prey that jumps above the water's 
+#. surface, jumping dynamically through the air.
+msgctxt "#11 desc"
+msgid ""
+"緋色と金色に彩られた美しい中型魚。\n"
+"見た目に似合わず獰猛な性質をしており、水面の上を飛ぶ獲物を\n"
+"狙い、ダイナミックなジャンプを見せることもある。"
+msgstr ""
+
+#. Salmon
+msgctxt "#12 name"
+msgid "サモーナ"
+msgstr ""
+
+#. An anadromous fish that is born in a river and then 
+#. migrates to the ocean. When hooked, it uses the 
+#. strength it has acquired living in the sea to great 
+#. effect, tugging on the line with considerable force.
+msgctxt "#12 desc"
+msgid ""
+"川で生まれ海で育つ習性を持つ遡河回遊魚。\n"
+"針にかかると、海で鍛えられた力を存分に生かし、重くパワフル\n"
+"な引きを味わわせてくれる。"
+msgstr ""
+
+#. Eel
+msgctxt "#13 name"
+msgid "イール"
+msgstr ""
+
+#. A rare fish with an unpleasant appearance that resembles
+#. a snake. It is covered in a mucous layer that makes it hard 
+#. to hold barehanded. Regarded as having energizing properties 
+#. in Eastern medicine, and effective in fighting off heat.
+msgctxt "#13 desc"
+msgid ""
+"蛇のような不気味な姿を持つ珍魚。\n"
+"体表は粘液で覆われており素手ではつかむのは難しい。東方では\n"
+"精気回復の薬効を持つ魚と言われており、夏の暑さに対する特効\n"
+"薬とされている。"
+msgstr ""
+
+#. Gold Salmon
+msgctxt "#14 name"
+msgid "ゴルドサモーナ"
+msgstr ""
+
+#. A subspecies of salmon with a glistening gold body. Its
+#. appearance symbolizes wealth and good fortune, making it
+#. prized by more than just fishermen. It is also said to be
+#. delicious, but is so rare that few can confirm this.
+msgctxt "#14 desc"
+msgid ""
+"黄金に輝く魚体を誇るサモーナの亜種。\n"
+"その姿から幸運と富貴の象徴といわれ、釣り人以外からも珍重さ\n"
+"れている。味も最高と言われてはいるが、滅多に見つからない魚\n"
+"のため、その真偽を確かめた者はほとんどいない。"
+msgstr ""
+
+#. Queen Crab
+msgctxt "#15 name"
+msgid "クインシザー"
+msgstr ""
+
+#. A large crab with a pale red carapace. Far more agile than
+#. its appearance would suggest, it can catch swimming fish
+#. in its claws while they are in motion. Its claws are very
+#. sharp, requiring careful handling even after catching.
+msgctxt "#15 desc"
+msgid ""
+"淡い紅色の甲羅を持つ大型のカニ。\n"
+"見た目からは考えられない俊敏さを誇り、泳ぐ魚をもそのハサミ\n"
+"で捕まえることができる。鋭いハサミは危険なため、捕獲した後\n"
+"も注意が必要とされる。"
+msgstr ""
+
+#. Pale Salamander
+msgctxt "#16 name"
+msgid "オオザンショ"
+msgstr ""
+
+#. A large amphibian with a glistening pale blue body. Said
+#. to have healing powers due to its mystical appearance
+#. and speed in recovering from injuries. While some think
+#. it a mutated salamander, too few are caught to be sure.
+msgctxt "#16 desc"
+msgid ""
+"青白く輝く巨体を持つ大型両生類。\n"
+"怪我をしてもすぐに回復することとその神秘的な姿から、癒しの\n"
+"力を体内に秘めていると言われている。サンショの変異種と考え\n"
+"られているが捕獲数が少ないため実態は謎に包まれている。"
+msgstr ""
+
+#. Catfish
+msgctxt "#17 name"
+msgid "タイタン"
+msgstr ""
+
+#. A large, savage fish that inhabits stagnant waters. Its
+#. long whiskers act as sensors, allowing it to supposedly 
+#. detect a septium vein's flow. Known for causing an uproar
+#. just before earthquakes hit.
+msgctxt "#17 desc"
+msgid ""
+"止水域を縄張りとする獰猛な大型魚。\n"
+"長いヒゲによって周辺を察知する能力を持ち、七耀脈の流れすら\n"
+"感じ取ることができると言われている。地震の前に騒ぎ出す習性\n"
+"を持つ魚としても有名。"
+msgstr ""
+
+#. Invisible Crayfish
+msgctxt "#18 name"
+msgid "ブリザリーガ"
+msgstr ""
+
+#. A large crustacean that looks like it has been frozen in
+#. ice. It is extremely difficult to spot in water, perhaps
+#. due to the water sepith in its body. As a result, despite
+#. its large size, barely any have ever been caught.
+msgctxt "#18 desc"
+msgid ""
+"凍てついた氷を思わせる見た目の大型甲殻類。\n"
+"体内に宿す水セピスのせいか、水中でほとんど見えなくなる擬態\n"
+"能力を持っている。そのため、その巨体にもかかわらず発見は非\n"
+"常に困難で捕獲例は数えるほどしかない。"
+msgstr ""
+
+#. Giant Swordtail
+msgctxt "#19 name"
+msgid "ギガンソーディ"
+msgstr ""
+
+#. A mutation of the swordtail which has grown larger from
+#. countless battles. So elusive most fishermen are lucky to
+#. meet one once in their life time. Seen as an embodiment of
+#. what can be achieved when one keeps fighting and winning.
+msgctxt "#19 desc"
+msgid ""
+"数多の戦いを経て巨大化したソーディの変異体。\n"
+"釣り人が一生に一度出会えれば幸運と言われる幻の魚であり、た\n"
+"だのソーディが、戦い続け、勝ち続けることで流域のヌシに成長\n"
+"したという奇跡の体現者でもある。"
+msgstr ""
