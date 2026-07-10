@@ -1,0 +1,418 @@
+#
+msgid ""
+msgstr ""
+"Language: vi\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Swordtail
+msgctxt "#0 name"
+msgid "ソーディ"
+msgstr "Cá Đuôi Kiếm"
+
+#. A small fish known for its sharp, sword-like tail fin. 
+#. It's very aggressive by nature, and will try to 
+#. repel even the largest intruders from its territory.
+#. Popular in aquariums due to its beautiful color.
+msgctxt "#0 desc"
+msgid ""
+"鋭く伸びる尾びれが特徴の小魚。\n"
+"気性が荒く、他の魚が縄張りに入ってくると体格差があっても攻\n"
+"撃をし追い払おうとする。体色が鮮やかで美しい見た目なので観\n"
+"賞魚として人気が高い。"
+msgstr ""
+"Loài cá nhỏ nổi bật với vây đuôi sắc nhọn tựa lưỡi kiếm.\n"
+"Vốn hung dữ, nó sẵn sàng xua đuổi cả những kẻ xâm nhập lớn\n"
+"hơn nhiều để bảo vệ lãnh thổ. Nhờ màu sắc rực rỡ, đây là\n"
+"loài cá cảnh được ưa chuộng."
+
+#. Gray Crab
+msgctxt "#1 name"
+msgid "シュラブ"
+msgstr "Cua Xám"
+
+#. A small crab with a gray carapace. Spends much of its time
+#. hidden in the shadows of rocks disguised as a small stone,
+#. making it difficult to find. Also popular as a cooking
+#. ingredient, as its shell makes a delicious, mellow stock.
+msgctxt "#1 desc"
+msgid ""
+"灰白色の甲羅を持つ小ガニ。\n"
+"普段は岩陰で小石に擬態しているため、普通に探しても発見する\n"
+"のは難しい。殻からとれる芳醇な出汁が絶品のため食材としての\n"
+"人気が高い。"
+msgstr ""
+"Loài cua nhỏ có mai màu xám, phần lớn thời gian ẩn mình\n"
+"trong bóng đá, ngụy trang như một hòn sỏi nên rất khó phát\n"
+"hiện. Mai cua còn được ưa chuộng làm nguyên liệu nấu ăn vì\n"
+"cho ra nước dùng đậm đà, thơm ngon."
+
+#. Kasagin
+msgctxt "#2 name"
+msgid "カサギン"
+msgstr "Kasagin"
+
+#. An attractive small fish with distinctive glistening
+#. scales. Able to adapt to a variety of water types and
+#. environments. Widely loved by fishermen for the pleasant
+#. way it tugs on the line.
+msgctxt "#2 desc"
+msgid ""
+"きらめく鱗が特徴の美しい小魚。\n"
+"水質や環境の変化に強いため、幅広い地域で繁殖が確認されてい\n"
+"る。針にかかると小気味のいい引きを味わえるため、釣り人たち\n"
+"から愛されている。"
+msgstr ""
+"Loài cá nhỏ xinh đẹp với lớp vảy óng ánh đặc trưng, có khả\n"
+"năng thích nghi với nhiều loại môi trường nước khác nhau.\n"
+"Được giới câu cá yêu thích vì cảm giác giật cần đầy thú\n"
+"vị."
+
+#. Crayfish
+msgctxt "#3 name"
+msgid "ザリーガ"
+msgstr "Tôm Càng"
+
+#. A crustacean with a distinctive red carapace. It rarely
+#. lets go of bait, making it an extremely easy fish to catch. 
+#. Most Erebonian men have been crayfish fishing at least 
+#. once when they were younger.
+msgctxt "#3 desc"
+msgid ""
+"真っ赤な甲羅が特徴の小型甲殻類。\n"
+"一旦エサをつかむと滅多に離さないため、釣れる時にはバケツ一\n"
+"杯くらい簡単に釣れる。帝国男子の多くは子供のころザリーガで\n"
+"遊んだ経験を持つ。"
+msgstr ""
+"Loài giáp xác có mai đỏ đặc trưng. Nó hiếm khi nhả mồi nên\n"
+"rất dễ câu. Hầu hết đàn ông Erebonia đều từng đi câu tôm\n"
+"càng ít nhất một lần thời niên thiếu."
+
+#. Anor Carp
+msgctxt "#4 name"
+msgid "アノールブナ"
+msgstr "Cá Chép Anor"
+
+#. A small fish said to be native to the Anor River. A
+#. tactical approach is needed to catch one, making it 
+#. a fun experience for both beginners and experts. 
+#. Many rate it as the most fun fish of all to catch.
+msgctxt "#4 desc"
+msgid ""
+"アノール河が原産と言われる小型の魚。\n"
+"釣るのにかけひきが必要なため、初心者にも熟練者にも釣りの醍\n"
+"醐味を味わわせてくれる。もっとも釣るのが楽しい魚と評する釣\n"
+"り人も多い。"
+msgstr ""
+"Loài cá nhỏ được cho là có nguồn gốc từ sông Anor. Cần áp\n"
+"dụng chiến thuật khéo léo mới câu được, đem lại trải\n"
+"nghiệm thú vị cho cả người mới lẫn cần thủ lão luyện.\n"
+"Nhiều người đánh giá đây là loài cá thú vị nhất để câu."
+
+#. Rockeater
+msgctxt "#5 name"
+msgid "ロック"
+msgstr "Cá Ăn Đá"
+
+#. An overly cautious fish that requires a careful
+#. approach to catch. It is believed to swallow rocks 
+#. to stabilize itself when water levels rise -- it is often 
+#. found with amberls in their stomachs when caught.
+msgctxt "#5 desc"
+msgid ""
+"警戒心が強く釣るにはコツが必要とされる魚。\n"
+"増水時に体を安定させるため石を呑むと言われており、実際に釣\n"
+"ったロックの体内からは琥耀石が見つかることが多い。"
+msgstr ""
+"Loài cá vô cùng cảnh giác, đòi hỏi phải tiếp cận thật thận\n"
+"trọng mới câu được. Người ta tin rằng nó nuốt đá để giữ\n"
+"thăng bằng khi mực nước dâng cao — vì vậy khi bắt được,\n"
+"trong bụng nó thường có lẫn cả amberl."
+
+#. Carp
+msgctxt "#6 name"
+msgid "カルプ"
+msgstr "Cá Chép"
+
+#. A freshwater fish known for its longevity. There are 
+#. seven officially reported cases of carp living for over 
+#. a hundred years, and unconfirmed reports of some 
+#. having lived since the Middle Ages.
+msgctxt "#6 desc"
+msgid ""
+"長寿で知られる淡水魚。\n"
+"百年以上生きた個体が公式記録だけで七例もあり、未確認ながら\n"
+"中世の時代から生きている個体すら存在すると言われている。"
+msgstr ""
+"Loài cá nước ngọt nổi tiếng với tuổi thọ cao. Đã có bảy\n"
+"trường hợp được ghi nhận chính thức về cá chép sống hơn\n"
+"một trăm năm, cùng những tin đồn chưa kiểm chứng về cá\n"
+"chép còn sống từ thời Trung Cổ."
+
+#. Rainbow Trout
+msgctxt "#7 name"
+msgid "レインボウ"
+msgstr "Cá Hồi Cầu Vồng"
+
+#. A medium-sized fish that shines with all the colors of the
+#. rainbow when light reflects off it at the right angle. It
+#. has all seven types of sepith in its body, making it
+#. possible to get rich by catching a really big one.
+msgctxt "#7 desc"
+msgid ""
+"光の角度によって体表が虹のようにきらめく中型魚。\n"
+"体内には七種のセピスが蓄えられており、大物を釣り上げれば一\n"
+"攫千金も夢ではない。"
+msgstr ""
+"Loài cá cỡ trung, ánh lên đủ sắc màu cầu vồng khi ánh sáng\n"
+"chiếu vào đúng góc. Trong cơ thể nó chứa đủ cả bảy loại\n"
+"sepith, nên nếu câu được một con thật to, có thể phát tài."
+
+#. Salamander
+msgctxt "#8 name"
+msgid "サンショ"
+msgstr "Kỳ Giông"
+
+#. A medium-sized amphibian that loves to live in stagnant 
+#. water. Some food connoisseurs praise its taste, but it 
+#. hasn't caught on with the general population because 
+#. of its scarcity and unpleasant appearance.
+msgctxt "#8 desc"
+msgid ""
+"止水域を好む中型の両生類。\n"
+"一部の食通からは珍味として好まれているが、捕獲量も少なく見\n"
+"た目が不気味なため市場には流通していない。"
+msgstr ""
+"Loài lưỡng cư cỡ trung ưa sống ở vùng nước tù đọng. Một số\n"
+"người sành ăn khen ngợi hương vị của nó, nhưng vì khan\n"
+"hiếm và ngoại hình khó ưa nên chưa được đại chúng đón\n"
+"nhận."
+
+#. Gluttonous Bass
+msgctxt "#9 name"
+msgid "グラトンバス"
+msgstr "Cá Vược Phàm Ăn"
+
+#. A fish that feeds on other fish, and has a very large
+#. mouth relative to its body. Flails wildly when hooked on
+#. a line, resisting until it has no strength to do so,
+#. making it ideal for fishermen who love a battle.
+msgctxt "#9 desc"
+msgid ""
+"体に対して大きな口を持つフィッシュイーター。\n"
+"針にかかると猛然と暴れまわり、体力が尽きるまで決して諦めず\n"
+"に抵抗し続ける。魚とのやりとりを好むアングラーにとって最高\n"
+"の相手と言える魚。"
+msgstr ""
+"Loài cá ăn thịt các loài cá khác, sở hữu cái miệng to bất\n"
+"tương xứng với thân hình. Khi mắc câu, nó vùng vẫy dữ dội\n"
+"đến kiệt sức mới thôi, rất hợp với những cần thủ ưa thích\n"
+"cảm giác chinh phục."
+
+#. Trout
+msgctxt "#10 name"
+msgid "トラード"
+msgstr "Cá Hồi Vân"
+
+#. A medium-sized fish covered with steel-blue scales. 
+#. Some say that it is a subspecies of landlocked 
+#. salmon. Its features differ depending on the region 
+#. it lives in, and some even find their way to the sea.
+msgctxt "#10 desc"
+msgid ""
+"鋼色の鱗に覆われた中型魚。\n"
+"陸封されたサモーナの亜種と言われており、地域によって特徴が\n"
+"異なっているほか、稀に海に降りる個体も存在する。"
+msgstr ""
+"Loài cá cỡ trung với lớp vảy ánh xanh thép. Có ý kiến cho\n"
+"rằng đây là một phân loài của cá hồi nội địa. Đặc điểm của\n"
+"nó thay đổi tùy theo vùng sinh sống, thậm chí có cá còn\n"
+"tìm đường ra biển."
+
+#. Arowana
+msgctxt "#11 name"
+msgid "アローナ"
+msgstr "Cá Rồng"
+
+#. A beautiful medium-sized fish with a red and gold 
+#. coloring. Far more savage than its appearance would 
+#. suggest, it targets prey that jumps above the water's 
+#. surface, jumping dynamically through the air.
+msgctxt "#11 desc"
+msgid ""
+"緋色と金色に彩られた美しい中型魚。\n"
+"見た目に似合わず獰猛な性質をしており、水面の上を飛ぶ獲物を\n"
+"狙い、ダイナミックなジャンプを見せることもある。"
+msgstr ""
+"Loài cá cỡ trung xinh đẹp với sắc đỏ pha vàng óng. Hung dữ\n"
+"hơn nhiều so với vẻ ngoài, nó nhắm vào con mồi nhảy lên\n"
+"khỏi mặt nước rồi bật mình lao vút qua không trung để săn."
+
+#. Salmon
+msgctxt "#12 name"
+msgid "サモーナ"
+msgstr "Cá Hồi Di Cư"
+
+#. An anadromous fish that is born in a river and then 
+#. migrates to the ocean. When hooked, it uses the 
+#. strength it has acquired living in the sea to great 
+#. effect, tugging on the line with considerable force.
+msgctxt "#12 desc"
+msgid ""
+"川で生まれ海で育つ習性を持つ遡河回遊魚。\n"
+"針にかかると、海で鍛えられた力を存分に生かし、重くパワフル\n"
+"な引きを味わわせてくれる。"
+msgstr ""
+"Loài cá di cư, sinh ra ở sông rồi bơi ra biển sinh sống.\n"
+"Khi mắc câu, nó tận dụng sức mạnh tích lũy được từ đời\n"
+"sống ngoài biển để giật cần với lực rất mạnh."
+
+#. Eel
+msgctxt "#13 name"
+msgid "イール"
+msgstr "Lươn"
+
+#. A rare fish with an unpleasant appearance that resembles
+#. a snake. It is covered in a mucous layer that makes it hard 
+#. to hold barehanded. Regarded as having energizing properties 
+#. in Eastern medicine, and effective in fighting off heat.
+msgctxt "#13 desc"
+msgid ""
+"蛇のような不気味な姿を持つ珍魚。\n"
+"体表は粘液で覆われており素手ではつかむのは難しい。東方では\n"
+"精気回復の薬効を持つ魚と言われており、夏の暑さに対する特効\n"
+"薬とされている。"
+msgstr ""
+"Loài cá hiếm có ngoại hình khó ưa, giống hệt loài rắn.\n"
+"Toàn thân phủ một lớp nhớt khiến việc cầm nắm bằng tay\n"
+"không trở nên khó khăn. Trong y học phương Đông, lươn được\n"
+"xem là có tác dụng bồi bổ và giải nhiệt hiệu quả."
+
+#. Gold Salmon
+msgctxt "#14 name"
+msgid "ゴルドサモーナ"
+msgstr "Cá Hồi Vàng"
+
+#. A subspecies of salmon with a glistening gold body. Its
+#. appearance symbolizes wealth and good fortune, making it
+#. prized by more than just fishermen. It is also said to be
+#. delicious, but is so rare that few can confirm this.
+msgctxt "#14 desc"
+msgid ""
+"黄金に輝く魚体を誇るサモーナの亜種。\n"
+"その姿から幸運と富貴の象徴といわれ、釣り人以外からも珍重さ\n"
+"れている。味も最高と言われてはいるが、滅多に見つからない魚\n"
+"のため、その真偽を確かめた者はほとんどいない。"
+msgstr ""
+"Một phân loài cá hồi với thân mình ánh vàng lấp lánh. Vẻ\n"
+"ngoài của nó tượng trưng cho sự giàu sang và may mắn,\n"
+"khiến nó được nhiều người quý trọng chứ không riêng gì cần\n"
+"thủ. Tương truyền thịt cá rất ngon, nhưng vì quá hiếm nên\n"
+"ít ai kiểm chứng được."
+
+#. Queen Crab
+msgctxt "#15 name"
+msgid "クインシザー"
+msgstr "Cua Nữ Hoàng"
+
+#. A large crab with a pale red carapace. Far more agile than
+#. its appearance would suggest, it can catch swimming fish
+#. in its claws while they are in motion. Its claws are very
+#. sharp, requiring careful handling even after catching.
+msgctxt "#15 desc"
+msgid ""
+"淡い紅色の甲羅を持つ大型のカニ。\n"
+"見た目からは考えられない俊敏さを誇り、泳ぐ魚をもそのハサミ\n"
+"で捕まえることができる。鋭いハサミは危険なため、捕獲した後\n"
+"も注意が必要とされる。"
+msgstr ""
+"Loài cua lớn có mai màu đỏ nhạt. Nhanh nhẹn hơn nhiều so\n"
+"với vẻ ngoài, nó có thể dùng càng bắt gọn cá đang bơi.\n"
+"Càng cua rất sắc bén, cần hết sức cẩn thận khi xử lý ngay\n"
+"cả sau khi đã bắt được."
+
+#. Pale Salamander
+msgctxt "#16 name"
+msgid "オオザンショ"
+msgstr "Kỳ Giông Nhợt"
+
+#. A large amphibian with a glistening pale blue body. Said
+#. to have healing powers due to its mystical appearance
+#. and speed in recovering from injuries. While some think
+#. it a mutated salamander, too few are caught to be sure.
+msgctxt "#16 desc"
+msgid ""
+"青白く輝く巨体を持つ大型両生類。\n"
+"怪我をしてもすぐに回復することとその神秘的な姿から、癒しの\n"
+"力を体内に秘めていると言われている。サンショの変異種と考え\n"
+"られているが捕獲数が少ないため実態は謎に包まれている。"
+msgstr ""
+"Loài lưỡng cư lớn với thân mình ánh xanh nhạt lấp lánh.\n"
+"Tương truyền có khả năng chữa lành nhờ vẻ ngoài huyền bí\n"
+"và tốc độ hồi phục vết thương nhanh chóng. Có người cho\n"
+"rằng đây là kỳ giông đột biến, nhưng vì quá ít cá thể được\n"
+"bắt nên chưa thể khẳng định."
+
+#. Catfish
+msgctxt "#17 name"
+msgid "タイタン"
+msgstr "Cá Trê"
+
+#. A large, savage fish that inhabits stagnant waters. Its
+#. long whiskers act as sensors, allowing it to supposedly 
+#. detect a septium vein's flow. Known for causing an uproar
+#. just before earthquakes hit.
+msgctxt "#17 desc"
+msgid ""
+"止水域を縄張りとする獰猛な大型魚。\n"
+"長いヒゲによって周辺を察知する能力を持ち、七耀脈の流れすら\n"
+"感じ取ることができると言われている。地震の前に騒ぎ出す習性\n"
+"を持つ魚としても有名。"
+msgstr ""
+"Loài cá lớn, hung dữ, sống ở vùng nước tù đọng. Cặp râu\n"
+"dài của nó hoạt động như giác quan, được cho là có thể cảm\n"
+"nhận dòng chảy mạch septium. Nổi tiếng vì thường gây náo\n"
+"động ngay trước khi động đất xảy ra."
+
+#. Invisible Crayfish
+msgctxt "#18 name"
+msgid "ブリザリーガ"
+msgstr "Tôm Càng Vô Hình"
+
+#. A large crustacean that looks like it has been frozen in
+#. ice. It is extremely difficult to spot in water, perhaps
+#. due to the water sepith in its body. As a result, despite
+#. its large size, barely any have ever been caught.
+msgctxt "#18 desc"
+msgid ""
+"凍てついた氷を思わせる見た目の大型甲殻類。\n"
+"体内に宿す水セピスのせいか、水中でほとんど見えなくなる擬態\n"
+"能力を持っている。そのため、その巨体にもかかわらず発見は非\n"
+"常に困難で捕獲例は数えるほどしかない。"
+msgstr ""
+"Loài giáp xác lớn trông như bị đông cứng trong băng. Rất\n"
+"khó phát hiện dưới nước, có lẽ do sepith hệ nước trong cơ\n"
+"thể nó. Vì vậy, dù kích thước lớn, số lượng bắt được lại\n"
+"vô cùng ít ỏi."
+
+#. Giant Swordtail
+msgctxt "#19 name"
+msgid "ギガンソーディ"
+msgstr "Cá Đuôi Kiếm Khổng Lồ"
+
+#. A mutation of the swordtail which has grown larger from
+#. countless battles. So elusive most fishermen are lucky to
+#. meet one once in their life time. Seen as an embodiment of
+#. what can be achieved when one keeps fighting and winning.
+msgctxt "#19 desc"
+msgid ""
+"数多の戦いを経て巨大化したソーディの変異体。\n"
+"釣り人が一生に一度出会えれば幸運と言われる幻の魚であり、た\n"
+"だのソーディが、戦い続け、勝ち続けることで流域のヌシに成長\n"
+"したという奇跡の体現者でもある。"
+msgstr ""
+"Một biến thể của cá đuôi kiếm, lớn lên qua vô số trận\n"
+"chiến. Vô cùng khó gặp, hầu hết cần thủ may mắn lắm mới\n"
+"chạm mặt được một lần trong đời. Được xem là biểu tượng\n"
+"cho những gì có thể đạt được khi không ngừng chiến đấu và\n"
+"giành chiến thắng."
