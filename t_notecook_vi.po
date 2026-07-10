@@ -1,0 +1,836 @@
+#
+msgid ""
+msgstr ""
+"Language: vi\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Record
+msgctxt "#0 cook_name"
+msgid "履歴"
+msgstr ""
+
+#. Simple Omelet
+msgctxt "#1 cook_name"
+msgid "お手軽オムレツ"
+msgstr ""
+
+#. Recovers 100HP
+msgctxt "#2 cook_effect"
+msgid "HP100回復"
+msgstr ""
+
+#. Cures K.O.
+msgctxt "#3 cook_effect"
+msgid "「戦闘不能」解除"
+msgstr ""
+
+#. Recovers 600HP
+msgctxt "#4 cook_effect"
+msgid "HP600回復"
+msgstr ""
+
+#. Recovers 400HP
+msgctxt "#5 cook_effect"
+msgid "HP400回復"
+msgstr ""
+
+#. DEF+25% (3 turns)
+msgctxt "#6 cook_effect"
+msgid "３ターンDEF+25%"
+msgstr ""
+
+#. Recovers 600HP
+msgctxt "#7 cook_effect"
+msgid "HP600回復"
+msgstr ""
+
+#. STR+25% (3 turns)/Cures freeze
+msgctxt "#8 cook_effect"
+msgid "3ターンSTR+25% 「凍結」解除"
+msgstr ""
+
+#. Sweet Cookie
+msgctxt "#9 cook_name"
+msgid "スイートクッキー"
+msgstr ""
+
+#. Recovers 1000HP
+msgctxt "#10 cook_effect"
+msgid "HP1000回復"
+msgstr ""
+
+#. Cures poison
+msgctxt "#11 cook_effect"
+msgid "「毒」解除"
+msgstr ""
+
+#. Recovers 700HP
+msgctxt "#12 cook_effect"
+msgid "HP700回復"
+msgstr ""
+
+#. Cures poison
+msgctxt "#13 cook_effect"
+msgid "「毒」解除"
+msgstr ""
+
+#. [Attack (Set) - Area (S)]
+msgctxt "#14 cook_effect"
+msgid "攻撃(威力Ｄ)：円Ｓ(地点指定)"
+msgstr ""
+
+#. (Power D) Poison (50%)
+msgctxt "#15 cook_effect"
+msgid "毒(50％)"
+msgstr ""
+
+#. Recovers 800HP
+msgctxt "#16 cook_effect"
+msgid "HP800回復"
+msgstr ""
+
+#. Cures poison/burn
+msgctxt "#17 cook_effect"
+msgid "「毒・炎傷」解除"
+msgstr ""
+
+#. Whole Juice
+msgctxt "#18 cook_name"
+msgid "丸絞りジュース"
+msgstr ""
+
+#. Recovers 1200HP
+msgctxt "#19 cook_effect"
+msgid "HP1200回復"
+msgstr ""
+
+#. Cures K.O.
+msgctxt "#20 cook_effect"
+msgid "「戦闘不能」解除"
+msgstr ""
+
+#. Recovers 1000HP
+msgctxt "#21 cook_effect"
+msgid "HP1000回復"
+msgstr ""
+
+#. Cures faint
+msgctxt "#22 cook_effect"
+msgid "「気絶」解除"
+msgstr ""
+
+#. Restores 100EP
+msgctxt "#23 cook_effect"
+msgid "EP100回復"
+msgstr ""
+
+#. Recovers 1000HP/Restores 50EP
+msgctxt "#24 cook_effect"
+msgid "HP1000回復 EP50回復"
+msgstr ""
+
+#. Cures faint/confuse
+msgctxt "#25 cook_effect"
+msgid "「気絶・混乱」解除"
+msgstr ""
+
+#. Tomato Sandwich
+msgctxt "#26 cook_name"
+msgid "トマトサンド"
+msgstr ""
+
+#. Recovers 1800HP/Restores 20CP
+msgctxt "#27 cook_effect"
+msgid "HP1800回復 CP+20"
+msgstr ""
+
+#. Recovers 1500HP/Restores 10CP
+msgctxt "#28 cook_effect"
+msgid "HP1500回復 CP+10"
+msgstr ""
+
+#. Recovers 100HP/Restores 40CP
+msgctxt "#29 cook_effect"
+msgid "HP100回復 CP+40"
+msgstr ""
+
+#. Recovers 1500HP/Restores 25CP
+msgctxt "#30 cook_effect"
+msgid "HP1500回復 CP+25"
+msgstr ""
+
+#. STR+25% (3 turns)
+msgctxt "#31 cook_effect"
+msgid "3ターンSTR+25％"
+msgstr ""
+
+#. Savory Herb Tea
+msgctxt "#32 cook_name"
+msgid "味わいハーブティー"
+msgstr ""
+
+#. Recovers 2000HP
+msgctxt "#33 cook_effect"
+msgid "HP2000回復"
+msgstr ""
+
+#. Cures seal/mute
+msgctxt "#34 cook_effect"
+msgid "「封技・封魔」解除"
+msgstr ""
+
+#. Recovers 1200HP
+msgctxt "#35 cook_effect"
+msgid "HP1200回復"
+msgstr ""
+
+#. Cures seal
+msgctxt "#36 cook_effect"
+msgid "「封技」解除"
+msgstr ""
+
+#. Restores 200EP
+msgctxt "#37 cook_effect"
+msgid "EP200回復"
+msgstr ""
+
+#. Recovers 1600HP
+msgctxt "#38 cook_effect"
+msgid "HP1600回復"
+msgstr ""
+
+#. SPD+25% (3 turns)
+msgctxt "#39 cook_effect"
+msgid "3ターンSPD+25％"
+msgstr ""
+
+#. Creamy Chowder
+msgctxt "#40 cook_name"
+msgid "クリーミーチャウダー"
+msgstr ""
+
+#. Recovers 2400HP
+msgctxt "#41 cook_effect"
+msgid "HP2400回復"
+msgstr ""
+
+#. Cures freeze
+msgctxt "#42 cook_effect"
+msgid "「凍結」解除"
+msgstr ""
+
+#. Recovers 1400HP
+msgctxt "#43 cook_effect"
+msgid "HP1400回復"
+msgstr ""
+
+#. Cures freeze
+msgctxt "#44 cook_effect"
+msgid "「凍結」解除"
+msgstr ""
+
+#. [Magic Attack (Set) - Area (S)]
+msgctxt "#45 cook_effect"
+msgid "魔法攻撃(威力Ｃ)：円Ｓ(地点指定)"
+msgstr ""
+
+#. (Power C) Freeze (50%)
+msgctxt "#46 cook_effect"
+msgid "凍結(50％)"
+msgstr ""
+
+#. Recovers 2000HP
+msgctxt "#47 cook_effect"
+msgid "HP2000回復"
+msgstr ""
+
+#. Cures poison/blind/burn/freeze
+msgctxt "#48 cook_effect"
+msgid "「毒・暗闇・炎傷・凍結」解除"
+msgstr ""
+
+#. Berry Tart
+msgctxt "#49 cook_name"
+msgid "ベリータルト"
+msgstr ""
+
+#. Recovers 2800HP
+msgctxt "#50 cook_effect"
+msgid "HP2800回復"
+msgstr ""
+
+#. Cures petrify
+msgctxt "#51 cook_effect"
+msgid "「石化」解除"
+msgstr ""
+
+#. Recovers 1800HP
+msgctxt "#52 cook_effect"
+msgid "HP1800回復"
+msgstr ""
+
+#. Cures petrify
+msgctxt "#53 cook_effect"
+msgid "「石化」解除"
+msgstr ""
+
+#. Recovers 1200HP
+msgctxt "#54 cook_effect"
+msgid "HP1200回復"
+msgstr ""
+
+#. ATS+25% (5 turns)
+msgctxt "#55 cook_effect"
+msgid "5ターンATS+25％"
+msgstr ""
+
+#. Recovers 2400HP
+msgctxt "#56 cook_effect"
+msgid "HP2400回復"
+msgstr ""
+
+#. Cures freeze/petrify
+msgctxt "#57 cook_effect"
+msgid "「凍結・石化」解除"
+msgstr ""
+
+#. Milk Porridge
+msgctxt "#58 cook_name"
+msgid "ミルク粥"
+msgstr ""
+
+#. Recovers 2600HP
+msgctxt "#59 cook_effect"
+msgid "HP2600回復"
+msgstr ""
+
+#. DEF/ADF+25% (5 turns)
+msgctxt "#60 cook_effect"
+msgid "5ターンDEF･ADF+25％"
+msgstr ""
+
+#. Recovers 1800HP
+msgctxt "#61 cook_effect"
+msgid "HP1800回復"
+msgstr ""
+
+#. DEF/ADF+25% (3 turns)
+msgctxt "#62 cook_effect"
+msgid "3ターンDEF･ADF+25％"
+msgstr ""
+
+#. Recovers 800HP
+msgctxt "#63 cook_effect"
+msgid "HP800回復"
+msgstr ""
+
+#. DEF/ADF+50% (3 turns)
+msgctxt "#64 cook_effect"
+msgid "3ターンDEF ADF+50％"
+msgstr ""
+
+#. Recovers 1200HP
+msgctxt "#65 cook_effect"
+msgid "HP1200回復"
+msgstr ""
+
+#. STR/ATS+25% (5 turns)
+msgctxt "#66 cook_effect"
+msgid "5ターンSTR･ATS+25％"
+msgstr ""
+
+#. Crispy Pizza
+msgctxt "#67 cook_name"
+msgid "クリスピーピザ"
+msgstr ""
+
+#. Recovers 2000HP/Restores 25CP
+msgctxt "#68 cook_effect"
+msgid "HP2000回復 CP+25"
+msgstr ""
+
+#. Cures stat down
+msgctxt "#69 cook_effect"
+msgid "「能力低下」解除"
+msgstr ""
+
+#. Recovers 1200HP/Restores 15CP
+msgctxt "#70 cook_effect"
+msgid "HP1200回復 CP+15"
+msgstr ""
+
+#. Restores 50EP
+msgctxt "#71 cook_effect"
+msgid "EP50回復"
+msgstr ""
+
+#. Magic Reflect (once)
+msgctxt "#72 cook_effect"
+msgid "「魔法反射」１回"
+msgstr ""
+
+#. Recovers 2400HP/Restores 25CP
+msgctxt "#73 cook_effect"
+msgid "HP2400回復 CP+25"
+msgstr ""
+
+#. DEF/SPD+25% (3 turns)
+msgctxt "#74 cook_effect"
+msgid "3ターンDEF･SPD+25％"
+msgstr ""
+
+#. Roasted Coffee
+msgctxt "#75 cook_name"
+msgid "焙煎コーヒー"
+msgstr ""
+
+#. Recovers 3000HP
+msgctxt "#76 cook_effect"
+msgid "HP3000回復"
+msgstr ""
+
+#. Cures sleep/nightmare
+msgctxt "#77 cook_effect"
+msgid "「睡眠・悪夢」解除"
+msgstr ""
+
+#. Recovers 1600HP
+msgctxt "#78 cook_effect"
+msgid "HP1600回復"
+msgstr ""
+
+#. Cures sleep/nightmare
+msgctxt "#79 cook_effect"
+msgid "「睡眠・悪夢」解除"
+msgstr ""
+
+#. Restores 250EP
+msgctxt "#80 cook_effect"
+msgid "EP250回復"
+msgstr ""
+
+#. Recovers 2400HP
+msgctxt "#81 cook_effect"
+msgid "HP2400回復"
+msgstr ""
+
+#. Cures sleep/nightmare/faint/confuse
+msgctxt "#82 cook_effect"
+msgid "「睡眠・悪夢・気絶・混乱」解除"
+msgstr ""
+
+#. Tomato Gratin
+msgctxt "#83 cook_name"
+msgid "トマトグラタン"
+msgstr ""
+
+#. Recovers 2800HP/Restores 40CP
+msgctxt "#84 cook_effect"
+msgid "HP2800回復 CP+40"
+msgstr ""
+
+#. Recovers 2400HP/Restores 20CP
+msgctxt "#85 cook_effect"
+msgid "HP2400回復 CP+20"
+msgstr ""
+
+#. Recovers 200HP/Restores 50CP
+msgctxt "#86 cook_effect"
+msgid "HP200回復 CP+50"
+msgstr ""
+
+#. Recovers 2000HP/Restores 25CP
+msgctxt "#87 cook_effect"
+msgid "HP2000回復 CP+25"
+msgstr ""
+
+#. ATS+50% (3 turns)
+msgctxt "#88 cook_effect"
+msgid "3ターンATS+50％"
+msgstr ""
+
+#. Fried Fish
+msgctxt "#89 cook_name"
+msgid "フィッシュフライ"
+msgstr ""
+
+#. Recovers 4000HP
+msgctxt "#90 cook_effect"
+msgid "HP4000回復"
+msgstr ""
+
+#. SPD+25% (5 turns)
+msgctxt "#91 cook_effect"
+msgid "5ターンSPD+25％"
+msgstr ""
+
+#. Recovers 3000HP
+msgctxt "#92 cook_effect"
+msgid "HP3000回復"
+msgstr ""
+
+#. SPD+25% (3 turns)
+msgctxt "#93 cook_effect"
+msgid "3ターンSPD+25％"
+msgstr ""
+
+#. [Attack (Set) - Area (S)]
+msgctxt "#94 cook_effect"
+msgid "攻撃(威力Ｃ)：円Ｓ(地点指定)"
+msgstr ""
+
+#. (Power C) Burn (50%)
+msgctxt "#95 cook_effect"
+msgid "炎傷(50％)"
+msgstr ""
+
+#. Recovers 3600HP
+msgctxt "#96 cook_effect"
+msgid "HP3600回復"
+msgstr ""
+
+#. SPD+50% (3 turns)
+msgctxt "#97 cook_effect"
+msgid "3ターンSPD+50％"
+msgstr ""
+
+#. Custard Pudding
+msgctxt "#98 cook_name"
+msgid "カスタードプリン"
+msgstr ""
+
+#. Recovers 2600HP
+msgctxt "#99 cook_effect"
+msgid "HP2600回復"
+msgstr ""
+
+#. ATS/ADF+25% (5 turns)
+msgctxt "#100 cook_effect"
+msgid "5ターンATS･ADF+25％"
+msgstr ""
+
+#. Recovers 1800HP
+msgctxt "#101 cook_effect"
+msgid "HP1800回復"
+msgstr ""
+
+#. ATS/ADF+25% (3 turns)
+msgctxt "#102 cook_effect"
+msgid "3ターンATS･ADF+25％"
+msgstr ""
+
+#. Recovers 600HP
+msgctxt "#103 cook_effect"
+msgid "HP600回復"
+msgstr ""
+
+#. Insight (5 turns)
+msgctxt "#104 cook_effect"
+msgid "5ターン「心眼」"
+msgstr ""
+
+#. Recovers 1400HP
+msgctxt "#105 cook_effect"
+msgid "HP1400回復"
+msgstr ""
+
+#. STR/DEF/ATS/ADF+25% (4 turns)
+msgctxt "#106 cook_effect"
+msgid "4ターンSTR･DEF･ATS･ADF+25％"
+msgstr ""
+
+#. Refreshing Pasta Soup
+msgctxt "#107 cook_name"
+msgid "涼風スープパスタ"
+msgstr ""
+
+#. Recovers 3000HP/Restores 150EP
+msgctxt "#108 cook_effect"
+msgid "HP3000回復 EP150回復"
+msgstr ""
+
+#. Cures burn
+msgctxt "#109 cook_effect"
+msgid "「炎傷」解除"
+msgstr ""
+
+#. Recovers 2600HP/Restores 50EP
+msgctxt "#110 cook_effect"
+msgid "HP2600回復 EP50回復"
+msgstr ""
+
+#. Cures burn
+msgctxt "#111 cook_effect"
+msgid "「炎傷」解除"
+msgstr ""
+
+#. Recovers 2400HP
+msgctxt "#112 cook_effect"
+msgid "HP2400回復"
+msgstr ""
+
+#. STR/SPD+25% (3 turns)
+msgctxt "#113 cook_effect"
+msgid "3ターンSTR SPD+25％"
+msgstr ""
+
+#. Recovers 1800HP/Restores 100EP
+msgctxt "#114 cook_effect"
+msgid "HP1800回復 EP100回復"
+msgstr ""
+
+#. Cures abnormal status
+msgctxt "#115 cook_effect"
+msgid "「全状態異常」解除"
+msgstr ""
+
+#. Hashed Beef Rice
+msgctxt "#116 cook_name"
+msgid "軍式ハヤシライス"
+msgstr ""
+
+#. Recovers 5000HP/Restores 15CP
+msgctxt "#117 cook_effect"
+msgid "HP5000回復 CP+15"
+msgstr ""
+
+#. ATS/SPD+25% (3 turns)
+msgctxt "#118 cook_effect"
+msgid "3ターンATS･SPD+25％"
+msgstr ""
+
+#. Recovers 3000HP/Restores 10CP
+msgctxt "#119 cook_effect"
+msgid "HP3000回復 CP+10"
+msgstr ""
+
+#. SPD+25% (3 turns)
+msgctxt "#120 cook_effect"
+msgid "3ターンSPD+25％"
+msgstr ""
+
+#. [Attack (Set) - Area (S)]
+msgctxt "#121 cook_effect"
+msgid "攻撃(威力Ｂ)：円Ｓ(地点指定)"
+msgstr ""
+
+#. (Power B) Delay+20
+msgctxt "#122 cook_effect"
+msgid "遅延+20"
+msgstr ""
+
+#. Recovers 3600HP/Restores 20CP
+msgctxt "#123 cook_effect"
+msgid "HP3600回復 CP+20"
+msgstr ""
+
+#. DEF/ADF+50% (3 turns)
+msgctxt "#124 cook_effect"
+msgid "3ターンDEF･ADF+50％"
+msgstr ""
+
+#. Stamina Steak
+msgctxt "#125 cook_name"
+msgid "スタミナステーキ"
+msgstr ""
+
+#. Recovers 5600HP
+msgctxt "#126 cook_effect"
+msgid "HP5600回復"
+msgstr ""
+
+#. STR/DEF+25% (5 turns)
+msgctxt "#127 cook_effect"
+msgid "5ターンSTR･DEF+25％"
+msgstr ""
+
+#. Recovers 3600HP
+msgctxt "#128 cook_effect"
+msgid "HP3600回復"
+msgstr ""
+
+#. STR/DEF+25% (3 turns)
+msgctxt "#129 cook_effect"
+msgid "3ターンSTR･DEF+25％"
+msgstr ""
+
+#. Recovers 1000HP
+msgctxt "#130 cook_effect"
+msgid "HP1000回復"
+msgstr ""
+
+#. Physical Immunity (once)
+msgctxt "#131 cook_effect"
+msgid "「物理防御」１回"
+msgstr ""
+
+#. Recovers 5200HP
+msgctxt "#132 cook_effect"
+msgid "HP5200回復"
+msgstr ""
+
+#. STR+50% (5 turns)
+msgctxt "#133 cook_effect"
+msgid "5ターンSTR+50％"
+msgstr ""
+
+#. Tomato Cocktail
+msgctxt "#134 cook_name"
+msgid "トマトカクテル"
+msgstr ""
+
+#. Recovers 3200HP/Restores 45CP
+msgctxt "#135 cook_effect"
+msgid "HP3200回復 CP+45"
+msgstr ""
+
+#. Recovers 2600HP/Restores 30CP
+msgctxt "#136 cook_effect"
+msgid "HP2600回復 CP+30"
+msgstr ""
+
+#. Restores 300EP/45CP
+msgctxt "#137 cook_effect"
+msgid "EP300 CP+45"
+msgstr ""
+
+#. Recovers 2200HP/Restores 60CP
+msgctxt "#138 cook_effect"
+msgid "HP2200回復 CP+60"
+msgstr ""
+
+#. Mixed Gelato
+msgctxt "#139 cook_name"
+msgid "ミックスジェラート"
+msgstr ""
+
+#. Recovers 3200HP/Restores 150EP
+msgctxt "#140 cook_effect"
+msgid "HP3200回復 EP150回復"
+msgstr ""
+
+#. Cures K.O.
+msgctxt "#141 cook_effect"
+msgid "「戦闘不能」解除"
+msgstr ""
+
+#. Recovers 2000HP/Restores 100EP
+msgctxt "#142 cook_effect"
+msgid "HP2000回復 EP100回復"
+msgstr ""
+
+#. Cures K.O.
+msgctxt "#143 cook_effect"
+msgid "「戦闘不能」解除"
+msgstr ""
+
+#. Recovers 500HP/Restores 150EP
+msgctxt "#144 cook_effect"
+msgid "HP500回復 EP150回復"
+msgstr ""
+
+#. Cures abnormal status/stat down
+msgctxt "#145 cook_effect"
+msgid "「全状態異常・能力低下」解除"
+msgstr ""
+
+#. Recovers 2500HP/Restores 50EP/25CP
+msgctxt "#146 cook_effect"
+msgid "HP2500回復 EP50回復 CP+25"
+msgstr ""
+
+#. Cures K.O.
+msgctxt "#147 cook_effect"
+msgid "「戦闘不能」解除"
+msgstr ""
+
+#. Filling Hotpot
+msgctxt "#148 cook_name"
+msgid "満腹寄せ鍋"
+msgstr ""
+
+#. Recovers 12000HP
+msgctxt "#149 cook_effect"
+msgid "HP12000回復"
+msgstr ""
+
+#. STR/ATS/SPD+50% (3 turns)
+msgctxt "#150 cook_effect"
+msgid "3ターンSTR･ATS･SPD+50％"
+msgstr ""
+
+#. Recovers 7000HP
+msgctxt "#151 cook_effect"
+msgid "HP7000回復"
+msgstr ""
+
+#. STR/ATS/SPD+25% (3 turns)
+msgctxt "#152 cook_effect"
+msgid "3ターンSTR･ATS･SPD+25％"
+msgstr ""
+
+#. Restores 500EP
+msgctxt "#153 cook_effect"
+msgid "EP500回復"
+msgstr ""
+
+#. CP+100 or near death
+msgctxt "#154 cook_effect"
+msgid "CP+100or瀕死"
+msgstr ""
+
+#. Recovers 2500HP/Restores 150EP/45CP
+msgctxt "#155 cook_effect"
+msgid "HP2500回復 EP150回復 CP+45"
+msgstr ""
+
+#. STR/SPD+50% (5 turns)
+msgctxt "#156 cook_effect"
+msgid "5ターンSTR･SPD+50％"
+msgstr ""
+
+#. Handmade Hamburger
+msgctxt "#157 cook_name"
+msgid "手ごねハンバーグ"
+msgstr ""
+
+#. Recovers 10000HP/Restores 20CP
+msgctxt "#158 cook_effect"
+msgid "HP10000回復 CP+20"
+msgstr ""
+
+#. STR/DEF+50% (5 turns)
+msgctxt "#159 cook_effect"
+msgid "5ターンSTR･DEF+50％"
+msgstr ""
+
+#. Recovers 6000HP/Restores 10CP
+msgctxt "#160 cook_effect"
+msgid "HP6000回復 CP+10"
+msgstr ""
+
+#. STR/DEF+25% (5 turns)
+msgctxt "#161 cook_effect"
+msgid "5ターンSTR･DEF+25％"
+msgstr ""
+
+#. [Attack (Set) - Area (M)]
+msgctxt "#162 cook_effect"
+msgid "攻撃(威力Ａ)：円Ｍ(地点指定)"
+msgstr ""
+
+#. (Power A) Faint (50%)
+msgctxt "#163 cook_effect"
+msgid "気絶(50％)"
+msgstr ""
+
+#. Recovers 8000HP/Restores 30CP
+msgctxt "#164 cook_effect"
+msgid "HP8000回復 CP+30"
+msgstr ""
+
+#. ATS/ADF+50% (5 turns)
+msgctxt "#165 cook_effect"
+msgid "5ターンATS･ADF+50％"
+msgstr ""
