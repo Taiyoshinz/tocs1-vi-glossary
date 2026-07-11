@@ -1,0 +1,1311 @@
+#
+msgid ""
+msgstr ""
+"Language: vi\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Capital - Station Plaza
+msgctxt "#0 name"
+msgid "帝都・駅前広場"
+msgstr ""
+
+#. Heimdallr Central Station
+msgctxt "#1 name"
+msgid "ヘイムダル中央駅"
+msgstr ""
+
+#. Railway Military Police - Command Post
+msgctxt "#2 name"
+msgid "鉄道憲兵隊・司令所"
+msgstr ""
+
+#. Capital - Vainqueur Street
+msgctxt "#3 name"
+msgid "帝都・ヴァンクール大通り"
+msgstr ""
+
+#. Le Sage Boutique - Head Store
+msgctxt "#4 name"
+msgid "ブティック《ル・サージュ》本店"
+msgstr ""
+
+#. Department Store - Plaza Bifrost
+msgctxt "#5 name"
+msgid "百貨店《プラザ・ビフロスト》"
+msgstr ""
+
+#. Watson's Weapons & Armor
+msgctxt "#6 name"
+msgid "《ワトソン武器商会》"
+msgstr ""
+
+#. Imperial Chronicle Building
+msgctxt "#7 name"
+msgid "《帝国時報社》"
+msgstr ""
+
+#. Lumiere Orbal Factory
+msgctxt "#8 name"
+msgid "《リュミエール工房》"
+msgstr ""
+
+#. Capital - Garnier District
+msgctxt "#9 name"
+msgid "帝都・ガルニエ地区"
+msgstr ""
+
+#. Heimdallr Opera House
+msgctxt "#10 name"
+msgid "《帝都歌劇場》"
+msgstr ""
+
+#. San Corries Jewelers
+msgctxt "#11 name"
+msgid "宝飾店《サン・コリーズ》"
+msgstr ""
+
+#. Hotel - Der Himmel
+msgctxt "#12 name"
+msgid "ホテル《デア＝ヒンメル》"
+msgstr ""
+
+#. Capital - Alto Street
+msgctxt "#13 name"
+msgid "帝都・アルト通り"
+msgstr ""
+
+#. Alto Street - Craig Family Home
+msgctxt "#14 name"
+msgid "アルト通り・クレイグ家"
+msgstr ""
+
+#. Former Guild Branch
+msgctxt "#15 name"
+msgid "旧ギルド支部"
+msgstr ""
+
+#. Concert Cafe - Etoile
+msgctxt "#16 name"
+msgid "音楽喫茶《エトワール》"
+msgstr ""
+
+#. Alto Street - House
+msgctxt "#17 name"
+msgid "アルト通り・民家"
+msgstr ""
+
+#. Capital - Ost District
+msgctxt "#18 name"
+msgid "帝都・オスト地区"
+msgstr ""
+
+#. Ost District - Regnitz Family Home
+msgctxt "#19 name"
+msgid "オスト地区・レーグニッツ家"
+msgstr ""
+
+#. Gamgee's Pub
+msgctxt "#20 name"
+msgid "居酒屋《ギャムジー》"
+msgstr ""
+
+#. Emmrod's Used Goods
+msgctxt "#21 name"
+msgid "中古屋《エムロッド》"
+msgstr ""
+
+#. Ost District - House 1
+msgctxt "#22 name"
+msgid "オスト地区・民家１"
+msgstr ""
+
+#. Ost District - House 2
+msgctxt "#23 name"
+msgid "オスト地区・民家２"
+msgstr ""
+
+#. Capital - Heimdallr Port
+msgctxt "#24 name"
+msgid "帝都・ヘイムダル港"
+msgstr ""
+
+#. Capital - Sankt District
+msgctxt "#25 name"
+msgid "帝都・サンクト地区"
+msgstr ""
+
+#. St. Astraia - Rose Garden
+msgctxt "#26 name"
+msgid "女学院・薔薇園"
+msgstr ""
+
+#. St. Astraia - Communion Room
+msgctxt "#27 name"
+msgid "女学院・聖餐室"
+msgstr ""
+
+#. Capital - Mater Park
+msgctxt "#28 name"
+msgid "帝都・マーテル公園"
+msgstr ""
+
+#. Crystal Garden
+msgctxt "#29 name"
+msgid "クリスタルガーデン"
+msgstr ""
+
+#. Capital - Dreichels Plaza
+msgctxt "#30 name"
+msgid "帝都・ドライケルス広場"
+msgstr ""
+
+#. Palace - Chancellor's Office
+msgctxt "#31 name"
+msgid "皇宮・宰相執務室"
+msgstr ""
+
+#. 笘�Unused
+msgctxt "#32 name"
+msgid "★未使用"
+msgstr ""
+
+#. Valflame Palace - Parlor
+msgctxt "#33 name"
+msgid "バルフレイム宮・小サロン"
+msgstr ""
+
+#. Valflame Palace - Audience Chamber
+msgctxt "#34 name"
+msgid "バルフレイム宮・謁見の間"
+msgstr ""
+
+#. Valflame Palace - Reception Hall
+msgctxt "#35 name"
+msgid "バルフレイム宮・迎賓口"
+msgstr ""
+
+#. Valflame Palace - Terrace
+msgctxt "#36 name"
+msgid "バルフレイム宮・テラス"
+msgstr ""
+
+#. Thors Military Academy
+msgctxt "#37 name"
+msgid "トールズ士官学院"
+msgstr ""
+
+#. Main Building 1F
+msgctxt "#38 name"
+msgid "本校舎１階"
+msgstr ""
+
+#. Main Building 2F
+msgctxt "#39 name"
+msgid "本校舎２階"
+msgstr ""
+
+#. Gate of Avalon
+msgctxt "#40 name"
+msgid "ゲートオブアヴァロン"
+msgstr ""
+
+#. Stella Garten
+msgctxt "#41 name"
+msgid "ステラガルテン"
+msgstr ""
+
+#. Eastern Teahouse
+msgctxt "#42 name"
+msgid "東方茶屋"
+msgstr ""
+
+#. Gymnasium
+msgctxt "#43 name"
+msgid "ギムナジウム"
+msgstr ""
+
+#. Academy - Library
+msgctxt "#44 name"
+msgid "士官学院・図書館"
+msgstr ""
+
+#. Academy - Auditorium
+msgctxt "#45 name"
+msgid "士官学院・講堂"
+msgstr ""
+
+#. Student Union Building
+msgctxt "#46 name"
+msgid "学生会館"
+msgstr ""
+
+#. Academy - Engineering Building
+msgctxt "#47 name"
+msgid "士官学院・技術棟"
+msgstr ""
+
+#. Old Schoolhouse
+msgctxt "#48 name"
+msgid "士官学院・旧校舎前"
+msgstr ""
+
+#. Old Schoolhouse
+msgctxt "#49 name"
+msgid "士官学院・旧校舎前"
+msgstr ""
+
+#. Old Schoolhouse - 1F
+msgctxt "#50 name"
+msgid "旧校舎１階"
+msgstr ""
+
+#. Trista
+msgctxt "#51 name"
+msgid "近郊都市トリスタ"
+msgstr ""
+
+#. Class VII Dormitory
+msgctxt "#52 name"
+msgid "第３学生寮"
+msgstr ""
+
+#. Brandon's General Goods
+msgctxt "#53 name"
+msgid "食品・雑貨《ブランドン商店》"
+msgstr ""
+
+#. Keynes' Bookstore
+msgctxt "#54 name"
+msgid "ブックストア《ケインズ書房》"
+msgstr ""
+
+#. Boutique - Le Sage
+msgctxt "#55 name"
+msgid "ブティック《ル・サージュ》"
+msgstr ""
+
+#. Kirsche's Cafe & Inn
+msgctxt "#56 name"
+msgid "喫茶・宿泊《キルシェ》"
+msgstr ""
+
+#. Micht's Pawn Shop
+msgctxt "#57 name"
+msgid "質屋《ミヒュト》"
+msgstr ""
+
+#. Trista - Home
+msgctxt "#58 name"
+msgid "トリスタ・民家"
+msgstr ""
+
+#. Trista - House
+msgctxt "#59 name"
+msgid "トリスタ・邸宅"
+msgstr ""
+
+#. Trista Station
+msgctxt "#60 name"
+msgid "トリスタ駅"
+msgstr ""
+
+#. Trista Chapel
+msgctxt "#61 name"
+msgid "トリスタ礼拝堂"
+msgstr ""
+
+#. Trista Radio Station
+msgctxt "#62 name"
+msgid "ラジオ局《トリスタ放送》"
+msgstr ""
+
+#. Upper Class Dorm
+msgctxt "#63 name"
+msgid "第１学生寮"
+msgstr ""
+
+#. Lower Class Dorm
+msgctxt "#64 name"
+msgid "第２学生寮"
+msgstr ""
+
+#. Celdic, the Market Town
+msgctxt "#65 name"
+msgid "交易町ケルディック"
+msgstr ""
+
+#. Weathercock Inn
+msgctxt "#66 name"
+msgid "宿酒場《風見亭》"
+msgstr ""
+
+#. Celdic - Market Manager's House
+msgctxt "#67 name"
+msgid "ケルディック・元締め宅"
+msgstr ""
+
+#. Celdic - House
+msgctxt "#68 name"
+msgid "ケルディック・民家"
+msgstr ""
+
+#. Oddvin's Arms & Orbal Factory
+msgctxt "#69 name"
+msgid "武具・工房《オドウィン》"
+msgstr ""
+
+#. Celdic Chapel
+msgctxt "#70 name"
+msgid "ケルディック礼拝堂"
+msgstr ""
+
+#. Celdic Station
+msgctxt "#71 name"
+msgid "ケルディック駅"
+msgstr ""
+
+#. East Highway - Farmhouse
+msgctxt "#72 name"
+msgid "東街道・農家"
+msgstr ""
+
+#. West Highway - Farmhouse
+msgctxt "#73 name"
+msgid "西街道・農家"
+msgstr ""
+
+#. Bareahard - Station Street
+msgctxt "#74 name"
+msgid "バリアハート・駅前通り"
+msgstr ""
+
+#. Bareahard Station
+msgctxt "#75 name"
+msgid "バリアハート駅"
+msgstr ""
+
+#. Christie's Galleria
+msgctxt "#76 name"
+msgid "高級ストア《クリスティーズ》"
+msgstr ""
+
+#. Bareahard Central Plaza
+msgctxt "#77 name"
+msgid "公都バリアハート・中央広場"
+msgstr ""
+
+#. Hotel Esmeralda
+msgctxt "#78 name"
+msgid "《ホテル・エスメラルダ》"
+msgstr ""
+
+#. Sorciere Restaurant
+msgctxt "#79 name"
+msgid "高級料理店《ソルシエラ》"
+msgstr ""
+
+#. Bareahard Cathedral
+msgctxt "#80 name"
+msgid "バリアハート大聖堂"
+msgstr ""
+
+#. Bareahard - Noble District
+msgctxt "#81 name"
+msgid "バリアハート・貴族街"
+msgstr ""
+
+#. Bareahard - Residence 1
+msgctxt "#82 name"
+msgid "バリアハート・邸宅１"
+msgstr ""
+
+#. Bareahard - Residence 2
+msgctxt "#83 name"
+msgid "バリアハート・邸宅２"
+msgstr ""
+
+#. Bareahard - Artisans' Street
+msgctxt "#84 name"
+msgid "バリアハート・職人通り"
+msgstr ""
+
+#. Davos' Factory
+msgctxt "#85 name"
+msgid "《ダボス工房》"
+msgstr ""
+
+#. Alouette Inn
+msgctxt "#86 name"
+msgid "宿酒場《アルエット》"
+msgstr ""
+
+#. Turner's Jewelers
+msgctxt "#87 name"
+msgid "《ターナー宝飾店》"
+msgstr ""
+
+#. Valenty Tailoring
+msgctxt "#88 name"
+msgid "仕立て屋《ヴァレンティ》"
+msgstr ""
+
+#. Legram, the Lakeside Town
+msgctxt "#89 name"
+msgid "湖畔の町レグラム"
+msgstr ""
+
+#. Bracer Guild - Legram Branch
+msgctxt "#90 name"
+msgid "遊撃士協会・レグラム支部"
+msgstr ""
+
+#. Watteau's Store
+msgctxt "#91 name"
+msgid "武具・雑貨《ワトー商店》"
+msgstr ""
+
+#. Legram - House 2
+msgctxt "#92 name"
+msgid "レグラム・民家２"
+msgstr ""
+
+#. Legram - House 1
+msgctxt "#93 name"
+msgid "レグラム・民家１"
+msgstr ""
+
+#. Arseid School Training Hall
+msgctxt "#94 name"
+msgid "アルゼイド流・練武場"
+msgstr ""
+
+#. Viscount Arseid's Mansion
+msgctxt "#95 name"
+msgid "アルゼイド子爵邸"
+msgstr ""
+
+#. Mansion - Terrace
+msgctxt "#96 name"
+msgid "子爵邸・テラス"
+msgstr ""
+
+#. Legram Chapel
+msgctxt "#97 name"
+msgid "レグラム礼拝堂"
+msgstr ""
+
+#. Aprikoze Inn
+msgctxt "#98 name"
+msgid "宿酒場《アプリコーゼ》"
+msgstr ""
+
+#. Legram Station
+msgctxt "#99 name"
+msgid "レグラム駅"
+msgstr ""
+
+#. Roer, the Industrial Metropolis
+msgctxt "#100 name"
+msgid "黒銀の鋼都ルーレ"
+msgstr ""
+
+#. Reinford Corporate HQ - Entrance Hall
+msgctxt "#101 name"
+msgid "ＲＦ本社ビル・エントランス"
+msgstr ""
+
+#. 23F - Executive Floor
+msgctxt "#102 name"
+msgid "２３Ｆ・役員フロア"
+msgstr ""
+
+#. 24F - Reinford Residence
+msgctxt "#103 name"
+msgid "２４Ｆ・ラインフォルト家"
+msgstr ""
+
+#. 笘�Unused
+msgctxt "#104 name"
+msgid "★未使用"
+msgstr ""
+
+#. Elevator
+msgctxt "#105 name"
+msgid "エレベーター"
+msgstr ""
+
+#. RF Store
+msgctxt "#106 name"
+msgid "《ＲＦストア》"
+msgstr ""
+
+#. Boronia's General Goods
+msgctxt "#107 name"
+msgid "日用雑貨《ボロニア商会》"
+msgstr ""
+
+#. Dining Bar - F
+msgctxt "#108 name"
+msgid "ダイニングバー《Ｆ》"
+msgstr ""
+
+#. Roer - Residence 1
+msgctxt "#109 name"
+msgid "ルーレ・民家１"
+msgstr ""
+
+#. RF Arms
+msgctxt "#110 name"
+msgid "《ＲＦアームズ》"
+msgstr ""
+
+#. Roer Cathedral
+msgctxt "#111 name"
+msgid "ルーレ大聖堂"
+msgstr ""
+
+#. Hotel Lagrange
+msgctxt "#112 name"
+msgid "《ホテル・ラグランジュ》"
+msgstr ""
+
+#. Roer Station
+msgctxt "#113 name"
+msgid "ルーレ駅"
+msgstr ""
+
+#. Dvance's Diner
+msgctxt "#114 name"
+msgid "大衆食堂《ドヴァンス》"
+msgstr ""
+
+#. Roer - Residence 2
+msgctxt "#115 name"
+msgid "ルーレ・民家２"
+msgstr ""
+
+#. Jackass' Repair Shop
+msgctxt "#116 name"
+msgid "修理屋《ジャッカス》"
+msgstr ""
+
+#. Roer Institute of Technology
+msgctxt "#117 name"
+msgid "ルーレ工科大学"
+msgstr ""
+
+#. Reinford - Military Factory
+msgctxt "#118 name"
+msgid "ＲＦ社・軍需工場"
+msgstr ""
+
+#. Reinford - Military Factory
+msgctxt "#119 name"
+msgid "ＲＦ社・軍需工場"
+msgstr ""
+
+#. Reinford - Military Factory
+msgctxt "#120 name"
+msgid "ＲＦ社・軍需工場"
+msgstr ""
+
+#. Underground Passage 1
+msgctxt "#121 name"
+msgid "地下連絡道１"
+msgstr ""
+
+#. Underground Passage 2
+msgctxt "#122 name"
+msgid "地下連絡道２"
+msgstr ""
+
+#. Roer Airport
+msgctxt "#123 name"
+msgid "ルーレ空港"
+msgstr ""
+
+#. Ymir, the Hot Springs Paradise
+msgctxt "#124 name"
+msgid "温泉郷ユミル"
+msgstr ""
+
+#. Daily & Souvenir Store - Plover
+msgctxt "#125 name"
+msgid "雑貨・土産物《千鳥》"
+msgstr ""
+
+#. Tavern - Valley's Echo
+msgctxt "#126 name"
+msgid "宿酒場《木霊亭》"
+msgstr ""
+
+#. Baron Schwarzer's Mansion
+msgctxt "#127 name"
+msgid "シュバルツァー男爵邸"
+msgstr ""
+
+#. The Phoenix Wings
+msgctxt "#128 name"
+msgid "凰翼館"
+msgstr ""
+
+#. The Phoenix Wings - Indoor Bathhouse
+msgctxt "#129 name"
+msgid "凰翼館・室内浴場"
+msgstr ""
+
+#. The Phoenix Wings - Outdoor Hot Spring
+msgctxt "#130 name"
+msgid "凰翼館・露天風呂"
+msgstr ""
+
+#. Ymir Chapel
+msgctxt "#131 name"
+msgid "ユミル礼拝堂"
+msgstr ""
+
+#. Ymir - House
+msgctxt "#132 name"
+msgid "ユミル・民家"
+msgstr ""
+
+#. Nomadic Settlement
+msgctxt "#133 name"
+msgid "ノルドの集落"
+msgstr ""
+
+#. Settlement - Worzel Home
+msgctxt "#134 name"
+msgid "集落・ウォーゼル家"
+msgstr ""
+
+#. Settlement - Lodging Yurt
+msgctxt "#135 name"
+msgid "集落・宿泊用ゲル"
+msgstr ""
+
+#. Settlement - Elder's Home
+msgctxt "#136 name"
+msgid "集落・長老の家"
+msgstr ""
+
+#. Settlement - Trading Post
+msgctxt "#137 name"
+msgid "集落・交易所"
+msgstr ""
+
+#. Settlement - Doctor's Home
+msgctxt "#138 name"
+msgid "集落・薬師の家"
+msgstr ""
+
+#. Highlands - Lake Lacrima
+msgctxt "#139 name"
+msgid "高原・ラクリマ湖畔"
+msgstr ""
+
+#. Lake Cabin
+msgctxt "#140 name"
+msgid "湖畔の小屋"
+msgstr ""
+
+#. Imperial Army - Watchtower
+msgctxt "#141 name"
+msgid "帝国軍・監視塔"
+msgstr ""
+
+#. Imperial Border - Zender Gate
+msgctxt "#142 name"
+msgid "帝国国境・ゼンダー門"
+msgstr ""
+
+#. Provincial Army - Aurochs Fort
+msgctxt "#143 name"
+msgid "領邦軍・オーロックス砦"
+msgstr ""
+
+#. Rest Area - Crescent Moon
+msgctxt "#144 name"
+msgid "休憩所《三日月亭》"
+msgstr ""
+
+#. Imperial Army Base - Garrelia Fortress
+msgctxt "#145 name"
+msgid "帝国軍・ガレリア要塞"
+msgstr ""
+
+#. Fortress - Motor Pool
+msgctxt "#146 name"
+msgid "要塞・格納庫フロア"
+msgstr ""
+
+#. Garrelia Fortress - Command Area
+msgctxt "#147 name"
+msgid "ガレリア要塞・司令区画"
+msgstr ""
+
+#. Fortress - Central Freight Platform
+msgctxt "#148 name"
+msgid "要塞・中央貨物ホーム"
+msgstr ""
+
+#. Fortress - Storage Floor 1
+msgctxt "#149 name"
+msgid "要塞・倉庫フロア１"
+msgstr ""
+
+#. Fortress - Barracks
+msgctxt "#150 name"
+msgid "要塞・兵舎区画"
+msgstr ""
+
+#. Fortress - Storage Floor 2
+msgctxt "#151 name"
+msgid "要塞・倉庫フロア２"
+msgstr ""
+
+#. Fortress - Relay Area
+msgctxt "#152 name"
+msgid "要塞・中継エリア"
+msgstr ""
+
+#. Fortress - Crossbell Side
+msgctxt "#153 name"
+msgid "要塞・クロスベル側回廊"
+msgstr ""
+
+#. Garrelia Fortress - Training Grounds
+msgctxt "#154 name"
+msgid "ガレリア要塞・演習場"
+msgstr ""
+
+#. West Celdic Highway 1
+msgctxt "#155 name"
+msgid "西ケルディック街道１"
+msgstr ""
+
+#. 笘�Unused
+msgctxt "#156 name"
+msgid "★未使用"
+msgstr ""
+
+#. West Celdic Highway 2
+msgctxt "#157 name"
+msgid "西ケルディック街道２"
+msgstr ""
+
+#. East Celdic Highway 1
+msgctxt "#158 name"
+msgid "東ケルディック街道１"
+msgstr ""
+
+#. East Celdic Highway 2
+msgctxt "#159 name"
+msgid "東ケルディック街道２"
+msgstr ""
+
+#. North Kreuzen Highway
+msgctxt "#160 name"
+msgid "北クロイツェン街道"
+msgstr ""
+
+#. 笘�Unused
+msgctxt "#161 name"
+msgid "★未使用"
+msgstr ""
+
+#. Aurochs Canyon Path 1
+msgctxt "#162 name"
+msgid "オーロックス峡谷道１"
+msgstr ""
+
+#. Aurochs Canyon Path 2
+msgctxt "#163 name"
+msgid "オーロックス峡谷道２"
+msgstr ""
+
+#. Aurochs Canyon Path 3
+msgctxt "#164 name"
+msgid "オーロックス峡谷道３"
+msgstr ""
+
+#. Ebel Highway 1
+msgctxt "#165 name"
+msgid "エベル街道１"
+msgstr ""
+
+#. Ebel Highway 2
+msgctxt "#166 name"
+msgid "エベル街道２"
+msgstr ""
+
+#. Spina Byroad
+msgctxt "#167 name"
+msgid "スピナ間道"
+msgstr ""
+
+#. Nortia Highway
+msgctxt "#168 name"
+msgid "ノルティア街道"
+msgstr ""
+
+#. Sachsen Mountain Path 1
+msgctxt "#169 name"
+msgid "ザクセン山道１"
+msgstr ""
+
+#. Sachsen Mountain Path 2
+msgctxt "#170 name"
+msgid "ザクセン山道２"
+msgstr ""
+
+#. Ymir Canyon Path 1
+msgctxt "#171 name"
+msgid "ユミル渓谷道１"
+msgstr ""
+
+#. Ymir Canyon Path 2
+msgctxt "#172 name"
+msgid "ユミル渓谷道２"
+msgstr ""
+
+#. Canyon Path - End
+msgctxt "#173 name"
+msgid "渓谷道・終点"
+msgstr ""
+
+#. West Trista Highway
+msgctxt "#174 name"
+msgid "西トリスタ街道"
+msgstr ""
+
+#. East Trista Highway
+msgctxt "#175 name"
+msgid "東トリスタ街道"
+msgstr ""
+
+#. Nord Highlands - South
+msgctxt "#176 name"
+msgid "ノルド高原・南部"
+msgstr ""
+
+#. Nord Highlands - North
+msgctxt "#177 name"
+msgid "ノルド高原・北部"
+msgstr ""
+
+#. Lunaria Nature Park 1
+msgctxt "#178 name"
+msgid "ルナリア自然公園１"
+msgstr ""
+
+#. Lunaria Nature Park
+msgctxt "#179 name"
+msgid "ルナリア自然公園"
+msgstr ""
+
+#. Lunaria Nature Park 2
+msgctxt "#180 name"
+msgid "ルナリア自然公園２"
+msgstr ""
+
+#. Lunaria Nature Park 3
+msgctxt "#181 name"
+msgid "ルナリア自然公園３"
+msgstr ""
+
+#. Nature Park - Depths
+msgctxt "#182 name"
+msgid "自然公園・最奥"
+msgstr ""
+
+#. Underground Waterway 1
+msgctxt "#183 name"
+msgid "公都地下水路１"
+msgstr ""
+
+#. Underground Waterway 2
+msgctxt "#184 name"
+msgid "公都地下水路２"
+msgstr ""
+
+#. Underground Waterway 3
+msgctxt "#185 name"
+msgid "公都地下水路３"
+msgstr ""
+
+#. Provincial Army Guardhouse - Underground
+msgctxt "#186 name"
+msgid "領邦軍詰所・地下区画"
+msgstr ""
+
+#. Lohengrin Castle - Outside
+msgctxt "#187 name"
+msgid "ローエングリン城・外観"
+msgstr ""
+
+#. Lake Ebel
+msgctxt "#188 name"
+msgid "エベル湖"
+msgstr ""
+
+#. Lohengrin Castle - Entrance Hall
+msgctxt "#189 name"
+msgid "ローエングリン城・玄関"
+msgstr ""
+
+#. Lohengrin Castle - Left Wing
+msgctxt "#190 name"
+msgid "ローエングリン城・左翼"
+msgstr ""
+
+#. Lohengrin Castle - Right Wing
+msgctxt "#191 name"
+msgid "ローエングリン城・右翼"
+msgstr ""
+
+#. Lohengrin Castle - External Corridor 1
+msgctxt "#192 name"
+msgid "ローエングリン城・外回廊１"
+msgstr ""
+
+#. Lohengrin Castle - External Corridor 2
+msgctxt "#193 name"
+msgid "ローエングリン城・外回廊２"
+msgstr ""
+
+#. Lohengrin Castle - Staircase
+msgctxt "#194 name"
+msgid "ローエングリン城・階段部屋"
+msgstr ""
+
+#. Lohengrin Castle - Keep
+msgctxt "#195 name"
+msgid "ローエングリン城・天守閣"
+msgstr ""
+
+#. Sachsen Iron Mine - Outside
+msgctxt "#196 name"
+msgid "ザクセン鉄鉱山・外観"
+msgstr ""
+
+#. Sachsen Iron Mine - Delivery Area
+msgctxt "#197 name"
+msgid "鉄鉱山・搬入区画"
+msgstr ""
+
+#. Sachsen Iron Mine - Delivery Area
+msgctxt "#198 name"
+msgid "鉄鉱山・搬入区画"
+msgstr ""
+
+#. Sachsen Iron Mine - Shaft 3
+msgctxt "#199 name"
+msgid "鉄鉱山・第３坑道"
+msgstr ""
+
+#. Sachsen Iron Mine - Relay Area
+msgctxt "#200 name"
+msgid "鉄鉱山・中継エリア"
+msgstr ""
+
+#. --------------------
+msgctxt "#201 name"
+msgid "--------------------"
+msgstr ""
+
+#. Central Control Room - Front
+msgctxt "#202 name"
+msgid "中央コントロール室前"
+msgstr ""
+
+#. Highlands - Ancient Quarry
+msgctxt "#203 name"
+msgid "高原・石切り場"
+msgstr ""
+
+#. --------------------
+msgctxt "#204 name"
+msgid "--------------------"
+msgstr ""
+
+#. --------------------
+msgctxt "#205 name"
+msgid "--------------------"
+msgstr ""
+
+#. Ancient Quarry - Interior
+msgctxt "#206 name"
+msgid "石切り場・内部"
+msgstr ""
+
+#. Heimdallr Underground Passage 1
+msgctxt "#207 name"
+msgid "帝都地下道１"
+msgstr ""
+
+#. Heimdallr Underground Passage 2
+msgctxt "#208 name"
+msgid "帝都地下道２"
+msgstr ""
+
+#. 0
+msgctxt "#209 name"
+msgid "--------------------"
+msgstr ""
+
+#. Heimdallr Underground Passage 3
+msgctxt "#210 name"
+msgid "帝都地下道３"
+msgstr ""
+
+#. Heimdallr Underground Waterway 1
+msgctxt "#211 name"
+msgid "帝都地下水道１"
+msgstr ""
+
+#. Heimdallr Underground Waterway 2
+msgctxt "#212 name"
+msgid "帝都地下水道２"
+msgstr ""
+
+#. Heimdallr Underground Waterway 3
+msgctxt "#213 name"
+msgid "帝都地下水道３"
+msgstr ""
+
+#. --------------------
+msgctxt "#214 name"
+msgid "--------------------"
+msgstr ""
+
+#. --------------------
+msgctxt "#215 name"
+msgid "--------------------"
+msgstr ""
+
+#. --------------------
+msgctxt "#216 name"
+msgid "--------------------"
+msgstr ""
+
+#. Heimdallr Underground Waterway Depths
+msgctxt "#217 name"
+msgid "帝都地下道・最深部"
+msgstr ""
+
+#. Old Schoolhouse - Underground Area 1
+msgctxt "#218 name"
+msgid "旧校舎・地下区画１"
+msgstr ""
+
+#. Old Schoolhouse - Underground Area 2
+msgctxt "#219 name"
+msgid "旧校舎・地下区画２"
+msgstr ""
+
+#. Old Schoolhouse - Underground Area 3
+msgctxt "#220 name"
+msgid "旧校舎・地下区画３"
+msgstr ""
+
+#. Old Schoolhouse - Stairway Room
+msgctxt "#221 name"
+msgid "旧校舎・階段部屋"
+msgstr ""
+
+#. Old Schoolhouse - Elevator Room
+msgctxt "#222 name"
+msgid "旧校舎・エレベーター部屋"
+msgstr ""
+
+#. Old Schoolhouse - Stairway Room
+msgctxt "#223 name"
+msgid "旧校舎・階段部屋"
+msgstr ""
+
+#. Old Schoolhouse - Floor 1
+msgctxt "#224 name"
+msgid "旧校舎地下・第１層"
+msgstr ""
+
+#. Floor 1 - Main Area
+msgctxt "#225 name"
+msgid "第１層・攻略エリア"
+msgstr ""
+
+#. Floor 1 - Depths
+msgctxt "#226 name"
+msgid "第１層・最奥"
+msgstr ""
+
+#. Old Schoolhouse - Floor 2
+msgctxt "#227 name"
+msgid "旧校舎地下・第２層"
+msgstr ""
+
+#. Floor 2 - Main Area
+msgctxt "#228 name"
+msgid "第２層・攻略エリア"
+msgstr ""
+
+#. Floor 2 - Depths
+msgctxt "#229 name"
+msgid "第２層・最奥"
+msgstr ""
+
+#. Old Schoolhouse - Floor 3
+msgctxt "#230 name"
+msgid "旧校舎地下・第３層"
+msgstr ""
+
+#. Floor 3 - Area 1
+msgctxt "#231 name"
+msgid "第３層・攻略エリア①"
+msgstr ""
+
+#. Floor 3 - Area 2
+msgctxt "#232 name"
+msgid "第３層・攻略エリア②"
+msgstr ""
+
+#. Floor 3 - Depths
+msgctxt "#233 name"
+msgid "第３層・最奥"
+msgstr ""
+
+#. Old Schoolhouse - Floor 4
+msgctxt "#234 name"
+msgid "旧校舎地下・第４層"
+msgstr ""
+
+#. Floor 4 - Area 1
+msgctxt "#235 name"
+msgid "第４層・攻略エリア①"
+msgstr ""
+
+#. Floor 4 - Area 2
+msgctxt "#236 name"
+msgid "第４層・攻略エリア②"
+msgstr ""
+
+#. Floor 4 - Depths
+msgctxt "#237 name"
+msgid "第４層・最奥"
+msgstr ""
+
+#. Old Schoolhouse - Floor 5
+msgctxt "#238 name"
+msgid "旧校舎地下・第５層"
+msgstr ""
+
+#. Floor 5 - Area 1
+msgctxt "#239 name"
+msgid "第５層・攻略エリア①"
+msgstr ""
+
+#. Floor 5 - Area 2
+msgctxt "#240 name"
+msgid "第５層・攻略エリア②"
+msgstr ""
+
+#. Floor 5 - Depths
+msgctxt "#241 name"
+msgid "第５層・最奥"
+msgstr ""
+
+#. Old Schoolhouse - Floor 6
+msgctxt "#242 name"
+msgid "旧校舎地下・第６層"
+msgstr ""
+
+#. Floor 6 - Area 1
+msgctxt "#243 name"
+msgid "第６層・攻略エリア①"
+msgstr ""
+
+#. Floor 6 - Area 2
+msgctxt "#244 name"
+msgid "第６層・攻略エリア②"
+msgstr ""
+
+#. Floor 6 - Depths
+msgctxt "#245 name"
+msgid "第６層・最奥"
+msgstr ""
+
+#. Old Schoolhouse - Floor 7
+msgctxt "#246 name"
+msgid "旧校舎地下・第７層"
+msgstr ""
+
+#. Realm of the Great Shadow 1
+msgctxt "#247 name"
+msgid "巨イナル影ノ領域１"
+msgstr ""
+
+#. Realm of the Great Shadow 2
+msgctxt "#248 name"
+msgid "巨イナル影ノ領域２"
+msgstr ""
+
+#. Realm of the Great Shadow 3
+msgctxt "#249 name"
+msgid "巨イナル影ノ領域３"
+msgstr ""
+
+#. Realm of the Great Shadow 1
+msgctxt "#250 name"
+msgid "巨イナル影ノ領域１"
+msgstr ""
+
+#. 笘�Unused
+msgctxt "#251 name"
+msgid "★未使用"
+msgstr ""
+
+#. 笘�Unused
+msgctxt "#252 name"
+msgid "★未使用"
+msgstr ""
+
+#. Otherworldly Battlefield
+msgctxt "#253 name"
+msgid "異界ノ戦場"
+msgstr ""
+
+#. Floor 7 - Depths
+msgctxt "#254 name"
+msgid "第７層・最奥"
+msgstr ""
+
+#. Courageous - Deck
+msgctxt "#255 name"
+msgid "カレイジャス甲板"
+msgstr ""
+
+#. Courageous - Inside
+msgctxt "#256 name"
+msgid "カレイジャス艦内"
+msgstr ""
+
+#. Orbal Tram
+msgctxt "#257 name"
+msgid "導力トラム"
+msgstr ""
+
+#. Orbal Train
+msgctxt "#258 name"
+msgid "導力列車"
+msgstr ""
+
+#. Orbal Train
+msgctxt "#259 name"
+msgid "導力列車"
+msgstr ""
+
+#. Orbal Train
+msgctxt "#260 name"
+msgid "導力列車"
+msgstr ""
