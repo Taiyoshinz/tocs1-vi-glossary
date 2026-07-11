@@ -1,0 +1,231 @@
+#
+msgid ""
+msgstr ""
+"Language: vi\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. General
+msgctxt "#0 chapter"
+msgid "基本システム"
+msgstr ""
+
+#. Combat
+msgctxt "#1 chapter"
+msgid "戦闘システム"
+msgstr ""
+
+#. Orbments
+msgctxt "#2 chapter"
+msgid "オーブメント"
+msgstr ""
+
+#. Combat Links
+msgctxt "#3 chapter"
+msgid "戦術リンク"
+msgstr ""
+
+#. Controls
+msgctxt "#4 help"
+msgid "基本操作"
+msgstr ""
+
+#. Save
+msgctxt "#5 help"
+msgid "セーブ"
+msgstr ""
+
+#. Navigation
+msgctxt "#6 help"
+msgid "ナビ"
+msgstr ""
+
+#. Minimap
+msgctxt "#7 help"
+msgid "ミニマップ"
+msgstr ""
+
+#. Event Markers
+msgctxt "#8 help"
+msgid "イベントマーカー"
+msgstr ""
+
+#. AP and Ranks
+msgctxt "#9 help"
+msgid "ＡＰとランク"
+msgstr ""
+
+#. Bonding Events
+msgctxt "#10 help"
+msgid "絆イベント"
+msgstr ""
+
+#. Quick Travel Menu
+msgctxt "#11 help"
+msgid "移動メニュー"
+msgstr ""
+
+#. Party Order
+msgctxt "#12 help"
+msgid "隊列"
+msgstr ""
+
+#. Party Order 2
+msgctxt "#13 help"
+msgid "隊列②"
+msgstr ""
+
+#. Link Settings
+msgctxt "#14 help"
+msgid "リンク設定"
+msgstr ""
+
+#. Weapon Customizing
+msgctxt "#15 help"
+msgid "武器改造"
+msgstr ""
+
+#. Cooking
+msgctxt "#16 help"
+msgid "料理"
+msgstr ""
+
+#. Fishing
+msgctxt "#17 help"
+msgid "釣り"
+msgstr ""
+
+#. Curios
+msgctxt "#18 help"
+msgid "掘り出し物"
+msgstr ""
+
+#. Encounter Types
+msgctxt "#19 help"
+msgid "エンカウント"
+msgstr ""
+
+#. Turn Order
+msgctxt "#20 help"
+msgid "ＡＴシステム"
+msgstr ""
+
+#. Attacking
+msgctxt "#21 help"
+msgid "攻撃"
+msgstr ""
+
+#. Crafts
+msgctxt "#22 help"
+msgid "クラフト"
+msgstr ""
+
+#. S-Crafts
+msgctxt "#23 help"
+msgid "Ｓクラフト"
+msgstr ""
+
+#. Arts
+msgctxt "#24 help"
+msgid "アーツ"
+msgstr ""
+
+#. Analysis
+msgctxt "#25 help"
+msgid "情報解析"
+msgstr ""
+
+#. Elemental Efficacy
+msgctxt "#26 help"
+msgid "魔法属性有効率"
+msgstr ""
+
+#. Switching
+msgctxt "#27 help"
+msgid "交代"
+msgstr ""
+
+#. Status Efficacy
+msgctxt "#28 help"
+msgid "状態変化有効率"
+msgstr ""
+
+#. Abnormal Status
+msgctxt "#29 help"
+msgid "状態変化"
+msgstr ""
+
+#. Abnormal Status 2
+msgctxt "#30 help"
+msgid "状態変化②"
+msgstr ""
+
+#. Battle Evaluation
+msgctxt "#31 help"
+msgid "戦闘評価"
+msgstr ""
+
+#. Statistics
+msgctxt "#32 help"
+msgid "能力値"
+msgstr ""
+
+#. AT Bonuses
+msgctxt "#33 help"
+msgid "ＡＴボーナス"
+msgstr ""
+
+#. AT Bonuses 2
+msgctxt "#34 help"
+msgid "ＡＴボーナス②"
+msgstr ""
+
+#. Orbments
+msgctxt "#35 help"
+msgid "オーブメント"
+msgstr ""
+
+#. Master Quartz
+msgctxt "#36 help"
+msgid "マスタークオーツ"
+msgstr ""
+
+#. Quartz
+msgctxt "#37 help"
+msgid "クオーツ"
+msgstr ""
+
+#. Slot Opening
+msgctxt "#38 help"
+msgid "スロット開封"
+msgstr ""
+
+#. Quartz Synthesis
+msgctxt "#39 help"
+msgid "クオーツ合成"
+msgstr ""
+
+#. Combat Links
+msgctxt "#40 help"
+msgid "戦術リンク"
+msgstr ""
+
+#. Link Attacks
+msgctxt "#41 help"
+msgid "リンクアタック"
+msgstr ""
+
+#. Weapon Types
+msgctxt "#42 help"
+msgid "武器属性と体勢崩し"
+msgstr ""
+
+#. Rush
+msgctxt "#43 help"
+msgid "ラッシュ"
+msgstr ""
+
+#. Burst
+msgctxt "#44 help"
+msgid "バースト"
+msgstr ""
