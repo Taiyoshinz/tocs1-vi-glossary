@@ -1,0 +1,171 @@
+#
+msgid ""
+msgstr ""
+"Language: vi\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Record
+msgctxt "#0 chapter"
+msgid "戦　歴"
+msgstr ""
+
+#. Thors Academy
+msgctxt "#1 chapter"
+msgid "トールズ士官学院"
+msgstr ""
+
+#. Schoolhouse - 1F
+msgctxt "#2 chapter"
+msgid "旧校舎地下・第１層"
+msgstr ""
+
+#. Schoolhouse - 2F
+msgctxt "#3 chapter"
+msgid "旧校舎地下・第２層"
+msgstr ""
+
+#. Schoolhouse - 3F
+msgctxt "#4 chapter"
+msgid "旧校舎地下・第３層"
+msgstr ""
+
+#. Schoolhouse - 4F
+msgctxt "#5 chapter"
+msgid "旧校舎地下・第４層"
+msgstr ""
+
+#. Schoolhouse - 5F
+msgctxt "#6 chapter"
+msgid "旧校舎地下・第５層"
+msgstr ""
+
+#. Schoolhouse - 6F
+msgctxt "#7 chapter"
+msgid "旧校舎地下・第６層"
+msgstr ""
+
+#. Schoolhouse - 7F
+msgctxt "#8 chapter"
+msgid "旧校舎地下・第７層"
+msgstr ""
+
+#. Celdic Highway
+msgctxt "#9 chapter"
+msgid "ケルディック街道"
+msgstr ""
+
+#. Lunaria Park
+msgctxt "#10 chapter"
+msgid "ルナリア自然公園"
+msgstr ""
+
+#. North Kreuzen Hwy
+msgctxt "#11 chapter"
+msgid "北クロイツェン街道"
+msgstr ""
+
+#. Aurochs Canyon
+msgctxt "#12 chapter"
+msgid "オーロックス峡谷道"
+msgstr ""
+
+#. Bareahard Waterway
+msgctxt "#13 chapter"
+msgid "公都地下水路"
+msgstr ""
+
+#. Highlands - South
+msgctxt "#14 chapter"
+msgid "ノルド高原・南部"
+msgstr ""
+
+#. Highlands - North
+msgctxt "#15 chapter"
+msgid "ノルド高原・北部"
+msgstr ""
+
+#. Ancient Quarry
+msgctxt "#16 chapter"
+msgid "石切り場"
+msgstr ""
+
+#. Heimdallr Passage
+msgctxt "#17 chapter"
+msgid "帝都地下道"
+msgstr ""
+
+#. Mater Park
+msgctxt "#18 chapter"
+msgid "帝都・マーテル公園"
+msgstr ""
+
+#. Heimdallr Waterway
+msgctxt "#19 chapter"
+msgid "帝都地下水道"
+msgstr ""
+
+#. Waterway - Depths
+msgctxt "#20 chapter"
+msgid "帝都地下道・最深部"
+msgstr ""
+
+#. Ebel Highway
+msgctxt "#21 chapter"
+msgid "エベル街道"
+msgstr ""
+
+#. Legram
+msgctxt "#22 chapter"
+msgid "レグラム"
+msgstr ""
+
+#. Lohengrin Castle
+msgctxt "#23 chapter"
+msgid "ローエングリン城"
+msgstr ""
+
+#. Garrelia Fortress
+msgctxt "#24 chapter"
+msgid "ガレリア要塞"
+msgstr ""
+
+#. Spina Byroad
+msgctxt "#25 chapter"
+msgid "スピナ間道"
+msgstr ""
+
+#. Nortia Highway
+msgctxt "#26 chapter"
+msgid "ノルティア街道"
+msgstr ""
+
+#. Sachsen Mtn Path
+msgctxt "#27 chapter"
+msgid "ザクセン山道"
+msgstr ""
+
+#. Sachsen Iron Mine
+msgctxt "#28 chapter"
+msgid "ザクセン鉄鉱山"
+msgstr ""
+
+#. Military Factory
+msgctxt "#29 chapter"
+msgid "ルーレ軍需工場"
+msgstr ""
+
+#. Roer Passage
+msgctxt "#30 chapter"
+msgid "地下連絡道"
+msgstr ""
+
+#. Trista Outskirts
+msgctxt "#31 chapter"
+msgid "トリスタ近郊"
+msgstr ""
+
+#. EXTRA
+msgctxt "#32 chapter"
+msgid "EXTRA"
+msgstr ""
