@@ -1,10 +1,10 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-10 17:41+0000\n"
+"PO-Revision-Date: 2026-07-12 07:45+0000\n"
 "Last-Translator: Weblate Admin <weblate@example.com>\n"
-"Language-Team: Vietnamese <http://angel-guitars-empire-"
-"heath.trycloudflare.com/projects/sen-no-kiseki-1/glossary/vi/>\n"
+"Language-Team: Vietnamese <http://basics-rouge-gordon-"
+"mainly.trycloudflare.com/projects/sen-no-kiseki-1/glossary/vi/>\n"
 "Language: vi\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -732,7 +732,7 @@ msgid "人形兵器"
 msgstr "binh khí hình nhân"
 
 msgid "要塞"
-msgstr "pháo đài"
+msgstr "căn cứ địa"
 
 msgid "貨物船"
 msgstr "tàu chở hàng"
@@ -828,7 +828,7 @@ msgid "本校舎"
 msgstr "tòa học xá chính"
 
 msgid "学生会館"
-msgstr "Tòa Đa Năng"
+msgstr "Hội quán Học sinh"
 
 msgid "学生手帳"
 msgstr "sổ tay học viên"
@@ -1490,3 +1490,120 @@ msgstr "KTX số 1"
 
 msgid "ブレードマスター"
 msgstr "Vua Bài"
+
+msgid "帝都・駅前広場"
+msgstr "Đế đô - Quảng trường Trước ga"
+
+msgid "ヘイムダル中央駅"
+msgstr "Ga Trung tâm Heimdallr"
+
+msgid "鉄道憲兵隊・司令所"
+msgstr "Đội Hiến binh Đường sắt - Trạm chỉ huy"
+
+msgid "帝都・ヴァンクール大通り"
+msgstr "Đế đô - Đại lộ Vainqueur"
+
+msgid "ブティック《ル・サージュ》本店"
+msgstr "Le Sage Boutique - Cửa hàng chính"
+
+msgid "百貨店《プラザ・ビフロスト》"
+msgstr "Trung tâm thương mại - Plaza Bifrost"
+
+msgid "《ワトソン武器商会》"
+msgstr "Thương hội Vũ khí Watson"
+
+msgid "《リュミエール工房》"
+msgstr "Công xưởng Lumiere"
+
+msgid "帝都・ガルニエ地区"
+msgstr "Đế đô - Quận Garnier"
+
+msgid "帝都歌劇場"
+msgstr "Nhà hát Đế đô"
+
+msgid "宝飾店《サン・コリーズ》"
+msgstr "Cửa hàng Đá quý San Corries"
+
+msgid "帝都・アルト通り"
+msgstr "Đế đô - Phố Alto"
+
+msgid "旧ギルド支部"
+msgstr "Chi bộ Bracer cũ"
+
+msgid "音楽喫茶《エトワール》"
+msgstr "Cà phê Âm nhạc - Etoile"
+
+msgid "民家"
+msgstr "nhà dân"
+
+msgid "居酒屋《ギャムジー》"
+msgstr "Quán rượu Gamgee"
+
+msgid "中古屋《エムロッド》"
+msgstr "Tiệm Đồ cổ Emmrod"
+
+msgid "皇宮・宰相執務室"
+msgstr "Hoàng cung - Văn phòng Thủ tướng"
+
+msgid "バルフレイム宮・小サロン"
+msgstr "Cung điện Valflame - Phòng khách"
+
+msgid "バルフレイム宮・テラス"
+msgstr "Cung điện Valflame - Sân thượng"
+
+msgid "東方茶屋"
+msgstr "Gian trà phương Đông"
+
+msgid "士官学院・講堂"
+msgstr "Học viện Sĩ quan - Giảng đường"
+
+msgid "食品・雑貨《ブランドン商店》"
+msgstr "Tiệm tạp hóa Brandon"
+
+msgid "喫茶・宿泊《キルシェ》"
+msgstr "Cà phê & Nhà nghỉ Kirsche"
+
+msgid "質屋《ミヒュト》"
+msgstr "Tiệm Cầm đồ Micht"
+
+msgid "礼拝堂"
+msgstr "Nhà nguyện"
+
+msgid "ラジオ局《トリスタ放送》"
+msgstr "Trạm phát thanh Trista"
+
+msgid "交易町ケルディック"
+msgstr "Thị trấn thuong mại Celdic"
+
+msgid "農家"
+msgstr "Nhà nông"
+
+msgid "駅前通り"
+msgstr "Ga lộ"
+
+msgid "高級ストア《クリスティーズ》"
+msgstr "Cửa hàng thượng lưu Christie"
+
+msgid "高級料理店"
+msgstr "Nhà hàng"
+
+msgid "バリアハート・貴族街"
+msgstr "Bareahard - Khu Quý Tộc"
+
+msgid "宿酒場"
+msgstr "Quán trọ"
+
+msgid "凰翼館"
+msgstr "Phượng Dực Quán"
+
+msgid "ガレリア要塞・司令区画"
+msgstr "Căn cứ địa Garrelia - Khu Chỉ huy"
+
+msgid "要塞・中央貨物ホーム"
+msgstr "Căn cứ địa - Sân ga Trung tâm"
+
+msgid "要塞・兵舎区画"
+msgstr "Căn cứ địa - Doanh trại"
+
+msgid "山道"
+msgstr "Đường núi"
