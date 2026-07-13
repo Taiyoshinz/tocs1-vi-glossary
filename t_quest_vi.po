@@ -1,0 +1,5063 @@
+#
+msgid ""
+msgstr ""
+"Language: vi\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Rank B7
+msgctxt "#0 rank"
+msgid "乙七級"
+msgstr ""
+
+#. Rank B6
+msgctxt "#1 rank"
+msgid "乙六級"
+msgstr ""
+
+#. Rank B5
+msgctxt "#2 rank"
+msgid "乙伍級"
+msgstr ""
+
+#. Rank B4
+msgctxt "#3 rank"
+msgid "乙四級"
+msgstr ""
+
+#. Rank B3
+msgctxt "#4 rank"
+msgid "乙参級"
+msgstr ""
+
+#. Rank B2
+msgctxt "#5 rank"
+msgid "乙弐級"
+msgstr ""
+
+#. Rank B1
+msgctxt "#6 rank"
+msgid "乙壱級"
+msgstr ""
+
+#. Rank A7
+msgctxt "#7 rank"
+msgid "甲七級"
+msgstr ""
+
+#. Rank A6
+msgctxt "#8 rank"
+msgid "甲六級"
+msgstr ""
+
+#. Rank A5
+msgctxt "#9 rank"
+msgid "甲伍級"
+msgstr ""
+
+#. Rank A4
+msgctxt "#10 rank"
+msgid "甲四級"
+msgstr ""
+
+#. Rank A3
+msgctxt "#11 rank"
+msgid "甲参級"
+msgstr ""
+
+#. Rank A2
+msgctxt "#12 rank"
+msgid "甲弐級"
+msgstr ""
+
+#. Rank A1
+msgctxt "#13 rank"
+msgid "甲壱級"
+msgstr ""
+
+#. Rank A0
+msgctxt "#14 rank"
+msgid "甲零級"
+msgstr ""
+
+#. Prologue
+msgctxt "#15 chapter"
+msgid "序章"
+msgstr ""
+
+#. Chapter 1
+msgctxt "#16 chapter"
+msgid "第１章"
+msgstr ""
+
+#. Chapter 2
+msgctxt "#17 chapter"
+msgid "第２章"
+msgstr ""
+
+#. Chapter 3
+msgctxt "#18 chapter"
+msgid "第３章"
+msgstr ""
+
+#. Chapter 4
+msgctxt "#19 chapter"
+msgid "第４章"
+msgstr ""
+
+#. Chapter 5
+msgctxt "#20 chapter"
+msgid "第５章"
+msgstr ""
+
+#. Chapter 6
+msgctxt "#21 chapter"
+msgid "第６章"
+msgstr ""
+
+#. Final Chapter
+msgctxt "#22 chapter"
+msgid "終章"
+msgstr ""
+
+#. Old Schoolhouse Mystery
+msgctxt "#23 quest"
+msgid "旧校舎地下の調査"
+msgstr ""
+
+#. I have reason to believe that strange
+#. phenomena have been occurring in
+#. the old schoolhouse of late.
+#. 
+#. As such, I would like to request
+#. that one or more combat-ready students
+#. look into this and report back to me.
+#. 
+#. For more details, come see me in my
+#. office on the first floor of the main
+#. building.
+#.                  --Principal Vandyck
+msgctxt "#23 desc"
+msgid ""
+"学院の裏手にある《旧校舎》の地下で\n"
+"　不可思議な現象が起こっておるらしい。\n"
+"\n"
+"　そこで、腕の立つ生徒に調査を頼みたい。\n"
+"\n"
+"　詳しくは、本校舎１Ｆにある\n"
+"　学院長室まで聞きに来てくれたまえ。\n"
+"　　　　　　　　　　──ヴァンダイク学院長"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Principal Vandyck entrusted me with the key to
+#. the old schoolhouse. It seems as though strange
+#. things are afoot in there, so I'm going to need
+#. to check it out.
+msgctxt "#24 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・ヴァンダイク学院長から旧校舎の鍵を預かった。\n"
+"　何やら色々と不思議な現象が起きているようだが……\n"
+"　とりあえず探索してみよう。"
+msgstr ""
+
+#. I made my way to the staircase room and
+#. something is definitely weird here.
+msgctxt "#25 step"
+msgid "・階段部屋にやってきたが……どうやら様子がおかしい。"
+msgstr ""
+
+#. The structure of the building
+#. appears to have changed completely...
+#. I should explore everywhere I can.
+msgctxt "#26 step"
+msgid ""
+"・やはり内部の構造が完全に変わってしまったようだ。\n"
+"　……とにかく行ける所まで行ってみよう。"
+msgstr ""
+
+#. I defeated a powerful foe in what seemed
+#. to be the deepest area of the ruins.
+#. Now's a good time to head back out.
+msgctxt "#27 step"
+msgid ""
+"・終点と思われる場所にて、強力な敵を倒した。\n"
+"　とりあえず、いったん旧校舎から出よう。"
+msgstr ""
+
+#. I reported the results of my
+#. investigation to Principal Vandyck!
+msgctxt "#28 step"
+msgid "・ヴァンダイク学院長に探索の結果を報告した！"
+msgstr ""
+
+#. Orbal Delivery
+msgctxt "#29 quest"
+msgid "導力器の配達"
+msgstr ""
+
+#. I've just finished repairing a bunch
+#. of orbal tech here at the Engineering
+#. Club, but I need someone to deliver
+#. everything.
+#. 
+#. Stop by the engineering building (left
+#. of the Student Union building) and I'll
+#. tell you more.
+#.             --George, Year 2, Class III
+msgctxt "#29 desc"
+msgid ""
+"技術部の方で修理した各種導力製品を、\n"
+"　それぞれの持ち主の元に配達して欲しい。\n"
+"\n"
+"　まずは学生会館の左手にある\n"
+"　技術棟まで来てくれ。\n"
+"　　　　　　　　　──２年Ⅲ組・ジョルジュ"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・George gave me three items to deliver:
+#. 1) An orbal scale, to be delivered to Nicholas,
+#. head of the Cooking Club. I'll find him in the
+#. home ec room on the second floor of the main
+#. building.
+#. 2) An antique orbal lamp, which is bound for
+#. Micht at the pawn shop.
+#. 3) An orbal wristwatch belonging to Michael,
+#. the director of Radio Trista.
+msgctxt "#30 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・ジョルジュ先輩から修理品を３つ預かり、\n"
+"　代わりに配達することに。\n"
+"　届け先はそれぞれ以下。\n"
+"　①『導力計量器』\n"
+"　　本校舎２階の家庭科室：調理部・ニコラス部長\n"
+"　②『アンティークの導力灯』\n"
+"　　質屋《ミヒュト》\n"
+"　③『導力腕時計』\n"
+"　　ラジオ局《トリスタ放送》：ディレクターのマイケルさん"
+msgstr ""
+
+#. I delivered the orbal scale to Nicholas.
+msgctxt "#31 step"
+msgid "・導力計量器をニコラス部長に届けた。"
+msgstr ""
+
+#. I delivered the antique orbal lamp to Micht.
+msgctxt "#32 step"
+msgid "・アンティークの導力灯をミヒュトさんに届けた。"
+msgstr ""
+
+#. I delivered the orbal wristwatch to Michael.
+msgctxt "#33 step"
+msgid "・導力腕時計をマイケルさんに届けた。"
+msgstr ""
+
+#. I've delivered all three items safe and sound.
+#. Better tell George.
+msgctxt "#34 step"
+msgid ""
+"・荷物を３つ、全て届けた。\n"
+"　ジョルジュ先輩に報告しよう。"
+msgstr ""
+
+#. Checked in with George. Request complete!
+msgctxt "#35 step"
+msgid "・ジョルジュ先輩に報告し、依頼を達成した！"
+msgstr ""
+
+#. A Noteworthy Loss
+msgctxt "#36 quest"
+msgid "落とした学生手帳"
+msgstr ""
+
+#. I kind of dropped my student notebook,
+#. and now I can't find it anywhere.
+#. 
+#. Would anyone be willing to help me look?
+#. 
+#. I'll be looking for it on the first floor
+#. of the Student Union building, and I'd
+#. really appreciate it if someone lent me
+#. a hand.
+#.               ~Colette, Year 1, Class IV
+msgctxt "#36 desc"
+msgid ""
+"学生手帳をどこかで落としてしまい、\n"
+"　いまだに見つからない状況です。\n"
+"\n"
+"　どうか捜索に協力してもらえませんか？\n"
+"\n"
+"　先に学生会館の１階を探しているので、\n"
+"　時間があれば話を聞きに来てください。\n"
+"　　　　　　　　　　──１年Ⅳ組・コレット"
+msgstr ""
+
+#. Colette filled me in on what happened and we
+#. agreed to split up and search. I'll be checking
+#. the main building and focusing on corridors
+#. and rest areas. She has an inkling that it's
+#. on the second floor, but we'll see.
+msgctxt "#37 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・コレットさんから事情を聞いた。\n"
+"　心当りを分担して捜し、こちらは本校舎を担当することに。\n"
+"　廊下や休憩スペースを重点的に探そう。\n"
+"　本人曰く、２階が怪しいらしい。"
+msgstr ""
+
+#. I found Colette's student notebook on the
+#. second floor of the main building. I better
+#. take it back to her.
+msgctxt "#38 step"
+msgid ""
+"・本校舎の２階でコレットさんの学生手帳を発見。\n"
+"　本人の元へ届けよう。"
+msgstr ""
+
+#. Colette's notebook is back in her hands!
+msgctxt "#39 step"
+msgid "・コレットさんに手帳を渡し、依頼を達成した！"
+msgstr ""
+
+#. Story of Seasoning
+msgctxt "#40 quest"
+msgid "切れた調味料の調達"
+msgstr ""
+
+#. Fred at Kirshe's told me that he's fresh
+#. out of the passion leaves he uses as
+#. seasoning and he needs them a.s.a.p.
+#. 
+#. Nicholas is the head of the Cooking
+#. Club, maybe he has some to spare...
+msgctxt "#40 desc"
+msgid ""
+"《キルシェ》のフレッドさんが、\n"
+"　『パッションリーフ』という調味料を\n"
+"　切らしてしまい困っているとのこと。\n"
+"\n"
+"　とりあえず、調理部の\n"
+"　ニコラス部長を頼ってみよう。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Nicholas thinks there might be some
+#. in the cafeteria. It's worth a shot.
+msgctxt "#41 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・ニコラス部長によると、\n"
+"　学生食堂にあるかもしれないとのこと。\n"
+"　さっそく行ってみよう。"
+msgstr ""
+
+#. Once I'd explained the situation, Ramsay was
+#. happy to give me some passion leaves. I need
+#. to get these to Fred!
+msgctxt "#42 step"
+msgid ""
+"・ラムゼイさんに事情を話し、\n"
+"　パッションリーフを譲ってもらった。\n"
+"　フレッドさんの元へ届けに行こう。"
+msgstr ""
+
+#. I gave Fred the seasoning he needed!
+msgctxt "#43 step"
+msgid "・フレッドさんにパッションリーフを届けた！"
+msgstr ""
+
+#. East Celdic Highway Monster
+msgctxt "#44 quest"
+msgid "東ケルディック街道の手配魔獣"
+msgstr ""
+
+#. A dangerous monster has appeared near
+#. the highway and is making it very
+#. difficult for us to harvest our crops.
+#. Could someone please help us?
+#. 
+#. Monster: Scary Dinosaur
+#. Location: A plateau near the East Celdic
+#. Highway.
+#. 
+#. My house is alongside the East Celdic
+#. Highway, so please stop by if you can.
+#.                          --Syro
+msgctxt "#44 desc"
+msgid ""
+"街道の近くに現れた大型魔獣が\n"
+"　収穫の妨げとなって困っております。\n"
+"　どうか退治して頂けないでしょうか。\n"
+"\n"
+"　魔獣：【スケイリーダイナ】\n"
+"　場所：東ケルディック街道・はずれの高台\n"
+"\n"
+"　退治が済みましたら直接ご連絡ください。\n"
+"　我が家は東ケルディック街道の\n"
+"　道沿いにございます。\n"
+"　　　　　　　　　　　　　　　　──サイロ"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・We asked Syro to tell us everything he knew
+#. about the monster. It sounds even more dangerous
+#. than the name suggests, so we have to make sure
+#. that we're ready to face it.
+msgctxt "#45 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・サイロさんから魔獣について話を聞いた。\n"
+"　かなり危険な相手らしいので、準備を万全に整えよう。"
+msgstr ""
+
+#. Monster defeated! It wasn't really THAT scary...
+msgctxt "#46 step"
+msgid ""
+"・手配魔獣を退治した！\n"
+"　依頼者のサイロさんに報告しよう。"
+msgstr ""
+
+#. We told Syro the details of our battle,
+#. completing his request!
+msgctxt "#47 step"
+msgid "・サイロさんに報告し、依頼を達成した！"
+msgstr ""
+
+#. Any Bright Ideas?
+msgctxt "#48 quest"
+msgid "壊れた街道灯の交換"
+msgstr ""
+
+#. I need someone to replace a
+#. malfunctioning orbment light in a
+#. road lamp for me.
+#. 
+#. For more details, see me at
+#. Oddvin's Arms & Orbal Factory.
+#.                           --Samus
+msgctxt "#48 desc"
+msgid ""
+"街道灯の交換作業を行ってもらいたい。\n"
+"\n"
+"　詳しくは、武具・工房《オドウィン》の\n"
+"　サムスまで。\n"
+"　　　　　　　　　　　　　　　　──サムス"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Samus gave us an orbment light.
+#. ・We need to use it to replace a road lamp
+#. near the windmill in front of Lunaria Nature
+#. Park. We can find the park at the end of the
+#. West Celdic Highway.
+#. ・We're going to need to open a maintenance
+#. panel before we can replace it, though.
+#. The code to unlock it is 466515.
+msgctxt "#49 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・サムスさんから交換用の新しい導力灯を受け取った。\n"
+"・西ケルディック街道の先にあるルナリア自然公園──\n"
+"　その正面にある風車の近くの街道灯が\n"
+"　故障しているらしいので、中の導力灯を交換することに。\n"
+"・なお、作業するために整備パネルを開く必要があらしい。\n"
+"　解除コードは『４６６５１５』。"
+msgstr ""
+
+#. As soon as we arrived at the road lamp,
+#. monsters began to show up. Luckily, the others
+#. agreed to cover me while I replaced the light.
+msgctxt "#50 step"
+msgid ""
+"・街道灯に着くと魔獣が集まってきたが、\n"
+"　みんなに背中を預け、そのまま交換作業を行うことに。"
+msgstr ""
+
+#. I typed in the code without any problems and
+#. replaced the light in a blink.
+#. We should go tell Samus.
+msgctxt "#51 step"
+msgid ""
+"・落ち着いて解除コードを入力し、\n"
+"　導力灯を素早く交換することができた！\n"
+"　サムスさんに報告しに行こう。"
+msgstr ""
+
+#. I messed up the code, which slowed down the
+#. whole process... At least it all worked out
+#. in the end. We should go tell Samus.
+msgctxt "#52 step"
+msgid ""
+"・解除コードを入力に失敗し、\n"
+"　導力灯の交換に手間取ってしまった……\n"
+"　ともあれ作業は完了。\n"
+"　サムスさんに報告しに行こう。"
+msgstr ""
+
+#. We told Samus that the light was installed
+#. and shining bright!
+msgctxt "#53 step"
+msgid "・サムスさんに報告し、依頼を達成した！"
+msgstr ""
+
+#. For the Common Cold
+msgctxt "#54 quest"
+msgid "薬の材料調達"
+msgstr ""
+
+#. I've run out of some of the ingredients
+#. I need to make a particular medicine. I
+#. would very much appreciate it if someone
+#. could procure more for me.
+#. 
+#. Please speak with me in the church for
+#. further details.
+#.                      --Father Zirbel
+msgctxt "#54 desc"
+msgid ""
+"ある薬の材料が不足している。\n"
+"　よければ手を貸してもらいたい。\n"
+"\n"
+"　詳しくは教会まで。\n"
+"　　　　　　　　　　　　　　　──ジルベル"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#.  ・Father Zirbel told us about the two
+#. ingredients he needs to make his cold
+#. medicine, and they are:
+#. 1) Bear Claw
+#.    Flint at the Grand Market has these.
+#. 2) Imperial Carrots
+#.    Paul has these in the farmhouse on
+#.    the West Celdic Highway.
+msgctxt "#55 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・教区長から話を伺った。\n"
+"　風邪に効く薬を作るため、以下の２つの材料が必要らしい。\n"
+"　①『ベアズクロー』\n"
+"　　大市の《フリント薬局》の店主から受け取る。\n"
+"　②『皇帝人参』\n"
+"　　西ケルディック街道の農家・ポールさんから受け取る。"
+msgstr ""
+
+#. Obtained Bear Claw from Flint.
+msgctxt "#56 step"
+msgid "・フリントさんからベアズクローを受け取った。"
+msgstr ""
+
+#. Obtained Imperial Carrots from Paul.
+msgctxt "#57 step"
+msgid "・ポールさんから皇帝人参を受け取った。"
+msgstr ""
+
+#. Now that we have both ingredients, we
+#. should go give them to Father Zirbel.
+msgctxt "#58 step"
+msgid ""
+"・材料を２つとも受け取った。\n"
+"　ジルベル教区長に渡しに行こう。"
+msgstr ""
+
+#. We handed the ingredients over to
+#. Father Zirbel. Cold medicine for all!
+msgctxt "#59 step"
+msgid "・ジルベル教区長に材料を渡し、依頼を達成した！"
+msgstr ""
+
+#. A Day as a Merchant
+msgctxt "#60 quest"
+msgid "大市商人の体験"
+msgstr ""
+
+#. At Lymon's suggestion, we agreed to look
+#. after his stall at the Grand Market
+#. during the evening sale.
+#. 
+#. We'll have to decide for ourselves how
+#. to discount everything... Hopefully
+#. we manage to do a good job.
+msgctxt "#60 desc"
+msgid ""
+"大市の商人・ライモンさんの提案で\n"
+"　店番を任されることになった。\n"
+"\n"
+"　それも夕方のセールもということで\n"
+"　自分たちの裁量で値引きすることに。\n"
+"　気合いを入れて頑張ろう。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Not only did I look after the stall,
+#. it turns out I'm quite the salesman!
+msgctxt "#61 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・何とか店番の仕事をこなした。\n"
+"　結果は上々、かなり上手く売ることができたみたいだ。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・I looked after the stall and did a
+#. decent job as a merchant, apparently.
+msgctxt "#62 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・何とか店番の仕事をこなした。\n"
+"　結果はまあまあ、それなりに売ることができたみたいだ。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・I looked after the stall, but I don't
+#. think I have much of a future in
+#. commerce...
+msgctxt "#63 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・何とか店番の仕事をこなした。\n"
+"　結果は振るわず……もう少し何とかしたかった。"
+msgstr ""
+
+#. West Celdic Highway Monster
+msgctxt "#64 quest"
+msgid "西ケルディック街道の手配魔獣"
+msgstr ""
+
+#. A large, ferocious monster has been
+#. sighted on the West Celdic Highway.
+#. We'd all be happier if someone took
+#. it out.
+#. 
+#. Monster: Zwordar
+#. Location: Stone bridge leading to
+#. Heimdallr on the West Celdic Highway.
+#.                   --Market Manager Otto
+msgctxt "#64 desc"
+msgid ""
+"西ケルディック街道に\n"
+"　危険な大型魔獣が出現したので\n"
+"　討伐を頼みたい。\n"
+"\n"
+"　魔獣：【ズウォーダー】\n"
+"　場所：西ケルディック街道・\n"
+"　　　　帝都方面に通じる石橋\n"
+"\n"
+"　　　　　　　　　　　──元締め・オットー"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#.  ・Zwordar? More like... Wait, its name was
+#. seriously 'Zwordar'? Anyway, it's gone now,
+#. we should go tell Otto.
+msgctxt "#65 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・手配魔獣を退治した！\n"
+"　オットー元締めに報告しよう。"
+msgstr ""
+
+#. ・We told Otto that we eliminated Zwordar.
+#. ...Sorry, I'm still not over that name.
+msgctxt "#66 step"
+msgid "・オットー元締めに報告し、依頼を達成した！"
+msgstr ""
+
+#. Lost Wallet
+msgctxt "#67 quest"
+msgid "落し物の財布"
+msgstr ""
+
+#. Yesterday, I found a wallet on the floor
+#. in front of my stall. Would someone be
+#. willing to find its owner for me?
+#. 
+#. See me at my ceramics stall and I'll
+#. tell you more.
+#.                           --Lizzie
+msgctxt "#67 desc"
+msgid ""
+"昨日、店の前で落し物の財布を拾いました。\n"
+"　どうか持ち主を探し出して、\n"
+"　届けてあげてもらえないでしょうか。\n"
+"　\n"
+"　詳しくは大市の《リジーの陶器店》まで。\n"
+"　　　　　　　　　　　　　　　　──リジー"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#.  ・Lizzie entrusted us with the wallet she
+#. found. It might be a good idea to start our
+#. search at the station.
+msgctxt "#68 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・リジーさんから落し物の財布を預かった。\n"
+"　まずは駅に問い合わせてみよう。"
+msgstr ""
+
+#. ・We asked at the station and learned that
+#. the wallet's owner had called them. She
+#. apparently headed to the Weathercock, so
+#. we should do the same.
+msgctxt "#69 step"
+msgid ""
+"・駅で問い合わせると、\n"
+"　どうやら持ち主が訪れた後だったようだ。\n"
+"　《風見亭》に向かったそうなので、\n"
+"　女将に話を聞いてみよう。"
+msgstr ""
+
+#. ・Margot told us that Annabelle, the wallet's
+#. owner, had just left. She apparently said she
+#. was going to check the rest area of the Grand
+#. Market next.
+msgctxt "#70 step"
+msgid ""
+"・マゴットさんに話を聞くと、\n"
+"　財布の持ち主・アナベルさんと\n"
+"　ちょうど行き違いになったことが分かる。\n"
+"　次は大市の休憩所を探すと言っていたらしい。"
+msgstr ""
+
+#. ・After asking around the rest area, we
+#. learned Annabelle had left for the church.
+msgctxt "#71 step"
+msgid ""
+"・大市の休憩所で聞き込み。\n"
+"　どうやら女性は七耀教会に向かったようだ。"
+msgstr ""
+
+#. ・We finally returned Annabelle's wallet and
+#. told Lizzie what had happened.
+msgctxt "#72 step"
+msgid ""
+"・アナベルさんに財布を渡し、リジーさんに報告。\n"
+"　依頼を達成した！"
+msgstr ""
+
+#. Old Schoolhouse Mystery II
+msgctxt "#73 quest"
+msgid "旧校舎地下の調査②"
+msgstr ""
+
+#. I would like to ask Class VII to
+#. continue their investigation of the old
+#. schoolhouse from where they left off
+#. last month.
+#. 
+#. I hope you will be able to shed further
+#. light onto the secrets within those
+#. walls.
+#. 
+#. You may begin when you see fit, but make
+#. sure that you are completely prepared.
+#.                  --Principal Vandyck
+msgctxt "#73 desc"
+msgid ""
+"先月に引き続き、旧校舎地下の調査を\n"
+"　特科クラス《Ⅶ組》に依頼する。\n"
+"\n"
+"　かの場所で起きている\n"
+"　多くの不可思議な現象について\n"
+"　調べを進めてほしい。\n"
+"\n"
+"　万全に準備を整えた上で、\n"
+"　諸君らの判断で始めてくれたまえ。\n"
+"　　　　　　　　　　──ヴァンダイク学院長"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・As soon as we entered the stairway room, we
+#. realized that the building's structure had
+#. changed yet again. Let's take a look at that
+#. pedestal thing.
+msgctxt "#74 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・階段部屋に入ると、内部の構造がまた変わっていた……\n"
+"　とりあえず台座のようなものを調べてみよう。"
+msgstr ""
+
+#. We took what turned out to be an elevator
+#. down to the second floor. We're going to need
+#. to be very, very careful.
+msgctxt "#75 step"
+msgid ""
+"・“昇降機”を使って、第２層まで下りてきた。\n"
+"　気をつけて進もう。"
+msgstr ""
+
+#. We defeated a powerful enemy in the deepest
+#. area of the second floor. That's probably
+#. about it for us for the day.
+msgctxt "#76 step"
+msgid ""
+"・第２層の最奥にて、強力な敵を倒した。\n"
+"　そろそろ旧校舎を出よう。"
+msgstr ""
+
+#. We successfully completed our
+#. investigation of the old schoolhouse.
+msgctxt "#77 step"
+msgid "・旧校舎地下の探索を無事に終えた！"
+msgstr ""
+
+#. Substitute Tutor
+msgctxt "#78 quest"
+msgid "代理教師の要請"
+msgstr ""
+
+#. Something urgent has just come up, so
+#. I really need someone to take care of
+#. tutoring the kid I usually teach.
+#. 
+#. I'll be waiting in the lower class
+#. dorms, so please come see me as soon as
+#. you can.
+#.                --Klein, Year 2, Class V
+msgctxt "#78 desc"
+msgid ""
+"急用ができたので、できれば\n"
+"　家庭教師の仕事を代わってもらいたい。\n"
+"　\n"
+"　第二学生寮で待っているので\n"
+"　詳しくはそちらまで。\n"
+"　　　　　　　　　　──２年Ⅴ組・クレイン"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Klein teaches a boy named Emile who lives
+#. in a house near the river south of the Lower
+#. Class Dormitory.
+#. ・They were going to go over orbal science.
+#. As soon as I've brushed up, I should go talk
+#. to his mother, Melinda. It probably wouldn't
+#. hurt to go over the history of the Reinford
+#. Company, either.
+msgctxt "#79 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・クレイン先輩から事情を聞く。\n"
+"　家庭教師の相手は、第二学生寮の南にある\n"
+"　川沿いの民家のエミール君。\n"
+"・今日のテーマは『導力学』とのことだが……\n"
+"　準備ができたら、母親のメリッサさんの所へ行こう。\n"
+"　図書館で導力やラインフォルト社のことを\n"
+"　予習しておくといいかもしれない。"
+msgstr ""
+
+#. That's one tutored kid! I don't think
+#. I made any huge mistakes, and he seemed
+#. pretty happy with me as a substitute.
+msgctxt "#80 step"
+msgid ""
+"・代理教師の仕事を無事に終えた。\n"
+"　ミスらしいミスもなく、何とか分かりやすく\n"
+"　教えることができたみたいだ。"
+msgstr ""
+
+#. I finished tutoring Emile. I might've
+#. made some mistakes here and there, but he
+#. seemed pretty happy to study with me.
+msgctxt "#81 step"
+msgid ""
+"・代理教師の仕事を無事に終えた。\n"
+"　少しミスはしてしまったが、何とか分かりやすく\n"
+"　教えることができたみたいだ。"
+msgstr ""
+
+#. I guess you could call that tutoring...
+#. I made a ton of mistakes, though. I
+#. don't think I'm very good at this...
+msgctxt "#82 step"
+msgid ""
+"・代理教師の仕事を無事に終えた。\n"
+"　ミスが多く、あまり上手く教えることができなかった……"
+msgstr ""
+
+#. Book Delivery
+msgctxt "#83 quest"
+msgid "教官用図書の配達"
+msgstr ""
+
+#. A number of books have just arrived
+#. for Thors faculty and I would like
+#. assistance in delivering them.
+#. 
+#. Inquire at Keynes' Bookstore.
+#.                        -Keynes
+msgctxt "#83 desc"
+msgid ""
+"士官学院の方から注文を受けた\n"
+"　教官用図書を入荷したので、\n"
+"　それぞれ個別の配達をお願いします。\n"
+"　\n"
+"　詳しくは《ケインズ書房》のケインズまで。\n"
+"　　　　　　　　　　　　　　　──ケインズ"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Keynes says he lost the order slip
+#. telling him who to deliver each book to.
+#. In other words, he wants me to guess
+#. which faculty member each book belongs
+#. to based on their title alone.
+msgctxt "#84 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・伝票を紛失したため、教官用図書の\n"
+"　配達先が分からなくなってしまったとのこと。\n"
+"　全部で５冊──タイトルから注文者を推察し、\n"
+"　それぞれの教官の元に届けよう。"
+msgstr ""
+
+#. Delivered 'Behind the War of
+#. the Lions' to Instructor Thomas.
+msgctxt "#85 step"
+msgid "・『獅子戦役の謎』をトマス教官に届けた。"
+msgstr ""
+
+#. Delivered 'Modern Art: The
+#. Complete Works' to Instructor Mary.
+msgctxt "#86 step"
+msgid "・『近代美術全集』をメアリー教官に届けた。"
+msgstr ""
+
+#. Delivered 'Topical Science'
+#. to Instructor Makarov.
+msgctxt "#87 step"
+msgid "・『新解サイエンス』をマカロフ教官に届けた。"
+msgstr ""
+
+#. Delivered 'Analyzing Macroeconomics'
+#. to Vice Principal Heinrich.
+msgctxt "#88 step"
+msgid "・『分析・マクロ経済』をハインリッヒ教頭に届けた。"
+msgstr ""
+
+#. Delivered 'The Empire's Hottest Spots'
+#. to Instructor Sara.
+msgctxt "#89 step"
+msgid "・『嗚呼、帝国旅情』をサラ教官に届けた。"
+msgstr ""
+
+#. Finally delivered all five books.
+#. I should let Keynes know.
+msgctxt "#90 step"
+msgid ""
+"・全ての教官用図書の配達を終えた。\n"
+"　ケインズさんに報告しよう。"
+msgstr ""
+
+#. Reported back to Keynes. I'm done!
+msgctxt "#91 step"
+msgid "・ケインズさんに報告し、依頼を達成した！"
+msgstr ""
+
+#. A Rose by Any Other Name
+msgctxt "#92 quest"
+msgid "生花の受け取り"
+msgstr ""
+
+#. I agreed to pick up some flowers for
+#. Linde at Jane's, the flower shop.
+msgctxt "#92 desc"
+msgid ""
+"美術部のリンデの代わりに、\n"
+"　商店街の花屋《ジェーン》へ\n"
+"　デッサン用の生花を受け取りに行くことに。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Linde caught me on my way out the gate
+#. and asked me to buy a grand rose, too.
+msgctxt "#93 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・正門前でリンデに呼び止められ、\n"
+"　追加で『グランローズ』という花を買ってくることに。"
+msgstr ""
+
+#. I picked up all the flowers Linde
+#. asked for from the florist. I should
+#. deliver them as soon as I can.
+msgctxt "#94 step"
+msgid ""
+"・花屋で目的の花を受け取った。\n"
+"　美術室に戻って、リンデに届けよう。"
+msgstr ""
+
+#. It turns out the girl asking for the
+#. grand rose wasn't Linde after all. It
+#. was her (evil?) twin Vivi...
+#. ・At least I managed to deliver the
+#. flowers Linde really did ask for.
+msgctxt "#95 step"
+msgid ""
+"・俺にグランローズを頼んだのは、\n"
+"　リンデではなく、双子の妹のヴィヴィだった……\n"
+"・とにかく、これにてお使いは終了だ。"
+msgstr ""
+
+#. Aurochs Canyon Monster
+msgctxt "#96 quest"
+msgid "オーロックス峡谷道の手配魔獣"
+msgstr ""
+
+#. A violent monster has been seen roving
+#. the Aurochs Canyon Path, and the
+#. Kreuzen Provincial Army would like it
+#. eliminated.
+#. 
+#. Monster: Fate Spinner
+#. Location: Atop a cliff partway
+#. along the Aurochs Canyon Path.
+#. 
+#. Once the monster has been exterminated,
+#. please report to the soldiers at
+#. Aurochs Fort.
+msgctxt "#96 desc"
+msgid ""
+"オーロックス渓谷に危険な魔獣が出現した。\n"
+"　クロイツェン州領邦軍より退治を依頼する。\n"
+"　\n"
+"　魔獣：【フェイトスピナー】\n"
+"　場所：オーロックス峡谷・中間地点の崖上\n"
+"\n"
+"　なお、魔獣退治を終えた後は\n"
+"　オーロックス砦の兵士まで報告のこと。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・We spun that monster right around! Let's
+#. head to Aurochs Fort to let them know.
+msgctxt "#97 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・手配魔獣を退治した！\n"
+"　《オーロックス砦》に報告に行こう。"
+msgstr ""
+
+#. We reported the monster's defeat to the
+#. provincial army, fulfilling their request.
+msgctxt "#98 step"
+msgid "・領邦軍に報告し、依頼を達成した！"
+msgstr ""
+
+#. Put a Ring on it
+msgctxt "#99 quest"
+msgid "穢れなき半貴石"
+msgstr ""
+
+#. I'd like someone to help me find a
+#. particular semi-precious stone.
+#. 
+#. For more details, talk to me at
+#. Turner's Jewelers.
+#.                          --Bruc
+msgctxt "#99 desc"
+msgid ""
+"とある半貴石の調達をお願いしたい。\n"
+"\n"
+"　詳しくは《宝飾店ターナー》の\n"
+"　ブルックまで。\n"
+"　　　　　　　　　　　　　　　──ブルック"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・We agreed to find a Dryad's Tear
+#. for Bengt's wedding ring.
+#. ・According to a really shady-looking baron
+#. who happened to be in the jewelers' at the
+#. time, we can get it from a tree on the North
+#. Kreuzen Highway.
+msgctxt "#100 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・ベントさんの結婚指輪を作るため、\n"
+"　《ドリアード・ティア》と呼ばれる\n"
+"　半貴石を調達することに。\n"
+"・どうやら北クロイツェン街道の樹木から\n"
+"　採取できるらしく、怪しい男爵から目撃情報も得た。"
+msgstr ""
+
+#. We found a Dryad's Tear. Let's hurry it
+#. back to the jewelers'.
+msgctxt "#101 step"
+msgid ""
+"・《ドリアード・ティア》を手に入れた。\n"
+"　宝飾店に戻ろう。"
+msgstr ""
+
+#. Bengt's Dryad's Tear ended up inside a
+#. count's stomach...
+#. ・That wasn't quite the ending we hoped
+#. for, but we did what we said we'd do...
+msgctxt "#102 step"
+msgid ""
+"・ベントさんのために手に入れたはずの\n"
+"　《ドリアード・ティア》は、\n"
+"　伯爵の腹の中に納まってしまった……\n"
+"・やるせないが……とにかくこれで依頼は完了だ。"
+msgstr ""
+
+#. Addicted to Bath Salts
+msgctxt "#103 quest"
+msgid "バスソルトの調達"
+msgstr ""
+
+#. The Voltaire family even bathes in style,
+#. using nothing but the most fabulous bath
+#. salts...which we're unfortunately running
+#. low on. Will someone procure them for us?
+#. 
+#. If this strikes your fancy, find me on the
+#. terrace outside the Sorciere restaurant.
+#.                     --Hasan Voltaire
+msgctxt "#103 desc"
+msgid ""
+"ヴォルテール家の優雅なバスタイムを\n"
+"　彩るため、ソルトの調達を頼む。\n"
+"\n"
+"　詳しくは、レストラン《ソルシエラ》の\n"
+"　オープンテラスまで。\n"
+"　　　　　　　　　──ハサン・ヴォルテール"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・We should be able to find the
+#. bath salts deep into the Aurochs
+#. Canyon Path. Might as well take care
+#. of the monster while we're there, too.
+msgctxt "#104 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・バスソルトは、オーロックス峡谷道の奥で手に入るらしい。\n"
+"　手配魔獣の依頼と一緒に片付けよう。"
+msgstr ""
+
+#. We've got the bath salts. All we
+#. need to do now is deliver them to
+#. Hasan when we're back in town.
+msgctxt "#105 step"
+msgid ""
+"・バスソルトを手に入れた。\n"
+"　街に戻ったら忘れずに届けよう。"
+msgstr ""
+
+#. Bath salts delivered.
+#. Another happy customer!
+msgctxt "#106 step"
+msgid "・バスソルトを届け、依頼を達成した！"
+msgstr ""
+
+#. North Kreuzen Highway Monster
+msgctxt "#107 quest"
+msgid "北クロイツェン街道の手配魔獣"
+msgstr ""
+
+#. We have received word that a dangerous
+#. monster roams the North Kreuzen Highway.
+#. This is bad news for our hotel, so may I
+#. ask someone to please take care of it?
+#. 
+#. Monster: Venus Mantrap
+#. Location: The stone bridge leading
+#. towards Celdic on the North Kreuzen
+#. Highway
+#. 
+#.    --Richelieu, G.M. of Hotel Esmeralda
+msgctxt "#107 desc"
+msgid ""
+"北クロイツェン街道に、\n"
+"　危険な大型魔獣が出没中とのこと。\n"
+"　どうか討伐をお願い致します。\n"
+"\n"
+"　魔獣：【ヴィナスマントラ】\n"
+"　場所：北クロイツェン街道・\n"
+"　　　　ケルディック方面に通じる石橋\n"
+"\n"
+"　　　　　　　──《ホテル・エスメラルダ》\n"
+"　　　　　　　　　　　総支配人・リシリュー"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・We took care of the Venus Mantrap!
+#. I'm sure Richelieu will be thrilled.
+msgctxt "#108 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・手配魔獣を退治した！\n"
+"　ホテルにいるリシリュー支配人に報告しよう。"
+msgstr ""
+
+#. We assured Richelieu that the highway is
+#. safe for travel once again.
+msgctxt "#109 step"
+msgid "・リシリュー支配人に報告し、依頼を達成した！"
+msgstr ""
+
+#. The Bite of Nostalgia
+msgctxt "#110 quest"
+msgid "懐かしのメニュー"
+msgstr ""
+
+#. I'd like to request someone's help in
+#. gathering a number of ingredients I need
+#. to make a particularly nostalgic dish.
+#. 
+#. For more details, come find me at
+#. Sorciere, a restaurant in the central
+#. plaza.
+#.                    --Hammond.
+msgctxt "#110 desc"
+msgid ""
+"とある懐かしのメニューを作るための\n"
+"　材料調達をお願いします。\n"
+"　\n"
+"　詳しくは中央広場にある、\n"
+"　レストラン《ソルシエラ》のハモンドまで。\n"
+"　\n"
+"　　　　　　　　　　　　　　　──ハモンド"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・We need to gather these ingredients:
+#. 1) Globby Fat x5
+#.  We can get that from monsters.
+#. 2) Healing Herb
+#.  We can get this from Sister Tatiana.
+msgctxt "#111 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・必要な材料は以下──\n"
+"　①『魔獣の油脂』×５\n"
+"　　魔獣から手に入れる。\n"
+"　②『キュアハーブ』\n"
+"　　教会にいるシスター・タチアナから受け取る。"
+msgstr ""
+
+#. Sister Tatiana gave us a Healing Herb.
+msgctxt "#112 step"
+msgid ""
+"・シスター・タチアナから\n"
+"　『キュアハーブ』を受け取った。"
+msgstr ""
+
+#. Once we'd given Hammond the ingredients
+#. he treated us to a soup dish originally
+#. made by Jusis' mother.
+#. ・It's a shame Jusis wasn't with us, but
+#. we completed Hammond's request.
+msgctxt "#113 step"
+msgid ""
+"・ハモンド・オーナーに材料を届けると、\n"
+"　ユーシスの母親が作ったというスープ料理を\n"
+"　振舞ってくれた。\n"
+"・ユーシスも一緒だとよかったんだが……\n"
+"　とにかく、これで依頼は完了だ。"
+msgstr ""
+
+#. The Lost Traveler
+msgctxt "#114 quest"
+msgid "旅行者の護送"
+msgstr ""
+
+#. We ran into a lost traveler named
+#. Anton at Aurochs Fort and agreed
+#. to escort him back to Bareahard.
+#. 
+#. He's a little...strange, but that's
+#. no reason not to get him there safely.
+msgctxt "#114 desc"
+msgid ""
+"オーロックス砦から帰れずに困っていた\n"
+"　アントンさんを保護し、\n"
+"　バリアハート市まで護送することになった。\n"
+"\n"
+"　少し変わった人みたいだが……\n"
+"　とにかく無事に送り届けよう。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・We safely escorted Anton to Bareahard!
+msgctxt "#115 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・アントンさんを無事にバリアハートまで送り届けた！"
+msgstr ""
+
+#. Old Schoolhouse Mystery III
+msgctxt "#116 quest"
+msgid "旧校舎地下の調査③"
+msgstr ""
+
+#. This month, I would like the members of
+#. Class VII to commit themselves to their
+#. noble academic pursuits.
+#. 
+#. Though I know, studious as you all are,
+#. I can expect that anyway. So on top of
+#. that, I'd like you to continue your
+#. exploration of the old schoolhouse and
+#. report your findings to me.
+#.                  --Principal Vandyck
+msgctxt "#116 desc"
+msgid ""
+"先月に引き続き、旧校舎地下の調査を\n"
+"　特科クラス《Ⅶ組》に依頼する。\n"
+"\n"
+"　かの場所で起きている\n"
+"　多くの不可思議な現象について\n"
+"　調べを進めてほしい。\n"
+"\n"
+"　万全に準備を整えた上で、\n"
+"　諸君らの判断で始めてくれたまえ。\n"
+"　　　　　　　　　　──ヴァンダイク学院長"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・We've gained access to a third floor. We
+#. should check it out, but we have to be careful!
+msgctxt "#117 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・どうやら新たに第３層に進めるようになったらしい。\n"
+"　気を引き締めていこう。"
+msgstr ""
+
+#. We took down a powerful enemy in the
+#. deepest part of the third floor. Might be
+#. a good time to head back out.
+msgctxt "#118 step"
+msgid ""
+"・第３層の最奥にて、強力な敵を倒した。\n"
+"　そろそろ旧校舎を出よう。"
+msgstr ""
+
+#. We completed our investigation for the month!
+msgctxt "#119 step"
+msgid "・旧校舎の探索を無事に終えた！"
+msgstr ""
+
+#. Born to be Orbal
+msgctxt "#120 quest"
+msgid "導力バイクの能力テスト"
+msgstr ""
+
+#. We're testing the orbal bike's
+#. capabilities on a highway near Trista.
+#. 
+#. If you're curious, come talk to us in
+#. the engineering building.
+#.                    --George & Angelica
+msgctxt "#120 desc"
+msgid ""
+"近くの街道を使って、\n"
+"　《導力バイク》の性能テストを行いたい。\n"
+"\n"
+"　詳しくは、技術部棟まで。\n"
+"　　　　　　　　──ジョルジュ＆アンゼリカ"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・I agreed to ride the orbal bike and
+#. report on my experience. Although the
+#. orbal bike was tuned for Angelica, I
+#. rode it perfectly. It was awesome.
+msgctxt "#121 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・アンゼリカ先輩に合わせてセッティングされたという\n"
+"　導力バイクに乗らせてもらい、結果を報告──\n"
+"　特にミスすることなく、上手く操縦することができた。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・I agreed to ride the orbal bike and
+#. report on my experience. Although the
+#. orbal bike was tuned for Angelica, I
+#. only made a few mistakes. Not bad.
+msgctxt "#122 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・アンゼリカ先輩に合わせてセッティングされたという\n"
+"　導力バイクに乗らせてもらい、結果を報告──\n"
+"　少しミスをしてしまったが、\n"
+"　概ね問題なく操縦することができた。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・I agreed to ride the orbal bike and
+#. report on my experience. I know it
+#. was my first time riding, but I made
+#. more mistakes than I should have...
+msgctxt "#123 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・アンゼリカ先輩に合わせてセッティングされたという\n"
+"　導力バイクに乗らせてもらい、結果を報告──\n"
+"　初めてとはいえ……かなりミスしてしまった。"
+msgstr ""
+
+#. The Secret Admirer
+msgctxt "#124 quest"
+msgid "まだ見ぬ差出人"
+msgstr ""
+
+#. I am in need of aid! Some fair maiden
+#. has sent me several messages proclaiming
+#. her love for me. And who could blame
+#. her? I simply must know who she is, so
+#. would some kind soul help find her and
+#. bring her to me?
+#. 
+#. More details behind the storage
+#. building!
+#.      --Vincent Florald, Year 2, Class I
+msgctxt "#124 desc"
+msgid ""
+"この私にラヴレターをくれた\n"
+"　人物の正体を突き止め、\n"
+"　できれば目の前に連れて来て欲しい。\n"
+"　\n"
+"　詳しいことは体育倉庫裏で話させてもらう。\n"
+"　\n"
+"　　──２年Ⅰ組・ヴィンセント・フロラルド"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・I agreed to try to figure out who sent
+#. Vincent the love letter.
+#. ・The letter came with pressed grand roses,
+#. so we decided it would be best to ask the
+#. florist who had purchased them.
+msgctxt "#125 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・ヴィンセント先輩の依頼で、\n"
+"　先輩宛のラブレターの差出人を捜すことに。\n"
+"・手紙にはグランローズの押し花が添えられており、\n"
+"　まずは花屋《ジェーン》で聞き込みを行うことに。"
+msgstr ""
+
+#. I asked the florist and learned that three
+#. girls have purchased grand roses from her
+#. recently: Beryl from Class III, Vivi from
+#. Class IV, and Rosine from Class V.
+msgctxt "#126 step"
+msgid ""
+"・花屋《ジェーン》で、最近グランローズを買った\n"
+"　１年生の女子生徒の情報を提供してもらった所、\n"
+"　１年Ⅲ組のベリル、１年Ⅳ組のヴィヴィ、\n"
+"　１年Ⅴ組のロジーヌの３人が候補に挙がった。"
+msgstr ""
+
+#. I asked Beryl, but she doesn't
+#. seem to have sent the letters.
+msgctxt "#127 step"
+msgid "・ベリルに話を聞いたが、差出人ではないようだ。"
+msgstr ""
+
+#. I asked Vivi, but she claims that she
+#. just bought a rose to harass her sister.
+msgctxt "#128 step"
+msgid "・ヴィヴィに話を聞いたが、差出人ではないようだ。"
+msgstr ""
+
+#. I asked Rosine, but she doesn't
+#. seem to have sent the letter.
+msgctxt "#129 step"
+msgid "・ロジーヌに話を聞いたが、差出人ではないようだ。"
+msgstr ""
+
+#. It seems as though none of the first
+#. years that bought grand roses are
+#. Vincent's mystery girl after all. I
+#. should go break the bad news to him.
+msgctxt "#130 step"
+msgid ""
+"・花屋で聞いた３人はいずれも\n"
+"　ラブレターの差出人ではなかったようだ。\n"
+"　とりあえず、ヴィンセント先輩に報告しよう。"
+msgstr ""
+
+#. ...As it turns out, our mystery woman was
+#.  an upper class student named Margarita.
+msgctxt "#131 step"
+msgid ""
+"・……ラブレターの差出人は、\n"
+"　マルガリータという貴族生徒だった。"
+msgstr ""
+
+#. A Sticky Situation
+msgctxt "#132 quest"
+msgid "大切なステッカー"
+msgstr ""
+
+#. I agreed to help Munk find his beloved
+#. stickers.
+#. 
+#. He says they were blown out of his hands
+#. on the roof of the main building.
+msgctxt "#132 desc"
+msgid ""
+"ムンクを手伝い、\n"
+"　彼の大切なステッカーを探すことに。\n"
+"\n"
+"　どうやら屋上にいる時に\n"
+"　風に飛ばされてしまったらしいが……"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Munk thinks that one was blown towards
+#. the field, another east of the main
+#. building, and the last northeast of it.
+msgctxt "#133 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・本人曰く１つはグラウンド、\n"
+"　あとの２つは本校舎の東と北東に\n"
+"　それぞれ飛ばされたそうだ。"
+msgstr ""
+
+#. I found one by the engineering building.
+msgctxt "#134 step"
+msgid "・技術棟の近くでステッカーを見つけた。"
+msgstr ""
+
+#. I found one on the northern part of the field.
+msgctxt "#135 step"
+msgid "・グラウンドの北でステッカーを見つけた。"
+msgstr ""
+
+#. I found one in front of the old schoolhouse.
+msgctxt "#136 step"
+msgid "・旧校舎前でステッカーを見つけた。"
+msgstr ""
+
+#. Now that I've found all three stickers,
+#. I should go return them to Munk.
+msgctxt "#137 step"
+msgid ""
+"・ステッカーを３枚全て見つけた。\n"
+"　ムンクに届けよう。"
+msgstr ""
+
+#. I gave Munk his stickers back!
+msgctxt "#138 step"
+msgid "・ムンクにステッカーを届けた！"
+msgstr ""
+
+#. Return to Zender
+msgctxt "#139 quest"
+msgid "ゼンダー門からの要請"
+msgstr ""
+
+#. I have a very important request for
+#. Class VII pertaining to a monster
+#. prowling the highlands.
+#. 
+#. Come speak to me in the commander's room
+#. at Zender Gate for more information.
+#. Be prepared for battle.
+#.                    --Zechs Vander
+msgctxt "#139 desc"
+msgid ""
+"特科クラス諸君に、高原に出没する\n"
+"　魔獣に関する要請を出させてもらう。\n"
+"\n"
+"　詳しい説明はゼンダー門・司令室にて。\n"
+"　装備などを整えた上で来てくれたまえ。\n"
+"　　　　　　　　　──ゼクス・ヴァンダール"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・We were asked to defeat a ferocious monster
+#. appearing in a basin east-northeast of Zender
+#. Gate. The sooner we take care of it, the better.
+msgctxt "#140 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・ゼンダー門の北の窪地に現れる凶暴な魔獣──\n"
+"　その討伐こそが依頼の内容だそうだ。\n"
+"　さっそく問題の地点に向かおう。"
+msgstr ""
+
+#. We let Lieutenant General Zechs know that
+#. we exterminated the monster!
+msgctxt "#141 step"
+msgid "・手配魔獣を退治し、ゼクス中将に報告した！"
+msgstr ""
+
+#. Turning Over a New Leaf
+msgctxt "#142 quest"
+msgid "薬草の調達"
+msgstr ""
+
+#. I need ingredients for a very important
+#. medicine, and I would like to request
+#. that you obtain them for me.
+#. 
+#. I will tell you more in person, so
+#. please come and speak to me at my home.
+#.                           --Amr
+msgctxt "#142 desc"
+msgid ""
+"ある大切な薬の材料となる\n"
+"　薬草の調達をお願いしたい。\n"
+"　\n"
+"　詳しい話は直接するから、\n"
+"　まずは僕の住居まで来てくれ。\n"
+"　　　　　　　　　　　　　　──アムル"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Amr's medicine wards off an disease
+#. endemic to horses in the region, but he
+#. can't make it without epona grass.
+#. ・Epona grass is recognizable by its
+#. yellow flowers and is regularly found in
+#. the southern part of the highlands.
+#. ・He needs five of them to make the
+#. medicine. We better get started.
+msgctxt "#143 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・馬の風土病を予防する薬を作るため、\n"
+"　《エポナ草》という薬草が必要らしい。\n"
+"・高原南部に生えており、\n"
+"　黄色い花を咲かせるのが特徴とのこと。\n"
+"・必要な数は５つ、さっそく集めてこよう。"
+msgstr ""
+
+#. Gathered all five epona grasses!
+#. Let's get these back to Amr.
+msgctxt "#144 step"
+msgid ""
+"・エポナ草を５つ集めた！\n"
+"　アムルさんの元へ届けよう。"
+msgstr ""
+
+#. We delivered the epona grasses to Amr,
+#. fulfilling the request, and hopefully
+#. helping some horses.
+msgctxt "#145 step"
+msgid "・アムルさんに薬草を届け、依頼を達成した！"
+msgstr ""
+
+#. Delivery to the Watchtower
+msgctxt "#146 quest"
+msgid "監視塔への配達"
+msgstr ""
+
+#. Could someone deliver something to the
+#. soldiers in the Imperial Army's
+#. watchtower for me?
+#. 
+#. If so, I'll be at the trading post.
+#.                           --Kilte
+msgctxt "#146 desc"
+msgid ""
+"帝国軍の監視塔にいる兵士さんたちへの\n"
+"　届け物を頼まれて欲しい。\n"
+"　\n"
+"　詳しくは交易所のキルテまで。\n"
+"　　　　　　　　　　　　　　　　──キルテ"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Kilte entrusted us with a parcel of food
+#. that we need to deliver to a soldier named
+#. Zats at the watchtower.
+msgctxt "#147 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・キルテさんから食料品の詰め合わせを預かった。\n"
+"　監視塔にいる兵士・ザッツさんに届けよう。"
+msgstr ""
+
+#. When we gave Zats the parcel, he gave us
+#. some Erebonian wine in exchange. We should
+#. head back and give it to Kilte.
+msgctxt "#148 step"
+msgid ""
+"・ザッツさんに荷物を渡し、\n"
+"　代わりに帝国産のワインを受け取った。\n"
+"　キルテさんに報告しよう。"
+msgstr ""
+
+#. We gave Kilte our report and the wine,
+#. completing her request.
+msgctxt "#149 step"
+msgid "・キルテさんに報告し、依頼を達成した！"
+msgstr ""
+
+#. Cameraman Caravan
+msgctxt "#150 quest"
+msgid "カメラマンの保護"
+msgstr ""
+
+#. A visiting photographer by the name of
+#. Norton has left for the northern
+#. highlands unaccompanied.
+#. 
+#. I would like you to go after him and
+#. ensure his safety, but first, please
+#. visit me at my home, as I have more to
+#. tell you.
+#.                       --Elder Ivan
+msgctxt "#150 desc"
+msgid ""
+"集落に滞在中のカメラマン・ノートン殿が\n"
+"　一人で高原北部に出てしまったようだ。\n"
+"\n"
+"　どうか彼を保護してきてほしい。\n"
+"　詳しいことは直接、聞きに来てくれたまえ。\n"
+"　\n"
+"　　　　　　　　　　　　　──長老・イヴン"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・The elder believes that Norton likely went
+#. to get a closer look at the statue in the
+#. northern highlands.
+msgctxt "#151 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・長老によると、カメラマンのノートンさんは\n"
+"　おそらく《巨像》を見に行ったのではないかとのこと。\n"
+"　さっそく探しに行こう。"
+msgstr ""
+
+#. We found Norton right in front of the
+#. statue. He didn't seem to be in danger,
+#. though, so we let him stay for a while.
+msgctxt "#152 step"
+msgid ""
+"・巨像前でノートンさんを発見。\n"
+"　近くに魔獣の気配もないので、\n"
+"　また改めて迎えに来ることに。"
+msgstr ""
+
+#. We brought Norton safely back to the
+#. settlement, fulfilling the request.
+msgctxt "#153 step"
+msgid "・ノートンさんを集落に送り届け、依頼を達成した！"
+msgstr ""
+
+#. Wandering Sheep
+msgctxt "#154 quest"
+msgid "迷える羊の捜索"
+msgstr ""
+
+#. The fence in front of the pasture has
+#. been damaged and a number of sheep have
+#. gotten loose. Please help me find them.
+#. 
+#. I'll be in the pasture if you need more
+#. details.
+#.                            --Watari
+msgctxt "#154 desc"
+msgid ""
+"柵が壊れ、羊が数匹\n"
+"　逃げ出してしまったようだ。\n"
+"\n"
+"　できれば捜索を手伝って欲しい。\n"
+"　詳しくは放牧場のワタリまで。\n"
+"　　　　　　　　　　　　　　　　──ワタリ"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Watari says that the fence was damaged this
+#. morning and five sheep have escaped.
+#. ・Based on the hoofprints, it looks like three
+#. are headed north, and the other two are headed
+#. south. Let's get searching.
+msgctxt "#155 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・ワタリさんによると昼前に柵が壊れ、\n"
+"　羊たちが全部で５匹、逃げ出してしまったらしい。\n"
+"・なお、足跡から判断するに、\n"
+"　高原の北部に３匹、南部に２匹逃げたとのこと。\n"
+"　さっそく連れ戻しに行こう。"
+msgstr ""
+
+#. We've found all five! We'd better get
+#. back to Watari and let him know.
+msgctxt "#156 step"
+msgid ""
+"・羊を５匹全て見つけた。\n"
+"　集落に戻って、ワタリさんに報告しよう。"
+msgstr ""
+
+#. Sheep secured!
+msgctxt "#157 step"
+msgid "・ワタリさんに報告し、依頼を達成した！"
+msgstr ""
+
+#. A Special Lesson
+msgctxt "#158 quest"
+msgid "子供たちへの特別授業"
+msgstr ""
+
+#. I would like you to hold a simple lesson
+#. for the children of this settlement in
+#. order to broaden their horizons.
+#. 
+#. If you're willing to do so, please come
+#. speak to me outside.
+#.                          --Jedah
+msgctxt "#158 desc"
+msgid ""
+"子供たちの見識を深めるために、\n"
+"　簡単な授業を行ってやって欲しい。\n"
+"\n"
+"　外にいるから、\n"
+"　よければ話を聞きに来ておくれ。\n"
+"\n"
+"　　　　　　　　　　　　　　　　──ジェダ"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・I conducted a lesson about Erebonia
+#. for the children of the settlement.
+#. ・The last question really made me think,
+#. but I had no trouble answering the others,
+#. so the lesson went very smoothly.
+msgctxt "#159 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・集落の子供たちに帝国に関する授業を行う。\n"
+"・最後の質問には考えさせられたが……\n"
+"　他はスムーズに答えることができ、\n"
+"　無事に終えることができた。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・I conducted a lesson about Erebonia
+#. for the children of the settlement.
+#. ・I had a bit of trouble with some
+#. of the questions, but it was a decent
+#. lesson regardless.
+msgctxt "#160 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・集落の子供たちに帝国に関する授業を行う。\n"
+"・少々もたついた所もあったが……\n"
+"　とりあえず無事に終えることができた。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・I conducted a lesson about Erebonia
+#. for the children of the settlement.
+#. ・I struggled through the whole thing and
+#. ended up wasting everyone's time...but
+#. I DID see it through to the end.
+msgctxt "#161 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・集落の子供たちに帝国に関する授業を行う。\n"
+"・もたつく所が多く、子供たちには申し訳なかったが……\n"
+"　それでも何とか無事に終えることができた。"
+msgstr ""
+
+#. Connecting Hearts
+msgctxt "#162 quest"
+msgid "想いの架け橋"
+msgstr ""
+
+#. Sharl, a girl who works in the mess hall
+#. at Zender Gate, asked us to find out
+#. what Thoma's favorite color is.
+#. 
+#. It sounds like she wants to make him a
+#. present, so we've got to ask him without
+#. making him suspect anything.
+msgctxt "#162 desc"
+msgid ""
+"ゼンダー門の食堂で働く少女・\n"
+"　シャルの頼みで、トーマから好きな色を\n"
+"　聞き出すことに。\n"
+"\n"
+"　どうやらプレゼント選びの\n"
+"　参考にしたいようだが……\n"
+"　トーマからそれとなく聞き出そう。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・We managed to figure out Thoma's favorite
+#. color in a discussion about clothes. Let's
+#. tell Sharl a.s.a.p.!
+msgctxt "#163 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・トーマと装束の話をする流れで好きな色について聞く。\n"
+"　さっそくシャルに報告しよう。"
+msgstr ""
+
+#. We passed what Thoma told us on to Sharl.
+msgctxt "#164 step"
+msgid "・トーマと話した内容をシャルに伝えた！"
+msgstr ""
+
+#. Nord Highlands - North Monster
+msgctxt "#165 quest"
+msgid "ノルド高原・北部の手配魔獣"
+msgstr ""
+
+#. A large, unknown monster has been seen
+#. around the northern part of the
+#. highlands. It must be exterminated at
+#. all costs.
+#. 
+#. Monster: Details unknown
+#. Location: Southwest area of the northern
+#. highlands, near a cliff edge.
+#.                           --Lacan
+msgctxt "#165 desc"
+msgid ""
+"高原の北部に、見たことのない\n"
+"　大型魔獣が現れたようだ。\n"
+"　お前たちにできれば討伐を頼みたい。\n"
+"\n"
+"　魔獣：詳細不明\n"
+"　場所：ノルド高原北部・南西の崖付近\n"
+"\n"
+"　　　　　　　　　　　　　　　　──ラカン"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Monster down! We should tell Lacan,
+#. just in case he couldn't hear it.
+msgctxt "#166 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・手配魔獣を退治した！\n"
+"　念のため、ラカンさんに報告しておこう。"
+msgstr ""
+
+#. We reported to Lacan, fulfilling
+#. the request!
+msgctxt "#167 step"
+msgid "・ラカンさんに報告し、依頼を達成した！"
+msgstr ""
+
+#. Old Schoolhouse Mystery IV
+msgctxt "#168 quest"
+msgid "旧校舎地下の調査④"
+msgstr ""
+
+#. This month, I would like Class VII to
+#. simply relax and enjoy themselves.
+#. 
+#. That, of course, was a joke. Please
+#. delve deeper into the old schoolhouse
+#. and report back to me.
+#. 
+#. You may begin when you are ready, but
+#. be sure you're ready for anything.
+#.                  --Principal Vandyck
+msgctxt "#168 desc"
+msgid ""
+"先月に引き続き、旧校舎地下の調査を\n"
+"　特科クラス《Ⅶ組》に依頼する。\n"
+"\n"
+"　かの場所で起きている\n"
+"　多くの不可思議な現象について\n"
+"　調べを進めてほしい。\n"
+"\n"
+"　万全に準備を整えた上で、\n"
+"　諸君らの判断で始めてくれたまえ。\n"
+"　　　　　　　　　　──ヴァンダイク学院長"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆ 
+#. ・As we suspected, we're now able to access
+#. the fourth floor. No sense in being too
+#. hasty, though...
+msgctxt "#169 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・やはりというべきか、\n"
+"　新たに第４層に進めるようになっていた。\n"
+"　慎重に進もう。"
+msgstr ""
+
+#. We encountered another monster deep within
+#. the fourth floor, this one more powerful than
+#. any before it. We managed to defeat it, but
+#. we're all exhausted.
+msgctxt "#170 step"
+msgid ""
+"・第４層の最奥にて、\n"
+"　これまでにも増して強力な敵を倒す。\n"
+"　そろそろ旧校舎を出よう。"
+msgstr ""
+
+#. That brings our fourth month of investigation
+#. to a close.
+msgctxt "#171 step"
+msgid "・旧校舎の探索を無事に終えた！"
+msgstr ""
+
+#. Childhood Friend's Intentions
+msgctxt "#172 quest"
+msgid "幼馴染の本心"
+msgstr ""
+
+#. I've known this boy since we were kids,
+#. but I have no idea what's on his mind
+#. lately. To be honest, I'm a bit worried.
+#. 
+#. Would someone be able to give me some
+#. advice on how to handle this? I'll be
+#. in the upper class dormitory if you can
+#. help.
+#.              --Bridget, Year 1, Class II
+msgctxt "#172 desc"
+msgid ""
+"幼馴染の男子生徒の気持ちが分からずに\n"
+"　困っています。\n"
+"\n"
+"　どうか相談に乗って頂けないでしょうか。\n"
+"　第一学生寮で待っています。\n"
+"\n"
+"　　　　　　　　　──１年Ⅱ組・ブリジット"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・I agreed to help Bridget find out how Alan
+#. feels about her. He's in the Fencing Club,
+#. so I'll look for him there.
+msgctxt "#173 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・依頼を受け、フェンシング部の\n"
+"　アランの気持ちを探ってみることに。\n"
+"　まずは練武場を訪ねよう。"
+msgstr ""
+
+#. Alan wasn't in the training hall, but Loggins,
+#. a second year, told me he might be on the field.
+msgctxt "#174 step"
+msgid ""
+"・練武場にアランはいなかった。\n"
+"　ロギンス先輩によると、多分グラウンドにいるらしい。"
+msgstr ""
+
+#. I found Alan training alone on the field and
+#. suggested that we fight a Combat Shell together
+#. a la Class VII's practical exams.
+msgctxt "#175 step"
+msgid ""
+"・グラウンドで一人自主練習とするアランを見つけ、\n"
+"　いつも《Ⅶ組》が行っている実技テストの要領で\n"
+"　戦術殻との共闘を申し込む。"
+msgstr ""
+
+#. Alan regained his confidence after he landed
+#. the final blow on the Combat Shell. Better yet,
+#. he told me how he feels about Bridget...
+#. He can handle things from here.
+msgctxt "#176 step"
+msgid ""
+"・──アランがトドメを指したことで\n"
+"　自信を取り戻してくれたようだ。\n"
+"　本音も聞けたことだし、後は本人に任せよう。"
+msgstr ""
+
+#. Alan regained his confidence after an
+#. impressive fight against the Combat Shell.
+#. Better yet, he told me how he feels about
+#. Bridget... He can handle things from here.
+msgctxt "#177 step"
+msgid ""
+"・──何とか善戦することで、\n"
+"　自信を取り戻してくれたようだ。\n"
+"　本音も聞けたことだし、後は本人に任せよう。"
+msgstr ""
+
+#. The battle didn't go the way I'd hoped, but it
+#. seemed to cheer Alan up anyway. Afterwards he
+#. told me how he feels about Bridget...
+#. He can handle things from here.
+msgctxt "#178 step"
+msgid ""
+"・──結果はいまいちだったが、\n"
+"　それでも少しは気を紛れたようだ。\n"
+"　本音も聞けたことだし、後は本人に任せよう。"
+msgstr ""
+
+#. Snapped
+msgctxt "#179 quest"
+msgid "隠し撮り写真の摘発"
+msgstr ""
+
+#. Rumor has it that a first year in the
+#. Photography Club who shall remain
+#. nameless (Rex) has been taking pictures
+#. of people without their permission and
+#. selling them to other students.
+#. 
+#. If this is true. I need to make him stop
+#. for his own good (and everyone else's).
+#. If you are willing to assist me, please
+#. come to the Photography Club's clubroom.
+#.              --Fidelio, Year 2, Class II
+msgctxt "#179 desc"
+msgid ""
+"最近、写真部の後輩のレックスが\n"
+"　よからぬ隠し撮り写真を使い、\n"
+"　何やら取り引きを行っているらしい。\n"
+"\n"
+"　この話が本当なら、本人のためにも\n"
+"　やめさせなくてはならないが……\n"
+"　どうかそのための協力をお願いしたい。\n"
+"　まずは写真部室まで。\n"
+"　　　　　　　　　──２年Ⅱ組・フィデリオ"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・After a bit of discussion, Fidelio and I
+#. decided it would be best to catch Rex in the act.
+#. ・He told me that Rex exchanges his wares near
+#. the old schoolhouse and behind the field's
+#. storage building. I'm going to check them out.
+msgctxt "#180 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・フィデリオ先輩から話を伺い、\n"
+"　何とかして取り引きの現場を押さえることに。\n"
+"・グラウンドの体育倉庫裏と旧校舎方面、\n"
+"　まずはどちらかを調べてみよう。"
+msgstr ""
+
+#. I found Rex behind the storage building,
+#. but he ran off before I could confront him.
+#. Time to head to the old schoolhouse.
+msgctxt "#181 step"
+msgid ""
+"・体育倉庫裏でレックスを見つけたが、\n"
+"　気配を察知され、逃げられてしまった……\n"
+"　次は旧校舎方面を探ろう。"
+msgstr ""
+
+#. I tried to be careful, but I fell right
+#. into Rex's trap. He got away again...
+#. ・I'm sure he's hidden somewhere without too
+#. many people, but I have no idea where...
+#. Guess I'll have to start looking around.
+msgctxt "#182 step"
+msgid ""
+"・今度は警戒しつつもレックスの策にはまり、\n"
+"　再び逃げられてしまった……\n"
+"・他に人目につかなそうな場所……\n"
+"　とりあえず調べてみよう。"
+msgstr ""
+
+#. I found Rex inside the auditorium.
+#. Surprise, surprise -- he ran away again,
+#. but I can tell he's still in the building.
+msgctxt "#183 step"
+msgid ""
+"・講堂にてレックスを発見──\n"
+"　まだ気配があるので近くにいるはずだ。"
+msgstr ""
+
+#. I managed to corner Rex and dragged him back
+#. to Fidelio. At least it seems like he's
+#. reflecting on what he did wrong...
+msgctxt "#184 step"
+msgid ""
+"・レックスを追い詰め、フィデリオ先輩の元へ連れて行く。\n"
+"　一応、彼なりに反省はしてくれたようだ。"
+msgstr ""
+
+#. Swimming Lessons
+msgctxt "#185 quest"
+msgid "水練の稽古"
+msgstr ""
+
+#. At Instructor Neithardt's suggestion, I
+#. rounded up the other guys in Class VII
+#. for his special swimming lessons.
+#. 
+#. He says he's going to teach us the most
+#. effective and manly way to swim...
+#. I have no idea what he's talking about.
+msgctxt "#185 desc"
+msgid ""
+"ナイトハルト教官の提案により、\n"
+"　Ⅶ組の男子全員、\n"
+"　水練の稽古を付けてもらうことに。\n"
+"\n"
+"　何でも教官が、\n"
+"　コツを教えてくれるそうだが……"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・We started by racing each other.
+#. I chose Elliot as my first opponent.
+msgctxt "#186 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・とりあえず競争から始めることになり、\n"
+"　最初はエリオットと泳ぐことに。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・We started by racing each other.
+#. I chose Machias as my first opponent.
+msgctxt "#187 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・とりあえず競争から始めることになり、\n"
+"　最初はマキアスと泳ぐことに。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・We started by racing each other.
+#. I chose Jusis as my first opponent.
+msgctxt "#188 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・とりあえず競争から始めることになり、\n"
+"　最初はユーシスと泳ぐことに。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・We started by racing each other.
+#. I chose Gaius as my first opponent.
+msgctxt "#189 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・とりあえず競争から始めることになり、\n"
+"　最初はガイウスと泳ぐことに。"
+msgstr ""
+
+#. I won against him, too.
+msgctxt "#190 step"
+msgid "結果──勝つことができた。"
+msgstr ""
+
+#. I lost against him, though...
+msgctxt "#191 step"
+msgid "結果──負けてしまった。"
+msgstr ""
+
+#. After that, Neithardt had us swim until
+#. we couldn't swim anymore... He is not a
+#. merciful man.
+#. ・He is an effective one, though. We're
+#. all posting way better times than we
+#. were before.
+msgctxt "#192 step"
+msgid ""
+"・その後、体力の限界まで泳がされた俺たちは\n"
+"　ナイトハルト教官の厳しさを痛感……\n"
+"・だが訓練の内容は確かで、成果を実感することができた！"
+msgstr ""
+
+#. A Brush with Destiny
+msgctxt "#193 quest"
+msgid "東方風の筆"
+msgstr ""
+
+#. Gyler the janitor found a really nice
+#. Eastern ink brush and asked me to help
+#. him find its rightful owner.
+#. 
+#. My old master enjoyed calligraphy, so
+#. I have the feeling that I know who this
+#. brush belongs to. I should ask them.
+msgctxt "#193 desc"
+msgid ""
+"水場で拾ったという\n"
+"　立派な東方風の筆を預かり、\n"
+"　持ち主を探してみることに。\n"
+"\n"
+"　俺の師匠・ユン老師も\n"
+"　筆を使った《書》を嗜むが……\n"
+"　心当たりの人物を訪ねてみよう。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・My feeling was correct. The brush was
+#. Principal Vandyck's. I'm curious as to how
+#. he came to befriend my master...but for
+#. now, I'm just glad he has his brush back.
+msgctxt "#194 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・筆の持ち主は何と、ヴァンダイク学院長だった。\n"
+"　旧い友人というのが若干気になるが……\n"
+"　とりあえず持ち主が見つかってよかった。"
+msgstr ""
+
+#. Underground Passage Monster
+msgctxt "#195 quest"
+msgid "帝都地下道の手配魔獣"
+msgstr ""
+
+#. My name is Noble. I run the Der Himmel
+#. hotel which, unfortunately, currently
+#. has a monster lurking beneath it.
+#. 
+#. If you can get rid of it, please see me
+#. at my hotel in the Garnier District.
+#.                           --Noble
+msgctxt "#195 desc"
+msgid ""
+"ホテルの地下に生息する大型魔獣の退治を\n"
+"お願いします。\n"
+"\n"
+"詳しくは、ガルニエ地区にある\n"
+"ホテル《デア＝ヒンメル》の\n"
+"支配人・ノーブルまで。\n"
+"　　　　　　　　　　　　　　──ノーブル"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・We visited Noble's hotel, but he seemed
+#. to be away. We'll have to check again
+#. when we're finished with our other obligations.
+msgctxt "#196 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・ノーブル支配人はどうやら留守らしい。\n"
+"　他の依頼を片付けてからまた来よう。"
+msgstr ""
+
+#. Noble gave us the key to the passage
+#. under the hotel. We should take care
+#. of this quickly, but preparedly.
+msgctxt "#197 step"
+msgid ""
+"・ノーブル支配人から地下道の鍵を受け取った。\n"
+"　準備を整えて向かおう。"
+msgstr ""
+
+#. Target eliminated. Let's go back to
+#. the hotel and give Noble our report.
+msgctxt "#198 step"
+msgid ""
+"・手配魔獣を退治した！\n"
+"　ホテルへ戻って報告しよう。"
+msgstr ""
+
+#. We gave our report at the hotel,
+#. completing yet another request.
+msgctxt "#199 step"
+msgid "・ホテルに報告、依頼を達成した！"
+msgstr ""
+
+#. Hat's Off
+msgctxt "#200 quest"
+msgid "手作り帽子の落し物"
+msgstr ""
+
+#. A customer who visited my gelato
+#. stall yesterday accidentally dropped
+#. their hat.
+#. 
+#. I'd like to get it back to them, but
+#. I'm not sure how. If you have any good
+#. ideas, please visit my stall in
+#. Dreichels Plaza.
+#.                          --Jasmine
+msgctxt "#200 desc"
+msgid ""
+"先日、ウチのアイス屋にいらっしゃった\n"
+"　お客様が帽子を落されていきました。\n"
+"\n"
+"　何とかお返ししたいのですが……\n"
+"　まずはドライケルス広場にある\n"
+"　当店にて話を聞いて頂けますでしょうか。\n"
+"　　　　　　　　　　　　　　──ジャスミン"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Jasmine left the hat in our care and
+#. we agreed to search for its owner.
+#. ・She says he's from the Ost District.
+#. We'll start our search at Gamgee's pub,
+#. since Machias knows the man who runs it.
+msgctxt "#201 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・ジャスミンさんから帽子を預かり、\n"
+"　持ち主を探し出して届けることに。\n"
+"・オスト地区出身の男性とのことで、\n"
+"　まずはマキアスの知る居酒屋《ギャムジー》で\n"
+"　話を聞いてみることに。"
+msgstr ""
+
+#. We spoke with Gamgee, who shed some
+#. light on the hat's owner.
+#. ・His name is Jim and he lives in a house
+#. near the pub. All we have to do is leave
+#. the pub, take a slight right, and follow
+#. the steps down. Piece of cake.
+msgctxt "#202 step"
+msgid ""
+"・居酒屋の店主・ギャムジーさんに話を聞くと、　\n"
+"　持ち主が判明。\n"
+"・店の右斜め方向にある家に住んでいる\n"
+"　ジムさんとのこと。"
+msgstr ""
+
+#. We visited Jim's home, but his wife
+#. informed us that he had stepped out.
+#. ・He apparently just left, so he shouldn't
+#. have gone too far from home yet...
+msgctxt "#203 step"
+msgid ""
+"・ジムさんの家を訪ねると、\n"
+"　本人は不在で奥さんから話を聞く。\n"
+"・つい先ほどまで家にいたらしいが……\n"
+"　とりあえず近くを探そう。"
+msgstr ""
+
+#. We found Jim at the tram stop. Just as
+#. we were returning his hat, his wife showed
+#. up and they both thanked us.
+#. ・We've let Jasmine know that the hat
+#. situation has been sorted out!
+msgctxt "#204 step"
+msgid ""
+"・停留所でトラムを待つジムさんに遭遇。\n"
+"　その場で帽子を渡すと、奥さんが現れ\n"
+"　二人からお礼を言われる。\n"
+"・ジャスミンさんにも報告し、依頼を達成した！"
+msgstr ""
+
+#. Chronicles of the Chronicle
+msgctxt "#205 quest"
+msgid "夏至祭関連取材の手伝い"
+msgstr ""
+
+#. A journalist at the Imperial Chronicle
+#. needs assistance with a tourism piece
+#. he's preparing.
+#. 
+#. For more information, speak to me at
+#. reception in our office on Vainqueur
+#. Street and I will connect you two.
+#.                         --Citron
+msgctxt "#205 desc"
+msgid ""
+"夏至祭に関連する取材で、\n"
+"　お手伝いしていただきたいことがあります。\n"
+"\n"
+"　詳しいことは担当の者が説明致しますので\n"
+"　まずはヴァンクール通りにある\n"
+"　帝国時報社・受付まで。\n"
+"　　　　　　　　　　　　　　　──シトロン"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Norton explained that he's producing a
+#. tourist brochure for the Summer Festival
+#. and asked us to get photos of and a
+#. comment from every store in the district.
+#. ・There are five places we need to visit:
+#. 1) Weston House, in Plaza Bifrost
+#. 2) Mimosa, in Plaza Bifrost
+#. 3) Watson's Weapons & Armor
+#. 4) Lumiere Orbal Factory
+#. 5) Le Sage Boutique
+msgctxt "#206 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・ノートンさんから説明を受け、観光案内の\n"
+"　パンフレットに使うコメントを各店舗から回収しつつ、\n"
+"　ついでにそのお店の写真を撮ってくることに。\n"
+"・場所は全部で５件──\n"
+"　①百貨店：総合食材《ウェストンハウス》\n"
+"　②百貨店：喫茶コーナー《ミモザ》\n"
+"　③《ワトソン武器商会》\n"
+"　④《リュミエール工房》\n"
+"　⑤ブティック《ル・サージュ》"
+msgstr ""
+
+#. Received a comment from Weston House!
+msgctxt "#207 step"
+msgid ""
+"・総合食材《ウェストンハウス》の一言ＰＲを受け取り、\n"
+"　写真撮影を行った。"
+msgstr ""
+
+#. Received a comment from Mimosa!
+msgctxt "#208 step"
+msgid ""
+"・喫茶コーナー《ミモザ》の一言ＰＲを受け取り、\n"
+"　写真撮影を行った。"
+msgstr ""
+
+#. Received a comment from
+#. Watson's Weapons & Armor!
+msgctxt "#209 step"
+msgid ""
+"・《ワトソン武器商会》の一言ＰＲを受け取り、\n"
+"　写真撮影を行った。"
+msgstr ""
+
+#. Received a comment from
+#. Lumiere Orbal Factory!
+msgctxt "#210 step"
+msgid ""
+"・《リュミエール工房》の一言ＰＲを受け取り、\n"
+"　写真撮影を行った。"
+msgstr ""
+
+#. Received a comment from
+#. Le Sage Boutique!
+msgctxt "#211 step"
+msgid ""
+"・ブティック《ル・サージュ》の一言ＰＲを受け取り、\n"
+"　写真撮影を行った。"
+msgstr ""
+
+#. We've got everything we need from all five
+#. stores. Let's get back to Norton in the
+#. Imperial Chronicle building.
+msgctxt "#212 step"
+msgid ""
+"・全５箇所の店舗を一通り回った。\n"
+"　帝国時報社へ報告に戻ろう。"
+msgstr ""
+
+#. We gave Norton all of the comments
+#. and photos from each store.
+msgctxt "#213 step"
+msgid "・ノートンさんに報告し、依頼を達成した！"
+msgstr ""
+
+#. Amber Amour
+msgctxt "#214 quest"
+msgid "琥珀の愛"
+msgstr ""
+
+#. One of my cafe's most popular records
+#. has been shattered.
+#. 
+#. If possible, I'd like to get another
+#. record of the same song, but I need
+#. help. Visit me at the Concert Cafe - 
+#. Etoile on Alto Street for further
+#. information.
+#.                         --Heming
+msgctxt "#214 desc"
+msgid ""
+"店でかけている定番のレコードが\n"
+"　割れてしまった。\n"
+"\n"
+"　何とかして同じ物を手に入れたいのだが……\n"
+"　どうか力を貸して欲しい。\n"
+"　詳しくは、アルト通りの\n"
+"　音楽喫茶《エトワール》まで。\n"
+"　　　　　　　　　　　　　　　──ヘミング"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・The smashed record was a thirty-year-old
+#. song named 'Amber Amour.'
+#. ・We thought that Fiona might know something,
+#. so we went over to Elliot's house.
+msgctxt "#215 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・割れたレコードは『琥珀の愛』という、\n"
+"　３０年以上前に出た曲とのこと。\n"
+"・まずはエリオットの実家の\n"
+"　フィオナさんに話を聞きに行こう。"
+msgstr ""
+
+#. Fiona suggested that we ask at the
+#. reception desk in Plaza Bifrost.
+#. That's on Vainqueur Street.
+msgctxt "#216 step"
+msgid ""
+"・フィオナさんに話を聞くと、ヴァンクール大通りにある\n"
+"　百貨店《プラザ・ビフロスト》の\n"
+"　受付に問い合わせてみたらどうかと助言をもらう。"
+msgstr ""
+
+#. The receptionist at Plaza Bifrost told us
+#. that the record was sold out everywhere and
+#. that the only way to secure a copy would be
+#. to order it directly from the manufacturer. Yikes.
+#. ・But she did tell us to check out Emmrod's,
+#. a secondhand store in the Ost District.
+#. We might luck out and find it there.
+msgctxt "#217 step"
+msgid ""
+"・百貨店に問い合わせたが、どこも品切れ状態らしく\n"
+"　メーカーに直接注文するしかないとのこと。\n"
+"・受付の方からオスト地区にある中古屋\n"
+"　《エムロッド》を覗いてみてはどうかと助言をもらう。\n"
+"　さっそく行ってみよう。"
+msgstr ""
+
+#. We finally managed to get our hands on
+#. a used copy of 'Amber Amour.' Let's get
+#. it back to Heming as soon as we can.
+msgctxt "#218 step"
+msgid ""
+"・中古屋で目的のレコードを手に入れた。\n"
+"　ヘミングさんに届けよう。"
+msgstr ""
+
+#. We gave Heming his record, and Etoile
+#. finally has its signature song back!
+msgctxt "#219 step"
+msgid "・ヘミングさんにレコードを渡し、依頼を達成した！"
+msgstr ""
+
+#. Heimdallr Port Monster
+msgctxt "#220 quest"
+msgid "ヘイムダル港の手配魔獣"
+msgstr ""
+
+#. A terrifying monster has been sighted
+#. in an underground waterway near
+#. Heimdallr port.
+#. 
+#. Confirm the specifics with Danberto the
+#. port chief, then eliminate the creature.
+msgctxt "#220 desc"
+msgid ""
+"ヘイムダル港付近の地下水道に\n"
+"　危険な大型魔獣が出現したとの報告あり。\n"
+"\n"
+"　まずはヘイムダル港に向かい、\n"
+"　管理長のダンベルト氏に詳細を要確認。\n"
+"　その上で、魔獣討伐を行うこと。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・We took the key to the underground
+#. waterway from Danberto. We can get in
+#. through a door farther into the port.
+msgctxt "#221 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・ダンベルトさんから地下水道の鍵を受け取った。\n"
+"　奥にある扉から入れるらしい。"
+msgstr ""
+
+#. The waterways are safe once again!
+#. Let's get out of here and tell Danberto.
+msgctxt "#222 step"
+msgid ""
+"・手配魔獣を退治した！\n"
+"　地下水道を出て報告しよう。"
+msgstr ""
+
+#. We told Danberto that we
+#. defeated the monster!
+msgctxt "#223 step"
+msgid "・ダンベルトさんに報告し、依頼を達成した！"
+msgstr ""
+
+#. Made for Walkin'
+msgctxt "#224 quest"
+msgid "新製品のテスト"
+msgstr ""
+
+#. I need someone to test a new product.
+#. 
+#. Come to Le Sage on Vainqueur Street
+#. and I'll tell you more.
+#.                          --Howard
+msgctxt "#224 desc"
+msgid ""
+"とある新製品のテストを行ってもらいたい。\n"
+"\n"
+"詳しくはヴァンクール通りの\n"
+"ブティック《ル・サージュ》まで。\n"
+"　　　　　　　　　　　　　　──ハワード"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Howard gave us a pair of Ladies' Stregas.
+#. ・Laura's going to have to walk two
+#. thousand steps while wearing them.
+msgctxt "#225 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・ハワード・オーナーから\n"
+"　『ストレガー・レディ』を受け取った。\n"
+"・ラウラに履いてもらい、２０００歩以上歩こう。"
+msgstr ""
+
+#. Laura walked over two thousand steps in the
+#. Stregas and we told Howard how they held up.
+msgctxt "#226 step"
+msgid ""
+"・２０００歩以上歩き、ハワード・オーナーに報告。\n"
+"　依頼を達成した！"
+msgstr ""
+
+#. Oh No, Nono!
+msgctxt "#227 quest"
+msgid "迷い猫の捜索"
+msgstr ""
+
+#. Our family's kitten has gone missing.
+#. 
+#. If you can help us, please visit us in our
+#. home in the Ost District for more details.
+#.                          --Keaton
+msgctxt "#227 desc"
+msgid ""
+"我が家の大切な子猫を探しています。\n"
+"　\n"
+"　まずは話を聞きに、オスト地区の自宅まで\n"
+"　来てもらえないでしょうか。\n"
+"　　　　　　　　　　　　　　　──キートン"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Keaton's family told us all about their
+#. missing kitten, Nono. She has white fur and is
+#. very timid... She shouldn't have strayed too far.
+#. ・The family's already asked the residents'
+#. association to help them search indoors, so we
+#. only need to look outdoors in the Ost District.
+msgctxt "#228 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・キートンさん一家から事情を伺う。\n"
+"　迷子になったのは白い子猫のノノ。\n"
+"　とても臆病な子らしく、迷子とはいえ\n"
+"　そう遠くへは行っていないだろうとのこと。\n"
+"・自治会にも依頼しているため、\n"
+"　屋内にいれば連絡が入るだろうということで、\n"
+"　オスト地区の屋外を一通り探すことに。"
+msgstr ""
+
+#. We spotted two brown cats -- a mother and a
+#. kitten -- in northern Ost.
+msgctxt "#229 step"
+msgid "・オスト地区の北で茶色の親子猫を見かけた。"
+msgstr ""
+
+#. We spotted a black and white cat in
+#. southern Ost.
+msgctxt "#230 step"
+msgid "・オスト地区の南で牛柄模様の猫を見かけた。"
+msgstr ""
+
+#. We spotted a gray cat in eastern Ost.
+msgctxt "#231 step"
+msgid "・オスト地区の東でグレーの猫を見かけた。"
+msgstr ""
+
+#. We spotted Mr. Tiddles, the leader
+#. of all the cats in Ost. Let's go
+#. after him and see what we find!
+msgctxt "#232 step"
+msgid ""
+"・オスト地区の東でボス猫の『ボス』を見かけた。\n"
+"　後を追おう。"
+msgstr ""
+
+#. Yes! We brought Nono back!
+msgctxt "#233 step"
+msgid "・ノノを無事に発見、依頼を達成した！"
+msgstr ""
+
+#. Burglary at the Jewelers
+msgctxt "#234 quest"
+msgid "宝飾店の盗難事件"
+msgstr ""
+
+#. It seems a burglary has taken place at
+#. a jewelers in the Garnier District
+#. called San Corries.
+#. 
+#. We should head over and find out what
+#. happened as soon as possible!
+msgctxt "#234 desc"
+msgid ""
+"ガルニエ地区にある宝飾店にて、\n"
+"　盗難事件が発生した模様。\n"
+"　\n"
+"　店の名前は《サン・コリーズ》──　\n"
+"　すぐに向かって、責任者から話を聞こう。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・The owner, Cordelia, told us that the culprit
+#. was the famous Phantom Thief B, and that he'd
+#. specifically called us out for some sort of
+#. treasure hunt.
+#. ・While it feels like we're walking into a trap,
+#. if we can get the stolen Crimson Tiara back, we
+#. need to try. Our first clue: 'At the feet of
+#. the conqueror with the heart of a lion.'
+msgctxt "#235 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・コーデリア店長から事件の概要を聞く。\n"
+"　犯人は帝都で知られる盗賊《怪盗Ｂ》──\n"
+"　なぜか俺たちⅦ組Ａ班に\n"
+"　試練と称して宝探しの真似事をさせたいらしい。\n"
+"・とにかく、盗まれた《紅蓮の小冠》を取り戻そう。\n"
+"　ヒントは──\n"
+"　『獅子の心を持つ覇者　\n"
+"　　その足元を見よ』"
+msgstr ""
+
+#. We found our next card at the feet of the
+#. statue of Emperor Dreichels in Dreichels Plaza.
+#. On it was another clue, reading 'In the
+#. northeastern seat of the prismatic palace.'
+msgctxt "#236 step"
+msgid ""
+"・ドライケルス広場にて、\n"
+"　ドライケルス大帝の足元に貼られたカードを発見。\n"
+"　そこには次のヒントが──\n"
+"　『光透ける箱庭の中　\n"
+"　　北東の座に』"
+msgstr ""
+
+#. We found another card attached to the
+#. northeast bench in the Crystal Garden. Our next
+#. clue: 'At the round table where once rested the
+#. gauntlets that supported the east of the city.'
+#. ・Right after that, we ran into Baron Bleublanc.
+#. I don't know what he's after, but he gives me
+#. a weird feeling...
+msgctxt "#237 step"
+msgid ""
+"・クリスタルガーデンにて、\n"
+"　北東のベンチに貼られたカードを発見。\n"
+"　次のヒントは──\n"
+"　『かつて都の東を支えた籠手たち　\n"
+"　　彼らが憩いし円卓に』\n"
+"・なおその際、ブルブラン男爵と遭遇。\n"
+"　相変わらず何が目的なのか分からないが……"
+msgstr ""
+
+#. We found another card, this one attached to
+#. the legs of the table on the second floor of the
+#. guild where we were staying. Its clue says:
+#. 'On the bottom of the white burden of the steel
+#. bird perched at the water's edge.'
+msgctxt "#238 step"
+msgid ""
+"・俺たちの宿泊先であるアルト通りの旧ギルド支部、\n"
+"　その２階のテーブルの足元に貼られたカードを発見。\n"
+"　次のヒントは──\n"
+"　『水際にて佇む鋼鉄の鳥\n"
+"　　その身に課せられた \n"
+"　　白き重荷の裏に』"
+msgstr ""
+
+#. We headed to Heimdallr Port and asked the
+#. chief there to check the bottom of the
+#. containers near the large crane. Lo and behold,
+#. we found another card.
+#. ・The seemingly-final clue also appears to
+#. point to Heimdallr Port: 'The crimson crown
+#. you seek sleeps within a black ark, nestled
+#. in the steel car that marches with the minutes.'
+msgctxt "#239 step"
+msgid ""
+"・ヘイムダル港にて、管理長さんにお願いし、\n"
+"　大型クレーンの脇にあるコンテナの底を調べると\n"
+"　何とカードが貼られていた。\n"
+"・次の指定は同じヘイムダル港の模様。\n"
+"　どうやら今度で最後のようだが……\n"
+"　『待ち合わせに赴いた\n"
+"　　長き鋼鉄の車\n"
+"　　深紅の宝はその中で眠る\n"
+"　　黒き匣に包まれて』"
+msgstr ""
+
+#. The driver agreed to let us look inside the tram.
+msgctxt "#240 step"
+msgid "・運転士さんにお願いし、導力トラムの中を探すことに。"
+msgstr ""
+
+#. We safely recovered the Crimson Tiara
+#. from inside the tram.
+#. ・We then learned that the driver we spoke
+#. to was the Phantom Thief B -- or Bleublanc,
+#. as he introduced himself -- in disguise. We
+#. still don't know what he's after, though.
+#. ・Even though we couldn't capture him, we
+#. were able to recover the tiara. We checked
+#. in with the local government and reported
+#. back to Cordelia at San Corries.
+msgctxt "#241 step"
+msgid ""
+"・導力トラムの中で無事に《紅蓮の小冠》を取り戻す。\n"
+"・なお《怪盗Ｂ》は運転士に変装し、\n"
+"　大胆にも俺たちとの接触を図った。\n"
+"　バリアハートでも会ったブルブラン男爵──\n"
+"　改めて『怪盗紳士ブルブラン』と名乗ったが、\n"
+"　その目的はやはり分からない。\n"
+"・怪盗を捕まえることは出来なかったが、\n"
+"　事件のあらましを帝都庁に伝え、宝飾店の店長に報告。\n"
+"　何とか無事に依頼を達成した。"
+msgstr ""
+
+#. In Case of Emergency
+msgctxt "#242 quest"
+msgid "取り違えられた荷物"
+msgstr ""
+
+#. A tourist from Crossbell by the name of
+#. Bond seems to have swapped suitcases
+#. with someone else by mistake.
+#. 
+#. Let's see if we can find whoever that
+#. was and get this mixup sorted out.
+msgctxt "#242 desc"
+msgid ""
+"クロスベルから来たという\n"
+"　ボンドさんの荷物を間違えて\n"
+"　持っていってしまった人がいるらしい。\n"
+"　\n"
+"　何とか、その人物を探し出し、\n"
+"　お互いの荷物を元に戻してあげよう。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Apparently the person who has Bond's
+#. briefcase has plans to watch the parade
+#. from the Garnier District. Let's move.
+msgctxt "#243 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・もう一方の荷物の持ち主は、\n"
+"　ガルニエ地区でパレードを見る予定のようだ。\n"
+"　通りで詳しそうな人に聞いてみよう。"
+msgstr ""
+
+#. We talked to a man running a juice stall in
+#. the Garnier District and he told us that the
+#. person we're looking for was looking for a
+#. place to rest, so he recommended the Alto
+#. District. Let's see if he's at Concert
+#. Cafe - Etoile.
+msgctxt "#244 step"
+msgid ""
+"・ガルニエ地区のジュース屋さんに\n"
+"　荷物の持ち主の心当りを聞く。\n"
+"　手頃に休める場所を聞かれ、\n"
+"　アルト通りを勧めたそうだが……\n"
+"　音楽喫茶《エトワール》を覗いてみよう。"
+msgstr ""
+
+#. We found the man with Bond's briefcase
+#. and solved the suitcase situation!
+msgctxt "#245 step"
+msgid ""
+"・荷物の持ち主を発見し、\n"
+"　ボンドさんの荷物と無事に交換してもらった！"
+msgstr ""
+
+#. Old Schoolhouse Mystery V
+msgctxt "#246 quest"
+msgid "旧校舎地下の調査⑤"
+msgstr ""
+
+#. Does anyone in Class VII actually read
+#. these? If I wrote whatever I wanted
+#. here, would they investigate the old
+#. schoolhouse regardless? Perhaps I should
+#. use this opportunity to tell a joke.
+#. 
+#. I know just the one! Two men walk into a
+#. bar, Instructors Neithardt and Thomas,
+#. perhaps, and one says to the other --
+#. Oh, blast it, I'm out of room...
+#.                  --Principal Vandyck
+msgctxt "#246 desc"
+msgid ""
+"先月に引き続き、旧校舎地下の調査を\n"
+"　特科クラス《Ⅶ組》に依頼する。\n"
+"　\n"
+"　かの場所で起きている\n"
+"　多くの不可思議な現象について\n"
+"　調べを進めてほしい。\n"
+"　\n"
+"　万全に準備を整えた上で、\n"
+"　諸君らの判断で始めてくれたまえ。\n"
+"　　　　　　　　　　──ヴァンダイク学院長"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・We can now go all the way down to the fifth
+#. floor of the schoolhouse. What kind of horrors
+#. could await us down there?
+msgctxt "#247 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・新たな階層、第５層に辿り着いた。\n"
+"　慎重に調査を開始しよう。"
+msgstr ""
+
+#. Oh, that kind. We defeated another tough
+#. enemy on the fifth floor. That's enough
+#. exploration for me for one day.
+msgctxt "#248 step"
+msgid ""
+"・第５層の最奥にて、強力な敵を倒す。\n"
+"　そろそろ旧校舎を出よう。"
+msgstr ""
+
+#. Another month, another floor investigated.
+msgctxt "#249 step"
+msgid "・旧校舎の探索を無事に終えた！"
+msgstr ""
+
+#. Side by Sidecar
+msgctxt "#250 quest"
+msgid "導力バイクの機能拡張"
+msgstr ""
+
+#. We're adding a new feature to the bike
+#. and we want YOU to give it a test run.
+#. 
+#. Come see us in the engineering building
+#. when you're ready to ride.
+#.                     --George & Angelica
+msgctxt "#250 desc"
+msgid ""
+"機能拡張のため、あるユニットを取り付けた\n"
+"　導力バイクの走行テストを頼みたい。\n"
+"　\n"
+"　詳しくは、技術部棟まで。\n"
+"　　　　　　　　──ジョルジュ＆アンゼリカ"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Today I'll be testing something called
+#. a 'sidecar,' which means I'll have Towa
+#. riding next to me through the whole test.
+#. ・It took some getting used to, but I
+#. think I handled the sidecar pretty well!
+msgctxt "#251 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・今回は《サイドカー》の運転ということで、\n"
+"　隣にトワ会長を乗せた状態で各種項目をテスト──\n"
+"・独特の挙動に戸惑いつつも、\n"
+"　我ながら上手く操縦することができた！"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Today I'll be testing something called
+#. a 'sidecar,' which means I'll have Towa
+#. riding next to me through the whole test.
+#. ・It took some getting used to, but I
+#. think I handled the sidecar well enough.
+msgctxt "#252 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・今回は《サイドカー》の運転ということで、\n"
+"　隣にトワ会長を乗せた状態で各種項目をテスト──\n"
+"・独特の挙動に戸惑いつつも、\n"
+"　それなりに上手く操縦することができた。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Today I'll be testing something called
+#. a 'sidecar,' which means I'll have Towa
+#. riding next to me through the whole test.
+#. ・Yikes, that was a rough ride. I don't
+#. think I can count all the mistakes I made.
+msgctxt "#253 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・今回は《サイドカー》の運転ということで、\n"
+"　隣にトワ会長を乗せた状態で各種項目をテスト──\n"
+"・独特の挙動に戸惑い、かなりミスしてしまった……"
+msgstr ""
+
+#. Thors' 7 Mysteries
+msgctxt "#254 quest"
+msgid "学院七不思議の調査"
+msgstr ""
+
+#. Lately, the other girls have been going
+#. on about the seven mysteries of the
+#. academy. I desire this grim knowledge.
+#. 
+#. If you do, too, visit the Occult
+#. Research Society clubroom in the Student
+#. Union building.
+#.             --Beryl, Year 1, Class III
+msgctxt "#254 desc"
+msgid ""
+"最近、一部の女子の間で流行っている\n"
+"　学院七不思議の調査をお願いしたいの。\n"
+"　\n"
+"　詳しくは学生会館・オカルト研究会まで。\n"
+"　\n"
+"　　　　　　　　　　　──１年Ⅲ組・ベリル"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・I agreed to ask people who might be
+#. familiar with the mysteries for more
+#. details. If there's anything that I'm
+#. not sure about, I should ask Beryl.
+msgctxt "#255 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・七不思議について、それぞれ詳しそうな人に\n"
+"　話を聞きに行くことに。\n"
+"　分からないことがあれば、ベリルに聞こう。"
+msgstr ""
+
+#. The first mystery is 'The Crying
+#. Sculpture.' Clara runs the Art Club,
+#. so she might know the truth behind it.
+msgctxt "#256 step"
+msgid ""
+"・一つ目の不思議は『彫像の涙』。\n"
+"　美術部のクララ先輩から話を聞こう。"
+msgstr ""
+
+#. The second mystery is 'The Haunted
+#. Piano.' This one's a question for
+#. Hibelle, head of the Wind Orchestra.
+msgctxt "#257 step"
+msgid ""
+"・二つ目の不思議は『無人の演奏会』。\n"
+"　吹奏楽部のハイベル先輩から話を聞こう。"
+msgstr ""
+
+#. The third mystery is 'The Forbidden
+#. Tome.' Nobody knows books like Instructor
+#. Thomas, so I should ask him about it.
+msgctxt "#258 step"
+msgid ""
+"・三つ目の不思議は『禁断の書』。\n"
+"　トマス教官から話を聞こう。"
+msgstr ""
+
+#. The fourth mystery is 'The Hidden
+#. Graves.' Paula spends a lot of time on the
+#. field riding horses, so we should talk.
+msgctxt "#259 step"
+msgid ""
+"・四つ目の不思議は『グラウンドの墓穴』。\n"
+"　馬術部のポーラさんから話を聞こう。"
+msgstr ""
+
+#. The fifth mystery is 'The Sports Clubs'
+#. Grudge.' Friedel's the Fencing Club
+#. captain; she probably knows her screams...
+msgctxt "#260 step"
+msgid ""
+"・五つ目の不思議は『練武場の悲鳴』。\n"
+"　フェンシング部のフリーデル先輩から話を聞こう。"
+msgstr ""
+
+#. The sixth mystery is 'The Crimson Devil
+#. of Lake Hell.' Kenneth's the guy to ask.
+#. His last name IS Lakelord, after all.
+msgctxt "#261 step"
+msgid ""
+"・六つ目の不思議は『地獄池の赤い悪魔』。\n"
+"　釣皇倶楽部のケネスから話を聞こう。"
+msgstr ""
+
+#. The seventh mystery is 'The Poltergeist
+#. in the Upper Class Dormitory.' The maids
+#. are there all day, so I should ask them.
+msgctxt "#262 step"
+msgid ""
+"・七つ目の不思議は『ポルターガイスト』。\n"
+"　第一学生寮のメイドさんから話を聞こう。"
+msgstr ""
+
+#. Clara gave me some information
+#. on 'The Crying Sculpture.'
+msgctxt "#263 step"
+msgid ""
+"・『彫像の涙』について、\n"
+"　美術部のクララ先輩から情報を得た。"
+msgstr ""
+
+#. Hibelle gave me some information
+#. on 'The Haunted Piano.'
+msgctxt "#264 step"
+msgid ""
+"・『無人の演奏会』について、\n"
+"　吹奏楽部のハイベル先輩から情報を得た。"
+msgstr ""
+
+#. Instructor Thomas gave me some
+#. information on 'The Forbidden Tome.'
+msgctxt "#265 step"
+msgid ""
+"・『禁断の書』について、\n"
+"　トマス教官から情報を得た。"
+msgstr ""
+
+#. Paula gave me some information
+#. on 'The Hidden Graves.'
+msgctxt "#266 step"
+msgid ""
+"・『グラウンドの墓穴』について、\n"
+"　馬術部のポーラから情報を得た。"
+msgstr ""
+
+#. Friedel gave me some information
+#. on 'The Sports Clubs' Grudge.'
+msgctxt "#267 step"
+msgid ""
+"・『練武場の悲鳴』について、\n"
+"　フェンシング部のフリーデル先輩から情報を得た。"
+msgstr ""
+
+#. Kenneth gave me some information
+#. on 'The Crimson Devil of Lake Hell.'
+msgctxt "#268 step"
+msgid ""
+"・『地獄池の赤い悪魔』について、\n"
+"　ケネスから情報を得た。"
+msgstr ""
+
+#. Lotte have me some information on 'The
+#. Poltergeist in the Upper Class Dormitory.'
+msgctxt "#269 step"
+msgid ""
+"・『ポルターガイスト』について、\n"
+"　ロッテさんから情報を得た。"
+msgstr ""
+
+#. I've gathered information on all seven
+#. mysteries. I should go tell Beryl everything
+#. I know.
+msgctxt "#270 step"
+msgid ""
+"・七不思議に関する情報を一通り入手した。\n"
+"　ベリルに報告しに行こう。"
+msgstr ""
+
+#. I gave Beryl all the information I'd gathered.
+#. I'm curious what she meant by 'the real seven
+#. mysteries,' but it's probably safer if I don't
+#. even ask...
+msgctxt "#271 step"
+msgid ""
+"・ベリルに調査結果を報告して依頼を達成。\n"
+"　“本物の七不思議”については気になるが……\n"
+"　とりあえず忘れよう。"
+msgstr ""
+
+#. Swimming Lessons Mk. II
+msgctxt "#272 quest"
+msgid "続・水練の稽古"
+msgstr ""
+
+#. Determined not to let Instructor
+#. Neithardt get the better of her,
+#. Instructor Sara has decided to give the
+#. girls of Class VII swimming lessons.
+#. 
+#. ...That's great, but why'd she have
+#. to drag me into all this?
+msgctxt "#272 desc"
+msgid ""
+"ナイトハルト教官に対抗心を燃やす\n"
+"　サラ教官がⅦ組の女子連中に\n"
+"　水練の指導を行うことに。\n"
+"\n"
+"　なぜか俺も参加することになったが……"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Much like Neithardt's lessons, we
+#. kicked things off by racing each other.
+#. I raced Alisa first.
+msgctxt "#273 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・ナイトハルト教官の時と同じく、\n"
+"　とりあえず競争から始めることになり、\n"
+"　最初はアリサと泳ぐことに。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Much like Neithardt's lessons, we
+#. kicked things off by racing each other.
+#. I raced Laura first.
+msgctxt "#274 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・ナイトハルト教官の時と同じく、\n"
+"　とりあえず競争から始めることになり、\n"
+"　最初はラウラと泳ぐことに。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Much like Neithardt's lessons, we
+#. kicked things off by racing each other.
+#. I raced Emma first.
+msgctxt "#275 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・ナイトハルト教官の時と同じく、\n"
+"　とりあえず競争から始めることになり、\n"
+"　最初はエマと泳ぐことに。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Much like Neithardt's lessons, we
+#. kicked things off by racing each other.
+#. I raced Fie first.
+msgctxt "#276 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・ナイトハルト教官の時と同じく、\n"
+"　とりあえず競争から始めることになり、\n"
+"　最初はフィーと泳ぐことに。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Much like Neithardt's lessons, we
+#. kicked things off by racing each other.
+#. I raced Millium first.
+msgctxt "#277 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・ナイトハルト教官の時と同じく、\n"
+"　とりあえず競争から始めることになり、\n"
+"　最初はミリアムと泳ぐことに。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Much like Neithardt's lessons, we
+#. kicked things off by racing each other.
+#. I raced Instructor Sara first.
+msgctxt "#278 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・ナイトハルト教官の時と同じく、\n"
+"　とりあえず競争から始めることになり、\n"
+"　最初はサラ教官と泳ぐことに。"
+msgstr ""
+
+#. I won against her, too.
+msgctxt "#279 step"
+msgid "結果──勝つことができた。"
+msgstr ""
+
+#. I lost against her, though...
+msgctxt "#280 step"
+msgid "結果──負けてしまった。"
+msgstr ""
+
+#. Afterwards, we agreed to Millium's idea
+#. of playing underwater tag until our stamina
+#. gave out. Naturally, this led to some
+#. unfortunate accidents, but eventually
+#. our exhausting training came to an end.
+msgctxt "#281 step"
+msgid ""
+"・その後、ミリアムの提案で俺たちは\n"
+"　体力の続くまで水中で鬼ごっこを行う。\n"
+"　ちょっとしたハプニングもあったが……\n"
+"　厳しくも楽しく訓練することができた！"
+msgstr ""
+
+#. The Sleeping Boy
+msgctxt "#282 quest"
+msgid "眠り入った男の子"
+msgstr ""
+
+#. I practically stumbled over a boy
+#. named Kurt asleep in the church.
+#. 
+#. Rosine and I decided to work
+#. together to get him home safely.
+msgctxt "#282 desc"
+msgid ""
+"教会で眠っていた\n"
+"　男の子・クルト君を偶然発見──\n"
+"\n"
+"　ロジーヌさんと二人で協力し、\n"
+"　一緒に家まで送り届けることに。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・I carried Kurt home as Rosine held an
+#. umbrella over me. Together, we were able
+#. to get him home without waking him up.
+msgctxt "#283 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・俺がクルト君を抱きかかえ、\n"
+"　ロジーヌさんに傘を差してもらいつつ、\n"
+"　クルト君を起こさないまま家まで送り届けた。"
+msgstr ""
+
+#. Arseid School Training Bout
+msgctxt "#284 quest"
+msgid "門下生との手合わせ"
+msgstr ""
+
+#. I wish for Lady Laura and you, her
+#. classmates, to engage in a friendly
+#. training bout against students of the
+#. Arseid school.
+#. 
+#. When you have prepared sufficiently,
+#. please make your way to the training
+#. hall, which is down the stairs outside
+#. the mansion and to the right.
+#.                           --Klaus
+msgctxt "#284 desc"
+msgid ""
+"ラウラお嬢様、並びにご学友の皆様に\n"
+"　アルゼイド流門下生たちとの\n"
+"　手合わせをお願いしたく存じます。\n"
+"　\n"
+"　準備が整いましたら、屋敷を下った先にある\n"
+"　練武場までお越し下さいませ。\n"
+"　　　　　　　　　　　　　──執事クラウス"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・After facing off against the students of
+#. the Arseid school, Laura, Millium, Emma,
+#. and I were challenged by Klaus himself.
+msgctxt "#285 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・門下生との手合わせを終えた後、\n"
+"　俺、ラウラ、ミリアム、エマの４人で\n"
+"　クラウスさんと手合わせを行う。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・After facing off against the students of
+#. the Arseid school, Laura, Millium, Jusis,
+#. and I were challenged by Klaus himself.
+msgctxt "#286 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・門下生との手合わせを終えた後、\n"
+"　俺、ラウラ、ミリアム、ユーシスの４人で\n"
+"　クラウスさんと手合わせを行う。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・After facing off against the students of
+#. the Arseid school, Laura, Millium, Gaius,
+#. and I were challenged by Klaus himself.
+msgctxt "#287 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・門下生との手合わせを終えた後、\n"
+"　俺、ラウラ、ミリアム、ガイウスの４人で\n"
+"　クラウスさんと手合わせを行う。"
+msgstr ""
+
+#. The battle was fierce, but we emerged
+#. victorious against Klaus, fulfilling
+#. his request!
+msgctxt "#288 step"
+msgid "・クラウスさんに何とか勝利し、依頼を達成した！"
+msgstr ""
+
+#. Ebel Highway Monster
+msgctxt "#289 quest"
+msgid "エベル街道の手配魔獣"
+msgstr ""
+
+#. A monster's been spotted roving the
+#. Ebel Highway, and he's a big one!
+#. 
+#. Monster: Crocodark
+#. Location: Ebel Highway
+#. 
+#. I request that Class VII deal with this
+#. threat as soon as they possibly can.
+#.                           --Toval
+msgctxt "#289 desc"
+msgid ""
+"街道に危険な大型魔獣が出現中。\n"
+"　\n"
+"　魔獣：【サメゲーター】\n"
+"　場所：エベル街道\n"
+"　\n"
+"　特科クラスⅦ組による速やかなる\n"
+"　討伐を願う。\n"
+"　　　　　　　　　　　　──遊撃士トヴァル"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・That Crocodark is croco-done.
+#. Better let Toval know.
+msgctxt "#290 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・手配魔獣を退治した！\n"
+"　トヴァルさんに報告しに行こう。"
+msgstr ""
+
+#. Now that we've told Toval, we can
+#. scratch that request off the list!
+msgctxt "#291 step"
+msgid "・トヴァルさんに報告し、依頼を達成した！"
+msgstr ""
+
+#. Many Hands Make Light Work
+msgctxt "#292 quest"
+msgid "街道灯の一斉交換"
+msgstr ""
+
+#. I need someone to replace a lot of
+#. orbment lights all along the highway.
+#. 
+#. If you like putting lights into things,
+#. you can find me in Watteau's store.
+#.                          --Duncan
+msgctxt "#292 desc"
+msgid ""
+"街道灯の一斉交換を\n"
+"　お願いしたいと思います。\n"
+"　\n"
+"　詳しくは、《ワトー商店》のダンカンまで。\n"
+"　　　　　　　　　　　　　　　──ダンカン"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Apparently the lights in the road lamps
+#. along the Ebel Highway have been worn down,
+#. and they all need replacing. That means we've
+#. got fourteen lamps that need their lights
+#. replaced. Let's do this.
+msgctxt "#293 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・エベル街道の街道灯に劣化が見られたらしく、\n"
+"　まとめて交換することに。\n"
+"　数は全部で１４箇所、確実にこなそう。"
+msgstr ""
+
+#. Seven down, seven to go!
+#. We're halfway there!
+msgctxt "#294 step"
+msgid ""
+"・７箇所で導力灯を交換。\n"
+"　残りはあと半分、一気に片付けよう。"
+msgstr ""
+
+#. We've exchanged all of the orbment
+#. lights. Let's go tell Duncan.
+msgctxt "#295 step"
+msgid ""
+"・全ての導力灯を交換した。\n"
+"　ダンカンさんに報告しに行こう。"
+msgstr ""
+
+#. We showed Duncan that nobody replaces
+#. lights like we do. Nobody.
+msgctxt "#296 step"
+msgid "・ダンカンさんに報告し、依頼を達成した！"
+msgstr ""
+
+#. Ebel Highway Monster 2
+msgctxt "#297 quest"
+msgid "エベル街道の手配魔獣②"
+msgstr ""
+
+#. There's another monster on the Ebel
+#. Highway, but we don't know what KIND
+#. of monster it is.
+#. 
+#. Monster: Details unknown
+#. Location: Ebel Highway
+#. 
+#. Don't let me down, Class VII. Get this
+#. taken care of a.s.a.p.
+#.                              --Toval
+msgctxt "#297 desc"
+msgid ""
+"街道に危険な大型魔獣が出現中。\n"
+"　\n"
+"　魔獣：詳細不明\n"
+"　場所：エベル街道\n"
+"　\n"
+"　特科クラスⅦ組による速やかなる\n"
+"　討伐を願う。　　　　　　　　　\n"
+"　　　　　　　　　　　　──遊撃士トヴァル"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・We took that monster down! We should
+#. tell Toval as soon as we get the chance.
+msgctxt "#298 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・手配魔獣を退治した！\n"
+"　トヴァルさんに報告しに行こう。"
+msgstr ""
+
+#. Another beaten monster means another
+#. completed request.
+msgctxt "#299 step"
+msgid "・トヴァルさんに報告し、依頼を達成した！"
+msgstr ""
+
+#. An Offering to the Departed
+msgctxt "#300 quest"
+msgid "慰霊の供え物"
+msgstr ""
+
+#. I would like to practice making an
+#. offering to St. Sandlot.
+#. 
+#. Would you be willing to help me gather
+#. the materials necessary to do so?
+#. 
+#. If so, come see me at Legram Chapel.
+#.                       --Sister Theramis
+msgctxt "#300 desc"
+msgid ""
+"聖女様へのお供え物をこしらえる\n"
+"　練習をしたいと考えています。\n"
+"　\n"
+"　どうか、そのための材料調達を\n"
+"　手伝っていただけないでしょうか。\n"
+"\n"
+"　詳しくは七耀教会・レグラム礼拝堂まで。\n"
+"　　　　　　　　　　──シスター・セラミス"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・We'll need to gather the following:
+#. 1) Hearty Powder x5
+#. 2) Clear Gelatin x5
+#. 3) White Seed
+#. We can get the first two from monsters,
+#. but we'll need to get the third from
+#. the Arseid household's head chef.
+msgctxt "#301 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・必要な材料は以下──\n"
+"　①魔獣の粉末×５\n"
+"　②魔獣のゼラチン×５\n"
+"　③ホワイトシード\n"
+"　この内、ホワイトシードは、\n"
+"　アルゼイド家の料理長にお願いしてみることに。"
+msgstr ""
+
+#. Josef gave us some white seed
+msgctxt "#302 step"
+msgid "・ヨーゼフさんにホワイトシードを譲ってもらった。"
+msgstr ""
+
+#. We delivered all the ingredients to
+#. Sister Theramis and she let us try some
+#. of the food she made. We'll leave the
+#. remainder as an offering to St. Sandlot.
+msgctxt "#303 step"
+msgid ""
+"・シスターに材料を届け、試食までさせてもらった。\n"
+"　せっかくなので、聖女の像にお供えすることに。"
+msgstr ""
+
+#. We told Sister Theramis about our offering,
+#. completing her request!
+msgctxt "#304 step"
+msgid "・お供えをしシスターに報告、依頼を達成した！"
+msgstr ""
+
+#. A Golden Catch
+msgctxt "#305 quest"
+msgid "幻の魚を求めて"
+msgstr ""
+
+#. Calling all fishermen! Could someone
+#. catch me the elusive gold salmon?
+#. Find me at the Aprikoze Inn for more
+#. detailed information.
+#.                     --Weiber
+msgctxt "#305 desc"
+msgid ""
+"幻の魚《ゴルドサモーナ》を\n"
+"　取ってきていただけませんか。\n"
+"\n"
+"　詳しくは、宿酒場《アプリコーゼ》の\n"
+"　ウェイバーまで。\n"
+"　　　　　　　　　　　　　　──ウェイバー"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆ 
+#. ・Weiber claims that Toval spotted a gold
+#. salmon in a river just off the highway.
+#. We should go take a look for ourselves.
+msgctxt "#306 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・ウェイバーさん曰く、最近トヴァルさんが\n"
+"　街道の外れの川でゴルドサモーナを見かけたそうだ。\n"
+"　とりあえず街道の川に出向こう。"
+msgstr ""
+
+#. We arrived at the river only to find that
+#. somebody had beaten us there. Even more
+#. surprisingly, she challenged us to see who
+#. could catch a gold salmon first.
+msgctxt "#307 step"
+msgid ""
+"・川に行くと先客がおり、なぜか先にどちらが\n"
+"　ゴルドサモーナを釣り上げるか競う流れに。"
+msgstr ""
+
+#. We caught a gold salmon! Weiber's
+#. going to be so excited.
+msgctxt "#308 step"
+msgid ""
+"・ゴルドサモーナを釣り上げた！\n"
+"　ウェイバーさんに報告しに行こう。"
+msgstr ""
+
+#. When we delivered the fish to Weiber,
+#. he let us taste some of it. Awesome!
+msgctxt "#309 step"
+msgid "・ウェイバーさんに魚を届け、試食までさせてもらった！"
+msgstr ""
+
+#. Charm of the Eisenritter
+msgctxt "#310 quest"
+msgid "鉄騎隊の御守り"
+msgstr ""
+
+#. We agreed to find some luminous grass
+#. for Cindy.
+#. 
+#. She needs it to make a charm that traces
+#. its origins back to the Eisenritter.
+msgctxt "#310 desc"
+msgid ""
+"シンディさんのお願いを聞く形で\n"
+"　グローグラスという花を探すことに。\n"
+"\n"
+"　どうやら鉄騎隊にまつわる御守りを\n"
+"　作るために必要らしい。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Apparently, luminous grass isn't grass at
+#. all, but a flower that can only be found when
+#. the fog clears in this region. People have
+#. seen it on Ebel Highway. It's supposed to be
+#. more common in areas with higher elevation.
+msgctxt "#311 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・グローグラスは霧の晴れた時に咲く白い花で、\n"
+"　エベル街道で見つかるらしい。\n"
+"　周りと比べて高い所に咲くことが多いとのこと。"
+msgstr ""
+
+#. We found some luminous grass! Let's get
+#. this to Cindy as soon as we can!
+msgctxt "#312 step"
+msgid ""
+"・グローグラスを手に入れた。\n"
+"　さっそくシンディさんに渡しに行こう。"
+msgstr ""
+
+#. We gave Cindy the luminous grass!
+msgctxt "#313 step"
+msgid "・シンディさんにグローグラスを渡した！"
+msgstr ""
+
+#. Old Schoolhouse Mystery VI
+msgctxt "#314 quest"
+msgid "旧校舎地下の調査⑥"
+msgstr ""
+
+#. Good Mr. Schwarzer, we have come to an
+#. amusing juncture at which, even were I
+#. to submit a blank request form, you
+#. would naturally assume my intent to be
+#. an investigation of the old
+#. schoolhouse, and so it is once again.
+#.                   --Principal Vandyck
+msgctxt "#314 desc"
+msgid ""
+"先月に引き続き、旧校舎地下の調査を\n"
+"　特科クラス《Ⅶ組》に依頼する。\n"
+"　\n"
+"　かの場所で起きている\n"
+"　多くの不可思議な現象について\n"
+"　調べを進めてほしい。\n"
+"　\n"
+"　万全に準備を整えた上で、\n"
+"　諸君らの判断で始めてくれたまえ。\n"
+"　　　　　　　　　　──ヴァンダイク学院長"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#.  ・All of the lights on the elevator panel
+#. are lit and we can now descend all the way
+#. to the sixth floor. There's no telling what
+#. awaits us now.
+msgctxt "#315 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・新たに第６層へ行けるようになったようだが……\n"
+"　どうやらパネルのランプはこれで全て点灯したようだ。\n"
+"　とにかく探索を始めよう。"
+msgstr ""
+
+#. ・We defeated an unbelievably powerful foe
+#. and...nothing happened. Not much to do now
+#. but go home for the day.
+msgctxt "#316 step"
+msgid ""
+"・第６層の最奥にて強力な敵を倒したが、\n"
+"　特に何も起きる様子はなかった。\n"
+"　……とりあえず、そろそろ旧校舎を出よう。"
+msgstr ""
+
+#. ・It's hard to believe, but that spells
+#. the end of our schoolhouse investigations.
+msgctxt "#317 step"
+msgid "・旧校舎の探索を無事に終えた！"
+msgstr ""
+
+#. A Personal Request
+msgctxt "#318 quest"
+msgid "個人的な依頼"
+msgstr ""
+
+#. Rean, I have to ask you to do me a
+#. favor.
+#. 
+#. I'll be in the training hall on the
+#. first floor of the gym. If you come,
+#. come prepared.
+#.                     --Angelica Rogner
+msgctxt "#318 desc"
+msgid ""
+"リィン君に個人的に頼みたいことがある。\n"
+"　\n"
+"　ギムナジウム１Ｆの修練場にて待つ。\n"
+"　気が向いたら足を運んでくれたまえ。\n"
+"　　　　　　　　　──アンゼリカ・ログナー"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#.  ・Turns out that by 'favor,'  Angelica
+#. meant 'duel.'
+msgctxt "#319 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・アンゼリカ先輩の頼みというのは手合わせだった。"
+msgstr ""
+
+#. ・I was able to emerge victorious, but it wasn't
+#. easy. Angelica's a practitioner of Taito, and
+#. she's no slouch in a fight.
+msgctxt "#320 step"
+msgid ""
+"何とか勝利を収めることができたが、\n"
+"　アンゼリカ先輩は東方の泰斗流を修めているらしく、\n"
+"　その実力は相当なものだった。"
+msgstr ""
+
+#. I agreed to fight her...and was thoroughly
+#. trounced. Angelica's been studying Taito
+#. for a long time and it shows.
+msgctxt "#321 step"
+msgid ""
+"結果は敗北──\n"
+"　アンゼリカ先輩は東方の泰斗流を修めているらしく、\n"
+"　その実力は相当なものだった。"
+msgstr ""
+
+#. From Heart to Stomach
+msgctxt "#322 quest"
+msgid "手料理のプレゼント"
+msgstr ""
+
+#. I'm thinking about making some food as a
+#. present for someone, but I don't know
+#. what to make! It's gotta be something
+#. that screams 'me,' y'know? I think I'll
+#. need someone's help to figure that out.
+#. 
+#. If you've got a stomach of steel and
+#. can help me out, meet me in the
+#. cafeteria kitchen in the Student Union!
+#.               ㈱ Mint, Year 1, Class III
+msgctxt "#322 desc"
+msgid ""
+"ある人に手料理をプレゼントしようと\n"
+"　思っているんだけど、\n"
+"　どんなものがいいのか困っています。\n"
+"　\n"
+"　私らしい、とっておきの料理を作るため、\n"
+"　どうか協力してくれないかな。\n"
+"　\n"
+"　詳しくは学生会館・食堂の厨房まで。\n"
+"　\n"
+"　　　　　　　　　　　──１年Ⅲ組・ミント"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Mint asked me to bring her a number of
+#. dishes that I would describe as 'superb' to
+#. fuel the fires of her cooking passion.
+#. ・She needs three dishes in all -- one soup,
+#. one main, and one dessert. Once I've chosen
+#. my three, I'll bring them her way.
+msgctxt "#323 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・ミントのインスピレーションを刺激するため、\n"
+"　俺が絶品と感じる料理をいくつか提供することに。\n"
+"・必要なのは『スープ』『メインディッシュ』\n"
+"　『デザート』の３品。\n"
+"　用意して持って行こう。"
+msgstr ""
+
+#. I gave Mint my three chosen dishes and
+#. she managed to whip up the Mint Special α.
+#. It was a little too unique for my palate,
+#. but she made it with love, and that's what
+#. counts...probably. Either way, that's one
+#. more request taken care of!
+msgctxt "#324 step"
+msgid ""
+"・ミントに料理を３品提供し、\n"
+"　『ミントスペシャルα』が完成。\n"
+"　多少クセはあるが、\n"
+"　愛情の感じられる一品だった。\n"
+"・とにかく、これで依頼は達成だ。"
+msgstr ""
+
+#. I gave Mint my three chosen dishes and
+#. she managed to whip up the Mint Special β.
+#. It was a little too unique for my palate,
+#. but she made it with love, and that's what
+#. counts...probably. Either way, that's one
+#. more request taken care of!
+msgctxt "#325 step"
+msgid ""
+"・ミントに料理を３品提供し、\n"
+"　『ミントスペシャルβ』が完成。\n"
+"　多少クセはあるが、\n"
+"　愛情の感じられる一品だった。\n"
+"・とにかく、これで依頼は達成だ。"
+msgstr ""
+
+#. I gave Mint my three chosen dishes and
+#. she managed to whip up the Mint Special Ω.
+#. It was a little too unique for my palate,
+#. but she made it with love, and that's what
+#. counts...probably. Either way, that's one
+#. more request taken care of!
+msgctxt "#326 step"
+msgid ""
+"・ミントに料理を３品提供し、\n"
+"　『ミントスペシャルΩ』が完成。\n"
+"　多少クセはあるが、\n"
+"　愛情の感じられる一品だった。\n"
+"・とにかく、これで依頼は達成だ。"
+msgstr ""
+
+#. Celestin's Secret
+msgctxt "#327 quest"
+msgid "執事の隠し事"
+msgstr ""
+
+#. Patrick told me that Celestin's been
+#. acting very strange lately, and it sounds
+#. like it's more than just his imagination.
+#. 
+#. I agreed to look into Celestin's behavior
+#. without arousing his suspicions. First
+#. stop: the upper class dormitory.
+msgctxt "#327 desc"
+msgid ""
+"パトリックからセレスタンさんの様子が\n"
+"　いつもと違うことを聞かされ、\n"
+"　それとなく事情を窺うことに。\n"
+"　\n"
+"　何かあることは間違いなさそうだが……\n"
+"　とりあえず、第１学生寮に行ってみよう。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・I visited the upper class dormitory, but
+#. Celestin was nowhere to be found. When I
+#. asked Lotte, she told me he'd gone to our
+#. dorm to collect something from Sharon.
+msgctxt "#328 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・第１学生寮に出向くも、セレスタンさんは留守だった。\n"
+"　ロッテさん曰く、何でも\n"
+"　シャロンさんから受け取るものがあるらしく\n"
+"　第３学生寮の方に出かけたそうだ。"
+msgstr ""
+
+#. Sharon told me that she'd made too much
+#. food and Celestin had come to collect
+#. some. He also mentioned he'd be stopping
+#. by Kirsche's later, so let's meet him there.
+msgctxt "#329 step"
+msgid ""
+"・シャロンさんからおかずのお裾分けを受け取った\n"
+"　セレスタンさんは、帰りに《キルシェ》に寄ろうかと\n"
+"　言っていたらしい。"
+msgstr ""
+
+#. I found Celestin at Kirsche's. After a brief
+#. discussion about Patrick, he challenged me to
+#. a little card game.
+#. ・After I won, he shared some of the
+#. reasons for his recent behavior with
+#. me. I should pass them on to Patrick.
+msgctxt "#330 step"
+msgid ""
+"・キルシェでセレスタンさんを見つけ、\n"
+"　パトリックの話をすると\n"
+"　ブレードを使ったシャッフルゲームを行うことに。\n"
+"・結果は勝利──事情を軽く聞かせてもらった。\n"
+"　とりあえず、パトリックに報告しに行こう。"
+msgstr ""
+
+#. I found Celestin at Kirsche's. After a brief
+#. discussion about Patrick, he challenged me to
+#. a little card game.
+#. ・Because I lost, he refused to tell me
+#. why he'd been acting so strangely. That
+#. said, he did promise to tell Patrick the
+#. truth, so I should let him know.
+msgctxt "#331 step"
+msgid ""
+"・キルシェでセレスタンさんを見つけ、\n"
+"　パトリックの話をすると\n"
+"　ブレードを使ったシャッフルゲームを行うことに。\n"
+"・結果は敗北──詳しい事情は聞けなかったが、\n"
+"　改めてパトリックに話すことを約束してもらう。\n"
+"　とりあえず、パトリックに報告しに行こう。"
+msgstr ""
+
+#. I told Patrick everything
+#. I learned from Celestin!
+msgctxt "#332 step"
+msgid "・パトリックにセレスタンさんのことを伝えた！"
+msgstr ""
+
+#. Mining a Minor Metal
+msgctxt "#333 quest"
+msgid "希少金属の捜索"
+msgstr ""
+
+#. I'm looking for a particularly rare sort
+#. of metal for my research, but I'm afraid
+#. I can't get it myself.
+#. 
+#. If you're willing to help, I'll be in
+#. the western part of the upper level of
+#. the Roer Institute of Technology.
+#.                           --Ratto
+msgctxt "#333 desc"
+msgid ""
+"ある稀少な研究材料の調達を\n"
+"　お願いできないでしょうか。\n"
+"　\n"
+"　上層西側エリアにある\n"
+"　《ルーレ工科大学》にてお待ちしています。\n"
+"　　　　　　　　　　　　　──研究員ラット"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Ratto needed linium, a minor metal we can
+#. get from the Sachsen Iron Mine.
+#. ・Apparently, the mine shaft where we could
+#. obtain linium has been sealed off due to the
+#. appearance of a dangerous monster. We'll
+#. need to be doubly careful now.
+msgctxt "#334 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・ザクセン鉄鉱山に向かい、\n"
+"　『リニウム鉱』というレアメタルを調達してくることに。\n"
+"・『リニウム鉱』が採取できる坑道には\n"
+"　手強い魔獣が出るらしく、現在は封鎖されているらしい。\n"
+"　注意して向かおう。"
+msgstr ""
+
+#. We were given the key to the mine shaft
+#. by the chief miner. Let's get exploring.
+msgctxt "#335 step"
+msgid ""
+"・鉱山長から坑道の鍵を受け取った。\n"
+"　さっそく探索しよう。"
+msgstr ""
+
+#. They weren't kidding about that monster.
+#. We beat him, though, and managed to get
+#. our hands on some linium, which it seems
+#. to have swallowed. I hope Ratto's happy...
+msgctxt "#336 step"
+msgid ""
+"・奥で巨大な魔獣と交戦し、『リニウム鉱』を手に入れた。\n"
+"　どうやら魔獣が飲み込んでいたようだ。\n"
+"　とにかく、ラットさんに届けよう。"
+msgstr ""
+
+#. Linium delivered!
+msgctxt "#337 step"
+msgid "・ラットさんに『リニウム鉱』を渡し、依頼を達成した！"
+msgstr ""
+
+#. Can You Hear Me Now?
+msgctxt "#338 quest"
+msgid "ＡＲＣＵＳの通信強度調査"
+msgstr ""
+
+#. I'd like a hand with an experiment that
+#. concerns your ARCUS units.
+#. 
+#. I will be waiting for you inside the
+#. RF Store, and I'll tell you more when
+#. I see you.
+#.                            --Johann
+msgctxt "#338 desc"
+msgid ""
+"君たちが持つＡＲＣＵＳを使って、\n"
+"　ある調査を行ってもらいたい。\n"
+"　\n"
+"　《ＲＦストア》で待っているので、\n"
+"　まずは話を聞きに来てくれるだろうか。\n"
+"　　　　　　　　　　　　　　　　──ヨハン"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Johann gave us an orbal wave detector
+#. and asked us to check every building in
+#. Roer to find areas with a signal strength
+#. of 1. This might take a while...
+msgctxt "#339 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・ヨハン主任から『導力波測定器』を受け取った。\n"
+"　これを使って屋内を一通り調査し、\n"
+"　導力波レベルが１の場所を見つけ出そう。"
+msgstr ""
+
+#. The interior of Dining Bar - F has a
+#. signal strength of 1!
+msgctxt "#340 step"
+msgid ""
+"・レベル１の場所を発見！\n"
+"　ダイニングバー《Ｆ》"
+msgstr ""
+
+#. The interior of Roer Cathedral has a
+#. signal strength of 1!
+msgctxt "#341 step"
+msgid ""
+"・レベル１の場所を発見！\n"
+"　ルーレ大聖堂"
+msgstr ""
+
+#. The interior of Jackass' Repair Shop
+#. has a signal strength of 1!
+msgctxt "#342 step"
+msgid ""
+"・レベル１の場所を発見！\n"
+"　修理屋《ジャッカス》"
+msgstr ""
+
+#. The interior of The Roer Institute of
+#. Technology has a signal strength of 1!
+msgctxt "#343 step"
+msgid ""
+"・レベル１の場所を発見！\n"
+"　ルーレ工科大学"
+msgstr ""
+
+#. The area in front of the sealed-off
+#. door on Roer's upper level has a signal
+#. strength of 1!
+msgctxt "#344 step"
+msgid ""
+"・レベル１の場所を発見！\n"
+"　屋外上層・封鎖された扉前"
+msgstr ""
+
+#. We told Johann about the three areas
+#. we found. Hopefully that helped!
+msgctxt "#345 step"
+msgid ""
+"・ヨハン主任に計３つのポイントを報告、\n"
+"　依頼を達成した！"
+msgstr ""
+
+#. We told Johann about the four areas
+#. we found. Hopefully that helped!
+msgctxt "#346 step"
+msgid ""
+"・ヨハン主任に計４つのポイントを報告、\n"
+"　依頼を達成した！"
+msgstr ""
+
+#. We told Johann about the five areas
+#. we found. Hopefully that helped!
+msgctxt "#347 step"
+msgid ""
+"・ヨハン主任に計５つのポイントを報告、\n"
+"　依頼を達成した！"
+msgstr ""
+
+#. Spina Byroad Monster
+msgctxt "#348 quest"
+msgid "スピナ間道の手配魔獣"
+msgstr ""
+
+#. A powerful beast has appeared on the
+#. Spina Byroad. The Nortia Provincial Army
+#. hereby requests its extermination.
+#. 
+#. Monster: Rocky Croaker
+#. Location: Spina Byroad. Take the left
+#. path outside the city and turn left.
+#. 
+#. Once the monster is eliminated, please
+#. report to the soldiers in front of
+#. Marquis Rogner's residence.
+msgctxt "#348 desc"
+msgid ""
+"スピナ間道に危険な魔獣が出現した。\n"
+"　ノルティア州領邦軍より退治を依頼する。\n"
+"　\n"
+"　魔獣：【オオイシゲェロ】\n"
+"　場所：スピナ間道・突き当たり左の先\n"
+"　\n"
+"　なお、魔獣退治を終えた後は\n"
+"　ログナー侯爵家・敷地入口の前にいる\n"
+"　兵士まで報告のこと。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・The Rocky Croaker's croaked! Better
+#. let the provincial army know.
+msgctxt "#349 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・手配魔獣を退治した！\n"
+"　領邦軍に報告しに行こう。"
+msgstr ""
+
+#. Another monster down and another
+#. Provincial Army request fulfilled.
+msgctxt "#350 step"
+msgid "・領邦軍に報告し、依頼を達成した！"
+msgstr ""
+
+#. Midnight Hide-and-Seek
+msgctxt "#351 quest"
+msgid "真夜中のかくれんぼ"
+msgstr ""
+
+#. We found a child who claimed to be
+#. playing some late-night hide-and-seek,
+#. so we decided to help him find his friend.
+#. 
+#. Fie thinks he's probably somewhere on the
+#. upper level of the city. We should look
+#. for him anywhere that a child might hide.
+msgctxt "#351 desc"
+msgid ""
+"夜遅くにかくれんぼをしているという\n"
+"　子供を見かけ、探すのを手伝うことに。\n"
+"　\n"
+"　フィーの見立てでは、上層にいる可能性がある。\n"
+"　子供が隠れそうな場所を探してみよう。"
+msgstr ""
+
+#. We found the child and made sure
+#. that he returned home safely!
+msgctxt "#352 step"
+msgid "・子供を見つけ、無事に家に帰すことができた！"
+msgstr ""
+
+#. Nortia Highway Monster
+msgctxt "#353 quest"
+msgid "ノルティア街道の手配魔獣"
+msgstr ""
+
+#. A ferocious monster has appeared on the
+#. Nortia Highway. The Nortia Provincial
+#. Army hereby requests its extermination.
+#. 
+#. Monster: Hydra
+#. Location: Open area off of Nortia Highway
+#. 
+#. Once the monster is eliminated, please
+#. report to the soldiers in front of
+#. Marquis Rogner's residence.
+msgctxt "#353 desc"
+msgid ""
+"ノルティア街道に危険な魔獣が出現した。\n"
+"　ノルティア州領邦軍より退治を依頼する。\n"
+"　\n"
+"　魔獣：【タトージャ】\n"
+"　場所：ノルティア街道・外れの広場\n"
+"　\n"
+"　なお、魔獣退治を終えた後は\n"
+"　ログナー侯爵家・敷地入口の前にいる\n"
+"　兵士まで報告のこと。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・That monster won't be bothering anyone
+#. now! We should tell the provincial army.
+msgctxt "#354 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・手配魔獣を退治した！\n"
+"　領邦軍に報告しに行こう。"
+msgstr ""
+
+#. We've checked in with the army and the
+#. highway is once again safe for travel.
+msgctxt "#355 step"
+msgid "・領邦軍に報告し、依頼を達成した！"
+msgstr ""
+
+#. Shots Fired
+msgctxt "#356 quest"
+msgid "ガンユニットのテスト"
+msgstr ""
+
+#. Those of us at Reinford's 2nd Factory
+#. have developed a new type of orbal gun
+#. and we'd like to have it tested.
+#. 
+#. Speak with me in RF Arms if you fancy
+#. giving it a shot.
+#.                             --Sandy
+msgctxt "#356 desc"
+msgid ""
+"我々『第二製作所』が、\n"
+"　新たに開発した新型導力銃を\n"
+"　テストしていただきたいと思います。\n"
+"　\n"
+"　詳しい内容は《ＲＦアームズ》にて。\n"
+"　　　　　　　　　　　　　　　──サンディ"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Sandy gave us a shotgun, which we promptly
+#. shoved into Machias' hands.
+#. ・We need to use it to defeat ten Dancing Owls
+#. on the Sachsen Mountain path. All of us can
+#. weaken them, but the final blow needs to be
+#. dealt with the shotgun.
+msgctxt "#357 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・サンディ主任からマキアス用の\n"
+"　ショットガンを受け取った。\n"
+"・ザクセン山道に出向き、\n"
+"　受け取った武器でダンシングオゥルを\n"
+"　１０体倒そう。\n"
+"　１人で倒さなくても\n"
+"　トドメを刺せれば大丈夫とのこと。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Sandy gave us a pair of gunswords, which Fie
+#. will be making use of.
+#. ・We need to use them to defeat ten Dancing Owls
+#. on the Sachsen Mountain path. All of us can
+#. weaken them, but the final blow needs to be
+#. dealt with the gunswords.
+msgctxt "#358 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・サンディ主任からフィー用の\n"
+"　双銃剣を受け取った。\n"
+"・ザクセン山道に出向き、\n"
+"　受け取った武器でダンシングオゥルを\n"
+"　１０体倒そう。\n"
+"　１人で倒さなくても\n"
+"　トドメを刺せれば大丈夫とのこと。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Sandy gave us a pair of pistols, which Crow
+#. happily accepted.
+#. ・We need to use them to defeat ten Dancing
+#. Owls on the Sachsen Mountain path. All of us
+#. can weaken them, but the final blow needs to
+#. be dealt with the pistols.
+msgctxt "#359 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・サンディ主任からクロウ用の\n"
+"　二丁拳銃を受け取った。\n"
+"・ザクセン山道に出向き、\n"
+"　受け取った武器でダンシングオゥルを\n"
+"　１０体倒そう。\n"
+"　１人で倒さなくても\n"
+"　トドメを刺せれば大丈夫とのこと。"
+msgstr ""
+
+#. We've defeated ten Dancing Owls now.
+#. We should give Sandy our report.
+msgctxt "#360 step"
+msgid ""
+"・ダンシングオゥルを１０体撃破。\n"
+"　サンディ主任に報告しに行こう。"
+msgstr ""
+
+#. We gave Sandy the test
+#. information he needed!
+msgctxt "#361 step"
+msgid "・サンディ主任に報告し、依頼を達成した！"
+msgstr ""
+
+#. Crying Over Lost Milk
+msgctxt "#362 quest"
+msgid "迷い猫の大捜索"
+msgstr ""
+
+#. Milk is missing! Could you please help
+#. us find our beloved little kitty?
+#. 
+#. Any would-be heroes should come talk to
+#. me at my house next to Dining Bar - F.
+#.                        ~Vanilla
+msgctxt "#362 desc"
+msgid ""
+"うちのミルクちゃんが\n"
+"　迷子になってしまったので、\n"
+"　どうか探してもらえないでしょうか。\n"
+"　\n"
+"　詳しくは、バニラまで。\n"
+"　ちなみに我が家は\n"
+"　ダイニングバー《Ｆ》の左手にあります。\n"
+"　\n"
+"　　　　　　　　　　　　　　　　──バニラ"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Milk is distinguishable by her brown and
+#. white fur and yellow collar. She's a very
+#. cautious cat, so she tends to avoid places
+#. with a lot of people. She also likes to
+#. crawl under things. All of the evidence
+#. points to her being outdoors.
+msgctxt "#363 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・ミルクの特徴は、白と茶色の毛に黄色い首輪。\n"
+"　警戒心がとても強いため、\n"
+"　人が多く集まるような場所は苦手らしい。\n"
+"　また、何かの下に潜り込むのが大好きとのこと。\n"
+"　とりあえず屋外を中心に探そう。"
+msgstr ""
+
+#. We found Milk under a bench near the Roer
+#. Institute of Technology, but she ran off.
+msgctxt "#364 step"
+msgid ""
+"・工科大学の近くのベンチでミルクを発見。\n"
+"　だが逃げられてしまった。"
+msgstr ""
+
+#. We found Milk under another bench near
+#. the diner, but she slipped away again.
+msgctxt "#365 step"
+msgid ""
+"・居酒屋の近くのベンチでミルクを発見。\n"
+"　だが再び逃げられてしまった。"
+msgstr ""
+
+#. We discovered Milk under a bench, but she
+#. got away from us a third time and ran into
+#. the station.
+#. ・We received permission from a station
+#. employee to check the train car Milk
+#. probably entered.
+msgctxt "#366 step"
+msgid ""
+"・駅の近くのベンチでミルクを発見。\n"
+"　だがまたまた逃げられ、今度は駅に入ってしまった。\n"
+"・駅員さんに許可を取り、\n"
+"　ミルクが乗り込んだと思われる車両を探すことに。"
+msgstr ""
+
+#. We reunited Vanilla and Milk! ...But
+#. why am I suddenly hungry for cookies?
+msgctxt "#367 step"
+msgid ""
+"・ミルクを無事に発見しバニラさんに報告、\n"
+"　依頼を達成した！"
+msgstr ""
+
+#. Slipped Their Minds
+msgctxt "#368 quest"
+msgid "飲食営業許可証の配達"
+msgstr ""
+
+#. A number of students have yet to collect
+#. their permission slips to serve food
+#. and drinks at the festival. Given that
+#. it's imperative that everyone doing so
+#. has a slip, I need them delivered today.
+#. 
+#. For more details, speak to me in the
+#. infirmary.
+#.                 --Instructor Beatrix
+msgctxt "#368 desc"
+msgid ""
+"学院祭で飲食営業をする許可証を\n"
+"　受け取りにきていない生徒がいるようです。\n"
+"　重要な物だから今日中に\n"
+"　渡しておいてもらえないかしら。\n"
+"　\n"
+"　詳しくは医務室で説明しましょう。\n"
+"　　　　　　　　　　　──ベアトリクス教官"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・Instructor Beatrix gave me four slips
+#. to deliver to the following four people.
+#. 1) Nicholas in the Cooking Club
+#. 2) Colette, a first year in Class IV
+#. 3) Becky, who's running her own stall.
+#. 4) Hugo, who's also running one of his.
+msgctxt "#369 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・ベアトリクス教官から\n"
+"　『飲食営業許可証』を４枚受け取った。\n"
+"　届け先は以下──\n"
+"　①調理部：ニコラス部長\n"
+"　②１年Ⅳ組：コレット\n"
+"　③個人屋台：ベッキー\n"
+"　④個人屋台：ヒューゴ"
+msgstr ""
+
+#. I went to the Cooking Club's clubroom,
+#. but it seems like Nicholas went out to
+#. buy supplies. I guess I'll have to find
+#. him at Brandon's General Goods.
+msgctxt "#370 step"
+msgid ""
+"・調理部に行ったが、ニコラス部長は\n"
+"　雑貨屋に出かけたそうだ。\n"
+"　直接届けに行こう。"
+msgstr ""
+
+#. I delivered Nicholas' permission slip.
+msgctxt "#371 step"
+msgid "・ニコラス部長に許可証を届けた。"
+msgstr ""
+
+#. Colette wasn't in Class IV's first-year
+#. classroom, but I heard she was in their
+#. second-year classroom. Better get going.
+msgctxt "#372 step"
+msgid ""
+"・１年Ⅳ組の教室にコレットはいなかった。\n"
+"　どうやら２年Ⅳ組の方にいるらしい。"
+msgstr ""
+
+#. I delivered Colette's permission slip.
+msgctxt "#373 step"
+msgid "・コレットに許可証を届けた。"
+msgstr ""
+
+#. I delivered Hugo and Becky's
+#. permission slips.
+msgctxt "#374 step"
+msgid "・ヒューゴとベッキーに許可証を届けた。"
+msgstr ""
+
+#. Now that I've delivered all four
+#. permission slips, I should let
+#. Instructor Beatrix know.
+msgctxt "#375 step"
+msgid ""
+"・４枚全て届けた。\n"
+"　ベアトリクス教官に報告しに行こう。"
+msgstr ""
+
+#. I reported back to Instructor
+#. Beatrix, completing her request!
+msgctxt "#376 step"
+msgid "・ベアトリクス教官に報告、依頼を達成した！"
+msgstr ""
+
+#. We Read the Comments
+msgctxt "#377 quest"
+msgid "インタビュー集め"
+msgstr ""
+
+#. We're doing a special feature here at
+#. Radio Trista on the academy festival,
+#. but we're running a little short on
+#. comments. Anyone want to collect the
+#. ones we need for me?
+#. 
+#. For more specifics, come see me in
+#. the Radio Trista building.
+#.     --Michael, director at Radio Trista
+msgctxt "#377 desc"
+msgid ""
+"ラジオで学院祭の特集番組をやるんだが、\n"
+"　まだ出し物について\n"
+"　コメントしてくれてない所があってな。\n"
+"　何とかもらってきちゃくれないか。\n"
+"\n"
+"　詳しくはラジオ局にて。\n"
+"　　　　　　　　──ディレクター・マイケル"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・I need to collect comments from:
+#. 1) A Class I first year
+#. 2) A Class V first year
+#. 3) The Occult Research Society
+msgctxt "#378 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・コメントを回収する必要があるのは以下──\n"
+"　①１年Ⅰ組\n"
+"　②１年Ⅴ組\n"
+"　③オカルト研究会"
+msgstr ""
+
+#. I received a comment from Ferris.
+msgctxt "#379 step"
+msgid "・フェリスからコメントをもらった。"
+msgstr ""
+
+#. I checked the training hall, but it turns
+#. out Munk was in charge of making the
+#. comment and he wasn't there. He might
+#. be in the lower class dormitory, though.
+msgctxt "#380 step"
+msgid ""
+"・練武場を訪れたが、コメント担当のムンクは\n"
+"　まだ来ていないそうだ。\n"
+"　第２学生寮の様子を見に行こう。"
+msgstr ""
+
+#. I received a comment from Munk.
+msgctxt "#381 step"
+msgid "・ムンクからコメントをもらった。"
+msgstr ""
+
+#. I received a comment from Beryl.
+msgctxt "#382 step"
+msgid "・ベリルからコメントをもらった。"
+msgstr ""
+
+#. I've gathered all three comments.
+#. Time to let Michael know.
+msgctxt "#383 step"
+msgid ""
+"・コメントを３つ集めた。\n"
+"　マイケルさんに報告しに行こう。"
+msgstr ""
+
+#. I gave Michael the comments, so the
+#. feature should go off without a hitch!
+msgctxt "#384 step"
+msgid "・マイケルさんにコメントを渡し、依頼を達成した！"
+msgstr ""
+
+#. Mail Mixup
+msgctxt "#385 quest"
+msgid "誤配達の荷物"
+msgstr ""
+
+#. Our class received a package that
+#. clearly wasn't meant for us.
+#. 
+#. We want to get it to whichever class
+#. ordered it, but we're too swamped with
+#. our preparations to ask around. Could
+#. someone please deliver this for us?
+#. 
+#. We'll be outside Class II's second-year
+#. classroom preparing for the festival.
+#. Please come see us if you can help.
+#.              --Bridget, Year 1, Class II
+msgctxt "#385 desc"
+msgid ""
+"私たちのクラスに\n"
+"　間違った荷物が届いているようです。\n"
+"　\n"
+"　準備で手が離せないんです。\n"
+"　正しい配達先に届けてもらえませんか。\n"
+"　\n"
+"　出し物の準備のため、\n"
+"  ２年Ⅱ組の教室前にいます。\n"
+"　お手数ですがこちらまでお越しください。\n"
+"　　　　　　　　　──１年Ⅱ組・ブリジット"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・I picked up the package that'd been delivered
+#. to Class II only to find cones inside... These
+#. are probably going to be used for something on
+#. the field.
+msgctxt "#386 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・１年Ⅱ組に間違って届いたという荷物を受け取る。\n"
+"　中身は三角コーン……グラウンドに関係ありそうだ。"
+msgstr ""
+
+#. It turns out the cones were meant for the
+#. Riding Club. Not only did they not get their
+#. package, but they got another one full of
+#. newly-printed books, too. Now I have to figure
+#. out who these are for...
+msgctxt "#387 step"
+msgid ""
+"・三角コーンは馬術部への荷物だった。\n"
+"　そして誤配達はここでも同じだったらしく、\n"
+"　代わりに新品の本を受け取る。\n"
+"　心当りを探そう。"
+msgstr ""
+
+#. I took the books to the bookstore and,
+#. unsurprisingly, I was entrusted with yet another
+#. package. This one contains copies of a handmade
+#. short story anthology.
+msgctxt "#388 step"
+msgid ""
+"・書店に荷物を渡し、代わりに誤配達の荷物を受け取る。\n"
+"　どうやら中身は手製の文芸誌のようだ。"
+msgstr ""
+
+#. Once I delivered the anthologies, I was given
+#. a package full of expensive-looking ornaments.
+#. Given that Class II's contribution to the
+#. festival has a fancy name like 'Stella Garten'...
+msgctxt "#389 step"
+msgid ""
+"・文芸部に荷物を届け、代わりに\n"
+"　高級そうな小物が入った荷物を受け取る。\n"
+"　Ⅱ組の催しが確か『ステラガルテン』だったが……"
+msgstr ""
+
+#. We've finally come full circle. All of
+#. the packages have been properly delivered!
+msgctxt "#390 step"
+msgid "・Ⅱ組に荷物を届け、依頼を達成した！"
+msgstr ""
+
+#. Duly Noted
+msgctxt "#391 quest"
+msgid "教頭の落し物"
+msgstr ""
+
+#. The vice principal seems to have lost
+#. his notebook, and he seems desperate to
+#. find it again. I'd like to help him out,
+#. but it'd be easier if I knew where to
+#. start...
+msgctxt "#391 desc"
+msgid ""
+"教頭が手帳をなくしてしまったらしい。\n"
+"　困っているようだし、\n"
+"　暇をみて探してみよう。\n"
+"　いずれにしても手がかりが欲しいが……"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+#. ・He mentioned something about dropping it
+#. when he was on the roof of the main building...
+msgctxt "#392 step"
+msgid ""
+"#666c　　　　          ◆　　　　◆　　　　◆\n"
+"・教頭の独り言によると、\n"
+"　どうやら屋上で落としたみたいだが……"
+msgstr ""
+
+#. It seems as though the vice principal was
+#. facing out into the courtyard at one point,
+#. but moved toward the academy field with his
+#. notebook in hand. So maybe...
+msgctxt "#393 step"
+msgid ""
+"・教頭は手帳を確認しながら\n"
+"　中庭に面した位置からグラウンド側に\n"
+"　移動したそうだ、とすると……"
+msgstr ""
+
+#. Apparently, a group of students found
+#. something next to the field and headed off
+#. somewhere quiet to look at it.
+msgctxt "#394 step"
+msgid ""
+"・グラウンド脇で何かを見つけたと\n"
+"　言っていた生徒がいたそうだ。\n"
+"　『人の来ない場所で見る』と言っていたらしい。"
+msgstr ""
+
+#. Rex and his group of friends gave me a black
+#. leather notebook. I should return this to the
+#. vice principal a.s.a.p.
+msgctxt "#395 step"
+msgid ""
+"・旧校舎前でレックスたちから黒革の手帳を受け取った。\n"
+"　教頭の所へ持って行こう。"
+msgstr ""
+
+#. I gave the vice principal his notebook
+#. back and learned all about Rixia Mao!
+msgctxt "#396 step"
+msgid "・教頭に手帳を渡した！"
+msgstr ""
+
+#. Academy Festival Patrol
+msgctxt "#397 quest"
+msgid "学院祭の見回り"
+msgstr ""
+
+#. I've agreed to help the Student Council
+#. during the festival. I'll be walking
+#. around and seeing if anyone needs help.
+msgctxt "#397 desc"
+msgid ""
+"生徒会の手伝いを引き受けた。\n"
+"　学院祭を巡回して\n"
+"　各種トラブルに対応しよう。"
+msgstr ""
+
+#. #666c　　　　          ◆　　　　◆　　　　◆
+msgctxt "#398 step"
+msgid "#666c　　　　          ◆　　　　◆　　　　◆"
+msgstr ""
+
+#. A couple asked me about Class III's
+#. attraction and I was able to guide them properly!
+msgctxt "#399 step"
+msgid ""
+"・来場者から１年Ⅲ組の催しについて聞かれ、\n"
+"　正しく案内できた！"
+msgstr ""
+
+#. A couple asked me about Class III's
+#. attraction and I couldn't help them out...
+msgctxt "#400 step"
+msgid ""
+"・来場者から１年Ⅲ組の催しについて聞かれたが、\n"
+"　正しく答えられなかった……"
+msgstr ""
+
+#. A girl on the rooftop has dropped her Mishy
+#. plush. She apparently had it just a while ago,
+#. so I should look around the main building for it.
+msgctxt "#401 step"
+msgid ""
+"・屋上にいる女の子がみっしぃの\n"
+"　ぬいぐるみを落としてしまったらしい。\n"
+"　ついさっきまで持っていたらしいが……\n"
+"　校舎内を探そう。"
+msgstr ""
+
+#. I found the girl's Mishy plush in the
+#. main building and returned it to her!
+msgctxt "#402 step"
+msgid ""
+"・校舎内でみっしぃのぬいぐるみを発見。\n"
+"　女の子に届けた！"
+msgstr ""
+
+#. Becky asked me to find and deliver her ten
+#. packs of Course Rock Salt.
+msgctxt "#403 step"
+msgid ""
+"・ベッキーから粗挽き岩塩を\n"
+"　１０個持ってくるよう頼まれた。"
+msgstr ""
+
+#. I gave Becky the salt she needed!
+msgctxt "#404 step"
+msgid "・ベッキーに食材を渡した！"
+msgstr ""
+
+#. A boy's balloon has been caught in a tree
+#. near the field. I'll have to borrow a ladder
+#. from the janitor to get it down.
+msgctxt "#405 step"
+msgid ""
+"・グラウンド脇の木に\n"
+"　男の子の風船が絡まってしまったようだ。\n"
+"　用務員さんに脚立を借りてこよう。"
+msgstr ""
+
+#. I rescued the boy's balloon!
+msgctxt "#406 step"
+msgid "・脚立を使って風船を取ってあげた！"
+msgstr ""
+
+#. I found Vanilla lost in front of the old
+#. schoolhouse. I should let Instructor Makarov
+#. know where she is.
+msgctxt "#407 step"
+msgid ""
+"・旧校舎の前で迷子のバニラさんを発見。\n"
+"　マカロフ教官に連絡しよう。"
+msgstr ""
+
+#. I told Instructor Makarov about Vanilla!
+msgctxt "#408 step"
+msgid "・マカロフ教官にバニラさんのことを伝えた！"
+msgstr ""
+
+#. <Aced history question>
+msgctxt "#409 quest"
+msgid "＜正答・歴史学＞"
+msgstr ""
+
+#. <Practical exam - April>
+msgctxt "#410 quest"
+msgid "＜実技テスト・４月＞"
+msgstr ""
+
+#. <Wary of the provincial army>
+msgctxt "#411 quest"
+msgid "＜領邦軍に疑念を持った＞"
+msgstr ""
+
+#. <Field study - April>
+msgctxt "#412 quest"
+msgid "＜特別実習・４月＞"
+msgstr ""
+
+#. <Aced military science question>
+msgctxt "#413 quest"
+msgid "＜正答・軍事学＞"
+msgstr ""
+
+#. <Figured out Crow's trick>
+msgctxt "#414 quest"
+msgid "＜手品のタネを見破った＞"
+msgstr ""
+
+#. <Practical exam - May>
+msgctxt "#415 quest"
+msgid "＜実技テスト・５月＞"
+msgstr ""
+
+#. <Field study - May>
+msgctxt "#416 quest"
+msgid "＜特別実習・５月＞"
+msgstr ""
+
+#. <Midterms>
+msgctxt "#417 quest"
+msgid "＜中間試験＞"
+msgstr ""
+
+#. <Practical exam - June>
+msgctxt "#418 quest"
+msgid "＜実技テスト・６月＞"
+msgstr ""
+
+#. <Pursued Airgetlam>
+msgctxt "#419 quest"
+msgid "＜アガートラムを追尾＞"
+msgstr ""
+
+#. <Field study - June>
+msgctxt "#420 quest"
+msgid "＜特別実習・６月＞"
+msgstr ""
+
+#. <Beat Sara in swimming race>
+msgctxt "#421 quest"
+msgid "＜水泳でサラ教官に勝利＞"
+msgstr ""
+
+#. <Beat Gaius at swimming>
+msgctxt "#422 quest"
+msgid "＜水泳でガイウスに勝利＞"
+msgstr ""
+
+#. <Practical exam - July>
+msgctxt "#423 quest"
+msgid "＜実技テスト・７月＞"
+msgstr ""
+
+#. <Discovered security flaw>
+msgctxt "#424 quest"
+msgid "＜近衛兵に警備の穴を指摘＞"
+msgstr ""
+
+#. <Field study - July>
+msgctxt "#425 quest"
+msgid "＜特別実習・７月＞"
+msgstr ""
+
+#. <Aced history question>
+msgctxt "#426 quest"
+msgid "＜正答・歴史学＞"
+msgstr ""
+
+#. <Practical exam - August>
+msgctxt "#427 quest"
+msgid "＜実技テスト・８月＞"
+msgstr ""
+
+#. <Field study - August>
+msgctxt "#428 quest"
+msgid "＜特別実習・８月＞"
+msgstr ""
+
+#. <Practical exam - September>
+msgctxt "#429 quest"
+msgid "＜実技テスト・９月＞"
+msgstr ""
+
+#. <Found Fie without help>
+msgctxt "#430 quest"
+msgid "＜フィーを自力で見つけた＞"
+msgstr ""
+
+#. <Field study - September>
+msgctxt "#431 quest"
+msgid "＜特別実習・９月＞"
+msgstr ""
+
+#. <Completed old schoolhouse>
+msgctxt "#432 quest"
+msgid "＜旧校舎・地下第７層の探索＞"
+msgstr ""
+
+#. <Heard about Crow sighting>
+msgctxt "#433 quest"
+msgid "＜クロウの目撃情報を聞いた＞"
+msgstr ""
