@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-13 09:01+0000\n"
+"PO-Revision-Date: 2026-07-14 10:21+0000\n"
 "Last-Translator: Weblate Admin <weblate@example.com>\n"
 "Language-Team: Vietnamese <http://officials-acceptance-intelligence-"
 "characterized.trycloudflare.com/projects/sen-no-kiseki-1/glossary/vi/>\n"
@@ -1613,3 +1613,69 @@ msgstr "khu vực ngầm"
 
 msgid "巨イナル影"
 msgstr "Cái Bóng Vĩ Đại"
+
+msgid "絆イベント"
+msgstr "Sự kiện gắn kết"
+
+msgid "掘り出し物"
+msgstr "Hàng giá hời"
+
+msgid "技術棟"
+msgstr "Tòa Kỹ thuật"
+
+msgid "導力計量器"
+msgstr "thiết bị đo lường dẫn lực"
+
+msgid "家庭科"
+msgstr "nữ công gia chánh"
+
+msgctxt "director (Trista radio)"
+msgid "ディレクター"
+msgstr "đạo diễn"
+
+msgid "アンティークの導力灯"
+msgstr "Đèn dẫn lực cổ"
+
+msgid "導力腕時計"
+msgstr "đồng hồ (đeo tay) dẫn lực"
+
+msgctxt "rest area"
+msgid "休憩スペース"
+msgstr "khu nghỉ ngơi"
+
+msgctxt "cafeteria"
+msgid "学生食堂"
+msgstr "nhà ăn"
+
+msgid "街道灯"
+msgstr "cột đèn"
+
+msgid "風邪"
+msgstr "cảm lạnh"
+
+msgid "ジルベル教区長"
+msgstr "Cha Zirbel"
+
+msgid "女将"
+msgstr "bà chủ"
+
+msgid "マゴットさん"
+msgstr "bác Maggot"
+
+msgid "獅子戦役の謎"
+msgstr "Bí ẩn Chiến Tranh Sư Tử"
+
+msgid "近代美術全集"
+msgstr "Toàn tập Mỹ thuật Hiện đại"
+
+msgid "新解サイエンス"
+msgstr "Khoa học Tân giải"
+
+msgid "分析・マクロ経済"
+msgstr "Phân tích - Kinh tế Vĩ mô"
+
+msgid "教頭"
+msgstr "Phó Hiệu trưởng"
+
+msgid "嗚呼、帝国旅情"
+msgstr "Ôi, Tình ca Lữ hành Đế quốc"
