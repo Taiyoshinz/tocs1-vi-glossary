@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-16 09:19+0000\n"
+"PO-Revision-Date: 2026-07-18 04:49+0000\n"
 "Last-Translator: Weblate Admin <weblate@example.com>\n"
 "Language-Team: Vietnamese <http://officials-acceptance-intelligence-"
 "characterized.trycloudflare.com/projects/sen-no-kiseki-1/glossary/vi/>\n"
@@ -1682,3 +1682,7 @@ msgstr "Ôi, Tình ca Lữ hành Đế quốc"
 
 msgid "ドリアード・ティア"
 msgstr "Nước Mắt Dryad"
+
+msgctxt "1"
+msgid "体育倉庫"
+msgstr "kho chứa dụng cụ thể dục"
