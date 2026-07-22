@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-22 08:17+0000\n"
+"PO-Revision-Date: 2026-07-24 07:39+0000\n"
 "Last-Translator: Weblate Admin <weblate@example.com>\n"
 "Language-Team: Vietnamese <http://q/projects/sen-no-kiseki-1/glossary/vi/>\n"
 "Language: vi\n"
@@ -1743,3 +1743,14 @@ msgstr "quản đốc"
 
 msgid "ダンベルトさんから"
 msgstr "bác Danberto"
+
+msgid ""
+"待ち合わせに赴いた\n"
+"長き鋼鉄の車\n"
+"深紅の宝はその中で眠る\n"
+"黒き匣に包まれて"
+msgstr ""
+"Ôi kho báu đỏ thẫm\n"
+"Nép mình trong lồng đen\n"
+"Say ngủ nơi toa thép\n"
+"Chờ người đến giải cứu."
