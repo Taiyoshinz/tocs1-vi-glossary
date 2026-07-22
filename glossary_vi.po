@@ -1,10 +1,9 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-18 04:49+0000\n"
+"PO-Revision-Date: 2026-07-22 08:17+0000\n"
 "Last-Translator: Weblate Admin <weblate@example.com>\n"
-"Language-Team: Vietnamese <http://officials-acceptance-intelligence-"
-"characterized.trycloudflare.com/projects/sen-no-kiseki-1/glossary/vi/>\n"
+"Language-Team: Vietnamese <http://q/projects/sen-no-kiseki-1/glossary/vi/>\n"
 "Language: vi\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -903,7 +902,7 @@ msgid "戦車"
 msgstr "xe tăng"
 
 msgid "兵士"
-msgstr "binh lính"
+msgstr "binh lính / binh sĩ"
 
 msgid "街道"
 msgstr "đường lộ"
@@ -1507,7 +1506,7 @@ msgid "ブティック《ル・サージュ》本店"
 msgstr "Le Sage Boutique - Cửa hàng chính"
 
 msgid "百貨店《プラザ・ビフロスト》"
-msgstr "Trung tâm thương mại - Plaza Bifrost"
+msgstr "Trung tâm Thương mại Plaza Bifrost"
 
 msgid "《ワトソン武器商会》"
 msgstr "Thương hội Vũ khí Watson"
@@ -1540,7 +1539,7 @@ msgid "居酒屋《ギャムジー》"
 msgstr "Quán rượu Gamgee"
 
 msgid "中古屋《エムロッド》"
-msgstr "Tiệm Đồ cổ Emmrod"
+msgstr "Tiệm Đồ cũ Emmrod"
 
 msgid "皇宮・宰相執務室"
 msgstr "Hoàng cung - Văn phòng Thủ tướng"
@@ -1686,3 +1685,61 @@ msgstr "Nước Mắt Dryad"
 msgctxt "1"
 msgid "体育倉庫"
 msgstr "kho chứa dụng cụ thể dục"
+
+msgid "司令室"
+msgstr "phòng chỉ huy"
+
+msgid "窪地"
+msgstr "vùng trũng"
+
+msgid "交易所"
+msgstr "Tiệm Giao Dịch"
+
+msgid "巨像"
+msgstr "bức tượng khổng lồ"
+
+msgid "放牧場"
+msgstr "bãi chăn thả"
+
+msgctxt "1"
+msgid "ラカンさん"
+msgstr "chú Lacan"
+
+msgid "講堂"
+msgstr "hội trường"
+
+msgid "水練の稽古"
+msgstr "khóa huấn luyện bơi đặc biệt"
+
+msgid "筆"
+msgstr "cây cọ"
+
+msgid "ジムさん"
+msgstr "anh Jim"
+
+msgid "ジャスミンさん"
+msgstr "chị Jasmine"
+
+msgid "帝国時報社"
+msgstr "Tòa soạn Thời báo Đế quốc"
+
+msgid "ノートンさん"
+msgstr "Chú Norton"
+
+msgid "パンフレット"
+msgstr "tờ rơi"
+
+msgid "ブティック"
+msgstr "tiệm thời trang"
+
+msgid "中古屋"
+msgstr "tiệm đồ cũ"
+
+msgid "ヘミングさん"
+msgstr "bác Heming"
+
+msgid "管理長"
+msgstr "quản đốc"
+
+msgid "ダンベルトさんから"
+msgstr "bác Danberto"
