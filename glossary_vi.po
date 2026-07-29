@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-24 07:39+0000\n"
+"PO-Revision-Date: 2026-07-29 06:30+0000\n"
 "Last-Translator: Weblate Admin <weblate@example.com>\n"
 "Language-Team: Vietnamese <http://q/projects/sen-no-kiseki-1/glossary/vi/>\n"
 "Language: vi\n"
@@ -1754,3 +1754,54 @@ msgstr ""
 "Nép mình trong lồng đen\n"
 "Say ngủ nơi toa thép\n"
 "Chờ người đến giải cứu."
+
+msgid "自治会"
+msgstr "tổ dân phố"
+
+msgid "紅蓮の小冠"
+msgstr "Vương miện Hồng Liên"
+
+msgid "怪盗紳士ブルブラン"
+msgstr "Quý Ông Đạo Tặc Bleublanc"
+
+msgid "サイドカー"
+msgstr "ghế ngồi phụ"
+
+msgid "彫像の涙"
+msgstr "Bức Tượng Rơi Lệ"
+
+msgid "無人の演奏会"
+msgstr "Chiếc Đàn Bị Ám"
+
+msgid "禁断の書"
+msgstr "Quyển Sách Cấm Kỵ"
+
+msgid "グラウンドの墓穴"
+msgstr "Huyệt Mộ Ẩn Giấu"
+
+msgid "ポーラさん"
+msgstr "chị Paula"
+
+msgid "練武場の悲鳴"
+msgstr "Tiếng Hét Thất Thanh"
+
+msgid "フリーデル"
+msgstr "chị Friedel"
+
+msgid "地獄池の赤い悪魔"
+msgstr "Xích Ma Hồ Địa Ngục"
+
+msgid "ポルターガイスト"
+msgstr "Hiện Tượng Kỳ Dị"
+
+msgid "クララ"
+msgstr "chị Clara"
+
+msgid "イベル"
+msgstr "anh Hibelle"
+
+msgid "ロッテ"
+msgstr "Chị Lotte"
+
+msgid "本物の七不思議"
+msgstr "bảy điều bí ẩn thực sự"
