@@ -1,9 +1,10 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-29 06:30+0000\n"
+"PO-Revision-Date: 2026-07-30 07:14+0000\n"
 "Last-Translator: Weblate Admin <weblate@example.com>\n"
-"Language-Team: Vietnamese <http://q/projects/sen-no-kiseki-1/glossary/vi/>\n"
+"Language-Team: Vietnamese <http://marvel-refers-sealed-"
+"little.trycloudflare.com/projects/sen-no-kiseki-1/glossary/vi/>\n"
 "Language: vi\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1805,3 +1806,51 @@ msgstr "Chị Lotte"
 
 msgid "本物の七不思議"
 msgstr "bảy điều bí ẩn thực sự"
+
+msgid "ロジーヌ"
+msgstr "Rosine"
+
+msgid "ダンカン"
+msgstr "bác Duncan"
+
+msgid "ヨーゼフ"
+msgstr "bác Josef"
+
+msgid "ウェイバー"
+msgstr "anh Weiber"
+
+msgid "シンディ"
+msgstr "chị Cindy"
+
+msgid "ミントスペシャルα"
+msgstr "Mint Độc Quyền α"
+
+msgid "ミントスペシャルβ"
+msgstr "Mint Độc Quyền β"
+
+msgid "鉱山長"
+msgstr "trưởng mỏ"
+
+msgid "ヨハン"
+msgstr "anh Johann"
+
+msgid "ＲＦストア"
+msgstr "Tiệm RF"
+
+msgid "導力波測定器"
+msgstr "máy đo sóng dẫn lực"
+
+msgid "間道"
+msgstr "đường nhánh"
+
+msgid "第二製作所"
+msgstr "Nhà máy số 2"
+
+msgid "ＲＦアームズ"
+msgstr "Tiệm Vũ khí RF"
+
+msgid "サンディ"
+msgstr "anh Sandy"
+
+msgid "ミルクちゃん"
+msgstr "bé Sữa"
