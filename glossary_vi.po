@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-30 07:14+0000\n"
+"PO-Revision-Date: 2026-07-31 09:17+0000\n"
 "Last-Translator: Weblate Admin <weblate@example.com>\n"
 "Language-Team: Vietnamese <http://marvel-refers-sealed-"
 "little.trycloudflare.com/projects/sen-no-kiseki-1/glossary/vi/>\n"
@@ -1854,3 +1854,6 @@ msgstr "anh Sandy"
 
 msgid "ミルクちゃん"
 msgstr "bé Sữa"
+
+msgid "マイケル"
+msgstr "chú Micheal"
