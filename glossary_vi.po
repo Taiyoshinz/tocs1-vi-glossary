@@ -1,10 +1,10 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-07-31 09:17+0000\n"
+"PO-Revision-Date: 2026-08-04 07:47+0000\n"
 "Last-Translator: Weblate Admin <weblate@example.com>\n"
-"Language-Team: Vietnamese <http://marvel-refers-sealed-"
-"little.trycloudflare.com/projects/sen-no-kiseki-1/glossary/vi/>\n"
+"Language-Team: Vietnamese <http://united-alice-euro-button.trycloudflare.com/"
+"projects/sen-no-kiseki-1/glossary/vi/>\n"
 "Language: vi\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1857,3 +1857,13 @@ msgstr "bé Sữa"
 
 msgid "マイケル"
 msgstr "chú Micheal"
+
+msgid "Stella Garten"
+msgstr "Vườn Ngôi Sao"
+
+msgctxt "Course Rock Salt"
+msgid "粗挽き岩塩"
+msgstr "muối hồng"
+
+msgid "バニラさん"
+msgstr "cô Vanilla"
