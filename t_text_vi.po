@@ -1,0 +1,2281 @@
+#
+msgid ""
+msgstr ""
+"Language: vi\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Talk to
+msgctxt "#0 text"
+msgid "と話す"
+msgstr ""
+
+#. #160IRide Horse
+msgctxt "#1 text"
+msgid "#160I馬に乗る"
+msgstr ""
+
+#. #161IDismount
+msgctxt "#2 text"
+msgid "#161I馬から降りる"
+msgstr ""
+
+#. #166IDash
+msgctxt "#3 text"
+msgid "#166Iダッシュ"
+msgstr ""
+
+#. #160IClimb
+msgctxt "#4 text"
+msgid "#160I登る"
+msgstr ""
+
+#. #160IClimb Down
+msgctxt "#5 text"
+msgid "#160I降りる"
+msgstr ""
+
+#. #160IOpen
+msgctxt "#6 text"
+msgid "#160I開ける"
+msgstr ""
+
+#. #160IPick Up
+msgctxt "#7 text"
+msgid "#160I拾う"
+msgstr ""
+
+#. #160IMove
+msgctxt "#8 text"
+msgid "#160I動かす"
+msgstr ""
+
+#. #160IFish
+msgctxt "#9 text"
+msgid "#160I釣りをする"
+msgstr ""
+
+#. #160IAttack
+msgctxt "#10 text"
+msgid "#160Iアタック"
+msgstr ""
+
+#. Characters you can meet
+msgctxt "#11 text"
+msgid "会えるキャラクター"
+msgstr ""
+
+#. #162IRide Horse
+msgctxt "#12 text"
+msgid "#162I馬に乗る"
+msgstr ""
+
+#. #163IHide Icons
+msgctxt "#13 text"
+msgid "#163Iアイコンを隠す"
+msgstr ""
+
+#. #162I: Investigate
+msgctxt "#14 text"
+msgid "#162I：調べる"
+msgstr ""
+
+#. Yes
+msgctxt "#15 text"
+msgid "はい"
+msgstr ""
+
+#. No
+msgctxt "#16 text"
+msgid "いいえ"
+msgstr ""
+
+#. #176IScroll #177ITurn camera #164I#166IZoom
+msgctxt "#17 text"
+msgid "#176Iスクロール #177Iカメラ操作 #164I#166Iズーム"
+msgstr ""
+
+#. Alisa R
+msgctxt "#18 text"
+msgid "アリサ・Ｒ"
+msgstr ""
+
+#. #144ICurrent Location
+msgctxt "#19 text"
+msgid "#144I現在地"
+msgstr ""
+
+#. #159IOrbment Charging Station
+msgctxt "#20 text"
+msgid "#159I回復装置"
+msgstr ""
+
+#. #149ITreasure Chest
+msgctxt "#21 text"
+msgid "#149I宝箱"
+msgstr ""
+
+#. #147IQuest Monster
+msgctxt "#22 text"
+msgid "#147I手配魔獣"
+msgstr ""
+
+#. #148IQuest Event
+msgctxt "#23 text"
+msgid "#148Iクエストイベント"
+msgstr ""
+
+#. #154IStory Event
+msgctxt "#24 text"
+msgid "#154Iキーイベント"
+msgstr ""
+
+#. #155IBonding Event
+msgctxt "#25 text"
+msgid "#155I絆イベント"
+msgstr ""
+
+#. #156IQuest Event
+msgctxt "#26 text"
+msgid "#156Iクエストイベント"
+msgstr ""
+
+#. #160ISkip Event
+msgctxt "#27 text"
+msgid "#160Iイベントスキップ"
+msgstr ""
+
+#. - PAUSE -
+msgctxt "#28 text"
+msgid "- PAUSE -"
+msgstr ""
+
+#. Change equipment.
+msgctxt "#29 text"
+msgid "装備を変更します。"
+msgstr ""
+
+#. Change quartz and use arts.
+msgctxt "#30 text"
+msgid "アーツの使用と、クオーツの変更をします。"
+msgstr ""
+
+#. Use items.
+msgctxt "#31 text"
+msgid "アイテムを使用します。"
+msgstr ""
+
+#. Check status and crafts.
+msgctxt "#32 text"
+msgid "ステータスとクラフトを確認します。"
+msgstr ""
+
+#. Check combat links.
+msgctxt "#33 text"
+msgid "戦術リンクの状況を確認します。"
+msgstr ""
+
+#. Adjust party order and formation, and set links.
+msgctxt "#34 text"
+msgid "パーティの隊列・陣形・リンク設定を変更します。"
+msgstr ""
+
+#. View the contents of various notebooks.
+msgctxt "#35 text"
+msgid "各種ノートを確認します。"
+msgstr ""
+
+#. Save and load data, and alter the game's settings.
+msgctxt "#36 text"
+msgid "セーブ・ロードや、設定の変更をします。"
+msgstr ""
+
+#. Save data.
+msgctxt "#37 text"
+msgid "セーブデータを書き込みます。"
+msgstr ""
+
+#. Load data.
+msgctxt "#38 text"
+msgid "セーブデータを読み込みます。"
+msgstr ""
+
+#. Delete save data.
+msgctxt "#39 text"
+msgid "セーブデータを削除します。"
+msgstr ""
+
+#. Exit the game.
+msgctxt "#40 text"
+msgid "ゲームを終了します。"
+msgstr ""
+
+#. Exit the game?
+msgctxt "#41 text"
+msgid "ゲームを終了しますか？"
+msgstr ""
+
+#. Change settings.
+msgctxt "#42 text"
+msgid "設定を変更します。"
+msgstr ""
+
+#. Return to title screen.
+msgctxt "#43 text"
+msgid "タイトルに戻ります。"
+msgstr ""
+
+#. Return to title screen?
+#. (Any unsaved progress will be lost.)
+msgctxt "#44 text"
+msgid ""
+"タイトルに戻りますか？\n"
+"（ゲームの途中経過は失われます）"
+msgstr ""
+
+#. Will upload current progress to the PlayStation繩･Network.
+msgctxt "#45 text"
+msgid ""
+"現在の進行状況をPlayStation㍻Networkに\n"
+"アップロードします。"
+msgstr ""
+
+#. Will download progress from the PlayStation纃ｻVita version.
+msgctxt "#46 text"
+msgid ""
+"PlayStation㍻Vita版でアップロードした進行状況を\n"
+"ダウンロードします。"
+msgstr ""
+
+#. Will download progress from the PlayStation纃ｻ3 version.
+msgctxt "#47 text"
+msgid ""
+"PlayStation㍻3版でアップロードした進行状況を\n"
+"ダウンロードします。"
+msgstr ""
+
+#. Adjust BGM volume.
+msgctxt "#48 text"
+msgid "ＢＧＭの音量を変更します。"
+msgstr ""
+
+#. Adjust SE volume.
+msgctxt "#49 text"
+msgid "ＳＥの音量を変更します。"
+msgstr ""
+
+#. Adjust voice volume.
+msgctxt "#50 text"
+msgid "ＶＯＩＣＥの音量を変更します。"
+msgstr ""
+
+#. Change vertical camera settings.
+msgctxt "#51 text"
+msgid "カメラ上下動作を変更します。"
+msgstr ""
+
+#. Change horizontal camera settings.
+msgctxt "#52 text"
+msgid "カメラ左右動作を変更します。"
+msgstr ""
+
+#. Set which notebook tab L2 opens.
+msgctxt "#53 text"
+msgid "ノートショートカットのＬ２ボタンを設定します。"
+msgstr ""
+
+#. Set which notebook tab R2 opens.
+msgctxt "#54 text"
+msgid "ノートショートカットのＲ２ボタンを設定します。"
+msgstr ""
+
+#. Change minimap display.
+msgctxt "#55 text"
+msgid "ミニマップ表示方法を変更します。"
+msgstr ""
+
+#. Turn controller vibration on or off.
+#. 窶ｻVibration needs to be enabled in system settings first.
+msgctxt "#56 text"
+msgid ""
+"コントローラ振動機能を変更します。\n"
+"※本体設定側の振動機能を「入」にする必要があります。"
+msgstr ""
+
+#. Configure button settings.
+msgctxt "#57 text"
+msgid "便利キー割り当てを変更します。"
+msgstr ""
+
+#. Adjust display settings.
+msgctxt "#58 text"
+msgid "画面設定の調整をします。"
+msgstr ""
+
+#. Change what the up button on the directional pad does.
+msgctxt "#59 text"
+msgid "方向キー上の割り当てを変更します。"
+msgstr ""
+
+#. Change what the down button on the directional pad does.
+msgctxt "#60 text"
+msgid "方向キー下の割り当てを変更します。"
+msgstr ""
+
+#. Change what the left button on the directional pad does.
+msgctxt "#61 text"
+msgid "方向キー左の割り当てを変更します。"
+msgstr ""
+
+#. Change what the right button on the directional pad does.
+msgctxt "#62 text"
+msgid "方向キー右の割り当てを変更します。"
+msgstr ""
+
+#. Change what the L1 button does.
+msgctxt "#63 text"
+msgid "Ｌ１ボタンの割り当てを変更します。"
+msgstr ""
+
+#. Change what the L button does.
+msgctxt "#64 text"
+msgid "Ｌボタンの割り当てを変更します。"
+msgstr ""
+
+#. Remove
+msgctxt "#65 text"
+msgid "装備をはずす"
+msgstr ""
+
+#. Remove
+msgctxt "#66 text"
+msgid "装備をはずします。"
+msgstr ""
+
+#. Equips a Weapon
+msgctxt "#67 text"
+msgid "武器を装備できます。"
+msgstr ""
+
+#. Equips Clothing
+msgctxt "#68 text"
+msgid "衣服を装備できます。"
+msgstr ""
+
+#. Equips Footwear
+msgctxt "#69 text"
+msgid "靴を装備できます。"
+msgstr ""
+
+#. Equips an Accessory
+msgctxt "#70 text"
+msgid "装飾品を装備できます。"
+msgstr ""
+
+#. Equips a Costume
+msgctxt "#71 text"
+msgid "コスチュームを変更できます。"
+msgstr ""
+
+#. Equips an Attachment
+msgctxt "#72 text"
+msgid "アタッチアイテムを装備できます。"
+msgstr ""
+
+#. #1CCannot equip now.
+msgctxt "#73 text"
+msgid "#1C今は装備できません。"
+msgstr ""
+
+#. ×%2d
+msgctxt "#74 text"
+msgid "×%2d"
+msgstr ""
+
+#. #1CNothing happened.
+msgctxt "#75 text"
+msgid "#1C何も起きなかった。"
+msgstr ""
+
+#. #2C%s#1C x %d was thrown away.
+msgctxt "#76 text"
+msgid "#2C%s#1Cを%d個捨てた。"
+msgstr ""
+
+#. #1CIt had no effect.
+msgctxt "#77 text"
+msgid "#1C効果が無かった。"
+msgstr ""
+
+#. #1C%s recovered #2C%d#1C HP.
+msgctxt "#78 text"
+msgid "#1C%sのＨＰが#2C%d#1C回復した。"
+msgstr ""
+
+#. #1C%s charged #2C%d#1C EP.
+msgctxt "#79 text"
+msgid "#1C%sのＥＰが#2C%d#1C回復した。"
+msgstr ""
+
+#. #1C%s recovered #2C%d#1C CP.
+msgctxt "#80 text"
+msgid "#1C%sのＣＰが#2C%d#1C回復した。"
+msgstr ""
+
+#. #1C%s is near death.
+msgctxt "#81 text"
+msgid "#1C%sは瀕死になった。"
+msgstr ""
+
+#. will be used.
+msgctxt "#82 text"
+msgid "を使用しますか？"
+msgstr ""
+
+#. has already been used.
+msgctxt "#83 text"
+msgid "は使用済みです。"
+msgstr ""
+
+#. Use arts.
+msgctxt "#84 text"
+msgid "アーツを使用します。"
+msgstr ""
+
+#. Set quartz.
+msgctxt "#85 text"
+msgid "クオーツをセットします。"
+msgstr ""
+
+#. #1CThis master quartz is already equipped.
+msgctxt "#86 text"
+msgid "#1C現在装備中のマスタークオーツです。"
+msgstr ""
+
+#. #1C%s is already using this master quartz.
+#. Exchange master quartz?
+msgctxt "#87 text"
+msgid ""
+"#1C%sが装備中のマスタークオーツです。\n"
+"交換しますか？"
+msgstr ""
+
+#. #55INot set
+msgctxt "#88 text"
+msgid "#55I未装着"
+msgstr ""
+
+#. Not set
+msgctxt "#89 text"
+msgid "未装着"
+msgstr ""
+
+#. #72IUnopened
+msgctxt "#90 text"
+msgid "#72I未開封"
+msgstr ""
+
+#. #1CThis slot is unopened.
+msgctxt "#91 text"
+msgid "#1Cスロットが未開封です。"
+msgstr ""
+
+#. #1CAutomatically set quartz in all empty slots?
+msgctxt "#92 text"
+msgid "#1C空いている項目にクオーツをセットしますか？"
+msgstr ""
+
+#. #1CRemove all quartz?
+msgctxt "#93 text"
+msgid "#1Cすべてのクオーツをはずしますか？"
+msgstr ""
+
+#. #175I: Change Party Order
+msgctxt "#94 text"
+msgid "#175I：隊列変更"
+msgstr ""
+
+#. #168I: Save Menu
+msgctxt "#95 text"
+msgid "#168I：セーブメニュー"
+msgstr ""
+
+#. #160I: Switch
+msgctxt "#96 text"
+msgid "#160I：入れ替え"
+msgstr ""
+
+#. #162I: Change Leader
+msgctxt "#97 text"
+msgid "#162I：リーダー選択"
+msgstr ""
+
+#. #177I: Rotate Character #180I#182I: Enlarge/Shrink
+msgctxt "#98 text"
+msgid "#177I：キャラ回転　#180I#182I：拡大/縮小"
+msgstr ""
+
+#. #177I: Rotate Character #162I+#164I#166I: Enlarge/Shrink
+msgctxt "#99 text"
+msgid "#177I：キャラ回転　#162I＋#164I#166I：拡大/縮小"
+msgstr ""
+
+#. #162I: View Arts #168I: Auto-Equip #170I: Remove All
+msgctxt "#100 text"
+msgid "#162I：アーツ一覧 #168I：自動装備 #170I：全解除"
+msgstr ""
+
+#. #160I: Move
+msgctxt "#101 text"
+msgid "#160I：移動"
+msgstr ""
+
+#. #162I: Set Link
+msgctxt "#102 text"
+msgid "#162I：リンク設定"
+msgstr ""
+
+#. #162I: Sever Link
+msgctxt "#103 text"
+msgid "#162I：リンク解除"
+msgstr ""
+
+#. Use
+msgctxt "#104 text"
+msgid "使う"
+msgstr ""
+
+#. Toss
+msgctxt "#105 text"
+msgid "捨てる"
+msgstr ""
+
+#. ？？？？
+msgctxt "#106 text"
+msgid "？？？？"
+msgstr ""
+
+#. ★？？？？
+msgctxt "#107 text"
+msgid "★？？？？"
+msgstr ""
+
+#. #1CClose the menu and begin the practical exam?
+msgctxt "#108 text"
+msgid ""
+"#1Cメニューを閉じて、\n"
+"実技テストを開始しますか？"
+msgstr ""
+
+#. #1CYou cannot save right now.
+msgctxt "#109 text"
+msgid "#1C現在セーブは使用できません。"
+msgstr ""
+
+#. #1CYou cannot form a party consisting only of K.O.ed members.
+msgctxt "#110 text"
+msgid ""
+"#1C戦闘不能状態のキャラだけで、\n"
+"アタックメンバーを編成することはできません。"
+msgstr ""
+
+#. #1CBuy #2C%s#1C x %d#1C for #579c%d mira#1C?
+msgctxt "#111 text"
+msgid ""
+"#2C%s#1Cを%d個\n"
+"#579c%dミラ#1Cで購入しますか？"
+msgstr ""
+
+#. #1CInsufficient mira.
+msgctxt "#112 text"
+msgid "#1Cミラが足りません。"
+msgstr ""
+
+#. #1CCannot equip.
+msgctxt "#113 text"
+msgid "#1C装備することができません。"
+msgstr ""
+
+#. #1CSell #2C%s#1C x %d#1C for #579c%d mira#1C?
+msgctxt "#114 text"
+msgid ""
+"#2C%s#1Cを%d個\n"
+"#579c%dミラ#1Cで売却しますか？"
+msgstr ""
+
+#. #1CCannot sell.
+msgctxt "#115 text"
+msgid "#1C売ることはできません。"
+msgstr ""
+
+#. #1CInsufficient sepith.
+msgctxt "#116 text"
+msgid "#1Cセピスが足りません。"
+msgstr ""
+
+#. #1CInsufficient points.
+msgctxt "#117 text"
+msgid "#1Cポイントが足りません。"
+msgstr ""
+
+#. #1CExchange #2C%s#1C x %d 
+#. for #579c%d points#1C?
+msgctxt "#118 text"
+msgid ""
+"#2C%s#1Cを%d個\n"
+"#579c%dポイント#1Cで交換しますか？"
+msgstr ""
+
+#. #1CMake #2C%s#1C x %d 
+#. for #579c%d mira #1C?
+msgctxt "#119 text"
+msgid ""
+"#2C%s#1Cを%d個\n"
+"#579c%dミラ#1Cで作成しますか？"
+msgstr ""
+
+#. #1CInsufficient items.
+msgctxt "#120 text"
+msgid "#1Cアイテムが足りません。"
+msgstr ""
+
+#. #1CIt will cost #579c%d mira#1C to spend the night.
+#. Rest here?
+msgctxt "#121 text"
+msgid ""
+"#1C休憩料は#579c%dミラ#1Cとなります。\n"
+"よろしいですか？"
+msgstr ""
+
+#. #1CThis item is sold out.
+msgctxt "#122 text"
+msgid "#1C売り切れです。"
+msgstr ""
+
+#. You cannot carry any more #2C%s#1C.
+msgctxt "#123 text"
+msgid "#2C%s#1Cはこれ以上持つことができません。"
+msgstr ""
+
+#. #1CYou have too many of this item in your inventory
+#. to unequip it.
+msgctxt "#124 text"
+msgid "#1C装備中のアイテムは所持限界のためはずすことができません。"
+msgstr ""
+
+#. #2C%s#1C x %d will be received in exchange.
+msgctxt "#125 text"
+msgid "#2C%s#1Cを%d個交換しますか？"
+msgstr ""
+
+#. #1CSynthesize #2C%s#1C?
+msgctxt "#126 text"
+msgid "#2C%s#1Cを合成しますか？"
+msgstr ""
+
+#. #1CSynthesized #2C%s#1C.
+msgctxt "#127 text"
+msgid "#2C%s#1Cを作成しました。"
+msgstr ""
+
+#. Buy Items
+msgctxt "#128 text"
+msgid "商品を購入します。"
+msgstr ""
+
+#. Sell Items
+msgctxt "#129 text"
+msgid "所持品を売却します。"
+msgstr ""
+
+#. Exchange Sepith for Mira
+msgctxt "#130 text"
+msgid "セピスをミラに換金します。"
+msgstr ""
+
+#. Change Equipment
+msgctxt "#131 text"
+msgid "装備を変更します。"
+msgstr ""
+
+#. Synthesize Quartz
+msgctxt "#132 text"
+msgid "クオーツの合成をします。"
+msgstr ""
+
+#. Open Slots
+msgctxt "#133 text"
+msgid "スロットの開封をします。"
+msgstr ""
+
+#. Buy Master Quartz
+msgctxt "#134 text"
+msgid "マスタークオーツを購入します。"
+msgstr ""
+
+#. Buy ARCUS Covers
+msgctxt "#135 text"
+msgid "カバーを購入します。"
+msgstr ""
+
+#. Set Quartz
+msgctxt "#136 text"
+msgid "クオーツをセットします。"
+msgstr ""
+
+#. Customize Weapons
+msgctxt "#137 text"
+msgid "武器を改造します。"
+msgstr ""
+
+#. Rest and Recover
+msgctxt "#138 text"
+msgid "休憩して回復をします。"
+msgstr ""
+
+#. Exchange Items
+msgctxt "#139 text"
+msgid "アイテムを交換します。"
+msgstr ""
+
+#. Exchange Angler Points
+msgctxt "#140 text"
+msgid "釣果ポイントの交換をします。"
+msgstr ""
+
+#. End Transaction
+msgctxt "#141 text"
+msgid "終了します。"
+msgstr ""
+
+#. #32IEarth Sepith
+msgctxt "#142 text"
+msgid "#32I地のセピス"
+msgstr ""
+
+#. #33IWater Sepith
+msgctxt "#143 text"
+msgid "#33I水のセピス"
+msgstr ""
+
+#. #34IFire Sepith
+msgctxt "#144 text"
+msgid "#34I火のセピス"
+msgstr ""
+
+#. #35IWind Sepith
+msgctxt "#145 text"
+msgid "#35I風のセピス"
+msgstr ""
+
+#. #36ITime Sepith
+msgctxt "#146 text"
+msgid "#36I時のセピス"
+msgstr ""
+
+#. #37ISpace Sepith
+msgctxt "#147 text"
+msgid "#37I空のセピス"
+msgstr ""
+
+#. #38IMirage Sepith
+msgctxt "#148 text"
+msgid "#38I幻のセピス"
+msgstr ""
+
+#. #39ISepith Mass
+msgctxt "#149 text"
+msgid "#39Iセピス塊"
+msgstr ""
+
+#. Total
+msgctxt "#150 text"
+msgid "合　　計"
+msgstr ""
+
+#. Exchange
+msgctxt "#151 text"
+msgid "換金する"
+msgstr ""
+
+#. #1CSelect how many sepith to exchange for mira.
+msgctxt "#152 text"
+msgid "#1C換金するセピスの量を入力してください。"
+msgstr ""
+
+#. #1CExchange this sepith for #579c%d mira#1C?
+msgctxt "#153 text"
+msgid "#1Cセピスを#579c%dミラ#1Cに換金しますか？"
+msgstr ""
+
+#. #94I = %3d mira
+msgctxt "#154 text"
+msgid "#94I = %3dミラ"
+msgstr ""
+
+#. Already open
+msgctxt "#155 text"
+msgid "開封済み"
+msgstr ""
+
+#. #72ICan be opened
+msgctxt "#156 text"
+msgid "#72I開封可能"
+msgstr ""
+
+#. #72I-------------
+msgctxt "#157 text"
+msgid "#72I-------------"
+msgstr ""
+
+#. #1CThis slot has already been opened.
+msgctxt "#158 text"
+msgid "#1C既に開封しています。"
+msgstr ""
+
+#. #1CCannot be opened.
+msgctxt "#159 text"
+msgid "#1C開封できません。"
+msgstr ""
+
+#. #1COpen this slot?
+msgctxt "#160 text"
+msgid "#1Cスロットを開封しますか？"
+msgstr ""
+
+#. Equip #2C%s#1C?
+msgctxt "#161 text"
+msgid "#2C%s#1Cを装備しますか？"
+msgstr ""
+
+#. Unequip #2C%s#1C?
+msgctxt "#162 text"
+msgid "#2C%s#1Cをはずしますか？"
+msgstr ""
+
+#. Buy #2C%s#1C for #579c%d mira#1C?
+#. 窶ｻCan be equipped on all characters.
+msgctxt "#163 text"
+msgid ""
+"#2C%s#1Cを#579c%dミラ#1Cで購入しますか？\n"
+"※全てのキャラに適用可能となります。"
+msgstr ""
+
+#. Buy #2C%s#1C for #579c%d mira#1C?
+msgctxt "#164 text"
+msgid "#2C%s#1Cを#579c%dミラ#1Cで購入しますか？"
+msgstr ""
+
+#. #1CCustomize this weapon into
+#. #2C%s#1C for #579c%d mira#1C?
+msgctxt "#165 text"
+msgid ""
+"#1C%sの装備を改造して\n"
+"#2C%s#1Cを#579c%dミラ#1Cで作成しますか？"
+msgstr ""
+
+#. #1CCustomize which weapon?
+msgctxt "#166 text"
+msgid "#1Cどちらの装備を改造しますか？"
+msgstr ""
+
+#. Obtained #2C#%dI%s#0C x%d
+msgctxt "#167 text"
+msgid "#2C#%dI%s#0C x%d個"
+msgstr ""
+
+#. Obtained #2C#%dI%s#0C x%d
+msgctxt "#168 text"
+msgid "#2C#%dI%s#0C x%d"
+msgstr ""
+
+#. 0
+msgctxt "#169 text"
+msgid "を手に入れた。"
+msgstr ""
+
+#. #1CCostumes can be changed by selecting EQUIP in 
+#. the Camp Menu.
+msgctxt "#170 text"
+msgid "#1C衣装はキャンプメニュー[ＥＱＵＩＰ]で変更できます。"
+msgstr ""
+
+#. #1CAttachments can be equipped by selecting
+#. EQUIP in the Camp Menu.
+msgctxt "#171 text"
+msgid ""
+"#1Cアタッチアイテムは\n"
+"キャンプメニュー[ＥＱＵＩＰ]で変更できます。"
+msgstr ""
+
+#. #1CARCUS covers can be changed by selecting COVER
+#. in the shop menu of an orbal factory.
+msgctxt "#172 text"
+msgid ""
+"#1CＡＲＣＵＳカバーは\n"
+"工房ショップメニュー[ＣＯＶＥＲ]で変更できます。"
+msgstr ""
+
+#. #177I: Scroll through party
+msgctxt "#173 text"
+msgid "#177I：ＰＴ情報スクロール"
+msgstr ""
+
+#. #162I: Change view　#177I: Scroll through party
+msgctxt "#174 text"
+msgid "#162I：表示項目切り替え　#177I：ＰＴ情報スクロール"
+msgstr ""
+
+#. Exchange earth sepith for mira.
+msgctxt "#175 text"
+msgid "地のセピスを換金します。"
+msgstr ""
+
+#. Exchange water sepith for mira.
+msgctxt "#176 text"
+msgid "水のセピスを換金します。"
+msgstr ""
+
+#. Exchange fire sepith for mira.
+msgctxt "#177 text"
+msgid "火のセピスを換金します。"
+msgstr ""
+
+#. Exchange wind sepith for mira.
+msgctxt "#178 text"
+msgid "風のセピスを換金します。"
+msgstr ""
+
+#. Exchange time sepith for mira.
+msgctxt "#179 text"
+msgid "時のセピスを換金します。"
+msgstr ""
+
+#. Exchange space sepith for mira.
+msgctxt "#180 text"
+msgid "空のセピスを換金します。"
+msgstr ""
+
+#. Exchange mirage sepith for mira.
+msgctxt "#181 text"
+msgid "幻のセピスを換金します。"
+msgstr ""
+
+#. Exchange sepith masses for mira.
+msgctxt "#182 text"
+msgid "セピス塊をミラに換金します。"
+msgstr ""
+
+#. Exchange sepith for mira.
+msgctxt "#183 text"
+msgid "セピスの換金を行います。"
+msgstr ""
+
+#. Slot will be opened.
+msgctxt "#184 text"
+msgid "スロットの開封を行えます。"
+msgstr ""
+
+#. This slot cannot be opened, as the orbal circuit
+#. leading to it is not connected.
+msgctxt "#185 text"
+msgid ""
+"このスロットは導力回路が接続していないため、\n"
+"開封できません。"
+msgstr ""
+
+#. This slot has already been opened.
+msgctxt "#186 text"
+msgid "このスロットは開封済みです。"
+msgstr ""
+
+#. #1CCheck all of the quests before continuing.
+msgctxt "#187 text"
+msgid "#1C全てのクエストを確認していません。"
+msgstr ""
+
+#. [Viewed]
+msgctxt "#188 text"
+msgid "【確認済】"
+msgstr ""
+
+#. [Unread]
+msgctxt "#189 text"
+msgid "【未確認】"
+msgstr ""
+
+#. [Required]
+msgctxt "#190 text"
+msgid "【 必須 】"
+msgstr ""
+
+#. #1CParty formation still needs changing.
+msgctxt "#191 text"
+msgid "#1Cパーティ編成が終わっていません。"
+msgstr ""
+
+#. #1CFinalize party formation?
+msgctxt "#192 text"
+msgid "#1Cパーティ編成を終了しますか？"
+msgstr ""
+
+#. #1CYou cannot form a party consisting only of K.O.ed members.
+msgctxt "#193 text"
+msgid ""
+"#1C戦闘不能状態のキャラだけで、\n"
+"アタックメンバーを編成することはできません。"
+msgstr ""
+
+#. Volume
+msgctxt "#194 text"
+msgid "VOLUME"
+msgstr ""
+
+#. Camera Settings
+msgctxt "#195 text"
+msgid "CAMERA SETTING"
+msgstr ""
+
+#. Notebook Shortcuts
+msgctxt "#196 text"
+msgid "NOTE SHORTCUT"
+msgstr ""
+
+#. Minimap
+msgctxt "#197 text"
+msgid "MINI MAP"
+msgstr ""
+
+#. Vibration Settings
+msgctxt "#198 text"
+msgid "VIBRATION"
+msgstr ""
+
+#. Button Configurations
+msgctxt "#199 text"
+msgid "KEY CONFIG"
+msgstr ""
+
+#. Display Settings
+msgctxt "#200 text"
+msgid "DISPLAY SETTING"
+msgstr ""
+
+#. BGM
+msgctxt "#201 text"
+msgid "ＢＧＭ"
+msgstr ""
+
+#. Sound Effects
+msgctxt "#202 text"
+msgid "効果音"
+msgstr ""
+
+#. Voice
+msgctxt "#203 text"
+msgid "音　声"
+msgstr ""
+
+#. Vertical Camera
+msgctxt "#204 text"
+msgid "カメラ上下動作"
+msgstr ""
+
+#. Horizontal Camera
+msgctxt "#205 text"
+msgid "カメラ左右動作"
+msgstr ""
+
+#. L2 Button
+msgctxt "#206 text"
+msgid "Ｌ２ボタン"
+msgstr ""
+
+#. R2 Button
+msgctxt "#207 text"
+msgid "Ｒ２ボタン"
+msgstr ""
+
+#. Minimap Setting
+msgctxt "#208 text"
+msgid "ミニマップ表示"
+msgstr ""
+
+#. Controller Vibration
+msgctxt "#209 text"
+msgid "コントローラ振動"
+msgstr ""
+
+#. Button Configurations
+msgctxt "#210 text"
+msgid "操作設定"
+msgstr ""
+
+#. Display Settings
+msgctxt "#211 text"
+msgid "画面設定"
+msgstr ""
+
+#. up button
+msgctxt "#212 text"
+msgid "方向キー上"
+msgstr ""
+
+#. down button
+msgctxt "#213 text"
+msgid "方向キー下"
+msgstr ""
+
+#. left button
+msgctxt "#214 text"
+msgid "方向キー左"
+msgstr ""
+
+#. right button
+msgctxt "#215 text"
+msgid "方向キー右"
+msgstr ""
+
+#. L1 Button
+msgctxt "#216 text"
+msgid "Ｌ１ボタン"
+msgstr ""
+
+#. L Button
+msgctxt "#217 text"
+msgid "Ｌボタン"
+msgstr ""
+
+#. Width
+msgctxt "#218 text"
+msgid "画面サイズ（水平）"
+msgstr ""
+
+#. Height
+msgctxt "#219 text"
+msgid "画面サイズ（垂直）"
+msgstr ""
+
+#. Brightness
+msgctxt "#220 text"
+msgid "明るさ"
+msgstr ""
+
+#. Return to default settings
+msgctxt "#221 text"
+msgid "初期設定に戻す"
+msgstr ""
+
+#. #1CRevert display settings to default?
+msgctxt "#222 text"
+msgid "#1C画面設定を初期状態に戻しますか？"
+msgstr ""
+
+#. Normal
+msgctxt "#223 text"
+msgid "ノーマル"
+msgstr ""
+
+#. Inverted
+msgctxt "#224 text"
+msgid "リバース"
+msgstr ""
+
+#. Rotate
+msgctxt "#225 text"
+msgid "回転"
+msgstr ""
+
+#. Fixed
+msgctxt "#226 text"
+msgid "固定"
+msgstr ""
+
+#. On
+msgctxt "#227 text"
+msgid "ON"
+msgstr ""
+
+#. Off
+msgctxt "#228 text"
+msgid "OFF"
+msgstr ""
+
+#. Main Notebook
+msgctxt "#229 text"
+msgid "メインノート"
+msgstr ""
+
+#. Quest Notebook
+msgctxt "#230 text"
+msgid "クエストノート"
+msgstr ""
+
+#. Battle Notebook
+msgctxt "#231 text"
+msgid "戦闘ノート"
+msgstr ""
+
+#. Character Notebook
+msgctxt "#232 text"
+msgid "人物ノート"
+msgstr ""
+
+#. Recipe Book
+msgctxt "#233 text"
+msgid "料理ノート"
+msgstr ""
+
+#. Fishing Book
+msgctxt "#234 text"
+msgid "釣りノート"
+msgstr ""
+
+#. Books
+msgctxt "#235 text"
+msgid "書物ノート"
+msgstr ""
+
+#. Active Voice Notes
+msgctxt "#236 text"
+msgid "Ａボイスノート"
+msgstr ""
+
+#. Help
+msgctxt "#237 text"
+msgid "ヘルプノート"
+msgstr ""
+
+#. Zoom In
+msgctxt "#238 text"
+msgid "カメラズームイン"
+msgstr ""
+
+#. Zoom Out
+msgctxt "#239 text"
+msgid "カメラズームアウト"
+msgstr ""
+
+#. Zoom In/Out
+msgctxt "#240 text"
+msgid "カメラズームイン・アウト"
+msgstr ""
+
+#. Reset Camera
+msgctxt "#241 text"
+msgid "カメラ視点のリセット"
+msgstr ""
+
+#. Turn Character
+msgctxt "#242 text"
+msgid "向きの変更"
+msgstr ""
+
+#. Change Leader (Next)
+msgctxt "#243 text"
+msgid "リーダーキャラ切替（順）"
+msgstr ""
+
+#. Change Leader (Previous)
+msgctxt "#244 text"
+msgid "リーダーキャラ切替（逆）"
+msgstr ""
+
+#. Change Character
+msgctxt "#245 text"
+msgid "キャラクター切替"
+msgstr ""
+
+#. Reset Camera Angle
+msgctxt "#246 text"
+msgid "カメラ角度リセット"
+msgstr ""
+
+#. Camera Zoom Settings
+msgctxt "#247 text"
+msgid "カメラズーム変更"
+msgstr ""
+
+#. ？？？？
+msgctxt "#248 text"
+msgid "？？？？"
+msgstr ""
+
+#. 窶ｦ
+msgctxt "#249 text"
+msgid "…"
+msgstr ""
+
+#. Rean Schwarzer
+msgctxt "#250 text"
+msgid "リィン・シュバルツァー"
+msgstr ""
+
+#. Year 1 Class VII
+msgctxt "#251 text"
+msgid "１年Ⅶ組"
+msgstr ""
+
+#. Rank B7
+msgctxt "#252 text"
+msgid "乙七級"
+msgstr ""
+
+#. Rank B6
+msgctxt "#253 text"
+msgid "乙六級"
+msgstr ""
+
+#. Rank B5
+msgctxt "#254 text"
+msgid "乙伍級"
+msgstr ""
+
+#. Rank B4
+msgctxt "#255 text"
+msgid "乙四級"
+msgstr ""
+
+#. Rank B3
+msgctxt "#256 text"
+msgid "乙参級"
+msgstr ""
+
+#. Rank B2
+msgctxt "#257 text"
+msgid "乙弐級"
+msgstr ""
+
+#. Rank B1
+msgctxt "#258 text"
+msgid "乙壱級"
+msgstr ""
+
+#. Rank A7
+msgctxt "#259 text"
+msgid "甲七級"
+msgstr ""
+
+#. Rank A6
+msgctxt "#260 text"
+msgid "甲六級"
+msgstr ""
+
+#. Rank A5
+msgctxt "#261 text"
+msgid "甲伍級"
+msgstr ""
+
+#. Rank A4
+msgctxt "#262 text"
+msgid "甲四級"
+msgstr ""
+
+#. Rank A3
+msgctxt "#263 text"
+msgid "甲参級"
+msgstr ""
+
+#. Rank A2
+msgctxt "#264 text"
+msgid "甲弐級"
+msgstr ""
+
+#. Rank A1
+msgctxt "#265 text"
+msgid "甲壱級"
+msgstr ""
+
+#. Rank A0
+msgctxt "#266 text"
+msgid "甲零級"
+msgstr ""
+
+#. －－－
+msgctxt "#267 text"
+msgid "－－－"
+msgstr ""
+
+#. Completed
+msgctxt "#268 text"
+msgid "達成済み"
+msgstr ""
+
+#. Expired
+msgctxt "#269 text"
+msgid "期限切れ"
+msgstr ""
+
+#. Incomplete
+msgctxt "#270 text"
+msgid "未達成"
+msgstr ""
+
+#. Reported
+msgctxt "#271 text"
+msgid "報告済み"
+msgstr ""
+
+#. Long
+msgctxt "#272 text"
+msgid "長"
+msgstr ""
+
+#. Medium
+msgctxt "#273 text"
+msgid "中"
+msgstr ""
+
+#. Short
+msgctxt "#274 text"
+msgid "短"
+msgstr ""
+
+#. －
+msgctxt "#275 text"
+msgid "－"
+msgstr ""
+
+#. #911c[Req.]
+msgctxt "#276 text"
+msgid "#911c【必須】"
+msgstr ""
+
+#. Completed
+msgctxt "#277 text"
+msgid "達成済み"
+msgstr ""
+
+#. Reported
+msgctxt "#278 text"
+msgid "報告完了"
+msgstr ""
+
+#. Expired
+msgctxt "#279 text"
+msgid "期限切れ"
+msgstr ""
+
+#. [%s]
+msgctxt "#280 text"
+msgid "【%s】"
+msgstr ""
+
+#. #1CInsufficient ingredients.
+msgctxt "#281 text"
+msgid "#1C食材が足りません。"
+msgstr ""
+
+#. #1CYou can't make any more.
+msgctxt "#282 text"
+msgid "#1Cこれ以上は作成できません。"
+msgstr ""
+
+#. Who will do the cooking?
+msgctxt "#283 text"
+msgid "調理するキャラクターを選んでください。"
+msgstr ""
+
+#. Cooking
+msgctxt "#284 text"
+msgid "料理中です。"
+msgstr ""
+
+#. .
+msgctxt "#285 text"
+msgid "・"
+msgstr ""
+
+#. Cooking complete!
+msgctxt "#286 text"
+msgid "料理完了！"
+msgstr ""
+
+#. Complete!
+msgctxt "#287 text"
+msgid "完成！"
+msgstr ""
+
+#. Complete!
+msgctxt "#288 text"
+msgid "完成！"
+msgstr ""
+
+#. Complete?
+msgctxt "#289 text"
+msgid "完成？"
+msgstr ""
+
+#. Complete!
+msgctxt "#290 text"
+msgid "完成！"
+msgstr ""
+
+#. x
+msgctxt "#291 text"
+msgid "×"
+msgstr ""
+
+#. White Angler
+msgctxt "#292 text"
+msgid "白 竿 釣 師"
+msgstr ""
+
+#. Brown Angler
+msgctxt "#293 text"
+msgid "茶 竿 釣 師"
+msgstr ""
+
+#. Black Angler
+msgctxt "#294 text"
+msgid "黒 竿 釣 師"
+msgstr ""
+
+#. Red Angler
+msgctxt "#295 text"
+msgid "紅 竿 釣 師"
+msgstr ""
+
+#. Active Voice Record
+msgctxt "#296 text"
+msgid "アクティブボイス履歴"
+msgstr ""
+
+#. New Save Data
+msgctxt "#297 text"
+msgid "新規セーブデータ"
+msgstr ""
+
+#. The Legend of Heroes: Trails of Cold Steel
+msgctxt "#298 text"
+msgid "英雄伝説 閃の軌跡"
+msgstr ""
+
+#. System Data
+msgctxt "#299 text"
+msgid "システムデータ"
+msgstr ""
+
+#. The Legend of Heroes: Trails of Cold Steel system data.
+#. Contains game settings, etc.
+msgctxt "#300 text"
+msgid ""
+"閃の軌跡のシステムデータです。\n"
+"オプション設定などが保存されています。"
+msgstr ""
+
+#. Playtime
+msgctxt "#301 text"
+msgid "プレイ時間"
+msgstr ""
+
+#. Difficulty
+msgctxt "#302 text"
+msgid "難易度"
+msgstr ""
+
+#. Easy
+msgctxt "#303 text"
+msgid "EASY"
+msgstr ""
+
+#. Normal
+msgctxt "#304 text"
+msgid "NORMAL"
+msgstr ""
+
+#. Hard
+msgctxt "#305 text"
+msgid "HARD"
+msgstr ""
+
+#. Nightmare
+msgctxt "#306 text"
+msgid "NIGHTMARE"
+msgstr ""
+
+#. Lv
+msgctxt "#307 text"
+msgid "Lv"
+msgstr ""
+
+#. Party
+msgctxt "#308 text"
+msgid "パーティ"
+msgstr ""
+
+#. 繝ｻ
+msgctxt "#309 text"
+msgid "・"
+msgstr ""
+
+#. Prologue
+msgctxt "#310 text"
+msgid "序章"
+msgstr ""
+
+#. Chapter 1
+msgctxt "#311 text"
+msgid "第１章"
+msgstr ""
+
+#. Chapter 2
+msgctxt "#312 text"
+msgid "第２章"
+msgstr ""
+
+#. Chapter 3
+msgctxt "#313 text"
+msgid "第３章"
+msgstr ""
+
+#. Chapter 4
+msgctxt "#314 text"
+msgid "第４章"
+msgstr ""
+
+#. Chapter 5
+msgctxt "#315 text"
+msgid "第５章"
+msgstr ""
+
+#. Chapter 6
+msgctxt "#316 text"
+msgid "第６章"
+msgstr ""
+
+#. Final Chapter
+msgctxt "#317 text"
+msgid "終章"
+msgstr ""
+
+#. Clear Data
+msgctxt "#318 text"
+msgid "クリアデータ"
+msgstr ""
+
+#. Saving system data...
+msgctxt "#319 text"
+msgid "システムデータを保存中です..."
+msgstr ""
+
+#. Saving system data
+msgctxt "#320 text"
+msgid "システムデータを保存中です"
+msgstr ""
+
+#. Saving system data.
+msgctxt "#321 text"
+msgid "システムデータを保存中です."
+msgstr ""
+
+#. Saving system data..
+msgctxt "#322 text"
+msgid "システムデータを保存中です.."
+msgstr ""
+
+#. Loading system data...
+msgctxt "#323 text"
+msgid "システムデータを読み込み中です..."
+msgstr ""
+
+#. Loading system data
+msgctxt "#324 text"
+msgid "システムデータを読み込み中です"
+msgstr ""
+
+#. Loading system data.
+msgctxt "#325 text"
+msgid "システムデータを読み込み中です."
+msgstr ""
+
+#. Loading system data..
+msgctxt "#326 text"
+msgid "システムデータを読み込み中です.."
+msgstr ""
+
+#. No system data exists.
+msgctxt "#327 text"
+msgid "システムデータがありません。"
+msgstr ""
+
+#. No system data exists. Continue anyway?
+msgctxt "#328 text"
+msgid ""
+"システムデータがありません。\n"
+"このまま進めますか？"
+msgstr ""
+
+#. Could not load system data.
+msgctxt "#329 text"
+msgid "システムデータを読み込めませんでした。"
+msgstr ""
+
+#. Could not load system data. Continue anyway?
+msgctxt "#330 text"
+msgid ""
+"システムデータを読み込めませんでした。\n"
+"このまま進めますか？"
+msgstr ""
+
+#. System data could not be overwritten, as it is damaged.
+#. Delete the system data and then try again.
+msgctxt "#331 text"
+msgid ""
+"システムデータが破損しているため、上書き保存できませんでした。\n"
+"システムデータを削除してからやり直してください。"
+msgstr ""
+
+#. Save data could not be overwritten, as it is damaged.
+#. Delete the save data and then try again.
+msgctxt "#332 text"
+msgid ""
+"セーブデータが破損しているため、上書き保存できませんでした。\n"
+"セーブデータを削除してからやり直してください。"
+msgstr ""
+
+#. It is not possible to load save data with a different
+#. owner.
+msgctxt "#333 text"
+msgid "所有者の異なるセーブデータは読み込むことができません。"
+msgstr ""
+
+#. Cannot load this save data, as it contains downloadable 
+#. content which hasn't been installed.
+msgctxt "#334 text"
+msgid ""
+"このセーブデータには、インストールされていないダウンロードコンテンツが\n"
+"含まれているため、読み込むことができません。"
+msgstr ""
+
+#. Save
+msgctxt "#335 text"
+msgid "セーブ"
+msgstr ""
+
+#. Load
+msgctxt "#336 text"
+msgid "ロード"
+msgstr ""
+
+#. Delete
+msgctxt "#337 text"
+msgid "削除"
+msgstr ""
+
+#. #1CBefore beginning the game, you can select what to 
+#. carry over. The more times you clear the game, the 
+#. more you can carry over to your next playthrough.
+msgctxt "#338 text"
+msgid ""
+"#1Cゲームを開始する前に\n"
+"引き継ぎ項目を選択できます。\n"
+"クリアした周回数によって引き継ぐことの\n"
+"できる項目の数が増えます。"
+msgstr ""
+
+#. #1CInsufficient points.
+msgctxt "#339 text"
+msgid "#1Cポイントが足りません。"
+msgstr ""
+
+#. #1CReturn to title screen?
+msgctxt "#340 text"
+msgid "#1Cタイトル画面へ戻りますか？"
+msgstr ""
+
+#. #1CRank increased to [%s].
+#. Received #%dI#2C%s#1C as a perk.
+msgctxt "#341 text"
+msgid ""
+"#1Cランクが「%s」になりました。\n"
+"　　昇格特典として\n"
+"　　　　#%dI#2C%s#1C\n"
+"　　　　　　が進呈されます。"
+msgstr ""
+
+#. #160IContinue
+msgctxt "#342 text"
+msgid "#160I先に進む"
+msgstr ""
+
+#. Save
+msgctxt "#343 text"
+msgid "セーブする"
+msgstr ""
+
+#. Delete Save Data
+msgctxt "#344 text"
+msgid "セーブデータを削除する"
+msgstr ""
+
+#. Continue
+msgctxt "#345 text"
+msgid "先に進む"
+msgstr ""
+
+#. Cancel
+msgctxt "#346 text"
+msgid "やめる"
+msgstr ""
+
+#. Return to title screen
+msgctxt "#347 text"
+msgid "タイトル画面へ戻る"
+msgstr ""
+
+#. Go to the PlayStation纃ｻStore?
+msgctxt "#348 text"
+msgid "PlayStation㍻Storeへ行きますか？"
+msgstr ""
+
+#. Checking downloadable content...
+msgctxt "#349 text"
+msgid "ダウンロードコンテンツを確認中です..."
+msgstr ""
+
+#. Checking downloadable content
+msgctxt "#350 text"
+msgid "ダウンロードコンテンツを確認中です"
+msgstr ""
+
+#. Checking downloadable content.
+msgctxt "#351 text"
+msgid "ダウンロードコンテンツを確認中です."
+msgstr ""
+
+#. Checking downloadable content..
+msgctxt "#352 text"
+msgid "ダウンロードコンテンツを確認中です.."
+msgstr ""
+
+#. Obtaining trophy data...
+msgctxt "#353 text"
+msgid "トロフィー情報を取得中です..."
+msgstr ""
+
+#. Obtaining trophy data
+msgctxt "#354 text"
+msgid "トロフィー情報を取得中です"
+msgstr ""
+
+#. Obtaining trophy data.
+msgctxt "#355 text"
+msgid "トロフィー情報を取得中です."
+msgstr ""
+
+#. Obtaining trophy data..
+msgctxt "#356 text"
+msgid "トロフィー情報を取得中です.."
+msgstr ""
+
+#. Upload current progress to PlayStation繩･Network?
+msgctxt "#357 text"
+msgid ""
+"現在の進行状況をPlayStation㍻Network上へ\n"
+"アップロードしますか？"
+msgstr ""
+
+#. Uploading data...
+msgctxt "#358 text"
+msgid "データをアップロード中です..."
+msgstr ""
+
+#. Uploading data
+msgctxt "#359 text"
+msgid "データをアップロード中です"
+msgstr ""
+
+#. Uploading data.
+msgctxt "#360 text"
+msgid "データをアップロード中です."
+msgstr ""
+
+#. Uploading data..
+msgctxt "#361 text"
+msgid "データをアップロード中です.."
+msgstr ""
+
+#. Uploading data complete.
+msgctxt "#362 text"
+msgid "データのアップロードが完了しました。"
+msgstr ""
+
+#. Uploading data interrupted.
+msgctxt "#363 text"
+msgid "データのアップロードを中止しました。"
+msgstr ""
+
+#. Download game progress from PlayStation繩･Network?
+msgctxt "#364 text"
+msgid ""
+"PlayStation㍻Network上からゲームの進行状況を\n"
+"ダウンロードしますか？"
+msgstr ""
+
+#. Downloading data...
+msgctxt "#365 text"
+msgid "データをダウンロード中です..."
+msgstr ""
+
+#. Downloading data
+msgctxt "#366 text"
+msgid "データをダウンロード中です"
+msgstr ""
+
+#. Downloading data.
+msgctxt "#367 text"
+msgid "データをダウンロード中です."
+msgstr ""
+
+#. Downloading data..
+msgctxt "#368 text"
+msgid "データをダウンロード中です.."
+msgstr ""
+
+#. Downloading data complete.
+msgctxt "#369 text"
+msgid "データのダウンロードが完了しました。"
+msgstr ""
+
+#. Downloading data interrupted.
+msgctxt "#370 text"
+msgid "データのダウンロードを中止しました。"
+msgstr ""
+
+#. This Sony Entertainment Network account's parental 
+#. control settings do not allow it to go online. You cannot 
+#. use online services on this account.
+msgctxt "#371 text"
+msgid ""
+"あなたのSony Entertainment Networkアカウントは\n"
+"パレンタルロックが設定されているため、オンラインサービスを利用できません。"
+msgstr ""
+
+#. Signed out from the PlayStation繩･Network. To use Cross Save
+#. functionality, sign in to the PlayStation繩･Network.
+msgctxt "#372 text"
+msgid ""
+"PlayStation㍻Networkからサインアウトしました。\n"
+"クロスセーブを利用するには、PlayStation㍻Networkに\n"
+"接続しサインインしてください。"
+msgstr ""
+
+#. You are not signed in to the PlayStation繩･Network. To use
+#. Cross Save functionality, sign in to the PlayStation繩･Network.
+msgctxt "#373 text"
+msgid ""
+"PlayStation㍻Networkにサインインしていません。\n"
+"クロスセーブを利用するには、PlayStation㍻Networkに\n"
+"接続しサインインしてください。"
+msgstr ""
+
+#. Could not download data. To download progress data, you will
+#. first need to upload data from the PlayStation纃ｻVita version.
+msgctxt "#374 text"
+msgid ""
+"データをダウンロードできませんでした。\n"
+"ゲームの進行状況をダウンロードするためには、\n"
+"PlayStation㍻Vita版からデータをアップロードする必要があります。"
+msgstr ""
+
+#. Could not download data. To download progress data, you will
+#. first need to upload data from the PlayStation纃ｻ3 version.
+msgctxt "#375 text"
+msgid ""
+"データをダウンロードできませんでした。\n"
+"ゲームの進行状況をダウンロードするためには、\n"
+"PlayStation㍻3版からデータをアップロードする必要があります。"
+msgstr ""
+
+#. The Legend of Heroes: Trails of Cold Steel
+#. Install Data
+msgctxt "#376 text"
+msgid ""
+"英雄伝説 閃の軌跡\n"
+"インストールデータ"
+msgstr ""
+
+#. Insufficient free space on the hard drive. %dMB more is required.
+#. Quit the game and free up additional space to continue.
+msgctxt "#377 text"
+msgid ""
+"HDDの空き容量が足りません。あと%dMB以上必要です。\n"
+"ゲームを終了して、必要な空き容量を確保してください。"
+msgstr ""
+
+#. Insufficient free space on the hard drive. %dKB more is required.
+#. Quit the game and free up additional space to continue.
+msgctxt "#378 text"
+msgid ""
+"HDDの空き容量が足りません。あと%dKB以上必要です。\n"
+"ゲームを終了して、必要な空き容量を確保してください。"
+msgstr ""
+
+#. An error occurred when checking install data. 
+#. Quitting the game.
+msgctxt "#379 text"
+msgid ""
+"インストールデータの確認中にエラーが発生しました。\n"
+"ゲームを終了します。"
+msgstr ""
+
+#. Install data is corrupted. 
+#. Quit the game and delete the install data.
+msgctxt "#380 text"
+msgid ""
+"インストールデータが壊れています。\n"
+"ゲームを終了して、インストールデータを削除してください。"
+msgstr ""
+
+#. Installing data. Do not turn off the system's power during the
+#. installation process.
+msgctxt "#381 text"
+msgid ""
+"データインストール中です。\n"
+"絶対に電源を切らないでください。"
+msgstr ""
+
+#. Commence installation process.
+msgctxt "#382 text"
+msgid "データインストールを開始します。"
+msgstr ""
+
+#. Installing data complete.
+msgctxt "#383 text"
+msgid "データインストールが完了しました。"
+msgstr ""
+
+#. An error occurred during the installation process.
+#. Quitting the game.
+msgctxt "#384 text"
+msgid ""
+"データインストール中にエラーが発生しました。\n"
+"ゲームを終了します。"
+msgstr ""
+
+#. Tampered-with data detected. Quitting the game.
+msgctxt "#385 text"
+msgid ""
+"改竄されたデータを検出しました。\n"
+"ゲームを終了します。"
+msgstr ""
+
+#. Next
+msgctxt "#386 text"
+msgid "次へ"
+msgstr ""
+
+#. Skip
+msgctxt "#387 text"
+msgid "スキップ"
+msgstr ""
+
+#. can now be used.
+msgctxt "#388 text"
+msgid "が使用可能になった。"
+msgstr ""
+
+#. #1CAttempt to flee?
+#. Chance:#2C%d％
+msgctxt "#389 text"
+msgid ""
+"#1C退却を試みますか？\n"
+"退却成功率：#2C%d％"
+msgstr ""
+
+#. #1CCouldn't flee!
+msgctxt "#390 text"
+msgid "#1C退却に失敗した!"
+msgstr ""
+
+#. Craft
+msgctxt "#391 text"
+msgid "クラフト"
+msgstr ""
+
+#. Art
+msgctxt "#392 text"
+msgid "アーツ"
+msgstr ""
+
+#. Item
+msgctxt "#393 text"
+msgid "道　具"
+msgstr ""
+
+#. The party was wiped out...
+msgctxt "#394 text"
+msgid "パーティは全滅しました…"
+msgstr ""
+
+#. Retry
+msgctxt "#395 text"
+msgid "リトライ"
+msgstr ""
+
+#. Weaken Enemies and Retry
+msgctxt "#396 text"
+msgid "敵の強さを少し下げてリトライ"
+msgstr ""
+
+#. Continue
+msgctxt "#397 text"
+msgid "このまま進める"
+msgstr ""
+
+#. Return to Title Screen
+msgctxt "#398 text"
+msgid "タイトル画面へ戻る"
+msgstr ""
+
+#. You were defeated.
+msgctxt "#399 text"
+msgid "戦いに敗れました。"
+msgstr ""
+
+#. #1CChance: #2C%3d％
+msgctxt "#400 text"
+msgid "#1C成功率：#2C%3d％"
+msgstr ""
+
+#. PSN
+msgctxt "#401 text"
+msgid "毒"
+msgstr ""
+
+#. SEAL
+msgctxt "#402 text"
+msgid "封技"
+msgstr ""
+
+#. MUTE
+msgctxt "#403 text"
+msgid "封魔"
+msgstr ""
+
+#. BLND
+msgctxt "#404 text"
+msgid "暗闇"
+msgstr ""
+
+#. SLP
+msgctxt "#405 text"
+msgid "睡眠"
+msgstr ""
+
+#. BURN
+msgctxt "#406 text"
+msgid "炎傷"
+msgstr ""
+
+#. FRZ
+msgctxt "#407 text"
+msgid "凍結"
+msgstr ""
+
+#. PETR
+msgctxt "#408 text"
+msgid "石化"
+msgstr ""
+
+#. FNT
+msgctxt "#409 text"
+msgid "気絶"
+msgstr ""
+
+#. CONF
+msgctxt "#410 text"
+msgid "混乱"
+msgstr ""
+
+#. DBLW
+msgctxt "#411 text"
+msgid "即死"
+msgstr ""
+
+#. NMR
+msgctxt "#412 text"
+msgid "悪夢"
+msgstr ""
+
+#. DLAY
+msgctxt "#413 text"
+msgid "遅延"
+msgstr ""
+
+#. VNSH
+msgctxt "#414 text"
+msgid "消滅"
+msgstr ""
+
+#. S-DWN
+msgctxt "#415 text"
+msgid "能力低下"
+msgstr ""
+
+#. #2C#%dI%s#0C reached level %d!
+msgctxt "#416 text"
+msgid "#2C#%dI%s#0Cがレベル%dになった!"
+msgstr ""
+
+#. Gained a new ability!
+msgctxt "#417 text"
+msgid "新しいアビリティが追加された!"
+msgstr ""
+
+#. #1C%s and %s reached link level %d!
+msgctxt "#418 text"
+msgid "#1C%sと%sのリンクレベルが%dになった!"
+msgstr ""
+
+#. It had no effect...
+msgctxt "#419 text"
+msgid "効果がなかった…"
+msgstr ""
+
+#. View Specifics
+msgctxt "#420 text"
+msgid "詳細情報"
+msgstr ""
+
+#. Close
+msgctxt "#421 text"
+msgid "閉じる"
+msgstr ""
+
+#. Condition met!
+msgctxt "#422 text"
+msgid "条件達成!"
+msgstr ""
+
+#. Rotate Character
+msgctxt "#423 text"
+msgid "キャラ回転"
+msgstr ""
+
+#. 繝ｻ
+msgctxt "#424 text"
+msgid "・"
+msgstr ""
+
+#. ★★★
+msgctxt "#425 text"
+msgid "★★★"
+msgstr ""
+
+#. #147IShining Poms
+msgctxt "#426 text"
+msgid "#147Iシャイニングポム"
+msgstr ""
+
+#. #1CWhen you start a New Game+, all downloadable content
+#. will be marked as unused. To use DLC items, reobtain
+#. them from ITEM then DLC in the Camp Menu.
+msgctxt "#427 text"
+msgid ""
+"#1C周回プレイを開始するとダウンロードコンテンツの\n"
+"使用状況がリセットされるので、\n"
+"キャンプメニュー[ＩＴＥＭ]の[ＤＬＣ]タブから、\n"
+"各種項目を選択してアイテムを再入手してください。"
+msgstr ""
