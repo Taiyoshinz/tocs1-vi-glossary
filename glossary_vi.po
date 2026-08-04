@@ -1,10 +1,10 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-08-04 07:47+0000\n"
+"PO-Revision-Date: 2026-08-05 08:06+0000\n"
 "Last-Translator: Weblate Admin <weblate@example.com>\n"
-"Language-Team: Vietnamese <http://united-alice-euro-button.trycloudflare.com/"
-"projects/sen-no-kiseki-1/glossary/vi/>\n"
+"Language-Team: Vietnamese <http://broadcast-combined-estimation-"
+"basically.trycloudflare.com/projects/sen-no-kiseki-1/glossary/vi/>\n"
 "Language: vi\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1867,3 +1867,41 @@ msgstr "muối hồng"
 
 msgid "バニラさん"
 msgstr "cô Vanilla"
+
+msgid "icon"
+msgstr "biểu tượng"
+
+msgid "パーティ"
+msgstr "tổ đội"
+
+msgid "コスチューム"
+msgstr "ngoại trang"
+
+msgctxt "slot"
+msgid "スロット"
+msgstr "ô"
+
+msgid "釣果ポイント"
+msgstr "điểm câu cá"
+
+msgid "改造"
+msgstr "cải tiến (vũ khí)"
+
+msgid "キャンプメニュー"
+msgstr "Menu Chính"
+
+msgid "アタッチアイテム"
+msgstr "vật đính kèm"
+
+msgid "セピス塊"
+msgstr "khối sepith"
+
+msgid "導力回路"
+msgstr "mạch dẫn lực"
+
+msgid "必須"
+msgstr "bắt buộc"
+
+msgctxt "1"
+msgid "釣師"
+msgstr "Cần thủ"
