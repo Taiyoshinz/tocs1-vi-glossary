@@ -1,0 +1,997 @@
+#
+msgid ""
+msgstr ""
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Imperial Army New Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x376"
+msgid "新型装甲車(正規軍)"
+msgstr ""
+
+#. Ten rieng gan day: Imperial, Army, New, Model, Tank
+#. Imperial Army New Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x3d1"
+msgid "新型装甲車(正規軍)"
+msgstr ""
+
+#. Ten rieng gan day: Imperial, Army, New, Model, Tank
+#. Destroyed New Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x42c"
+msgid "新型装甲車(破壊版)"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Destroyed, New, Model
+#. Destroyed New Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x483"
+msgid "新型装甲車(破壊版)"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Destroyed, New, Model
+#. New Model Tank (Rifle Destroyed)
+#, fuzzy
+msgctxt "t5700.dat:0x4da"
+msgid "新型装甲車(ライフル破壊)"
+msgstr ""
+
+#. Ten rieng gan day: New, Model, Tank, Rifle, Destroyed
+#. New Model Tank (Rifle Destroyed)
+#, fuzzy
+msgctxt "t5700.dat:0x539"
+msgid "新型装甲車(ライフル破壊)"
+msgstr ""
+
+#. Ten rieng gan day: New, Model, Tank, Rifle, Destroyed
+#. Imperial Army Guardsman
+#, fuzzy
+msgctxt "t5700.dat:0x599"
+msgid "帝国軍守備兵"
+msgstr ""
+
+#. Ten rieng gan day: Rifle, Destroyed, Imperial, Army, Guardsman
+#. Imperial Army Guardsman
+#, fuzzy
+msgctxt "t5700.dat:0x5f0"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Army, Guardsman, Imperial
+#. Achtzehn Tank
+#, fuzzy
+msgctxt "t5700.dat:0x646"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Imperial, Army, Guardsman, Achtzehn, Tank
+#. Achtzehn Tank
+#, fuzzy
+msgctxt "t5700.dat:0x698"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Guardsman, Achtzehn, Tank
+#. Achtzehn Tank
+#, fuzzy
+msgctxt "t5700.dat:0x6ea"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Achtzehn
+#. Achtzehn Tank
+#, fuzzy
+msgctxt "t5700.dat:0x73c"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Achtzehn
+#. Achtzehn Tank
+#, fuzzy
+msgctxt "t5700.dat:0x78e"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Achtzehn
+#. Achtzehn Tank
+#, fuzzy
+msgctxt "t5700.dat:0x7e0"
+msgid "旧式戦車"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Achtzehn
+#. Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x832"
+msgid "旧式戦車"
+msgstr ""
+
+#. Ten rieng gan day: Achtzehn, Tank, Old, Model
+#. Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x87f"
+msgid "旧式戦車"
+msgstr ""
+
+#. Ten rieng gan day: Model, Tank, Old
+#. Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x8cc"
+msgid "旧式戦車"
+msgstr ""
+
+#. Ten rieng gan day: Model, Tank, Old
+#. Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x919"
+msgid "旧式戦車"
+msgstr ""
+
+#. Ten rieng gan day: Model, Tank, Old
+#. Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x966"
+msgid "旧式戦車"
+msgstr ""
+
+#. Ten rieng gan day: Model, Tank, Old
+#. Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x9b3"
+msgid "旧式戦車・破壊版"
+msgstr ""
+
+#. Ten rieng gan day: Model, Tank, Old
+#. #E0#M0I-It's no use! We can't even scratch them!
+#, fuzzy
+msgctxt "t5700.dat:0x1cae"
+msgid "#E0#M0どうしてこんな……\nいったい誰が動かしている！？"
+msgstr ""
+
+#. Ten rieng gan day: Model, Tank, Old
+#. #E0#M0What's happening?! Who's in
+#. control of those things?!
+#, fuzzy
+msgctxt "t5700.dat:0x1ce9"
+msgid "#E0#M0だ、第四機甲師団に連絡！\nクレイグ中将の助けを呼ぶんだ！"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Old, Model, Who
+#. #E0#M0Get in touch with the 4th Armored
+#. Division! We need backup from
+#. Lieutenant General Craig!
+#, fuzzy
+msgctxt "t5700.dat:0x1d2f"
+msgid "#E0#M0だ、第四機甲師団に連絡！\nクレイグ中将の助けを呼ぶんだ！"
+msgstr ""
+
+#. Ten rieng gan day: Armored, Division, Lieutenant, General, Craig
+#. Instructor Sara
+#, fuzzy
+msgctxt "t5700.dat:0x2123"
+msgid "ナイトハルト少佐"
+msgstr ""
+
+#. Ten rieng gan day: Lieutenant, General, Craig, Instructor, Sara
+#. Major Neithardt
+#, fuzzy
+msgctxt "t5700.dat:0x2176"
+msgid "クレイグ中将"
+msgstr ""
+
+#. Ten rieng gan day: Craig, Instructor, Sara, Major, Neithardt
+#. Lieutenant General Craig
+#, fuzzy
+msgctxt "t5700.dat:0x21c5"
+msgid "帝国軍守備兵"
+msgstr ""
+
+#. Ten rieng gan day: Major, Neithardt, Lieutenant, General, Craig
+#. Imperial Army Guardsman
+#, fuzzy
+msgctxt "t5700.dat:0x221d"
+msgid "新型装甲車(正規軍)"
+msgstr ""
+
+#. Ten rieng gan day: General, Craig, Imperial, Army, Guardsman
+#. Imperial Army New Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x2273"
+msgid "新型装甲車(正規軍)"
+msgstr ""
+
+#. Ten rieng gan day: Imperial, Army, New, Model, Tank
+#. Imperial Army New Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x22ce"
+msgid "帝国軍飛空挺"
+msgstr ""
+
+#. Ten rieng gan day: Imperial, Army, New, Model, Tank
+#. Imperial Army Airship
+#, fuzzy
+msgctxt "t5700.dat:0x2329"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Model, Tank, Imperial, Army, Airship
+#. Achtzehn Tank
+#, fuzzy
+msgctxt "t5700.dat:0x2383"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Imperial, Army, Airship, Achtzehn, Tank
+#. Achtzehn Tank
+#, fuzzy
+msgctxt "t5700.dat:0x23d5"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Airship, Achtzehn, Tank
+#. Achtzehn Tank
+#, fuzzy
+msgctxt "t5700.dat:0x2427"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Achtzehn
+#. Achtzehn Tank
+#, fuzzy
+msgctxt "t5700.dat:0x2479"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Achtzehn
+#. Achtzehn Tank
+#, fuzzy
+msgctxt "t5700.dat:0x24cb"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Achtzehn
+#. Achtzehn Tank
+#, fuzzy
+msgctxt "t5700.dat:0x251d"
+msgid "旧式戦車"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Achtzehn
+#. Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x256f"
+msgid "旧式戦車"
+msgstr ""
+
+#. Ten rieng gan day: Achtzehn, Tank, Old, Model
+#. Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x25bc"
+msgid "旧式戦車"
+msgstr ""
+
+#. Ten rieng gan day: Model, Tank, Old
+#. Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x2609"
+msgid "旧式戦車"
+msgstr ""
+
+#. Ten rieng gan day: Model, Tank, Old
+#. Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x2656"
+msgid "旧式戦車"
+msgstr ""
+
+#. Ten rieng gan day: Model, Tank, Old
+#. Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x26a3"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Model, Tank, Old
+#. Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x26f0"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Model, Tank, Old
+#. Achtzehn Tank
+#, fuzzy
+msgctxt "t5700.dat:0x273d"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Old, Model, Tank, Achtzehn
+#. Achtzehn Tank
+#, fuzzy
+msgctxt "t5700.dat:0x2789"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Achtzehn
+#. Achtzehn Tank
+#, fuzzy
+msgctxt "t5700.dat:0x27d5"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Achtzehn
+#. Achtzehn Tank
+#, fuzzy
+msgctxt "t5700.dat:0x2821"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Achtzehn
+#. Achtzehn Tank
+#, fuzzy
+msgctxt "t5700.dat:0x286d"
+msgid "旧式戦車"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Achtzehn
+#. Achtzehn Tank
+#, fuzzy
+msgctxt "t5700.dat:0x28b9"
+msgid "旧式戦車"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Achtzehn
+#. Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x2905"
+msgid "旧式戦車"
+msgstr ""
+
+#. Ten rieng gan day: Achtzehn, Tank, Old, Model
+#. Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x2952"
+msgid "旧式戦車"
+msgstr ""
+
+#. Ten rieng gan day: Model, Tank, Old
+#. Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x299f"
+msgid "旧式戦車"
+msgstr ""
+
+#. Ten rieng gan day: Model, Tank, Old
+#. Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x29ec"
+msgid "旧式戦車"
+msgstr ""
+
+#. Ten rieng gan day: Model, Tank, Old
+#. Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x2a39"
+msgid "旧式戦車・破壊版"
+msgstr ""
+
+#. Ten rieng gan day: Model, Tank, Old
+#. Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x2a86"
+msgid "旧式戦車・破壊版"
+msgstr ""
+
+#. Ten rieng gan day: Model, Tank, Old
+#. Destroyed Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x2ad3"
+msgid "旧式戦車・破壊版"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Destroyed, Old, Model
+#. Destroyed Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x2b2a"
+msgid "旧式戦車・破壊版"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Destroyed, Old, Model
+#. Destroyed Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x2b81"
+msgid "旧式戦車・破壊版"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Destroyed, Old, Model
+#. Destroyed Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x2bd8"
+msgid "旧式戦車・破壊版"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Destroyed, Old, Model
+#. Destroyed Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x2c2f"
+msgid "pﾂ33邸"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Destroyed, Old, Model
+#. Destroyed Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x2c86"
+msgid "pﾂ33邸"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Destroyed, Old, Model
+#. Wow... Achtzehn main battle tanks...
+#, fuzzy
+msgctxt "t5700.dat:0x3af7"
+msgid "ノルドの地でも見かけたな……"
+msgstr ""
+
+#. Ten rieng gan day: Old, Model, Tank, Wow, Achtzehn
+#. There're plenty of older model tanks out
+#. there, too. It even looks like they have
+#. airships here.
+#, fuzzy
+msgctxt "t5700.dat:0x3b2f"
+msgid "ノルドの地でも見かけたな……"
+msgstr ""
+
+#. Ten rieng gan day: Model, Tank, Wow, Achtzehn, There
+#. Oh yeah, like the ones we saw in Nord.
+#, fuzzy
+msgctxt "t5700.dat:0x3ba3"
+msgid "あ……！"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Wow, Achtzehn, There, Nord
+#. So that's Elliot's dad...
+#, fuzzy
+msgctxt "t5700.dat:0x3e8b"
+msgid "お疲れ様です、中将。"
+msgstr ""
+
+#. Ten rieng gan day: Wow, Achtzehn, There, Nord, Elliot
+#. ...I don't see the family resemblance.
+#, fuzzy
+msgctxt "t5700.dat:0x3eb8"
+msgid "お疲れ様です、中将。"
+msgstr ""
+
+#. Ten rieng gan day: Wow, Achtzehn, There, Nord, Elliot
+#. Looks like the hair made the jump
+#. from father to son, though.
+#, fuzzy
+msgctxt "t5700.dat:0x3ef2"
+msgid "お疲れ様です、中将。"
+msgstr ""
+
+#. Ten rieng gan day: Achtzehn, There, Nord, Elliot, Looks
+#. Reporting, Lieutenant General.
+#, fuzzy
+msgctxt "t5700.dat:0x400b"
+msgid "紅毛の将官"
+msgstr ""
+
+#. Ten rieng gan day: Elliot, Looks, Reporting, Lieutenant, General
+#. It's an honor to make your acquaintance,
+#. Lieutenant General Craig.
+#, fuzzy
+msgctxt "t5700.dat:0x40ce"
+msgid "紅毛の将官"
+msgstr ""
+
+#. Ten rieng gan day: Lieutenant, General, Craig
+#. Allow me to extend my deepest thanks
+#. for agreeing to cooperate with us for
+#. the academy's curriculum today.
+#, fuzzy
+msgctxt "t5700.dat:0x411e"
+msgid "（っ……）"
+msgstr ""
+
+#. Ten rieng gan day: General, Lieutenant, Craig, Allow
+#. #4K#0T(What a piercing stare...)
+#, fuzzy
+msgctxt "t5700.dat:0x4383"
+msgid "#4K#0Tへ……"
+msgstr ""
+
+#. Ten rieng gan day: General, Lieutenant, Craig, Allow
+#. #4K#0T(So this is Craig the Red...)
+#, fuzzy
+msgctxt "t5700.dat:0x43be"
+msgid "#4K#0Tへ……"
+msgstr ""
+
+#. Ten rieng gan day: General, Craig, Allow, Red
+#. I feel like everything I've been
+#. told about him was a lie...
+#, fuzzy
+msgctxt "t5700.dat:0x4b4a"
+msgid "紅毛の将官"
+msgstr ""
+
+#. Ten rieng gan day: General, Craig, Allow, Red
+#. #KTh-There do seem to be some...
+#. differences from the stories.
+#, fuzzy
+msgctxt "t5700.dat:0x4b9a"
+msgid "#K紅毛の将官"
+msgstr ""
+
+#. Ten rieng gan day: Craig, Allow, Red, There
+#. You kiddin' me? He seems like a cool guy!
+#, fuzzy
+msgctxt "t5700.dat:0x4bee"
+msgid "紅毛の将官"
+msgstr ""
+
+#. Ten rieng gan day: Craig, Allow, Red, There
+#. Heehee. What a delightful commanding
+#. officer you have, Major.
+#, fuzzy
+msgctxt "t5700.dat:0x4c8c"
+msgid "紅毛の将官"
+msgstr ""
+
+#. Ten rieng gan day: Craig, Red, There, Heehee, Major
+#. Dad, knock it off!
+#, fuzzy
+msgctxt "t5700.dat:0x4d3b"
+msgid "こ、こちらこそ……"
+msgstr ""
+
+#. Ten rieng gan day: Red, There, Heehee, Major, Dad
+#. I'll tell Fiona!
+#, fuzzy
+msgctxt "t5700.dat:0x4d61"
+msgid "こ、こちらこそ……"
+msgstr ""
+
+#. Ten rieng gan day: There, Heehee, Major, Dad, Fiona
+#. L-Likewise, sir.
+#, fuzzy
+msgctxt "t5700.dat:0x52c2"
+msgid "自動操縦による回避、反撃も行うが、\nそれらにはペイント弾を使用する。"
+msgstr ""
+
+#. Ten rieng gan day: Heehee, Major, Dad, Fiona, Likewise
+#. I-It's a pleasure, sir.
+#, fuzzy
+msgctxt "t5700.dat:0x52e6"
+msgid "自動操縦による回避、反撃も行うが、\nそれらにはペイント弾を使用する。"
+msgstr ""
+
+#. Ten rieng gan day: Heehee, Major, Dad, Fiona, Likewise
+#. (You've got one heck of a dad, Elliot...)
+#, fuzzy
+msgctxt "t5700.dat:0x5311"
+msgid "自動操縦による回避、反撃も行うが、\nそれらにはペイント弾を使用する。"
+msgstr ""
+
+#. Ten rieng gan day: Major, Dad, Fiona, Likewise, Elliot
+#. (Believe me, I feel it in the bones...)
+#, fuzzy
+msgctxt "t5700.dat:0x535e"
+msgid "自動操縦による回避、反撃も行うが、\nそれらにはペイント弾を使用する。"
+msgstr ""
+
+#. Ten rieng gan day: Dad, Fiona, Likewise, Elliot, Believe
+#. Armored regiments at the formation's
+#. center, infantry, armored cars, and
+#. airships will work in tandem...
+#, fuzzy
+msgctxt "t5700.dat:0x5508"
+msgid "実弾……\n実際に破壊するわけですか。"
+msgstr ""
+
+#. Ten rieng gan day: Fiona, Likewise, Elliot, Believe, Armored
+#. ...using their maneuverability to the
+#. fullest to obliterate the targets.
+#, fuzzy
+msgctxt "t5700.dat:0x5572"
+msgid "実弾……\n実際に破壊するわけですか。"
+msgstr ""
+
+#. Ten rieng gan day: Fiona, Likewise, Elliot, Believe, Armored
+#. Autopilot functionality will allow them
+#. to evade and return fire, but they've
+#. only been armed with paint bullets.
+#, fuzzy
+msgctxt "t5700.dat:0x56af"
+msgid "旧式戦車・破壊版"
+msgstr ""
+
+#. Ten rieng gan day: Likewise, Elliot, Believe, Armored, Autopilot
+#. However, all other regiments taking part
+#. in today's exercise have been equipped
+#. with live ammunition.
+#, fuzzy
+msgctxt "t5700.dat:0x5722"
+msgid "旧式戦車・破壊版"
+msgstr ""
+
+#. Ten rieng gan day: Elliot, Believe, Armored, Autopilot, However
+#. ...So you intend to actually
+#. destroy the other tanks?
+#, fuzzy
+msgctxt "t5700.dat:0x590b"
+msgid "pﾂ33邸"
+msgstr ""
+
+#. Ten rieng gan day: Elliot, Believe, Armored, Autopilot, However
+#. Destroyed Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x5ac3"
+msgid "ﾜﾂ33邸"
+msgstr ""
+
+#. Ten rieng gan day: However, Destroyed, Old, Model, Tank
+#. Destroyed Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x5b1a"
+msgid "ﾜﾂ33邸"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Destroyed, Old, Model
+#. Destroyed Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x5b71"
+msgid "ﾜﾂ33邸"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Destroyed, Old, Model
+#. Destroyed Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x5bc8"
+msgid "ﾂ33邸"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Destroyed, Old, Model
+#. Destroyed Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x5c1f"
+msgid "ﾂ33邸"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Destroyed, Old, Model
+#. Destroyed Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0x5c76"
+msgid "ﾂ33邸"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Destroyed, Old, Model
+#. 4th Armored Division! Armored Regiment
+#. and Infantry Regiment, advance together!
+#, fuzzy
+msgctxt "t5700.dat:0x6a45"
+msgid "4ﾃ囮顱ffJﾂ"
+msgstr ""
+
+#. Ten rieng gan day: Division, Armored, Regiment, Infantry
+#. Armored Car Regiment, deploy
+#. to the left and right!
+#, fuzzy
+msgctxt "t5700.dat:0x6aa2"
+msgid "4ﾃ囮顱ffJﾂ"
+msgstr ""
+
+#. Ten rieng gan day: Infantry, Regiment, Armored, Car
+#. So this is the kind of firepower
+#. it takes to fight a modern war...
+#, fuzzy
+msgctxt "t5700.dat:0x9769"
+msgid "……リィン……"
+msgstr ""
+
+#. Ten rieng gan day: Infantry, Regiment, Armored, Car
+#. You said those tanks are called Achtzehns?
+#, fuzzy
+msgctxt "t5700.dat:0x9810"
+msgid "……リィン……"
+msgstr ""
+
+#. Ten rieng gan day: Regiment, Armored, Car, Achtzehns
+#. Yeah. They're a type of main battle tank
+#. the Reinford Company developed two
+#. years ago.
+#, fuzzy
+msgctxt "t5700.dat:0x9850"
+msgid "……リィン……"
+msgstr ""
+
+#. Ten rieng gan day: Achtzehns, Yeah, They, Reinford, Company
+#. ...I've seen their spec sheets, but seeing
+#. their power firsthand tells you what
+#. numbers and decimal points don't.
+#, fuzzy
+msgctxt "t5700.dat:0x98bc"
+msgid " ﾃ33邸"
+msgstr ""
+
+#. Ten rieng gan day: Achtzehns, Yeah, They, Reinford, Company
+#. They might be the strongest heavy
+#. tanks on the continent.
+#, fuzzy
+msgctxt "t5700.dat:0x9941"
+msgid " ﾃ33邸"
+msgstr ""
+
+#. Ten rieng gan day: Yeah, They, Reinford, Company
+#. And the Imperial Army's got a couple
+#. hundred of those in the wings, huh?
+#, fuzzy
+msgctxt "t5700.dat:0x998e"
+msgid " ﾃ33邸"
+msgstr ""
+
+#. Ten rieng gan day: Company, They, And, Imperial, Army
+#. That's kinda crazy.
+#, fuzzy
+msgctxt "t5700.dat:0x99ec"
+msgid " ﾃ33邸"
+msgstr ""
+
+#. Ten rieng gan day: Company, They, And, Imperial, Army
+#. You try fighting things like these
+#. head on, you won't stand a chance.
+#, fuzzy
+msgctxt "t5700.dat:0x9a4a"
+msgid " ﾃ33邸"
+msgstr ""
+
+#. Ten rieng gan day: Company, They, And, Imperial, Army
+#. That's as true for our own
+#. nation as it is for others.
+#, fuzzy
+msgctxt "t5700.dat:0x9aa3"
+msgid "*ﾃ33邸"
+msgstr ""
+
+#. Ten rieng gan day: Company, They, And, Imperial, Army
+#. ...Haha... I just can't get used to this.
+#, fuzzy
+msgctxt "t5700.dat:0x9b24"
+msgid "*ﾃ33邸"
+msgstr ""
+
+#. Ten rieng gan day: They, And, Imperial, Army, Haha
+#. Just the sound of the artillery firing
+#. is enough to make me start shaking...
+#, fuzzy
+msgctxt "t5700.dat:0x9b61"
+msgid "*ﾃ33邸"
+msgstr ""
+
+#. Ten rieng gan day: And, Imperial, Army, Haha, Just
+#. I don't think that's something you
+#. SHOULD get used to. I mean...
+#, fuzzy
+msgctxt "t5700.dat:0x9bc8"
+msgid "*ﾃ33邸"
+msgstr ""
+
+#. Ten rieng gan day: And, Imperial, Army, Haha, Just
+#. If the sound of guns and warfare ever
+#. stopped bothering you, I'd be worried.
+#, fuzzy
+msgctxt "t5700.dat:0x9c1e"
+msgid "クレイグ中将"
+msgstr ""
+
+#. Ten rieng gan day: And, Imperial, Army, Haha, Just
+#. (I guess this is another kind of
+#. 'strength'...)
+#, fuzzy
+msgctxt "t5700.dat:0x9d53"
+msgid "帝国軍守備兵"
+msgstr ""
+
+#. Ten rieng gan day: And, Imperial, Army, Haha, Just
+#. Lt. General Craig
+#, fuzzy
+msgctxt "t5700.dat:0xa2de"
+msgid "旧式戦車"
+msgstr ""
+
+#. Ten rieng gan day: Army, Haha, Just, General, Craig
+#. Imperial Army Guardsman
+#, fuzzy
+msgctxt "t5700.dat:0xa32f"
+msgid "旧式戦車"
+msgstr ""
+
+#. Ten rieng gan day: General, Craig, Imperial, Army, Guardsman
+#. Imperial Army Guardsman
+#, fuzzy
+msgctxt "t5700.dat:0xa386"
+msgid "旧式戦車・破壊版"
+msgstr ""
+
+#. Ten rieng gan day: Army, Guardsman, Imperial
+#. Imperial Army New Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0xa3dc"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Imperial, Army, New, Model, Tank
+#. Imperial Army New Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0xa437"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Imperial, Army, New, Model, Tank
+#. Destroyed New Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0xa492"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Destroyed, New, Model
+#. Destroyed New Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0xa4e9"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Destroyed, New, Model
+#. New Model Tank (Rifle Destroyed)
+#, fuzzy
+msgctxt "t5700.dat:0xa540"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: New, Model, Tank, Rifle, Destroyed
+#. New Model Tank (Rifle Destroyed)
+#, fuzzy
+msgctxt "t5700.dat:0xa59f"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: New, Model, Tank, Rifle, Destroyed
+#. Achtzehn Tank
+#, fuzzy
+msgctxt "t5700.dat:0xa5fe"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Rifle, Destroyed, Achtzehn
+#. Achtzehn Tank
+#, fuzzy
+msgctxt "t5700.dat:0xa650"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Destroyed, Achtzehn, Tank
+#. Achtzehn Tank
+#, fuzzy
+msgctxt "t5700.dat:0xa6a2"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Achtzehn
+#. Achtzehn Tank
+#, fuzzy
+msgctxt "t5700.dat:0xa6f4"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Achtzehn
+#. Achtzehn Tank
+#, fuzzy
+msgctxt "t5700.dat:0xa746"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Achtzehn
+#. Achtzehn Tank
+#, fuzzy
+msgctxt "t5700.dat:0xa798"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Achtzehn
+#. Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0xa7ea"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Achtzehn, Tank, Old, Model
+#. Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0xa837"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Model, Tank, Old
+#. Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0xa884"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Model, Tank, Old
+#. Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0xa8d1"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Model, Tank, Old
+#. Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0xa91e"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Model, Tank, Old
+#. Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0xa96b"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Model, Tank, Old
+#. Destroyed Old Model Tank
+#, fuzzy
+msgctxt "t5700.dat:0xa9b8"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Destroyed, Old, Model
+#. Achtzehn Tank
+#, fuzzy
+msgctxt "t5700.dat:0xaa0f"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Old, Model, Tank, Achtzehn
+#. Achtzehn Tank
+#, fuzzy
+msgctxt "t5700.dat:0xaa5b"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Achtzehn
+#. Achtzehn Tank
+#, fuzzy
+msgctxt "t5700.dat:0xaaa7"
+msgid "アハツェン戦車"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Achtzehn
+#. #E0#M0I-It's no use! We can't even scratch them!
+#, fuzzy
+msgctxt "t5700.dat:0xbe43"
+msgid "#E0#M0aﾂ33邸"
+msgstr ""
+
+#. Ten rieng gan day: Tank, Achtzehn
+#. #E0#M0What's happening?! Who's in control
+#. of those things?!
+#, fuzzy
+msgctxt "t5700.dat:0xbe7e"
+msgid "#E0#M0aﾂ33邸"
+msgstr ""
+
+#. Ten rieng gan day: Achtzehn, Tank, Who
+#. #E0#M0Get in touch with the 4th Armored
+#. Division! We need backup from
+#. Lieutenant General Craig!
+#, fuzzy
+msgctxt "t5700.dat:0xbec4"
+msgid "#E0#M0aﾂ33邸"
+msgstr ""
+
